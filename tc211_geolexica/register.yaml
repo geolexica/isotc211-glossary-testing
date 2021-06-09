@@ -1,0 +1,26 @@
+name: ISO/TC 211 Geolexica
+
+uniformResourceIdentifier: https://isotc211-geolexica.demo.paneron.org
+
+contentSummary: >-
+  The ISO/TC 211 Multi-Lingual Glossary of Terms (MLGT) is the glossary for geographic information technology from ISO/TC 211 Geographic information/Geomatics.
+  The online version of the MLGT served on the Geolexica platform fully reflect entries from the authoritative English terms that originate from ISO/TC 211 standards.
+  Specifically: (1) English terms and definitions are from published ISO/TC 211 standards (normative);
+  (2) Terminology entries are translated across fourteen languages. While these are considered informative,
+  they may be based on authoritative national standards in their respective countries.
+
+operatingLanguage:
+  name: English
+  languageCode: eng
+  characterEncoding: utf-8
+  country: N/A
+
+stakeholders:
+  - role: manager
+    name: Demo user
+    gitServerUsername: demouser
+    parties:
+      - name: ''
+        contacts:
+          - label: email
+            value: 'open@ribose.com'
