@@ -1,0 +1,28 @@
+justification: s
+controlBodyNotes: ''
+proposals:
+  /subregisters/universal/concept/aadc2acf-b2cc-506b-ba5e-016ab989c696.yaml:
+    type: clarification
+    payload:
+      identifier: 1123d
+      localizedConcepts:
+        ara: c7231bd3-d373-568a-a3d7-c887bc1a5ea8
+        deu: 94eff197-f3d5-5143-83d0-ed9482d30f8c
+        eng: 91698b8f-92fb-50ee-83b9-195129d876a3
+        kor: 1c0ac2ac-bfe2-5da5-a4a4-40d965731de4
+        msa: bc69efdd-5b57-5708-873f-427e86483be4
+        rus: b6dccb00-2d84-58fd-b427-3c0ff6fa71be
+        spa: c3a929a0-b4eb-5a12-91ef-056b0870b9f8
+        swe: 8f5ae45b-3a08-55ad-9ea1-904639e05b41
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: 57c54f02-6c49-440d-85e4-c56d324ea3a7
+timeStarted: 2021-06-09T16:32:49.131Z
+status: pending
