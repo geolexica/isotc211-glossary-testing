@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 04e6b0
+    tree:
+      04e6b0:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: مجموعة غير مرتبة من البنود ( كائنات أو قيم ) خالية من التكرار
+          entry_status: valid
+          examples: []
+          id: 409
+          language_code: ara
+          notes: []
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: مجموعة
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  definition: مجموعة غير مرتبة من البنود ( كائنات أو قيم ) خالية من التكرار
+  examples: []
+  id: 409
+  language_code: ara
+  notes: []
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: مجموعة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c7033b30-4426-5a50-a8ee-4a7769f9cd7d
+status: valid

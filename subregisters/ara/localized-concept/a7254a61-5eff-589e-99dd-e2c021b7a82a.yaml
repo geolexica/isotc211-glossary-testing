@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 296e82
+    tree:
+      296e82:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: نظام إحداثيات مرجعي مبني على مرجع إسناد صوره
+          entry_status: valid
+          examples: []
+          id: 709
+          language_code: ara
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: نظام إحداثيات مرجعي للصوره
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  definition: نظام إحداثيات مرجعي مبني على مرجع إسناد صوره
+  examples: []
+  id: 709
+  language_code: ara
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: نظام إحداثيات مرجعي للصوره
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: a7254a61-5eff-589e-99dd-e2c021b7a82a
+status: valid

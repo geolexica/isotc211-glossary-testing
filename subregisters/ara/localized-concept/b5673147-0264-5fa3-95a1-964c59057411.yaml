@@ -1,0 +1,76 @@
+data:
+  _revisions:
+    current: d1c685
+    tree:
+      d1c685:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2007-07-01 00:00:00+00:00
+          date_amended: 2019-01-31 00:00:00+00:00
+          definition: عملية إحداثية يكون نظاما الإحداثيات المرجعية فيهما مبنيين على
+            مرجع إسناد واحد (Datum)
+          entry_status: superseded
+          examples:
+          - التحويل من نظام إحداثيات مرجعية كروية مبني على مرجع إسناد النظام الجيوديسي
+            العالمي WGS84 إلى نظام إحداثيات مرجعي ديكارتي مبني أيضاً على مرجع إسناد
+            نظام WGS84 , أو تغيير الوحدات مثلاً من زوايا نصف قطرية إلى درجات أو من
+            أقدام إلى أمتار.
+          id: 762
+          language_code: ara
+          notes:
+          - التحويل الإحداثي يستخدم متغيِّرات ذات قيم محددة لا يتم تحديدها بالتجربة
+            العملية.
+          release: '-1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19111:2019(E)
+          review_decision_notes: This entry is superseded by the entry for coordinate
+            conversion in ISO 19111:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: تحويل إحداثي
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  date_amended: 2019-01-31 00:00:00+00:00
+  definition: عملية إحداثية يكون نظاما الإحداثيات المرجعية فيهما مبنيين على مرجع إسناد
+    واحد (Datum)
+  examples:
+  - التحويل من نظام إحداثيات مرجعية كروية مبني على مرجع إسناد النظام الجيوديسي العالمي
+    WGS84 إلى نظام إحداثيات مرجعي ديكارتي مبني أيضاً على مرجع إسناد نظام WGS84 , أو
+    تغيير الوحدات مثلاً من زوايا نصف قطرية إلى درجات أو من أقدام إلى أمتار.
+  id: 762
+  language_code: ara
+  notes:
+  - التحويل من نظام إحداثيات مرجعية كروية مبني على مرجع إسناد النظام الجيوديسي العالمي
+    WGS84 إلى نظام إحداثيات مرجعي ديكارتي مبني أيضاً على مرجع إسناد نظام WGS84 , أو
+    تغيير الوحدات مثلاً من زوايا نصف قطرية إلى درجات أو من أقدام إلى أمتار.
+  release: '-1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19111:2019(E)
+  review_decision_notes: This entry is superseded by the entry for coordinate conversion
+    in ISO 19111:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: تحويل إحداثي
+    normative_status: null
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: b5673147-0264-5fa3-95a1-964c59057411
+status: superseded

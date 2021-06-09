@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 8b4cca
+    tree:
+      8b4cca:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/44875.html
+            ref: ISO 19126:2009
+          date_accepted: 2009-11-01 00:00:00+00:00
+          definition: إسم لكائن أو نوع أو فئة.
+          entry_status: valid
+          examples:
+          - '"أوراق النبات الدقيقة المتساقطة" قيمة إسمية تحدد نوعا من الغطاء النباتي.'
+          id: 863
+          language_code: ara
+          notes:
+          - كثير من البيانات الوصفية للمعالم تكون قيما إسمية وليس قيما رقمية. وعادة
+            ما يحدد الحيز المخصص للقيمة بالنسبة لهذه البيانات الوصفية بشكل جدول للتعداد
+            أو إدخال الرموز.
+          release: '2'
+          terms:
+          - designation: القيمة الإسمية
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-11-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  definition: إسم لكائن أو نوع أو فئة.
+  examples:
+  - '"أوراق النبات الدقيقة المتساقطة" قيمة إسمية تحدد نوعا من الغطاء النباتي.'
+  id: 863
+  language_code: ara
+  notes:
+  - '"أوراق النبات الدقيقة المتساقطة" قيمة إسمية تحدد نوعا من الغطاء النباتي.'
+  release: '2'
+  terms:
+  - designation: القيمة الإسمية
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: de996ece-9796-5182-a218-430a7883f26e
+status: valid

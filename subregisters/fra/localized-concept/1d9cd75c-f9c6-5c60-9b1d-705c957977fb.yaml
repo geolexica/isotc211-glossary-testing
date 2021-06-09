@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: e637f0
+    tree:
+      e637f0:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: complexe géométrique dont les primitives géométriques sont dans
+            une correspondance 1-1 avec les primitives topologiques d'un complexe
+            topologique, tel que les relations de frontière des deux complexes coïncident
+          entry_status: superseded
+          examples: []
+          id: 216
+          language_code: fra
+          notes: []
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19107:2019(E)
+          review_decision_notes: This entry is superseded by the entry for geometric
+            realization <geometry, topology> in ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: réalisation géométrique
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: complexe géométrique dont les primitives géométriques sont dans une
+    correspondance 1-1 avec les primitives topologiques d'un complexe topologique,
+    tel que les relations de frontière des deux complexes coïncident
+  examples: []
+  id: 216
+  language_code: fra
+  notes: []
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19107:2019(E)
+  review_decision_notes: This entry is superseded by the entry for geometric realization
+    <geometry, topology> in ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: réalisation géométrique
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 1d9cd75c-f9c6-5c60-9b1d-705c957977fb
+status: superseded

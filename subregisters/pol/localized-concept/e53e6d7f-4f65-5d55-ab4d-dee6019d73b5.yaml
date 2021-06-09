@@ -1,0 +1,47 @@
+data:
+  _revisions:
+    current: cae33e
+    tree:
+      cae33e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40114.html
+            ref: ISO 19125-1:2004
+          date_accepted: 2004-08-01 00:00:00+00:00
+          definition: obiekt (4.11) ograniczony do geometrii 2-wymiarowej,określony
+            metodą liniowej interpolacji między wierzchołkami, mający zarówno przestrzenne,
+            jak i nieprzestrzenne atrybuty
+          examples: []
+          id: 412
+          language_code: pol
+          lineage_source: PN-EN ISO 19125-1
+          notes: []
+          release: '1'
+          terms:
+          - designation: prosty obiekt
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-08-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40114.html
+    ref: ISO 19125-1:2004
+  definition: obiekt (4.11) ograniczony do geometrii 2-wymiarowej,określony metodą
+    liniowej interpolacji między wierzchołkami, mający zarówno przestrzenne, jak i
+    nieprzestrzenne atrybuty
+  examples: []
+  id: 412
+  language_code: pol
+  lineage_source: PN-EN ISO 19125-1
+  notes: []
+  release: '1'
+  terms:
+  - designation: prosty obiekt
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: e53e6d7f-4f65-5d55-ab4d-dee6019d73b5
+status: valid

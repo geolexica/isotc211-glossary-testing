@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 50ea5b
+    tree:
+      50ea5b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2007-11-01 00:00:00+00:00
+          definition: 순서 연대의 계층 구조로 구성된 시간 참조 체계
+          entry_status: valid
+          examples: []
+          id: 323
+          language_code: kor
+          lineage_source: KS X ISO 19108
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: 서수 시간 참조 체계
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-11-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: 순서 연대의 계층 구조로 구성된 시간 참조 체계
+  examples: []
+  id: 323
+  language_code: kor
+  lineage_source: KS X ISO 19108
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: 서수 시간 참조 체계
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: d0e3d79b-5bc4-56a1-930a-75000c802856
+status: valid

@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: 0f47c2
+    tree:
+      0f47c2:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.80
+            link: https://www.iso.org/standard/66847.html
+            ref: ISO 19130-1:2018
+          date_accepted: 2018-09-01 00:00:00+00:00
+          definition: mathematical description of the relationship between the three-dimensional
+            object space and the 2D plane of the associated image produced by a sensor
+          entry_status: valid
+          examples: []
+          id: 2468
+          language_code: eng
+          notes: []
+          release: '5'
+          review_date: 2018-09-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-09-01 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19130-1:2018(E)
+          review_decision_notes: This entry supersedes the entry for sensor model
+            <geopositioning> in ISO/TS 19130:2010(E)
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: sensor model <geopositioning>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2018-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.80
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  definition: mathematical description of the relationship between the three-dimensional
+    object space and the 2D plane of the associated image produced by a sensor
+  examples: []
+  id: 2468
+  language_code: eng
+  notes: []
+  release: '5'
+  review_date: 2018-09-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-09-01 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19130-1:2018(E)
+  review_decision_notes: This entry supersedes the entry for sensor model <geopositioning>
+    in ISO/TS 19130:2010(E)
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: sensor model <geopositioning>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-09-01 00:00:00+00:00
+id: da4eb5f3-f11a-5cb8-b3d1-8cedb0f4d43f
+status: valid

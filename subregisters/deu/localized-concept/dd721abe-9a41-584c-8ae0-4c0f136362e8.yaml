@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 9a796a
+    tree:
+      9a796a:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: ungeordnete Sammlung zusammengehöriger Dinge (Objekte oder Werte)
+            ohne Wiederholung
+          entry_status: valid
+          examples: []
+          id: 409
+          language_code: deu
+          notes: []
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: Menge (Syn. Set)
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  definition: ungeordnete Sammlung zusammengehöriger Dinge (Objekte oder Werte) ohne
+    Wiederholung
+  examples: []
+  id: 409
+  language_code: deu
+  notes: []
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: Menge (Syn. Set)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: dd721abe-9a41-584c-8ae0-4c0f136362e8
+status: valid

@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: 637dbd
+    tree:
+      637dbd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.1.5
+            link: https://www.iso.org/standard/55724.html
+            ref: ISO/IEC 10746-3:2009
+          date_accepted: 2005-02-15 00:00:00+00:00
+          definition: punkt widzenia (4.7) na dany system ODP (otwartego przetwarzania
+            rozproszonego) oraz jego otoczenie, który skupia się na wyborze technologii
+            systemu
+          examples: []
+          id: 444
+          language_code: pol
+          lineage_source: ISO 19119:2005
+          notes: []
+          release: '1'
+          review_date: 2012-08-11 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2016-01-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19119:2016
+          review_decision_notes: Authoritative reference changed from ISO/10746-3:1996
+            to ISO/IEC 10746-3:2009, 4.1.1.5. Lineage source added as ISO 19119:2005
+          review_status: final
+          terms:
+          - designation: technologiczny punkt widzenia
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.1.5
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  definition: punkt widzenia (4.7) na dany system ODP (otwartego przetwarzania rozproszonego)
+    oraz jego otoczenie, który skupia się na wyborze technologii systemu
+  examples: []
+  id: 444
+  language_code: pol
+  lineage_source: ISO 19119:2005
+  notes: []
+  release: '1'
+  review_date: 2012-08-11 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2016-01-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19119:2016
+  review_decision_notes: Authoritative reference changed from ISO/10746-3:1996 to
+    ISO/IEC 10746-3:2009, 4.1.1.5. Lineage source added as ISO 19119:2005
+  review_status: final
+  terms:
+  - designation: technologiczny punkt widzenia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 42f93da6-3807-54ab-bdb1-e90de9a0ad67
+status: valid

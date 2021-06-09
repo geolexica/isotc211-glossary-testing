@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: a988f1
+    tree:
+      a988f1:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: característica o atributo de un objeto referenciado por un nombre
+          entry_status: valid
+          examples: []
+          id: 809
+          language_code: spa
+          notes: []
+          release: '2'
+          terms:
+          - designation: propiedad
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: característica o atributo de un objeto referenciado por un nombre
+  examples: []
+  id: 809
+  language_code: spa
+  notes: []
+  release: '2'
+  terms:
+  - designation: propiedad
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: d1b7e9e6-d607-5c61-81d1-24589a4ac26a
+status: valid

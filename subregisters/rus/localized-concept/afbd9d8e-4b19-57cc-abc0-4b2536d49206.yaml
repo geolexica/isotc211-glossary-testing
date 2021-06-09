@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: '690685'
+    tree:
+      '690685':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: представление геометрии с использованием конструктивных  геометрических
+            примитивов
+          entry_status: valid
+          examples: []
+          id: 492
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: векторная геометрия
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  definition: представление геометрии с использованием конструктивных  геометрических
+    примитивов
+  examples: []
+  id: 492
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: векторная геометрия
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: afbd9d8e-4b19-57cc-abc0-4b2536d49206
+status: valid

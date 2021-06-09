@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 7af08a
+    tree:
+      7af08a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (Adapted from)
+            link: https://www.iso.org/standard/3626.html
+            ref: 'ISO 31-2:1992 '
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: продолжительность одного цикла
+          entry_status: valid
+          examples: []
+          id: 331
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: временнóй период
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/3626.html
+    ref: 'ISO 31-2:1992 '
+  definition: продолжительность одного цикла
+  examples: []
+  id: 331
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: временнóй период
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 7784a350-cc77-5951-af39-204cb6108d83
+status: valid

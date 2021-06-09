@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: 1589e3
+    tree:
+      1589e3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.38'
+            link: https://www.iso.org/standard/64768.html
+            ref: ISO/TS 19159-2:2016
+          date_accepted: 2016-04-15 00:00:00+00:00
+          definition: sensed data resulting from a single flightline of collection
+          entry_status: valid
+          examples: []
+          id: 2145
+          language_code: eng
+          notes: []
+          release: '4'
+          review_date: 2014-08-26 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2016-04-15 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO/TS 19159-2:2016(E)
+          review_status: final
+          terms:
+          - designation: swath
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2016-04-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.38'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  definition: sensed data resulting from a single flightline of collection
+  examples: []
+  id: 2145
+  language_code: eng
+  notes: []
+  release: '4'
+  review_date: 2014-08-26 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2016-04-15 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO/TS 19159-2:2016(E)
+  review_status: final
+  terms:
+  - designation: swath
+    normative_status: preferred
+    type: expression
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: 2ae5ea63-ea4e-5c94-a942-a8b68eb19799
+status: valid

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: e56aea
+    tree:
+      e56aea:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: polygone comportant un ensemble de points (parmi tous les ensembles
+            de points) sur un plan de façon à inclure toutes les positions directes
+            qui sont plus proches de ce point que de tout autre point de l'ensemble
+          entry_status: valid
+          examples: []
+          id: 460
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: polygone de Thiessen
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  definition: polygone comportant un ensemble de points (parmi tous les ensembles
+    de points) sur un plan de façon à inclure toutes les positions directes qui sont
+    plus proches de ce point que de tout autre point de l'ensemble
+  examples: []
+  id: 460
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: polygone de Thiessen
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 81f8ddf4-4316-5fd5-bc4c-46766ebfa393
+status: valid

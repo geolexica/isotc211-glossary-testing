@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 83243d
+    tree:
+      83243d:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 83
+          language_code: deu
+          notes:
+          - Although the domain of a continuous coverage is ordinarily bounded in
+            terms of its spatial and/or temporal extent, it can be subdivided into
+            an infinite number of direct positions.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: stetiges Coverage
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  examples: []
+  id: 83
+  language_code: deu
+  notes:
+  - Although the domain of a continuous coverage is ordinarily bounded in terms of
+    its spatial and/or temporal extent, it can be subdivided into an infinite number
+    of direct positions.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: stetiges Coverage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: e4218cf0-f2a8-5824-bf05-a76668b1f5d1
+status: valid

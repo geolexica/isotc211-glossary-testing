@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: '343088'
+    tree:
+      '343088':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41445.html
+            ref: ISO 19141:2008
+          date_accepted: 2008-06-01 00:00:00+00:00
+          definition: геометрия при определенном значении параметра
+          entry_status: valid
+          examples: []
+          id: 643
+          language_code: rus
+          lineage_source: перевод ISO 19141:2008
+          notes: []
+          release: '2'
+          terms:
+          - designation: Лист <один набор параметров геометрии>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-06-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  definition: геометрия при определенном значении параметра
+  examples: []
+  id: 643
+  language_code: rus
+  lineage_source: перевод ISO 19141:2008
+  notes: []
+  release: '2'
+  terms:
+  - designation: Лист <один набор параметров геометрии>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 7cd5029f-42a2-599f-a9fb-13385f012d78
+status: valid

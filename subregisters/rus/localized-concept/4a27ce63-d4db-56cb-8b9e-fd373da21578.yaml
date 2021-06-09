@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 1603f4
+    tree:
+      1603f4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: FindLaw
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: тот, кому выдается лицензия
+          entry_status: valid
+          examples: []
+          id: 1235
+          language_code: rus
+          lineage_source: ISO 19153:2014, 4.29
+          lineage_source_similarity: '1'
+          notes: []
+          release: '3'
+          terms:
+          - designation: лицензиат
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: FindLaw
+  definition: тот, кому выдается лицензия
+  examples: []
+  id: 1235
+  language_code: rus
+  lineage_source: ISO 19153:2014, 4.29
+  lineage_source_similarity: '1'
+  notes: []
+  release: '3'
+  terms:
+  - designation: лицензиат
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 4a27ce63-d4db-56cb-8b9e-fd373da21578
+status: valid

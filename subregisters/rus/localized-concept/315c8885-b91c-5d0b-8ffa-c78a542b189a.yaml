@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: d4b2ab
+    tree:
+      d4b2ab:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: Manual of Photogrammetry
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: мгновенная область, наблюдаемая одним детекторным элементом,
+            измеренная в угловой мере
+          entry_status: valid
+          examples: []
+          id: 1396
+          language_code: rus
+          lineage_source: ISO/TS 19130-2:2014, 4.36
+          lineage_source_similarity: '1'
+          notes: []
+          release: '3'
+          terms:
+          - designation: мгновенный угол поля зрения
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: Manual of Photogrammetry
+  definition: мгновенная область, наблюдаемая одним детекторным элементом, измеренная
+    в угловой мере
+  examples: []
+  id: 1396
+  language_code: rus
+  lineage_source: ISO/TS 19130-2:2014, 4.36
+  lineage_source_similarity: '1'
+  notes: []
+  release: '3'
+  terms:
+  - designation: мгновенный угол поля зрения
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 315c8885-b91c-5d0b-8ffa-c78a542b189a
+status: valid

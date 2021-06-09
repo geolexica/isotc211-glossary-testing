@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: '301644'
+    tree:
+      '301644':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/45020.html
+            ref: ISO/TS 19104:2008
+          date_accepted: 2008-11-15 00:00:00+00:00
+          definition: классификация, определяющая статус термина
+          entry_status: valid
+          examples: []
+          id: 453
+          language_code: rus
+          lineage_source: ISO/TS 19104:2008
+          notes: []
+          release: '2'
+          terms:
+          - designation: классификация экземпляров терминов
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-11-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/45020.html
+    ref: ISO/TS 19104:2008
+  definition: классификация, определяющая статус термина
+  examples: []
+  id: 453
+  language_code: rus
+  lineage_source: ISO/TS 19104:2008
+  notes: []
+  release: '2'
+  terms:
+  - designation: классификация экземпляров терминов
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: de609218-9595-5255-9e64-cea70850584d
+status: valid

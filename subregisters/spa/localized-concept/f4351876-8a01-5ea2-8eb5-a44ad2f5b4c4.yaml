@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 87e3e7
+    tree:
+      87e3e7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.6'
+            link: https://www.iso.org/standard/32576.html
+            ref: ISO/TS 19158:2012
+          date_accepted: 2012-10-15 00:00:00+00:00
+          definition: resultado de un procedimiento de determinación de la calidad
+          entry_status: valid
+          examples: []
+          id: 1578
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: resultado de una determinación de la calidad
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.6'
+    link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  definition: resultado de un procedimiento de determinación de la calidad
+  examples: []
+  id: 1578
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: resultado de una determinación de la calidad
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: f4351876-8a01-5ea2-8eb5-a44ad2f5b4c4
+status: valid

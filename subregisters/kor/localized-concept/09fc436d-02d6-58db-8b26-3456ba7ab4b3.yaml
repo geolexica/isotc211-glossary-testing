@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: b256b2
+    tree:
+      b256b2:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.9'
+            link: https://www.iso.org/standard/44212.html
+            ref: ISO 19118:2011
+          date_accepted: 2008-12-30 00:00:00+00:00
+          definition: 데이터의 송수신 및 해석을 위한 처리 과정
+          entry_status: valid
+          examples: []
+          id: 107
+          language_code: kor
+          lineage_source: ISO 19118:2005
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2007-01-23 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2011-10-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19118:2011
+          review_decision_notes: Authoritative reference changed from ISO 19118:2005
+            to ISO 19118:2011. Lineage source added as ISO 19118:2005.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: 데이터 교환
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-12-30 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  definition: 데이터의 송수신 및 해석을 위한 처리 과정
+  examples: []
+  id: 107
+  language_code: kor
+  lineage_source: ISO 19118:2005
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2007-01-23 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2011-10-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19118:2011
+  review_decision_notes: Authoritative reference changed from ISO 19118:2005 to ISO
+    19118:2011. Lineage source added as ISO 19118:2005.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: 데이터 교환
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: 09fc436d-02d6-58db-8b26-3456ba7ab4b3
+status: valid

@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: e337e7
+    tree:
+      e337e7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.21'
+            link: https://www.iso.org/standard/44212.html
+            ref: ISO 19118:2011
+          date_accepted: 2011-10-15 00:00:00+00:00
+          definition: 식별자를 만드는데 필요한 규칙의 집합
+          entry_status: valid
+          examples: []
+          id: 1022
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 식별 협약
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2011-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  definition: 식별자를 만드는데 필요한 규칙의 집합
+  examples: []
+  id: 1022
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 식별 협약
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-10-15 00:00:00+00:00
+id: 3258154a-ce3d-52b7-93a7-6735093a5302
+status: valid

@@ -1,0 +1,53 @@
+data:
+  _revisions:
+    current: a5edcf
+    tree:
+      a5edcf:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.75'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: ground area from which return data are collected during continuous
+            airborne LIDAR operation
+          entry_status: valid
+          examples: []
+          id: 1422
+          language_code: eng
+          notes:
+          - A typical mapping mission may consist of multiple adjacent swaths, with
+            some overlap, and the operator will turn off the laser while the aircraft
+            is oriented for the next swath.  This term may also be referred to as
+            a Pass.
+          release: '3'
+          terms:
+          - designation: swath <LIDAR>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.75'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: ground area from which return data are collected during continuous airborne
+    LIDAR operation
+  examples: []
+  id: 1422
+  language_code: eng
+  notes:
+  - A typical mapping mission may consist of multiple adjacent swaths, with some overlap,
+    and the operator will turn off the laser while the aircraft is oriented for the
+    next swath.  This term may also be referred to as a Pass.
+  release: '3'
+  terms:
+  - designation: swath <LIDAR>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 455c1bd2-fdb6-570e-a5c0-95a6a9de7c73
+status: valid

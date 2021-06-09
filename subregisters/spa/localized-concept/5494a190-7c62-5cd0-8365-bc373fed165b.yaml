@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 43102a
+    tree:
+      43102a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: tipo y subtipo de medio en el cuerpo de un mensaje que indica
+            la representación nativa (forma canónica) de estos datos
+          entry_status: valid
+          examples: []
+          id: 1336
+          language_code: spa
+          notes: []
+          release: '2'
+          terms:
+          - designation: tipo de Extensión Multipropósito de Correo de Internet (Multipurpose
+              Internet Mail Extensions - MIME)
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - {}
+  definition: tipo y subtipo de medio en el cuerpo de un mensaje que indica la representación
+    nativa (forma canónica) de estos datos
+  examples: []
+  id: 1336
+  language_code: spa
+  notes: []
+  release: '2'
+  terms:
+  - designation: tipo de Extensión Multipropósito de Correo de Internet (Multipurpose
+      Internet Mail Extensions - MIME)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 5494a190-7c62-5cd0-8365-bc373fed165b
+status: valid

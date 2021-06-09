@@ -1,0 +1,74 @@
+data:
+  _revisions:
+    current: f364c4
+    tree:
+      f364c4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.1.26
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111:2019
+          date_accepted: 2003-02-15 00:00:00+00:00
+          definition: paikallinen datumi, joka määritellään suppealle alueelle tai
+            tiettyyn tilaan usein tietyksi ajaksi tiettyä tarkoitusta varten
+          entry_status: valid
+          examples:
+          - Järjestelmä, jolla määritetään suhteellisia sijainteja muutaman kilometrin
+            etäisyydellä vertauspisteestä.
+          id: 156
+          language_code: fin
+          lineage_source: ISO 19111:2003
+          lineage_source_similarity: 1
+          notes:
+          - Geodeettista datumia ja korkeusdatumia ei käytetä paikallisen datumin
+            yhteydessä.
+          release: '1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of ISO 19111:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19111:2007
+            to ISO 19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: erillisdatumi
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.26
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  definition: paikallinen datumi, joka määritellään suppealle alueelle tai tiettyyn
+    tilaan usein tietyksi ajaksi tiettyä tarkoitusta varten
+  examples:
+  - Järjestelmä, jolla määritetään suhteellisia sijainteja muutaman kilometrin etäisyydellä
+    vertauspisteestä.
+  id: 156
+  language_code: fin
+  lineage_source: ISO 19111:2003
+  lineage_source_similarity: 1
+  notes:
+  - Järjestelmä, jolla määritetään suhteellisia sijainteja muutaman kilometrin etäisyydellä
+    vertauspisteestä.
+  release: '1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of ISO 19111:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19111:2007 to ISO
+    19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: erillisdatumi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 9e3e4f20-e20c-522b-ba1a-04dd1d2c6898
+status: valid

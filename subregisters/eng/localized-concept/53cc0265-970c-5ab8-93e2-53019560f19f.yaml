@@ -1,0 +1,65 @@
+data:
+  _revisions:
+    current: eb1d18
+    tree:
+      eb1d18:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.15'
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2015-07-01 00:00:00+00:00
+          definition: constant, explicitly specified value
+          entry_status: valid
+          examples:
+          - “1”^^xsd:integer, “abc”^^xsd:string
+          id: 1644
+          language_code: eng
+          notes:
+          - This contrasts with a value that is determined by resolving a chain of
+            substitution (e.g. a variable).
+          release: '4'
+          review_date: 2012-05-25 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-07-01 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19150-2:2015(E)
+          review_status: final
+          terms:
+          - designation: literal
+            normative_status: admitted
+            type: expression
+          - designation: literal value
+            type: expression
+        parents: []
+        timeCreated: 2015-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: constant, explicitly specified value
+  examples:
+  - “1”^^xsd:integer, “abc”^^xsd:string
+  id: 1644
+  language_code: eng
+  notes:
+  - “1”^^xsd:integer, “abc”^^xsd:string
+  release: '4'
+  review_date: 2012-05-25 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-07-01 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19150-2:2015(E)
+  review_status: final
+  terms:
+  - designation: literal
+    normative_status: admitted
+    type: expression
+  - designation: literal value
+    type: expression
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 53cc0265-970c-5ab8-93e2-53019560f19f
+status: valid

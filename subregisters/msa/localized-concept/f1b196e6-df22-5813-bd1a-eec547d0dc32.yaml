@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 814fa4
+    tree:
+      814fa4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/39890.html
+            ref: ISO 19119:2005
+          date_accepted: 2005-02-15 00:00:00+00:00
+          definition: spesifikasi suatu transformasi atau pertanyaan sesuatu objek
+            yang boleh dipanggil untuk dilaksanakan
+          entry_status: valid
+          examples: []
+          id: 318
+          language_code: msa
+          notes:
+          - An operation has a name and a list of parameters.
+          - See 7.2 [of ISO 19119] for a discussion of operation
+          release: '1'
+          terms:
+          - designation: pengendalian/operasi
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-02-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/39890.html
+    ref: ISO 19119:2005
+  definition: spesifikasi suatu transformasi atau pertanyaan sesuatu objek yang boleh
+    dipanggil untuk dilaksanakan
+  examples: []
+  id: 318
+  language_code: msa
+  notes:
+  - An operation has a name and a list of parameters.
+  - See 7.2 [of ISO 19119] for a discussion of operation
+  release: '1'
+  terms:
+  - designation: pengendalian/operasi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: f1b196e6-df22-5813-bd1a-eec547d0dc32
+status: valid

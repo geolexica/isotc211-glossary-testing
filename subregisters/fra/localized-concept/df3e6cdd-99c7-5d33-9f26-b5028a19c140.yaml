@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: d786dd
+    tree:
+      d786dd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (Adapted from)
+            link: https://www.iso.org/standard/3626.html
+            ref: 'ISO 31-2:1992 '
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: durée d'un cycle
+          entry_status: valid
+          examples: []
+          id: 331
+          language_code: fra
+          lineage_source: ISO 19108
+          lineage_source_similarity: 1
+          notes: []
+          terms:
+          - designation: période temporelle
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/3626.html
+    ref: 'ISO 31-2:1992 '
+  definition: durée d'un cycle
+  examples: []
+  id: 331
+  language_code: fra
+  lineage_source: ISO 19108
+  lineage_source_similarity: 1
+  notes: []
+  terms:
+  - designation: période temporelle
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: df3e6cdd-99c7-5d33-9f26-b5028a19c140
+status: valid

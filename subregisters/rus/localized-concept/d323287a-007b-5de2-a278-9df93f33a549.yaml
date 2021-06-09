@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: 5db5b5
+    tree:
+      5db5b5:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.18
+            link: https://www.iso.org/standard/59164.html
+            ref: ISO 19101-1:2014
+          date_accepted: 2002-07-01 00:00:00+00:00
+          definition: информация об объектах и явлениях, содержащая в явном или неявном
+            виде указание на их местоположение относительно Земли
+          entry_status: valid
+          examples: []
+          id: 205
+          language_code: rus
+          lineage_source: перевод ИСО 19101-1:2014,
+          lineage_source_similarity: '1'
+          notes: []
+          release: '1'
+          review_date: 2010-10-12 00:00:00+00:00
+          review_decision: ''
+          review_decision_date: 2014-11-01 00:00:00+00:00
+          review_decision_event: Публикация ИСО19101-1:2014
+          review_decision_notes: 'Авторитетная ссылка изменена с ISO 19101: 2002 на
+            ISO 19101-1: 2014. Источник происхождения добавлен как ISO 19101: 2002.'
+          review_indicator: ''
+          review_status: ''
+          terms:
+          - designation: географическая информация
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  definition: информация об объектах и явлениях, содержащая в явном или неявном виде
+    указание на их местоположение относительно Земли
+  examples: []
+  id: 205
+  language_code: rus
+  lineage_source: перевод ИСО 19101-1:2014,
+  lineage_source_similarity: '1'
+  notes: []
+  release: '1'
+  review_date: 2010-10-12 00:00:00+00:00
+  review_decision: ''
+  review_decision_date: 2014-11-01 00:00:00+00:00
+  review_decision_event: Публикация ИСО19101-1:2014
+  review_decision_notes: 'Авторитетная ссылка изменена с ISO 19101: 2002 на ISO 19101-1:
+    2014. Источник происхождения добавлен как ISO 19101: 2002.'
+  review_indicator: ''
+  review_status: ''
+  terms:
+  - designation: географическая информация
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: d323287a-007b-5de2-a278-9df93f33a549
+status: valid

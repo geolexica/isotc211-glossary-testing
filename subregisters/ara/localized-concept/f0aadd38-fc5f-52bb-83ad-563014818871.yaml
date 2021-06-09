@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 845dac
+    tree:
+      845dac:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: جزء من مسار أو شبكة يتكون من موقع نقطة وصل ومن وصلة دخول وخروج
+            لنقطة الوصل تلك
+          entry_status: valid
+          examples: []
+          id: 478
+          language_code: ara
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: منحنى
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: جزء من مسار أو شبكة يتكون من موقع نقطة وصل ومن وصلة دخول وخروج لنقطة
+    الوصل تلك
+  examples: []
+  id: 478
+  language_code: ara
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: منحنى
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f0aadd38-fc5f-52bb-83ad-563014818871
+status: valid

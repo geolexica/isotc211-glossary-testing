@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: bc3b32
+    tree:
+      bc3b32:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.13'
+            link: https://www.iso.org/standard/32566.html
+            ref: ISO 19148:2012
+          date_accepted: 2012-02-15 00:00:00+00:00
+          definition: часть линейного объекта, которая отличается от остальной части
+            этого объекта подмножеством атрибутов, каждый из которых имеет отдельное
+            значение для всей этой части
+          entry_status: valid
+          examples: []
+          id: 1173
+          language_code: rus
+          lineage_source: перевод ИСО 19148:2012
+          notes:
+          - Линейный сегмент представляет собой одномерный объект без чёткой геометрии
+          - Точную  геометрию линейного сегмента можно получить из геометрии родительского
+            (исходного) объекта
+          release: '3'
+          terms:
+          - designation: линейный сегмент
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  definition: часть линейного объекта, которая отличается от остальной части этого
+    объекта подмножеством атрибутов, каждый из которых имеет отдельное значение для
+    всей этой части
+  examples: []
+  id: 1173
+  language_code: rus
+  lineage_source: перевод ИСО 19148:2012
+  notes:
+  - Линейный сегмент представляет собой одномерный объект без чёткой геометрии
+  - Точную  геометрию линейного сегмента можно получить из геометрии родительского
+    (исходного) объекта
+  release: '3'
+  terms:
+  - designation: линейный сегмент
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: d00a979c-ddb1-5032-9cd3-26a10fcdba63
+status: valid

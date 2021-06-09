@@ -1,0 +1,67 @@
+data:
+  _revisions:
+    current: f71d66
+    tree:
+      f71d66:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: séquence n'ayant aucun début logique et étant donc équivalente
+            à n'importe quelle permutation circulaire d'elle-même; par conséquent,
+            le dernier élément de la séquence est considéré comme celui qui précède
+            le premier
+          entry_status: retired
+          examples: []
+          id: 41
+          language_code: fra
+          notes: []
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of documentISO 19107:2019(E)
+          review_decision_notes: This entry has been omitted from the superseding
+            standard ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: séquence circulaire
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: séquence n'ayant aucun début logique et étant donc équivalente à n'importe
+    quelle permutation circulaire d'elle-même; par conséquent, le dernier élément
+    de la séquence est considéré comme celui qui précède le premier
+  examples: []
+  id: 41
+  language_code: fra
+  notes: []
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of documentISO 19107:2019(E)
+  review_decision_notes: This entry has been omitted from the superseding standard
+    ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: séquence circulaire
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 4105292a-774d-57b7-be58-5246bbcf8493
+status: retired

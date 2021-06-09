@@ -1,0 +1,59 @@
+data:
+  _revisions:
+    current: bf7d1f
+    tree:
+      bf7d1f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: CEOS WGCV
+          date_accepted: 2008-06-01 00:00:00+00:00
+          definition: عملية تحديد كمي لاستجابات نظام ما لإشارات مدخلة معلومة وخاضعة
+            للتحكم
+          entry_status: valid
+          examples: []
+          id: 847
+          language_code: ara
+          lineage_source: ISO/TS 19101-2:2008(E)
+          lineage_source_similarity: 1
+          notes: []
+          release: '2'
+          review_date: 2018-05-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-05-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19101-2:2018(E)
+          review_decision_notes: Authoritative reference changed from CEOS WGCV to
+            CEOS WGCV. Lineage source added as ISO/TS 19101-2:2008(E)
+          review_status: final
+          terms:
+          - designation: معايرة
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-06-01 00:00:00+00:00
+  authoritativeSource:
+  - ref: CEOS WGCV
+  definition: عملية تحديد كمي لاستجابات نظام ما لإشارات مدخلة معلومة وخاضعة للتحكم
+  examples: []
+  id: 847
+  language_code: ara
+  lineage_source: ISO/TS 19101-2:2008(E)
+  lineage_source_similarity: 1
+  notes: []
+  release: '2'
+  review_date: 2018-05-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-05-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19101-2:2018(E)
+  review_decision_notes: Authoritative reference changed from CEOS WGCV to CEOS WGCV.
+    Lineage source added as ISO/TS 19101-2:2008(E)
+  review_status: final
+  terms:
+  - designation: معايرة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: d7d37826-fd1c-5173-9cdf-c7e5e103b658
+status: valid

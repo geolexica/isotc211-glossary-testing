@@ -1,0 +1,65 @@
+data:
+  _revisions:
+    current: ee8418
+    tree:
+      ee8418:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: simple surface which is a cycle
+          entry_status: retired
+          examples: []
+          id: 410
+          language_code: eng
+          notes:
+          - Shells are used to describe boundary components of solids in 3D coordinate
+            systems.
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of documentISO 19107:2019(E)
+          review_decision_notes: This entry has been omitted from the superseding
+            standard ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: shell
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: simple surface which is a cycle
+  examples: []
+  id: 410
+  language_code: eng
+  notes:
+  - Shells are used to describe boundary components of solids in 3D coordinate systems.
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of documentISO 19107:2019(E)
+  review_decision_notes: This entry has been omitted from the superseding standard
+    ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: shell
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 09bd3825-fbfb-566d-bbcd-5214f90443b4
+status: retired

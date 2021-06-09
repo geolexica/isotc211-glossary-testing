@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 35e8d3
+    tree:
+      35e8d3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40601.html
+            ref: ISO 19132:2007
+          date_accepted: 2007-10-15 00:00:00+00:00
+          definition: colección de objetivos potencialmente heterogéneos (cada uno
+            satisfaciendo un criterio de consulta diferente), cuyas ubicaciones caen
+            dentro de una pequeña vecindad
+          entry_status: valid
+          examples: []
+          id: 47
+          language_code: spa
+          notes: []
+          release: '1'
+          terms:
+          - designation: cluster
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  definition: colección de objetivos potencialmente heterogéneos (cada uno satisfaciendo
+    un criterio de consulta diferente), cuyas ubicaciones caen dentro de una pequeña
+    vecindad
+  examples: []
+  id: 47
+  language_code: spa
+  notes: []
+  release: '1'
+  terms:
+  - designation: cluster
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 8b159c51-efe2-519b-af5b-53c2adf28b77
+status: valid

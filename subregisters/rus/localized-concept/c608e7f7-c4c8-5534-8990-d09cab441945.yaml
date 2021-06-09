@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 598f7b
+    tree:
+      598f7b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: ISO/IEC JTC1 Procedures (Adapted from)
+            ref: Annex E
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: присвоение постоянного, уникального и непротиворечивого идентификатора
+            какому-либо объекту
+          entry_status: valid
+          examples: []
+          id: 373
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: регистрация
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: ISO/IEC JTC1 Procedures (Adapted from)
+    ref: Annex E
+  definition: присвоение постоянного, уникального и непротиворечивого идентификатора
+    какому-либо объекту
+  examples: []
+  id: 373
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: регистрация
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: c608e7f7-c4c8-5534-8990-d09cab441945
+status: valid

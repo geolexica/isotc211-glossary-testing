@@ -1,0 +1,38 @@
+data:
+  _revisions:
+    current: d495c0
+    tree:
+      d495c0:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: 관련 자료의 본래적 표현(원형)만을 지정하는 메시지 본문 자료의 미디어 유형과 그 하위유형
+          entry_status: valid
+          examples: []
+          id: 1336
+          language_code: kor
+          notes: []
+          release: '2'
+          terms:
+          - designation: 다목적 인터넷 메일 확장 타입
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - {}
+  definition: 관련 자료의 본래적 표현(원형)만을 지정하는 메시지 본문 자료의 미디어 유형과 그 하위유형
+  examples: []
+  id: 1336
+  language_code: kor
+  notes: []
+  release: '2'
+  terms:
+  - designation: 다목적 인터넷 메일 확장 타입
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 0b944cb2-bfe0-5c53-bed4-1f4f7bff4d6d
+status: valid

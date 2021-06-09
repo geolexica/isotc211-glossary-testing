@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: a4ada6
+    tree:
+      a4ada6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.72'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: sensor que permite determinar la distancia de un objeto submarino
+            a través de la medición de la señal sonora
+          entry_status: valid
+          examples: []
+          id: 1677
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: sónar
+            normative_status: preferred
+            type: expression
+          - designation: Sound Navigation and Ranging
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.72'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: sensor que permite determinar la distancia de un objeto submarino a
+    través de la medición de la señal sonora
+  examples: []
+  id: 1677
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: sónar
+    normative_status: preferred
+    type: expression
+  - designation: Sound Navigation and Ranging
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 2ac1297e-6f54-5a6b-9114-a17a0854b587
+status: valid

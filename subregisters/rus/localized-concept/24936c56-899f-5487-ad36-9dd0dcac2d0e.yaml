@@ -1,0 +1,57 @@
+data:
+  _revisions:
+    current: 7d92ee
+    tree:
+      7d92ee:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.25
+            link: https://www.iso.org/standard/51206.html
+            ref: ISO 19152:2012
+          date_accepted: 2012-12-01 00:00:00+00:00
+          definition: сеть, описывающая правовое пространство топологии коммунальных
+            служб
+          entry_status: valid
+          examples:
+          - Юридическое пространство необходимое для доступа или поддержания в порядке
+            кабельных или трудопроводных коммунальных сетей
+          id: 1575
+          language_code: rus
+          lineage_source: ISO 19152:2012
+          notes:
+          - Коммунальная сеть может быть снабжена информацией о ее легальном, зарегистрированном
+            или неформальном пространстве
+          - коммунальную сеть можно также смоделировать в качестве базовой административной
+            единицы.
+          release: '3'
+          terms:
+          - designation: коммунальная сеть
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.25
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  definition: сеть, описывающая правовое пространство топологии коммунальных служб
+  examples:
+  - Юридическое пространство необходимое для доступа или поддержания в порядке кабельных
+    или трудопроводных коммунальных сетей
+  id: 1575
+  language_code: rus
+  lineage_source: ISO 19152:2012
+  notes:
+  - Юридическое пространство необходимое для доступа или поддержания в порядке кабельных
+    или трудопроводных коммунальных сетей
+  release: '3'
+  terms:
+  - designation: коммунальная сеть
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 24936c56-899f-5487-ad36-9dd0dcac2d0e
+status: valid

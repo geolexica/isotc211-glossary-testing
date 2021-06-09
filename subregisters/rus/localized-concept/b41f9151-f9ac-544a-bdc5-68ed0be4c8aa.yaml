@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 1ddbf2
+    tree:
+      1ddbf2:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.11
+            link: https://www.iso.org/standard/32563.html
+            ref: ISO 19145:2013
+          date_accepted: 2013-02-15 00:00:00+00:00
+          definition: Четко определенное географическое место, описываемое одной координатной  записью
+          entry_status: valid
+          examples: []
+          id: 1166
+          language_code: rus
+          lineage_source: ISO 19145:2013
+          notes: []
+          release: '3'
+          terms:
+          - designation: географическое местоположение точки
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2013-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.11
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  definition: Четко определенное географическое место, описываемое одной координатной  записью
+  examples: []
+  id: 1166
+  language_code: rus
+  lineage_source: ISO 19145:2013
+  notes: []
+  release: '3'
+  terms:
+  - designation: географическое местоположение точки
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: b41f9151-f9ac-544a-bdc5-68ed0be4c8aa
+status: valid

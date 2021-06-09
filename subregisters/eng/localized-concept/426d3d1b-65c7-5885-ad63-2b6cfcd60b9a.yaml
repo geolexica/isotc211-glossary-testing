@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 0362b8
+    tree:
+      0362b8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2003-02-15 00:00:00+00:00
+          definition: meridian from which the longitudes of other meridians are quantified
+          entry_status: valid
+          examples: []
+          id: 505
+          language_code: eng
+          lineage_source: ISO 19111:2003
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: zero meridian
+            normative_status: admitted
+            type: expression
+          - designation: prime meridian
+            type: expression
+        parents: []
+        timeCreated: 2003-02-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  definition: meridian from which the longitudes of other meridians are quantified
+  examples: []
+  id: 505
+  language_code: eng
+  lineage_source: ISO 19111:2003
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: zero meridian
+    normative_status: admitted
+    type: expression
+  - designation: prime meridian
+    type: expression
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 426d3d1b-65c7-5885-ad63-2b6cfcd60b9a
+status: valid

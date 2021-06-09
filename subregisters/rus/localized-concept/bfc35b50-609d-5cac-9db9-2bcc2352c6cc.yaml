@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: d9de4e
+    tree:
+      d9de4e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.40
+            link: https://www.iso.org/standard/59164.html
+            ref: ISO 19101-1:2014
+          date_accepted: 2014-11-01 00:00:00+00:00
+          definition: пространство доступной для сети информации и услуг
+          entry_status: valid
+          examples: []
+          id: 1433
+          language_code: rus
+          lineage_source: перевод ИСО 19101-1:2014,
+          notes: []
+          release: '3'
+          terms:
+          - designation: Сеть
+            normative_status: admitted
+            type: expression
+          - designation: World Wide Web
+            type: expression
+        parents: []
+        timeCreated: 2014-11-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.40
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  definition: пространство доступной для сети информации и услуг
+  examples: []
+  id: 1433
+  language_code: rus
+  lineage_source: перевод ИСО 19101-1:2014,
+  notes: []
+  release: '3'
+  terms:
+  - designation: Сеть
+    normative_status: admitted
+    type: expression
+  - designation: World Wide Web
+    type: expression
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: bfc35b50-609d-5cac-9db9-2bcc2352c6cc
+status: valid

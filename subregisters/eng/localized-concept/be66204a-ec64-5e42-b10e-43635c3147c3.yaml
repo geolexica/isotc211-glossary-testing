@@ -1,0 +1,49 @@
+data:
+  _revisions:
+    current: 6ed03d
+    tree:
+      6ed03d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.51'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: collection of data points in 3D space
+          entry_status: valid
+          examples: []
+          id: 1408
+          language_code: eng
+          notes:
+          - The distance between points is generally non-uniform and hence all three
+            coordinates (Cartesian or spherical) for each point must be specifically
+            encoded.
+          release: '3'
+          terms:
+          - designation: point cloud
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.51'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: collection of data points in 3D space
+  examples: []
+  id: 1408
+  language_code: eng
+  notes:
+  - The distance between points is generally non-uniform and hence all three coordinates
+    (Cartesian or spherical) for each point must be specifically encoded.
+  release: '3'
+  terms:
+  - designation: point cloud
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: be66204a-ec64-5e42-b10e-43635c3147c3
+status: valid

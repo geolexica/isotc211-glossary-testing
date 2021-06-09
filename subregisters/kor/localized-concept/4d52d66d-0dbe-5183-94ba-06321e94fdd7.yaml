@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: '543203'
+    tree:
+      '543203':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: SUT
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: IUT를 지원하는 데 필요한 컴퓨터 하드웨어, 소프트웨어 및 통신망
+          entry_status: valid
+          examples: []
+          id: 440
+          language_code: kor
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: 시험용 시스템
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  abbrev: SUT
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: IUT를 지원하는 데 필요한 컴퓨터 하드웨어, 소프트웨어 및 통신망
+  examples: []
+  id: 440
+  language_code: kor
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: 시험용 시스템
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 4d52d66d-0dbe-5183-94ba-06321e94fdd7
+status: valid

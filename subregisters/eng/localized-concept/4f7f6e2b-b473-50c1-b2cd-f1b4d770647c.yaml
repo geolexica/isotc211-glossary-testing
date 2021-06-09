@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 8a790d
+    tree:
+      8a790d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: monitoring and reporting the location of a vehicle
+          entry_status: valid
+          examples: []
+          id: 470
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: tracking
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: monitoring and reporting the location of a vehicle
+  examples: []
+  id: 470
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: tracking
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 4f7f6e2b-b473-50c1-b2cd-f1b4d770647c
+status: valid

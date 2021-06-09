@@ -1,0 +1,15 @@
+data:
+  identifier: '389'
+  localizedConcepts:
+    ara: 4e4feb94-239b-58a3-ba26-45913da2240a
+    eng: ef6288c7-9d02-5492-bfb6-31028375058a
+    fin: 238cf86e-8c61-5e19-8abf-7196b6dbe69b
+    fra: 0c4a436c-3878-5189-988c-914595bf9f3e
+    kor: b0a90a3f-df06-5ca8-b4c8-aa767f1e95e2
+    rus: 059ac9c8-d22c-5f27-82a5-5b2369793704
+    spa: 43516bfa-09aa-592e-b807-bd239065979b
+    swe: ae2627ce-3083-58ab-830a-1922203936a8
+    zho: e686b76d-d655-50cb-bb8d-070e6d87a6af
+dateAccepted: 2018-11-17
+id: 4788e0b6-a971-5c59-b741-608552e0961b
+status: valid

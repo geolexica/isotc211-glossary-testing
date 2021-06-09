@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: 3b2e0f
+    tree:
+      3b2e0f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128:2005
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: palvelimella saatavilla olevia toimintoja ja paikkatietoa kuvaava
+            metatieto
+          entry_status: valid
+          examples: []
+          id: 408
+          language_code: fin
+          lineage_source: Maanmittauslaitos
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: paikkatietopalveluja kuvaileva metatieto
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  definition: palvelimella saatavilla olevia toimintoja ja paikkatietoa kuvaava metatieto
+  examples: []
+  id: 408
+  language_code: fin
+  lineage_source: Maanmittauslaitos
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: paikkatietopalveluja kuvaileva metatieto
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: b1bc00bd-5bc1-5395-ac39-65e27624d87d
+status: valid

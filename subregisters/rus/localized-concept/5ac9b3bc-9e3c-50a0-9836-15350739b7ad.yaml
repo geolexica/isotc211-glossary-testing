@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: 9d1485
+    tree:
+      9d1485:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.10'
+            link: https://www.iso.org/standard/32576.html
+            ref: ISO/TS 19158:2012
+          date_accepted: 2012-10-15 00:00:00+00:00
+          definition: составные части процесса
+          entry_status: valid
+          examples:
+          - В случае фотограмметрической съемк и воздушная триангуляция может рассматриваться
+            как подпроцесс
+          id: 1111
+          language_code: rus
+          lineage_source: ISO/TS 19158:2012
+          notes:
+          - Подпроцесс может быть разбит еще далее при необходимости обеспечить контроль
+            качества процесса
+          release: '3'
+          terms:
+          - designation: подпроцесс
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  definition: составные части процесса
+  examples:
+  - В случае фотограмметрической съемк и воздушная триангуляция может рассматриваться
+    как подпроцесс
+  id: 1111
+  language_code: rus
+  lineage_source: ISO/TS 19158:2012
+  notes:
+  - В случае фотограмметрической съемк и воздушная триангуляция может рассматриваться
+    как подпроцесс
+  release: '3'
+  terms:
+  - designation: подпроцесс
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 5ac9b3bc-9e3c-50a0-9836-15350739b7ad
+status: valid

@@ -1,0 +1,47 @@
+data:
+  _revisions:
+    current: 08b0bf
+    tree:
+      08b0bf:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128:2005
+          country_code: swe
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: program som tillhandahåller gemensamma servicefunktioner i ett
+            datornät
+          entry_status: valid
+          examples: []
+          id: 404
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '1'
+          terms:
+          - designation: server
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  country_code: swe
+  definition: program som tillhandahåller gemensamma servicefunktioner i ett datornät
+  examples: []
+  id: 404
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '1'
+  terms:
+  - designation: server
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: acc16fd6-d2ef-5f60-8345-d389ad94bf61
+status: valid

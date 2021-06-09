@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: b2201a
+    tree:
+      b2201a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: yksiulotteinen geometrinen primitiivi, joka kuvaa aikaulottuvuutta
+          entry_status: valid
+          examples: []
+          id: 330
+          language_code: fin
+          lineage_source: MOT Englanti 4.6
+          notes:
+          - Jaksoa rajoittaa kaksi eri temporaalista sijaintia.
+          review_indicator: ''
+          terms:
+          - designation: jakso
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: yksiulotteinen geometrinen primitiivi, joka kuvaa aikaulottuvuutta
+  examples: []
+  id: 330
+  language_code: fin
+  lineage_source: MOT Englanti 4.6
+  notes:
+  - Jaksoa rajoittaa kaksi eri temporaalista sijaintia.
+  review_indicator: ''
+  terms:
+  - designation: jakso
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 3ab112dc-5594-5ffa-aaf7-fca8d745c127
+status: valid

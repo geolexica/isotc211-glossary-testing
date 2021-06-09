@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: efbb66
+    tree:
+      efbb66:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/44875.html
+            ref: ISO 19126:2009
+          date_accepted: 2009-11-01 00:00:00+00:00
+          entry_status: valid
+          examples:
+          - A "supports" feature association concept describes a relationship between
+            real world phenomena such as "highways" and "bridges" where the role of
+            one feature is that it is supported-by the other feature (whose role is
+            supporter-of).
+          id: 852
+          language_code: deu
+          notes: []
+          release: '2'
+          terms:
+          - designation: Feature-Assoziationskonzept
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-11-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  examples:
+  - A "supports" feature association concept describes a relationship between real
+    world phenomena such as "highways" and "bridges" where the role of one feature
+    is that it is supported-by the other feature (whose role is supporter-of).
+  id: 852
+  language_code: deu
+  notes:
+  - A "supports" feature association concept describes a relationship between real
+    world phenomena such as "highways" and "bridges" where the role of one feature
+    is that it is supported-by the other feature (whose role is supporter-of).
+  release: '2'
+  terms:
+  - designation: Feature-Assoziationskonzept
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: c3ba89c1-2d4b-54da-b813-36e43f893cbe
+status: valid

@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: 6ea83e
+    tree:
+      6ea83e:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            clause: 4.1.1.4
+            link: https://www.iso.org/standard/55724.html
+            ref: ISO/IEC 10746-3:2009
+          date_accepted: 2005-02-15 00:00:00+00:00
+          definition: 将重点放在机制和功能需求上，支持分布系统间对象交互的基于ODP系统及其环境的视角。
+          entry_status: valid
+          examples: []
+          id: 157
+          language_code: zho
+          lineage_source: ISO 19119:2005
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2012-08-11 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2016-01-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19119:2016
+          review_decision_notes: Authoritative reference changed from ISO/IEC 10746-3:1996
+            to ISO/IEC 10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+          review_status: final
+          terms:
+          - designation: 工程视角
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.1.4
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  definition: 将重点放在机制和功能需求上，支持分布系统间对象交互的基于ODP系统及其环境的视角。
+  examples: []
+  id: 157
+  language_code: zho
+  lineage_source: ISO 19119:2005
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2012-08-11 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2016-01-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19119:2016
+  review_decision_notes: Authoritative reference changed from ISO/IEC 10746-3:1996
+    to ISO/IEC 10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+  review_status: final
+  terms:
+  - designation: 工程视角
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 8ae1fa2a-2c2e-5f59-92fc-c684d03e478c
+status: valid

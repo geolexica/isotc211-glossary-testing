@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: bb5a4e
+    tree:
+      bb5a4e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40115.html
+            ref: ISO 19125-2:2004
+          date_accepted: 2004-08-01 00:00:00+00:00
+          definition: تمثيل لظاهرةحقيقة  على الطبيعة ترتبط بموقع ذي صلة بالأرض
+          entry_status: valid
+          examples: []
+          id: 203
+          language_code: ara
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: معلم جغرافي
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-08-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  definition: تمثيل لظاهرةحقيقة  على الطبيعة ترتبط بموقع ذي صلة بالأرض
+  examples: []
+  id: 203
+  language_code: ara
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: معلم جغرافي
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: 01672a45-14eb-5828-ae06-59414c32bfb9
+status: valid

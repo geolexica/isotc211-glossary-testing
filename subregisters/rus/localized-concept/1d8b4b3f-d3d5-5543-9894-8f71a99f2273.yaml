@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 5945c2
+    tree:
+      5945c2:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: множество значений атрибута, связанных некоторой функцией с
+            элементамит области определения данного покрытия
+          entry_status: valid
+          examples: []
+          id: 363
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: область значений атрибутов <покрытие>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: множество значений атрибута, связанных некоторой функцией с элементамит
+    области определения данного покрытия
+  examples: []
+  id: 363
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: область значений атрибутов <покрытие>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 1d8b4b3f-d3d5-5543-9894-8f71a99f2273
+status: valid

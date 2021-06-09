@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 8ac9e8
+    tree:
+      8ac9e8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.14'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: mejora del Sistema de Posicionamiento Global que usa GNSS y
+            DGNSS para radiofundir la diferencia entre las posiciones indicadas por
+            los sistemas de satélites y la posición fija conocida
+          entry_status: valid
+          examples: []
+          id: 1559
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: Sistema Diferencial de Navegación Global por Satélite
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: mejora del Sistema de Posicionamiento Global que usa GNSS y DGNSS para
+    radiofundir la diferencia entre las posiciones indicadas por los sistemas de satélites
+    y la posición fija conocida
+  examples: []
+  id: 1559
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: Sistema Diferencial de Navegación Global por Satélite
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 5294dfc6-1f50-5b38-8327-e3d58aebf7e4
+status: valid

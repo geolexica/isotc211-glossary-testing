@@ -1,0 +1,71 @@
+data:
+  _revisions:
+    current: 7638b1
+    tree:
+      7638b1:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '3.1'
+            link: https://www.iso.org/standard/40130.html
+            ref: ISO 860:2007
+          date_accepted: 2008-11-15 00:00:00+00:00
+          definition: activity leading to the establishment of a correspondence between
+            two or more closely related or overlapping concepts having professional,
+            technical, scientific, social, economic, linguistic, cultural or other
+            differences, in order to eliminate or reduce minor differences between
+            them
+          entry_status: valid
+          examples: []
+          id: 907
+          language_code: eng
+          lineage_source: ISO/TS 19104:2008
+          lineage_source_similarity: 1
+          notes:
+          - The purpose of concept harmonisation is to improve communication
+          release: '2'
+          review_date: 2013-01-29 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2016-10-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19104:2016
+          review_decision_notes: Authoritative reference changed from ISO 870:2007
+            to ISO 860:2007, 3.1. Lineage source added as ISO/TS 19104:2008
+          review_status: final
+          terms:
+          - designation: concept harmonization
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-11-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '3.1'
+    link: https://www.iso.org/standard/40130.html
+    ref: ISO 860:2007
+  definition: activity leading to the establishment of a correspondence between two
+    or more closely related or overlapping concepts having professional, technical,
+    scientific, social, economic, linguistic, cultural or other differences, in order
+    to eliminate or reduce minor differences between them
+  examples: []
+  id: 907
+  language_code: eng
+  lineage_source: ISO/TS 19104:2008
+  lineage_source_similarity: 1
+  notes:
+  - The purpose of concept harmonisation is to improve communication
+  release: '2'
+  review_date: 2013-01-29 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2016-10-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19104:2016
+  review_decision_notes: Authoritative reference changed from ISO 870:2007 to ISO
+    860:2007, 3.1. Lineage source added as ISO/TS 19104:2008
+  review_status: final
+  terms:
+  - designation: concept harmonization
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: e0016fdd-7530-55e8-84a7-b5fb68f371bf
+status: valid

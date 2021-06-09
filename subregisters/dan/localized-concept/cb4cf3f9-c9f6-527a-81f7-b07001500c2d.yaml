@@ -1,0 +1,71 @@
+data:
+  _revisions:
+    current: 07395b
+    tree:
+      07395b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: h
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2003-02-15 00:00:00+00:00
+          date_amended: 2019-01-31 00:00:00+00:00
+          definition: et punkts afstand fra ellipsoiden målt langs normalen fra ellipsoiden
+            til dette punkt. Den er positiv, hvis punktet ligger over eller uden for
+            ellipsoiden
+          entry_status: superseded
+          examples: []
+          id: 199
+          language_code: dan
+          lineage_source: ISO 19111:2003
+          notes:
+          - Benyttes kun som en del af et 3-dimensionalt geodætisk koordinatsystem
+            og aldrig alene.
+          release: '-1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19111:2019(E)
+          review_decision_notes: This entry is superseded by the entry for geodetic
+            height in ISO 19111:2019(E)
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: geodætisk højde
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-02-15 00:00:00+00:00
+  abbrev: h
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  date_amended: 2019-01-31 00:00:00+00:00
+  definition: et punkts afstand fra ellipsoiden målt langs normalen fra ellipsoiden
+    til dette punkt. Den er positiv, hvis punktet ligger over eller uden for ellipsoiden
+  examples: []
+  id: 199
+  language_code: dan
+  lineage_source: ISO 19111:2003
+  notes:
+  - Benyttes kun som en del af et 3-dimensionalt geodætisk koordinatsystem og aldrig
+    alene.
+  release: '-1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19111:2019(E)
+  review_decision_notes: This entry is superseded by the entry for geodetic height
+    in ISO 19111:2019(E)
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: geodætisk højde
+    normative_status: null
+    type: expression
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: cb4cf3f9-c9f6-527a-81f7-b07001500c2d
+status: superseded

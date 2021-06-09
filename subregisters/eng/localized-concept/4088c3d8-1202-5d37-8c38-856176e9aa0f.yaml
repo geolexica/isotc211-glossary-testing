@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: '739628'
+    tree:
+      '739628':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/44875.html
+            ref: ISO 19126:2009
+          date_accepted: 2009-11-01 00:00:00+00:00
+          definition: concept that may be specified in detail as one or more feature
+            association types
+          entry_status: valid
+          examples:
+          - A "supports" feature association concept describes a relationship between
+            real world phenomena such as "highways" and "bridges" where the role of
+            one feature is that it is supported-by the other feature (whose role is
+            supporter-of).
+          id: 852
+          language_code: eng
+          notes: []
+          release: '2'
+          terms:
+          - designation: feature association concept
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-11-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  definition: concept that may be specified in detail as one or more feature association
+    types
+  examples:
+  - A "supports" feature association concept describes a relationship between real
+    world phenomena such as "highways" and "bridges" where the role of one feature
+    is that it is supported-by the other feature (whose role is supporter-of).
+  id: 852
+  language_code: eng
+  notes:
+  - A "supports" feature association concept describes a relationship between real
+    world phenomena such as "highways" and "bridges" where the role of one feature
+    is that it is supported-by the other feature (whose role is supporter-of).
+  release: '2'
+  terms:
+  - designation: feature association concept
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: 4088c3d8-1202-5d37-8c38-856176e9aa0f
+status: valid

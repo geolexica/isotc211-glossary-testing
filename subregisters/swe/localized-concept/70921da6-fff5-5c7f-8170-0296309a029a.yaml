@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 0a1654
+    tree:
+      0a1654:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: PI application
+          authoritative_source:
+            clause: '4.10'
+            link: https://www.iso.org/standard/32573.html
+            ref: ISO 19155:2012
+          country_code: swe
+          date_accepted: 2012-11-01 00:00:00+00:00
+          definition: tillämpning som, till slutanvändare eller andra tillämpningar,
+            tillhandahåller tjänster som använder PI-referenser
+          entry_status: valid
+          examples: []
+          id: 1338
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '3'
+          terms:
+          - designation: PI-tillämpning
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-11-01 00:00:00+00:00
+  abbrev: PI application
+  authoritativeSource:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  country_code: swe
+  definition: tillämpning som, till slutanvändare eller andra tillämpningar, tillhandahåller
+    tjänster som använder PI-referenser
+  examples: []
+  id: 1338
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '3'
+  terms:
+  - designation: PI-tillämpning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: 70921da6-fff5-5c7f-8170-0296309a029a
+status: valid

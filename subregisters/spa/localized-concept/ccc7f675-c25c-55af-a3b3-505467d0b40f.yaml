@@ -1,0 +1,72 @@
+data:
+  _revisions:
+    current: df6078
+    tree:
+      df6078:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: j
+          authoritative_source:
+            clause: (E), 3.1.32
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111:2019
+          date_accepted: 2003-02-15 00:00:00+00:00
+          definition: ángulo que forma el plano ecuatorial con la perpendicular al
+            elipsoide desde un punto dado, se toma positiva hacia el norte
+          entry_status: valid
+          examples: []
+          id: 503
+          language_code: spa
+          lineage_source: ISO 19111:2003
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of ISO 19111:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19111:2007
+            to ISO 19111:2019(E), 3.1.32. Lineage source added as ISO 19111:2003
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: latitud elipsoidal
+            normative_status: admitted
+            type: expression
+          - designation: latitud geodésica
+            type: expression
+        parents: []
+        timeCreated: 2003-02-15 00:00:00+00:00
+  abbrev: j
+  authoritativeSource:
+  - clause: (E), 3.1.32
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  definition: ángulo que forma el plano ecuatorial con la perpendicular al elipsoide
+    desde un punto dado, se toma positiva hacia el norte
+  examples: []
+  id: 503
+  language_code: spa
+  lineage_source: ISO 19111:2003
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of ISO 19111:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19111:2007 to ISO
+    19111:2019(E), 3.1.32. Lineage source added as ISO 19111:2003
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: latitud elipsoidal
+    normative_status: admitted
+    type: expression
+  - designation: latitud geodésica
+    type: expression
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: ccc7f675-c25c-55af-a3b3-505467d0b40f
+status: valid

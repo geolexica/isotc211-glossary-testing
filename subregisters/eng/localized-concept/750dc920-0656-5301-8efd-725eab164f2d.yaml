@@ -1,0 +1,65 @@
+data:
+  _revisions:
+    current: c0dd39
+    tree:
+      c0dd39:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2007-07-01 00:00:00+00:00
+          date_amended: 2019-01-31 00:00:00+00:00
+          definition: distance of a point from a chosen reference surface measured
+            downward along a line perpendicular to that surface
+          entry_status: superseded
+          examples: []
+          id: 605
+          language_code: eng
+          notes:
+          - A depth above the reference surface will have a negative value
+          release: '-1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19111:2019(E)
+          review_decision_notes: This entry is superseded by the entry for depth in
+            ISO 19111:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: depth
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  date_amended: 2019-01-31 00:00:00+00:00
+  definition: distance of a point from a chosen reference surface measured downward
+    along a line perpendicular to that surface
+  examples: []
+  id: 605
+  language_code: eng
+  notes:
+  - A depth above the reference surface will have a negative value
+  release: '-1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19111:2019(E)
+  review_decision_notes: This entry is superseded by the entry for depth in ISO 19111:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: depth
+    normative_status: null
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 750dc920-0656-5301-8efd-725eab164f2d
+status: superseded

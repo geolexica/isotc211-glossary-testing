@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: '926097'
+    tree:
+      '926097':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: séquence de périodes de l'un des types utilisés dans un calendrier,
+            comptée à partir d'un évenement particulier
+          entry_status: valid
+          examples: []
+          id: 32
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: ère calendaire
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108
+  definition: séquence de périodes de l'un des types utilisés dans un calendrier,
+    comptée à partir d'un évenement particulier
+  examples: []
+  id: 32
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: ère calendaire
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: e69725ac-f3b1-57f1-8804-d4dcb566078e
+status: valid

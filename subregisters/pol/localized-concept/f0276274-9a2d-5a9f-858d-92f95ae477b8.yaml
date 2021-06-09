@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: b2fadd
+    tree:
+      b2fadd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: obiekt , który działa jak funkcja zwracająca wartości ze swojego
+            zakresu dla każdego położenia bezpośredniego należącego do jej dziedziny
+            przestrzennej, czasowej lub czasoprzestrzennej
+          examples:
+          - Obraz rastrowy, pokrycie wielobokowe lub macierz numerycznego modelu terenu.
+          id: 99
+          language_code: pol
+          lineage_source: PN-EN ISO 19123
+          notes:
+          - Innymi słowy, pokrycie jest obiektem, który ma wiele wartości dla każdego
+            typu atrybutu, przy czym dla każdego bezpośredniego położenia w ramach
+            geometrycznej reprezentacji tego obiektu ma po jednej wartości dla każdego
+            typu atrybutu.
+          release: '1'
+          terms:
+          - designation: pokrycie
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: obiekt , który działa jak funkcja zwracająca wartości ze swojego zakresu
+    dla każdego położenia bezpośredniego należącego do jej dziedziny przestrzennej,
+    czasowej lub czasoprzestrzennej
+  examples:
+  - Obraz rastrowy, pokrycie wielobokowe lub macierz numerycznego modelu terenu.
+  id: 99
+  language_code: pol
+  lineage_source: PN-EN ISO 19123
+  notes:
+  - Obraz rastrowy, pokrycie wielobokowe lub macierz numerycznego modelu terenu.
+  release: '1'
+  terms:
+  - designation: pokrycie
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: f0276274-9a2d-5a9f-858d-92f95ae477b8
+status: valid

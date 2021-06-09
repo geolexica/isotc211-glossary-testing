@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: 1972e3
+    tree:
+      1972e3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          country_code: swe
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: temporalt referenssystem bestående av en intervallskala och
+            där tid anges som en koordinat
+          entry_status: valid
+          examples: []
+          id: 446
+          language_code: swe
+          notes: []
+          release: '1'
+          review_date: 2018-04-09 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: supersession
+          terms:
+          - designation: temporalt koordinatsystem
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  country_code: swe
+  definition: temporalt referenssystem bestående av en intervallskala och där tid
+    anges som en koordinat
+  examples: []
+  id: 446
+  language_code: swe
+  notes: []
+  release: '1'
+  review_date: 2018-04-09 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: supersession
+  terms:
+  - designation: temporalt koordinatsystem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: db893d61-2772-51cc-9498-ebf201c14567
+status: valid

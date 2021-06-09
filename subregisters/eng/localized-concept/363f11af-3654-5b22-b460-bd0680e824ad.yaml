@@ -1,0 +1,58 @@
+data:
+  _revisions:
+    current: '419439'
+    tree:
+      '419439':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.1.6
+            link: https://www.iso.org/standard/72217.html
+            ref: ISO 19146:2018
+          date_accepted: 2018-06-01 00:00:00+00:00
+          definition: part of a cross-mapping data collection which documents the
+            cross-mapped relationships between two concepts
+          entry_status: valid
+          examples: []
+          id: 2259
+          language_code: eng
+          notes: []
+          release: '5'
+          review_date: 2018-06-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-06-01 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19146:2018(E)
+          review_status: final
+          terms:
+          - designation: cross-map entry
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2018-06-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.6
+    link: https://www.iso.org/standard/72217.html
+    ref: ISO 19146:2018
+  definition: part of a cross-mapping data collection which documents the cross-mapped
+    relationships between two concepts
+  examples: []
+  id: 2259
+  language_code: eng
+  notes: []
+  release: '5'
+  review_date: 2018-06-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-06-01 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19146:2018(E)
+  review_status: final
+  terms:
+  - designation: cross-map entry
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-06-01 00:00:00+00:00
+id: 363f11af-3654-5b22-b460-bd0680e824ad
+status: valid

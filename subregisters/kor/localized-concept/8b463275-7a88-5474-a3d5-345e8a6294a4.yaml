@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: a0b51b
+    tree:
+      a0b51b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41445.html
+            ref: ISO 19141:2008
+          date_accepted: 2008-06-01 00:00:00+00:00
+          definition: 매개변수 특정값의 형상
+          entry_status: valid
+          examples: []
+          id: 643
+          language_code: kor
+          notes: []
+          release: '2'
+          terms:
+          - designation: 리프<기하학 매개변수집단>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-06-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  definition: 매개변수 특정값의 형상
+  examples: []
+  id: 643
+  language_code: kor
+  notes: []
+  release: '2'
+  terms:
+  - designation: 리프<기하학 매개변수집단>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 8b463275-7a88-5474-a3d5-345e8a6294a4
+status: valid

@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 651ae8
+    tree:
+      651ae8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: paire ordonnée composée d'un objet spatial, temporel ou spatiotemporel
+            et d'un enregistrement de valeurs d'attributs d'entité
+          entry_status: valid
+          examples: []
+          id: 758
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: paire géométrie - valeur
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  definition: paire ordonnée composée d'un objet spatial, temporel ou spatiotemporel
+    et d'un enregistrement de valeurs d'attributs d'entité
+  examples: []
+  id: 758
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: paire géométrie - valeur
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: f6e27b48-3e95-5cc3-a3e7-08a0bdf61854
+status: valid

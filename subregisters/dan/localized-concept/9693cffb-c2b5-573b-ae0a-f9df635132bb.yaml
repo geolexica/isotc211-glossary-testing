@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: 7c70ee
+    tree:
+      7c70ee:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: ordnet par sammensat af et rumligt objekt, et temporalt objekt
+            eller et rumligt-temporalt objekt og en record af featureattribut-værdier
+          examples: []
+          id: 758
+          language_code: dan
+          notes: []
+          release: '1'
+          terms:
+          - designation: geometrisk værdipar
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: ordnet par sammensat af et rumligt objekt, et temporalt objekt eller
+    et rumligt-temporalt objekt og en record af featureattribut-værdier
+  examples: []
+  id: 758
+  language_code: dan
+  notes: []
+  release: '1'
+  terms:
+  - designation: geometrisk værdipar
+    normative_status: null
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 9693cffb-c2b5-573b-ae0a-f9df635132bb
+status: valid

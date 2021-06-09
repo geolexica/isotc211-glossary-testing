@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: c7a90e
+    tree:
+      c7a90e:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          abbrev: OSE
+          authoritative_source:
+            link: https://www.iso.org/standard/30726.html
+            ref: ISO/IEC TR 10000-1:1998
+          date_accepted: 2004-07-01 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 316
+          language_code: deu
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: offene Systemumgebung
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-07-01 00:00:00+00:00
+  abbrev: OSE
+  authoritativeSource:
+  - link: https://www.iso.org/standard/30726.html
+    ref: ISO/IEC TR 10000-1:1998
+  examples: []
+  id: 316
+  language_code: deu
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: offene Systemumgebung
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 2f1e9947-45e6-543e-a2a6-41daffece70a
+status: valid

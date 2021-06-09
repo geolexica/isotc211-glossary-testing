@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 26b4ec
+    tree:
+      26b4ec:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: tapa, jolla määrittely on toteutettu
+          entry_status: valid
+          examples: []
+          id: 235
+          language_code: fin
+          lineage_source: 'Järvinen, Petteri: IT-tietosanakirja, 2003'
+          notes:
+          - ISO-paikkatietostandardien yhteydessä sanalla määrittely (engl. specification)
+            viitataan sekä paikkatietopalveluiden että paikkatietoaineistojen määrittelyihin.
+          review_indicator: ''
+          terms:
+          - designation: toteutus
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: tapa, jolla määrittely on toteutettu
+  examples: []
+  id: 235
+  language_code: fin
+  lineage_source: 'Järvinen, Petteri: IT-tietosanakirja, 2003'
+  notes:
+  - ISO-paikkatietostandardien yhteydessä sanalla määrittely (engl. specification)
+    viitataan sekä paikkatietopalveluiden että paikkatietoaineistojen määrittelyihin.
+  review_indicator: ''
+  terms:
+  - designation: toteutus
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 40a97963-1a63-5c15-ba73-61b07ddbf0e4
+status: valid

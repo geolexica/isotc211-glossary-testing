@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 6a11d4
+    tree:
+      6a11d4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.59'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: dispositivo usado para detectar y grabar señales
+          entry_status: valid
+          examples: []
+          id: 1567
+          language_code: spa
+          notes:
+          - En los sistemas lidar y sonar el receptor detecta y almacena los pulsos
+            reflejados de retorno.
+          release: '3'
+          terms:
+          - designation: receptor
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.59'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: dispositivo usado para detectar y grabar señales
+  examples: []
+  id: 1567
+  language_code: spa
+  notes:
+  - En los sistemas lidar y sonar el receptor detecta y almacena los pulsos reflejados
+    de retorno.
+  release: '3'
+  terms:
+  - designation: receptor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 5ad90710-1a6f-58d1-8a09-d2a9fe5951f3
+status: valid

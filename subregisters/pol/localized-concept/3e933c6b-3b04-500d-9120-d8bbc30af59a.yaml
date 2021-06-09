@@ -1,0 +1,65 @@
+data:
+  _revisions:
+    current: 2e630b
+    tree:
+      2e630b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: prosta powierzchnia, która jest cyklem
+          examples: []
+          id: 410
+          language_code: pol
+          notes:
+          - Powłoki są stosowane do opisu składowych granic brył w 3-wymiarowych układach
+            współrzędnych.
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of documentISO 19107:2019(E)
+          review_decision_notes: This entry has been omitted from the superseding
+            standard ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: powłoka
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: prosta powierzchnia, która jest cyklem
+  examples: []
+  id: 410
+  language_code: pol
+  notes:
+  - Powłoki są stosowane do opisu składowych granic brył w 3-wymiarowych układach
+    współrzędnych.
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of documentISO 19107:2019(E)
+  review_decision_notes: This entry has been omitted from the superseding standard
+    ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: powłoka
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3e933c6b-3b04-500d-9120-d8bbc30af59a
+status: valid

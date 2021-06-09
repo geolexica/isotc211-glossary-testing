@@ -1,0 +1,47 @@
+data:
+  _revisions:
+    current: 169a72
+    tree:
+      169a72:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: primitiva geométrica unidimensional que representa extensión
+            en el tiempo
+          entry_status: valid
+          examples: []
+          id: 330
+          language_code: spa
+          notes:
+          - Un período está limitado por dos posiciones temporales diferentes.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: período
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: primitiva geométrica unidimensional que representa extensión en el tiempo
+  examples: []
+  id: 330
+  language_code: spa
+  notes:
+  - Un período está limitado por dos posiciones temporales diferentes.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: período
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 8e433388-285c-5c53-bfef-1dc47057d86a
+status: valid

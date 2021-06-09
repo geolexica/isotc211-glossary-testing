@@ -1,0 +1,63 @@
+data:
+  _revisions:
+    current: e24316
+    tree:
+      e24316:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2007-07-01 00:00:00+00:00
+          date_amended: 2019-01-31 00:00:00+00:00
+          definition: مجموعة من الإحداثيات المرتبة والمرتبطة بنظام إحداثيات مرجعي
+            واحد
+          entry_status: superseded
+          examples: []
+          id: 729
+          language_code: ara
+          notes: []
+          release: '-1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19111:2019(E)
+          review_decision_notes: This entry is superseded by the entry for coordinate
+            set in ISO 19111:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: مجموعة إحداثية
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  date_amended: 2019-01-31 00:00:00+00:00
+  definition: مجموعة من الإحداثيات المرتبة والمرتبطة بنظام إحداثيات مرجعي واحد
+  examples: []
+  id: 729
+  language_code: ara
+  notes: []
+  release: '-1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19111:2019(E)
+  review_decision_notes: This entry is superseded by the entry for coordinate set
+    in ISO 19111:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: مجموعة إحداثية
+    normative_status: null
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 0aec7268-72ba-5217-860c-79c907e10c18
+status: superseded

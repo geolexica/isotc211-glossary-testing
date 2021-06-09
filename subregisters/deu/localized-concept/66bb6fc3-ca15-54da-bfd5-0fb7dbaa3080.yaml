@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: b6af4c
+    tree:
+      b6af4c:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          abbrev: ATS
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 6
+          language_code: deu
+          notes:
+          - Abstract test suites are described in a conformance clause.
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: abstrakte Test-Suite
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  abbrev: ATS
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  examples: []
+  id: 6
+  language_code: deu
+  notes:
+  - Abstract test suites are described in a conformance clause.
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: abstrakte Test-Suite
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 66bb6fc3-ca15-54da-bfd5-0fb7dbaa3080
+status: valid

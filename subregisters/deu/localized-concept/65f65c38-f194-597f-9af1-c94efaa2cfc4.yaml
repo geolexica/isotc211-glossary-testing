@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 5e88cb
+    tree:
+      5e88cb:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 159
+          language_code: deu
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: Auswertung <Coverage>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  examples: []
+  id: 159
+  language_code: deu
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: Auswertung <Coverage>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 65f65c38-f194-597f-9af1-c94efaa2cfc4
+status: valid

@@ -1,0 +1,40 @@
+data:
+  _revisions:
+    current: c466be
+    tree:
+      c466be:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: نوع وسيط إعلامي أو وسيط إعلامي فرعي من البيانات التي تكون في
+            متن رسالة تدل على التمثيل الاصلي (الصيغة المقبولة عرفا وقانونا) لتلك البيانات.
+          entry_status: valid
+          examples: []
+          id: 1336
+          language_code: ara
+          notes: []
+          release: '2'
+          terms:
+          - designation: نوع امتدادات بريد الإنترنت المتعددة الأغراض
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - {}
+  definition: نوع وسيط إعلامي أو وسيط إعلامي فرعي من البيانات التي تكون في متن رسالة
+    تدل على التمثيل الاصلي (الصيغة المقبولة عرفا وقانونا) لتلك البيانات.
+  examples: []
+  id: 1336
+  language_code: ara
+  notes: []
+  release: '2'
+  terms:
+  - designation: نوع امتدادات بريد الإنترنت المتعددة الأغراض
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 0a4a2d98-e343-5a10-a100-a2b1b64efbc9
+status: valid

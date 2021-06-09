@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 4cbb63
+    tree:
+      4cbb63:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.71'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: 소나 센서에 의해 탐지된 객체의 지리위치를 결정하기 위해 소나 신호를 처리하는 시스템
+          entry_status: valid
+          examples: []
+          id: 1419
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 소나 프로세싱 시스템
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.71'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: 소나 센서에 의해 탐지된 객체의 지리위치를 결정하기 위해 소나 신호를 처리하는 시스템
+  examples: []
+  id: 1419
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 소나 프로세싱 시스템
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 02b5c78d-b1ab-5067-963b-d7a4660fbf59
+status: valid

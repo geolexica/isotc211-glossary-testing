@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 410aca
+    tree:
+      410aca:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          country_code: swe
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: sequence of periods of one of the types used in a calendar,
+            counted from a specified event
+          entry_status: valid
+          examples: []
+          id: 32
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: kalenderera
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  country_code: swe
+  definition: sequence of periods of one of the types used in a calendar, counted
+    from a specified event
+  examples: []
+  id: 32
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: kalenderera
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: c5a5836e-99f2-552c-a65b-23cadc067db2
+status: valid

@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: d8f917
+    tree:
+      d8f917:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          country_code: swe
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: <i nät> endimensionellt topologiskt element med definierad riktning
+            och som begränsas av en eller två noder
+          entry_status: valid
+          examples: []
+          id: 274
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes:
+          - Link is an alias for directed edge.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: länk
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  country_code: swe
+  definition: <i nät> endimensionellt topologiskt element med definierad riktning
+    och som begränsas av en eller två noder
+  examples: []
+  id: 274
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes:
+  - Link is an alias for directed edge.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: länk
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: c0b1c7e3-9809-5a39-b1e7-bf4781c5b26d
+status: valid

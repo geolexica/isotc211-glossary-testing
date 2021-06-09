@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: '763376'
+    tree:
+      '763376':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.6'
+            link: https://www.iso.org/standard/53798.html
+            ref: ISO 19115-1:2014
+          country_code: swe
+          date_accepted: 2014-04-01 00:00:00+00:00
+          definition: textinformation som kan uttryckas på ett eller flera språk
+          entry_status: valid
+          examples: []
+          id: 1762
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '3'
+          terms:
+          - designation: fritext
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-04-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.6'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  country_code: swe
+  definition: textinformation som kan uttryckas på ett eller flera språk
+  examples: []
+  id: 1762
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '3'
+  terms:
+  - designation: fritext
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-04-01 00:00:00+00:00
+id: 71312b5e-8bfd-58f8-90ac-67f8672e73ff
+status: valid

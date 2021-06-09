@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: d967df
+    tree:
+      d967df:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 72
+          language_code: deu
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: Konformitätsauswertungsprozess
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  examples: []
+  id: 72
+  language_code: deu
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: Konformitätsauswertungsprozess
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 6337412f-76f7-51e3-a5c5-252b53cbbf01
+status: valid

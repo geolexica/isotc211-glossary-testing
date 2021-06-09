@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: d58eaa
+    tree:
+      d58eaa:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.10'
+            link: https://www.iso.org/standard/46226.html
+            ref: ISO 19117:2012
+          date_accepted: 2012-12-15 00:00:00+00:00
+          definition: функция, которая устанавливает соответствие между географическим
+            объектом и символом
+          entry_status: valid
+          examples: []
+          id: 1264
+          language_code: rus
+          lineage_source: перевод ИСО 19117:2012
+          notes: []
+          release: '3'
+          terms:
+          - designation: функция отображения объекта
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  definition: функция, которая устанавливает соответствие между географическим объектом
+    и символом
+  examples: []
+  id: 1264
+  language_code: rus
+  lineage_source: перевод ИСО 19117:2012
+  notes: []
+  release: '3'
+  terms:
+  - designation: функция отображения объекта
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 4e7519f9-7622-59a5-89d2-8cc128ae8490
+status: valid

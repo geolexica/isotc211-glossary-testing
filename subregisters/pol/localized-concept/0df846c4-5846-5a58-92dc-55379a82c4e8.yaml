@@ -1,0 +1,58 @@
+data:
+  _revisions:
+    current: d92b00
+    tree:
+      d92b00:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: skończona, uporządkowana kolekcja powiązanych elementów (obiektów
+            lub wartości), które mogą się powtarzać
+          examples: []
+          id: 403
+          language_code: pol
+          notes:
+          - W sensie logicznym sekwencję można uważać za kolekcję par typu <element,
+            odsunięcie>.W niniejszej Normie Międzynarodowej stosowana jest składnia
+            LISP), w której sekwencje oznacza się nawiasami okrągłymi, a elementy
+            sekwencji oddziela przecinkami.
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: sekwencja
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  definition: skończona, uporządkowana kolekcja powiązanych elementów (obiektów lub
+    wartości), które mogą się powtarzać
+  examples: []
+  id: 403
+  language_code: pol
+  notes:
+  - W sensie logicznym sekwencję można uważać za kolekcję par typu <element, odsunięcie>.W
+    niniejszej Normie Międzynarodowej stosowana jest składnia LISP), w której sekwencje
+    oznacza się nawiasami okrągłymi, a elementy sekwencji oddziela przecinkami.
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: sekwencja
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 0df846c4-5846-5a58-92dc-55379a82c4e8
+status: valid

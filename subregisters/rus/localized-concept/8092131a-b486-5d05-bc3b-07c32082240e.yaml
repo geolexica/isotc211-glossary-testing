@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 7631ee
+    tree:
+      7631ee:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: набор вычислительных операций, применяемых к экземпляру данных,
+            которые оцениваются как правда или ложь
+          entry_status: valid
+          examples: []
+          id: 807
+          language_code: rus
+          lineage_source: ISO 19143:2010
+          notes: []
+          release: '2'
+          terms:
+          - designation: предикат
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: набор вычислительных операций, применяемых к экземпляру данных, которые
+    оцениваются как правда или ложь
+  examples: []
+  id: 807
+  language_code: rus
+  lineage_source: ISO 19143:2010
+  notes: []
+  release: '2'
+  terms:
+  - designation: предикат
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 8092131a-b486-5d05-bc3b-07c32082240e
+status: valid

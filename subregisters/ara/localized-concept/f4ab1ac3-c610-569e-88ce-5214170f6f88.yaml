@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: 4e5cba
+    tree:
+      4e5cba:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/39242.html
+            ref: ISO 6709:2008
+          date_accepted: 2008-07-15 00:00:00+00:00
+          definition: الارتفاع عند ما يكون سطح الإسناد المرجعي هو متوسط منسوب سطح
+            البحر
+          entry_status: valid
+          examples: []
+          id: 733
+          language_code: ara
+          notes: []
+          release: '2'
+          terms:
+          - designation: الارتفاع
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/39242.html
+    ref: ISO 6709:2008
+  definition: الارتفاع عند ما يكون سطح الإسناد المرجعي هو متوسط منسوب سطح البحر
+  examples: []
+  id: 733
+  language_code: ara
+  notes: []
+  release: '2'
+  terms:
+  - designation: الارتفاع
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: f4ab1ac3-c610-569e-88ce-5214170f6f88
+status: valid

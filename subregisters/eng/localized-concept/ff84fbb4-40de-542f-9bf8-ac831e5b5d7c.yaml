@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 26898f
+    tree:
+      26898f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.18'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: licence related to geoinformation
+          entry_status: valid
+          examples: []
+          id: 1224
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: GeoLicence
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: licence related to geoinformation
+  examples: []
+  id: 1224
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: GeoLicence
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: ff84fbb4-40de-542f-9bf8-ac831e5b5d7c
+status: valid

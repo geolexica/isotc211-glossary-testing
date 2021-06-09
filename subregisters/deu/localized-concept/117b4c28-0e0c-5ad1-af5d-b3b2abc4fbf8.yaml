@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: '446306'
+    tree:
+      '446306':
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40601.html
+            ref: ISO 19132:2007
+          date_accepted: 2007-10-15 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 672
+          language_code: deu
+          notes:
+          - cf. coupling
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: Loosely Coupled Interface
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  examples: []
+  id: 672
+  language_code: deu
+  notes:
+  - cf. coupling
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: Loosely Coupled Interface
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 117b4c28-0e0c-5ad1-af5d-b3b2abc4fbf8
+status: valid

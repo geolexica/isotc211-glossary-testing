@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 4d701e
+    tree:
+      4d701e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/39242.html
+            ref: ISO 6709:2008
+          date_accepted: 2008-07-15 00:00:00+00:00
+          definition: height where the chosen reference surface is mean sea level
+          entry_status: valid
+          examples: []
+          id: 733
+          language_code: eng
+          notes: []
+          release: '2'
+          terms:
+          - designation: altitude
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/39242.html
+    ref: ISO 6709:2008
+  definition: height where the chosen reference surface is mean sea level
+  examples: []
+  id: 733
+  language_code: eng
+  notes: []
+  release: '2'
+  terms:
+  - designation: altitude
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: bf0c810a-3f9f-5bd7-ae7f-fe3a8dc1f987
+status: valid

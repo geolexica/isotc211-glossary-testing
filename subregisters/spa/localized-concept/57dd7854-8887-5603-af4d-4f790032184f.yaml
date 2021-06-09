@@ -1,0 +1,71 @@
+data:
+  _revisions:
+    current: 8ba70d
+    tree:
+      8ba70d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.1.58
+            link: https://www.iso.org/standard/75676.html
+            ref: ISO 19136-1:2020
+          date_accepted: 2007-09-01 00:00:00+00:00
+          definition: marca en un documento XML que delimita el contenido de un elemento
+          entry_status: valid
+          examples:
+          - <Carretera>
+          id: 441
+          language_code: spa
+          lineage_source: ISO 19136:2007(E)
+          lineage_source_similarity: 1
+          notes:
+          - Una etiqueta que no se preceda con una barra (por ejemplo, <Carretera>)
+            se denomina etiqueta inicial (también etiqueta de apertura), y una que
+            se preceda con una barra (por ejemplo, </Carretera>) se denomina etiqueta
+            final (también etiqueta de cierre)
+          release: '1'
+          review_date: 2020-01-09 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2020-01-09 00:00:00+00:00
+          review_decision_event: Publication of ISO 19136-1:2020(E)
+          review_decision_notes: Authoritative reference changed from ISO 19136:2007
+            to ISO 19136-1:2020(E), 3.1.58. Lineage source added as ISO 19136:2007(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: etiqueta <XML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.58
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  definition: marca en un documento XML que delimita el contenido de un elemento
+  examples:
+  - <Carretera>
+  id: 441
+  language_code: spa
+  lineage_source: ISO 19136:2007(E)
+  lineage_source_similarity: 1
+  notes:
+  - <Carretera>
+  release: '1'
+  review_date: 2020-01-09 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2020-01-09 00:00:00+00:00
+  review_decision_event: Publication of ISO 19136-1:2020(E)
+  review_decision_notes: Authoritative reference changed from ISO 19136:2007 to ISO
+    19136-1:2020(E), 3.1.58. Lineage source added as ISO 19136:2007(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: etiqueta <XML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 57dd7854-8887-5603-af4d-4f790032184f
+status: valid

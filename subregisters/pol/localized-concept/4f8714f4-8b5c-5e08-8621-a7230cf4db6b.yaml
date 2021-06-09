@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: a07b1e
+    tree:
+      a07b1e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128:2005
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: wywołanie operacji przez klienta
+          examples: []
+          id: 380
+          language_code: pol
+          lineage_source: PN-EN-ISO 19128
+          notes: []
+          release: '1'
+          terms:
+          - designation: żądanie
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  definition: wywołanie operacji przez klienta
+  examples: []
+  id: 380
+  language_code: pol
+  lineage_source: PN-EN-ISO 19128
+  notes: []
+  release: '1'
+  terms:
+  - designation: żądanie
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 4f8714f4-8b5c-5e08-8621-a7230cf4db6b
+status: valid

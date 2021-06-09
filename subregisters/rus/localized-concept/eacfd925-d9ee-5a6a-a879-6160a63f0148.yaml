@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: efd100
+    tree:
+      efd100:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: константа,  явно заданное значение
+          entry_status: valid
+          examples: []
+          id: 1029
+          language_code: rus
+          lineage_source: ISO 19143:2010
+          notes:
+          - это контрастирует со значением, которое определяется путем разрешения
+            цепочки подстановок (например, переменной)
+          release: '2'
+          terms:
+          - designation: литеральное значение
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: константа,  явно заданное значение
+  examples: []
+  id: 1029
+  language_code: rus
+  lineage_source: ISO 19143:2010
+  notes:
+  - это контрастирует со значением, которое определяется путем разрешения цепочки
+    подстановок (например, переменной)
+  release: '2'
+  terms:
+  - designation: литеральное значение
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: eacfd925-d9ee-5a6a-a879-6160a63f0148
+status: valid

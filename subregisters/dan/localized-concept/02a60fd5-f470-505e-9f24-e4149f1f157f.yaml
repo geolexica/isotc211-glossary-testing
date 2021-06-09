@@ -1,0 +1,41 @@
+data:
+  _revisions:
+    current: 7ee0aa
+    tree:
+      7ee0aa:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: implementering, der opfylder kravene
+          examples: []
+          id: 77
+          language_code: dan
+          notes: []
+          release: '1'
+          terms:
+          - designation: overensstemmende implementering
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: implementering, der opfylder kravene
+  examples: []
+  id: 77
+  language_code: dan
+  notes: []
+  release: '1'
+  terms:
+  - designation: overensstemmende implementering
+    normative_status: null
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 02a60fd5-f470-505e-9f24-e4149f1f157f
+status: valid

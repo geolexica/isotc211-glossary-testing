@@ -1,0 +1,60 @@
+data:
+  _revisions:
+    current: 1478bf
+    tree:
+      1478bf:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: 지구에 대한 2차원 또는 3차원 좌표 체계의 관계를 기술하는 데이텀
+          entry_status: valid
+          examples: []
+          id: 708
+          language_code: kor
+          notes: []
+          release: '1'
+          review_date: 2017-06-28 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2007-07-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19111:2007
+          review_indicator: ''
+          review_status: pending
+          review_type: supersession
+          terms:
+          - designation: 측지 원점
+            normative_status: preferred
+            type: expression
+          - designation: 측지 데이텀
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  definition: 지구에 대한 2차원 또는 3차원 좌표 체계의 관계를 기술하는 데이텀
+  examples: []
+  id: 708
+  language_code: kor
+  notes: []
+  release: '1'
+  review_date: 2017-06-28 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2007-07-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19111:2007
+  review_indicator: ''
+  review_status: pending
+  review_type: supersession
+  terms:
+  - designation: 측지 원점
+    normative_status: preferred
+    type: expression
+  - designation: 측지 데이텀
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 3663a7b6-36b2-5efa-826d-876572ad7b31
+status: valid

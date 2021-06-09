@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 4a0765
+    tree:
+      4a0765:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: eindimensionales geometrisches Primitiv, das eine zeitliche
+            Ausdehnung darstellt
+          entry_status: valid
+          examples: []
+          id: 330
+          language_code: deu
+          notes:
+          - A period is bounded by two different temporal positions.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: Periode
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: eindimensionales geometrisches Primitiv, das eine zeitliche Ausdehnung
+    darstellt
+  examples: []
+  id: 330
+  language_code: deu
+  notes:
+  - A period is bounded by two different temporal positions.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: Periode
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 42bd0533-29c3-5a89-9953-94bb67e8518e
+status: valid

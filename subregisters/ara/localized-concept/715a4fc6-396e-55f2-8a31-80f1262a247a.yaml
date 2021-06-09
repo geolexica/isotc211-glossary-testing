@@ -1,0 +1,60 @@
+data:
+  _revisions:
+    current: 398d57
+    tree:
+      398d57:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: CEOS WGCV
+          date_accepted: 2008-06-01 00:00:00+00:00
+          definition: عملية تقييم بواسطة وسائل مستقلة لجودة منتجات البيانات المشتقة
+            من مخرجات النظام.
+          entry_status: valid
+          examples: []
+          id: 871
+          language_code: ara
+          lineage_source: ISO/TS 19101-2:2008(E)
+          lineage_source_similarity: 1
+          notes: []
+          release: '2'
+          review_date: 2018-05-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-05-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19101-2:2018(E)
+          review_decision_notes: Authoritative reference changed from CEOS WGCV to
+            CEOS WGCV. Lineage source added as ISO/TS 19101-2:2008(E)
+          review_status: final
+          terms:
+          - designation: التحقق
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-06-01 00:00:00+00:00
+  authoritativeSource:
+  - ref: CEOS WGCV
+  definition: عملية تقييم بواسطة وسائل مستقلة لجودة منتجات البيانات المشتقة من مخرجات
+    النظام.
+  examples: []
+  id: 871
+  language_code: ara
+  lineage_source: ISO/TS 19101-2:2008(E)
+  lineage_source_similarity: 1
+  notes: []
+  release: '2'
+  review_date: 2018-05-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-05-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19101-2:2018(E)
+  review_decision_notes: Authoritative reference changed from CEOS WGCV to CEOS WGCV.
+    Lineage source added as ISO/TS 19101-2:2008(E)
+  review_status: final
+  terms:
+  - designation: التحقق
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 715a4fc6-396e-55f2-8a31-80f1262a247a
+status: valid

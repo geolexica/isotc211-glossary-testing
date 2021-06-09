@@ -1,0 +1,49 @@
+data:
+  _revisions:
+    current: 56b4aa
+    tree:
+      56b4aa:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: تعاقب  للمعالم يتم فيه استبدال حاله معلم ما بحاله اخرى لنفس
+            نوع المعلم او نوع مختلف اخر
+          entry_status: valid
+          examples:
+          - نظير نوع المعلم "مبنى" يزال ويستبدل بنظير آخر لنوع المعلم هو "مواقف سيارات".
+          id: 180
+          language_code: ara
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: استبدال المعالم
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: تعاقب  للمعالم يتم فيه استبدال حاله معلم ما بحاله اخرى لنفس نوع المعلم
+    او نوع مختلف اخر
+  examples:
+  - نظير نوع المعلم "مبنى" يزال ويستبدل بنظير آخر لنوع المعلم هو "مواقف سيارات".
+  id: 180
+  language_code: ara
+  notes:
+  - نظير نوع المعلم "مبنى" يزال ويستبدل بنظير آخر لنوع المعلم هو "مواقف سيارات".
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: استبدال المعالم
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 4c0c175c-8950-5d2c-8be7-7822abf02e9e
+status: valid

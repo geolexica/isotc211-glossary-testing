@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: 0a667e
+    tree:
+      0a667e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.26'
+            link: https://www.iso.org/standard/46226.html
+            ref: ISO 19117:2012
+          date_accepted: 2005-06-01 00:00:00+00:00
+          definition: базовый интерфейс, используемый для отображения моделей объектов
+          entry_status: valid
+          examples: []
+          id: 345
+          language_code: rus
+          lineage_source: перевод ИСО 19117:2012
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2009-11-25 00:00:00+00:00
+          review_decision: ''
+          review_decision_date: 2012-12-15 00:00:00+00:00
+          review_decision_event: Публикация ИСО19117:2012
+          review_decision_notes: 'Авторитетная ссылка изменена с ISO 19117:2005 на
+            ISO 19117: 2012. Источник происхождения добавлен как ISO 19117: 2005.'
+          review_indicator: ''
+          review_status: ''
+          terms:
+          - designation: сервис  графического отображения
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-06-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.26'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  definition: базовый интерфейс, используемый для отображения моделей объектов
+  examples: []
+  id: 345
+  language_code: rus
+  lineage_source: перевод ИСО 19117:2012
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2009-11-25 00:00:00+00:00
+  review_decision: ''
+  review_decision_date: 2012-12-15 00:00:00+00:00
+  review_decision_event: Публикация ИСО19117:2012
+  review_decision_notes: 'Авторитетная ссылка изменена с ISO 19117:2005 на ISO 19117:
+    2012. Источник происхождения добавлен как ISO 19117: 2005.'
+  review_indicator: ''
+  review_status: ''
+  terms:
+  - designation: сервис  графического отображения
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 1788de61-694a-5a94-b2dd-1bea386af76c
+status: valid

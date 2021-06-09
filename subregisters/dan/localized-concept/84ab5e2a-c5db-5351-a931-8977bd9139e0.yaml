@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: 47abba
+    tree:
+      47abba:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.4'
+            link: https://www.iso.org/standard/26018.html
+            ref: ISO 19113:2002
+          date_accepted: 2002-12-01 00:00:00+00:00
+          date_amended: 2013-12-15 00:00:00+00:00
+          definition: dato eller periode hvor et mål for datakvalitet foretages
+          entry_status: retired
+          examples: []
+          id: 112
+          language_code: dan
+          lineage_source: ''
+          notes: []
+          release: '-1'
+          review_date: 2013-12-15 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2013-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19157:2013
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19157:2013).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: datakvalitet, dato for
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2002-12-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  date_amended: 2013-12-15 00:00:00+00:00
+  definition: dato eller periode hvor et mål for datakvalitet foretages
+  examples: []
+  id: 112
+  language_code: dan
+  lineage_source: ''
+  notes: []
+  release: '-1'
+  review_date: 2013-12-15 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2013-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19157:2013
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19157:2013).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: datakvalitet, dato for
+    normative_status: null
+    type: expression
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 84ab5e2a-c5db-5351-a931-8977bd9139e0
+status: retired

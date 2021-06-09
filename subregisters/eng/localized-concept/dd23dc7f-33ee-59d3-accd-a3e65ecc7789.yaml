@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: e101e5
+    tree:
+      e101e5:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: modified – Derived from 7.5.2.1
+            link: https://www.iso.org/standard/56734.html
+            ref: ISO 19103:2015
+          date_accepted: 2015-07-01 00:00:00+00:00
+          definition: domain in which names, expressed by character strings, can be
+            mapped to objects
+          entry_status: valid
+          examples: []
+          id: 1588
+          language_code: eng
+          lineage_source: ISO 19150-2:2015, 4.1.25
+          notes:
+          - The names can be subject to local constraints enforced by the namespace.
+          release: '4'
+          review_date: 2012-05-25 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-07-01 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19150-2:2015(E)
+          review_status: final
+          terms:
+          - designation: namespace <general>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2015-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: modified – Derived from 7.5.2.1
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  definition: domain in which names, expressed by character strings, can be mapped
+    to objects
+  examples: []
+  id: 1588
+  language_code: eng
+  lineage_source: ISO 19150-2:2015, 4.1.25
+  notes:
+  - The names can be subject to local constraints enforced by the namespace.
+  release: '4'
+  review_date: 2012-05-25 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-07-01 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19150-2:2015(E)
+  review_status: final
+  terms:
+  - designation: namespace <general>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: dd23dc7f-33ee-59d3-accd-a3e65ecc7789
+status: valid

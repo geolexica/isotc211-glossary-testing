@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: 4cdf6c
+    tree:
+      4cdf6c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: ajoneuvotyyppi, jonka määrittely pohjautuu ajoneuvon rakenteeseen
+            tai käyttötarkoitukseen
+          entry_status: valid
+          examples: []
+          id: 493
+          language_code: fin
+          lineage_source: Ei lähdettä, käännetty
+          notes:
+          - Rakenteeseen pohjautuvia luokituksia ovat henkilöauto, kuorma-auto, bussi,
+            polkupyörä jne. Käyttötarkoituksen pohjalta tehtyjä luokituksia ovat taksi,
+            hätäajoneuvo jne. Ajoneuvoluokitus voi vaikuttaa navigaatiorajoitusten
+            soveltamiseen.
+          terms:
+          - designation: ajoneuvoluokitus
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: ajoneuvotyyppi, jonka määrittely pohjautuu ajoneuvon rakenteeseen tai
+    käyttötarkoitukseen
+  examples: []
+  id: 493
+  language_code: fin
+  lineage_source: Ei lähdettä, käännetty
+  notes:
+  - Rakenteeseen pohjautuvia luokituksia ovat henkilöauto, kuorma-auto, bussi, polkupyörä
+    jne. Käyttötarkoituksen pohjalta tehtyjä luokituksia ovat taksi, hätäajoneuvo
+    jne. Ajoneuvoluokitus voi vaikuttaa navigaatiorajoitusten soveltamiseen.
+  terms:
+  - designation: ajoneuvoluokitus
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: ab4739a9-fd9a-57c1-9ac2-0e6ad28b6fef
+status: valid

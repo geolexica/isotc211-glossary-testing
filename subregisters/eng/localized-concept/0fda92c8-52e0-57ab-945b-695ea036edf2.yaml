@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: ff3bae
+    tree:
+      ff3bae:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.95
+            link: https://www.iso.org/standard/66175.html
+            ref: ISO 19107:2019
+          date_accepted: 2019-12-02 00:00:00+00:00
+          definition: first derivative of a curve parameterized by arc length
+          entry_status: valid
+          examples: []
+          id: 2095
+          language_code: eng
+          notes:
+          - If `c(s) = (x(s), y(s), z(s))` is a curve in a 3D Cartesian space (`bbb"E"^3`),
+            and `s` is arc length along `c`, then the tangent is `vec tau(s) = dot
+            c(s) = (dot x(s), dot y(s), dot z(s))`, i.e. the derivative of the coordinate
+            values of `c` with respect to `s`. The curvature vector is `kappa(s) =
+            ddot c(s) = (ddot x(s), ddot y(s), ddot z(s))`.
+          release: '5'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19107:2019(E)
+          review_status: final
+          terms:
+          - designation: tangent vector
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2019-12-02 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.95
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  definition: first derivative of a curve parameterized by arc length
+  examples: []
+  id: 2095
+  language_code: eng
+  notes:
+  - If `c(s) = (x(s), y(s), z(s))` is a curve in a 3D Cartesian space (`bbb"E"^3`),
+    and `s` is arc length along `c`, then the tangent is `vec tau(s) = dot c(s) =
+    (dot x(s), dot y(s), dot z(s))`, i.e. the derivative of the coordinate values
+    of `c` with respect to `s`. The curvature vector is `kappa(s) = ddot c(s) = (ddot
+    x(s), ddot y(s), ddot z(s))`.
+  release: '5'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19107:2019(E)
+  review_status: final
+  terms:
+  - designation: tangent vector
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 0fda92c8-52e0-57ab-945b-695ea036edf2
+status: valid

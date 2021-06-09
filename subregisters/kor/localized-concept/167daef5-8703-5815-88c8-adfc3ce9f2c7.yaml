@@ -1,0 +1,68 @@
+data:
+  _revisions:
+    current: c224c2
+    tree:
+      c224c2:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.1.49
+            link: https://www.iso.org/standard/75676.html
+            ref: ISO 19136-1:2020
+          date_accepted: 2007-09-01 00:00:00+00:00
+          definition: GML 객체의 자식 요소
+          entry_status: valid
+          examples: []
+          id: 534
+          language_code: kor
+          lineage_source: ISO 19136:2007(E)
+          lineage_source_similarity: 1
+          notes:
+          - 속성(property)은 KS X ISO 19109의 피처 속성, 피처 연관 규칙에 해당한다. 피처의 GML 속성은 피처를 참조하는
+            xlink:href 속성을 갖고, 그 속성은 피처 연관 규칙을 나타낸다.
+          release: '1'
+          review_date: 2020-01-09 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2020-01-09 00:00:00+00:00
+          review_decision_event: Publication of ISO 19136-1:2020(E)
+          review_decision_notes: Authoritative reference changed from ISO 19136:2007
+            to ISO 19136-1:2020(E), 3.1.49. Lineage source added as ISO 19136:2007(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: 속성 <GML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.49
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  definition: GML 객체의 자식 요소
+  examples: []
+  id: 534
+  language_code: kor
+  lineage_source: ISO 19136:2007(E)
+  lineage_source_similarity: 1
+  notes:
+  - 속성(property)은 KS X ISO 19109의 피처 속성, 피처 연관 규칙에 해당한다. 피처의 GML 속성은 피처를 참조하는 xlink:href
+    속성을 갖고, 그 속성은 피처 연관 규칙을 나타낸다.
+  release: '1'
+  review_date: 2020-01-09 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2020-01-09 00:00:00+00:00
+  review_decision_event: Publication of ISO 19136-1:2020(E)
+  review_decision_notes: Authoritative reference changed from ISO 19136:2007 to ISO
+    19136-1:2020(E), 3.1.49. Lineage source added as ISO 19136:2007(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: 속성 <GML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 167daef5-8703-5815-88c8-adfc3ce9f2c7
+status: valid

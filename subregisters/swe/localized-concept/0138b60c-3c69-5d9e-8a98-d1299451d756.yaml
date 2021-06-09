@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 13e878
+    tree:
+      13e878:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40601.html
+            ref: ISO 19132:2007
+          country_code: swe
+          date_accepted: 2007-10-15 00:00:00+00:00
+          definition: hantering av behörighetsfrågor
+          entry_status: valid
+          examples: []
+          id: 681
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: behörighetshantering
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  country_code: swe
+  definition: hantering av behörighetsfrågor
+  examples: []
+  id: 681
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: behörighetshantering
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 0138b60c-3c69-5d9e-8a98-d1299451d756
+status: valid

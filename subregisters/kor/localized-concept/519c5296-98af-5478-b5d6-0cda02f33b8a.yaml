@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: a7de74
+    tree:
+      a7de74:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.1.10
+            link: https://www.iso.org/standard/33636.html
+            ref: ISO 5127:2001
+          date_accepted: 2014-04-01 00:00:00+00:00
+          definition: 기록을 생성, 수집, 유지 및 사용하는 개인 또는 기관
+          entry_status: valid
+          examples: []
+          id: 1439
+          language_code: kor
+          lineage_source: ISO 19115-1:2014, 4.16
+          lineage_source_similarity: '1'
+          notes: []
+          release: '3'
+          terms:
+          - designation: 기원, 출처, 유래
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-04-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.1.10
+    link: https://www.iso.org/standard/33636.html
+    ref: ISO 5127:2001
+  definition: 기록을 생성, 수집, 유지 및 사용하는 개인 또는 기관
+  examples: []
+  id: 1439
+  language_code: kor
+  lineage_source: ISO 19115-1:2014, 4.16
+  lineage_source_similarity: '1'
+  notes: []
+  release: '3'
+  terms:
+  - designation: 기원, 출처, 유래
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-04-01 00:00:00+00:00
+id: 519c5296-98af-5478-b5d6-0cda02f33b8a
+status: valid

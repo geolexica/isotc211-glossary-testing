@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 2fadae
+    tree:
+      2fadae:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          country_code: swe
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: XML-kodad beskrivning av vilka typer av testuttryck (predikat)
+            som kan användas för urval
+          entry_status: valid
+          examples: []
+          id: 1019
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '2'
+          terms:
+          - designation: XML-beskrivning av urvalsmöjligheter
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  country_code: swe
+  definition: XML-kodad beskrivning av vilka typer av testuttryck (predikat) som kan
+    användas för urval
+  examples: []
+  id: 1019
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '2'
+  terms:
+  - designation: XML-beskrivning av urvalsmöjligheter
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: c3f31666-b796-5b90-9253-36e9e8142b97
+status: valid

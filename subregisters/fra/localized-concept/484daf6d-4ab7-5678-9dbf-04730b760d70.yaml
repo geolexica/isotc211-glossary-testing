@@ -1,0 +1,58 @@
+data:
+  _revisions:
+    current: 8def38
+    tree:
+      8def38:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: Fourth Edition, Oxford University Press
+            ref: Dictionary of Computing
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: ensemble géométrique dans laquelle n'importe quelle position
+            directe sur le segment de droite joignant deux points dans l'ensemble
+            géométrique est également contenue dans l'ensemble géométrique
+          entry_status: valid
+          examples: []
+          id: 87
+          language_code: fra
+          lineage_source: ISO 19107:2003
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: ensemble convexe
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: Fourth Edition, Oxford University Press
+    ref: Dictionary of Computing
+  definition: ensemble géométrique dans laquelle n'importe quelle position directe
+    sur le segment de droite joignant deux points dans l'ensemble géométrique est
+    également contenue dans l'ensemble géométrique
+  examples: []
+  id: 87
+  language_code: fra
+  lineage_source: ISO 19107:2003
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: ensemble convexe
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 484daf6d-4ab7-5678-9dbf-04730b760d70
+status: valid

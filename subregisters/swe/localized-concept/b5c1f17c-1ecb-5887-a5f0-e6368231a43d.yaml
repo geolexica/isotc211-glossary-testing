@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: f9f015
+    tree:
+      f9f015:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.30'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          country_code: swe
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: mikrofon för användning i vatten för att lyssna och registrera
+            ljudpulser och omvandla till elektrisk signal
+          entry_status: valid
+          examples: []
+          id: 1392
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '3'
+          terms:
+          - designation: hydrofon (passiv SONAR)
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.30'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  country_code: swe
+  definition: mikrofon för användning i vatten för att lyssna och registrera ljudpulser
+    och omvandla till elektrisk signal
+  examples: []
+  id: 1392
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '3'
+  terms:
+  - designation: hydrofon (passiv SONAR)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: b5c1f17c-1ecb-5887-a5f0-e6368231a43d
+status: valid

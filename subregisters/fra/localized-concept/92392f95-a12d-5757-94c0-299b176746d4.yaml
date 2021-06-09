@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: dc6d8d
+    tree:
+      dc6d8d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/37805.html
+            ref: ISO 19116:2004
+          date_accepted: 2004-07-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: étroitesse de l'accord entre la différence de coordonnées et
+            la valeur vraie ou acceptée dans un système de référence spécifié
+          entry_status: retired
+          examples: []
+          id: 378
+          language_code: fra
+          notes: []
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of documentISO 19116:2019(E)
+          review_decision_notes: This entry has been omitted from the superseding
+            standard ISO 19116:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: précision relative de postion
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2004-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: étroitesse de l'accord entre la différence de coordonnées et la valeur
+    vraie ou acceptée dans un système de référence spécifié
+  examples: []
+  id: 378
+  language_code: fra
+  notes: []
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of documentISO 19116:2019(E)
+  review_decision_notes: This entry has been omitted from the superseding standard
+    ISO 19116:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: précision relative de postion
+    normative_status: null
+    type: expression
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 92392f95-a12d-5757-94c0-299b176746d4
+status: retired

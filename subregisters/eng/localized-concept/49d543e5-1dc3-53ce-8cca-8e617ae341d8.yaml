@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 0adbc4
+    tree:
+      0adbc4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: Fifth Edition
+            ref: IHO Hydrographic Dictionary S-32
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: strip or lane on the ground scanned by a multi-beam sounder
+            when the survey vessel proceeds along its course
+          entry_status: valid
+          examples: []
+          id: 1394
+          language_code: eng
+          lineage_source: ISO/TS 19130-2:2014, 4.32
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: hydrographic swath<SONAR>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  definition: strip or lane on the ground scanned by a multi-beam sounder when the
+    survey vessel proceeds along its course
+  examples: []
+  id: 1394
+  language_code: eng
+  lineage_source: ISO/TS 19130-2:2014, 4.32
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: hydrographic swath<SONAR>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 49d543e5-1dc3-53ce-8cca-8e617ae341d8
+status: valid

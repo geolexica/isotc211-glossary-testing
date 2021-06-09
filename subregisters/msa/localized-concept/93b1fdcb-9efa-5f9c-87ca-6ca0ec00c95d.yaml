@@ -1,0 +1,58 @@
+data:
+  _revisions:
+    current: 00b318
+    tree:
+      00b318:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.7
+            link: https://www.iso.org/standard/32553.html
+            ref: ISO 19135:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: definisi perkara berkaitan persekitaran pengguna yang bergantung
+            kepada penggunaan bahasa dan budaya
+          entry_status: valid
+          examples: []
+          id: 507
+          language_code: msa
+          lineage_source: ''
+          lineage_source_similarity: 0
+          notes: []
+          release: '1'
+          review_date: 2014-03-25 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: supersession
+          terms:
+          - designation: tempat peristiwa
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  definition: definisi perkara berkaitan persekitaran pengguna yang bergantung kepada
+    penggunaan bahasa dan budaya
+  examples: []
+  id: 507
+  language_code: msa
+  lineage_source: ''
+  lineage_source_similarity: 0
+  notes: []
+  release: '1'
+  review_date: 2014-03-25 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: supersession
+  terms:
+  - designation: tempat peristiwa
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 93b1fdcb-9efa-5f9c-87ca-6ca0ec00c95d
+status: valid

@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: 0961c7
+    tree:
+      0961c7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40601.html
+            ref: ISO 19132
+          date_accepted: 2007-10-15 00:00:00+00:00
+          definition: suivi et positionnement du véhicule (ou du voyageur) équipé
+            d'un dispositif d'asservissement lorsque celui-ci passe à portée de capteurs
+            stationnaires externes
+          entry_status: valid
+          examples: []
+          id: 678
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: localisation passive
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  definition: suivi et positionnement du véhicule (ou du voyageur) équipé d'un dispositif
+    d'asservissement lorsque celui-ci passe à portée de capteurs stationnaires externes
+  examples: []
+  id: 678
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: localisation passive
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: e70b5c5f-7840-5d21-afaf-88c01ec44e8d
+status: valid

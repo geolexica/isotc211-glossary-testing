@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: f45966
+    tree:
+      f45966:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: modified
+            ref: Web Service Glossary
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: conjunto de acciones unidas en la misma unidad de trabajo, de
+            tal manera que o se completan o fallan todas como un todo
+          entry_status: valid
+          examples: []
+          id: 1257
+          language_code: spa
+          lineage_source: ISO 19153:2014, 4.49
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: transacción
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: modified
+    ref: Web Service Glossary
+  definition: conjunto de acciones unidas en la misma unidad de trabajo, de tal manera
+    que o se completan o fallan todas como un todo
+  examples: []
+  id: 1257
+  language_code: spa
+  lineage_source: ISO 19153:2014, 4.49
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: transacción
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 5367e40d-c928-5a58-b063-f34e79a1bf03
+status: valid

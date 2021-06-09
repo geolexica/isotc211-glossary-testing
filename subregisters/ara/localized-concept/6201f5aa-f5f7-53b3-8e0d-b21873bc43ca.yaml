@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: a76410
+    tree:
+      a76410:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32562.html
+            ref: ISO 19144-1:2009
+          date_accepted: 2009-08-15 00:00:00+00:00
+          definition: كيان مكاني أو زماني أو مكاني-زماني يعين ضمن فئة تصنيف مفهرسة
+            و محددة
+          entry_status: valid
+          examples: []
+          id: 849
+          language_code: ara
+          notes: []
+          release: '2'
+          terms:
+          - designation: كيان مصنَّف
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  definition: كيان مكاني أو زماني أو مكاني-زماني يعين ضمن فئة تصنيف مفهرسة و محددة
+  examples: []
+  id: 849
+  language_code: ara
+  notes: []
+  release: '2'
+  terms:
+  - designation: كيان مصنَّف
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 6201f5aa-f5f7-53b3-8e0d-b21873bc43ca
+status: valid

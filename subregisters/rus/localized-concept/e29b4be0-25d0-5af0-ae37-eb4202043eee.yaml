@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 6f8221
+    tree:
+      6f8221:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: Derived from FindLaw for “agent”
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: принципал, уполномоченный действовать от имени и под контролем
+            другого лица в отношениях с третьими сторонами в контексте выдачи лицензий
+            на конкретные ресурсы
+          entry_status: valid
+          examples: []
+          id: 1236
+          language_code: rus
+          lineage_source: ISO 19153:2014, 4.30
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: агент по лицензированию
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: Derived from FindLaw for “agent”
+  definition: принципал, уполномоченный действовать от имени и под контролем другого
+    лица в отношениях с третьими сторонами в контексте выдачи лицензий на конкретные
+    ресурсы
+  examples: []
+  id: 1236
+  language_code: rus
+  lineage_source: ISO 19153:2014, 4.30
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: агент по лицензированию
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: e29b4be0-25d0-5af0-ae37-eb4202043eee
+status: valid

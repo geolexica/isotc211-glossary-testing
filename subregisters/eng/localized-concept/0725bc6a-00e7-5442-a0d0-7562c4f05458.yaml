@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 81c7a5
+    tree:
+      81c7a5:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: modified
+            ref: FindLaw
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: agreement between two or more principals that creates in each
+            principal a duty to do or not do something and a right to performance
+            of the other's duty or a remedy for the breach of the other's duty
+          entry_status: valid
+          examples: []
+          id: 1215
+          language_code: eng
+          lineage_source: ISO 19153:2014, 4.9
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: contract
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: modified
+    ref: FindLaw
+  definition: agreement between two or more principals that creates in each principal
+    a duty to do or not do something and a right to performance of the other's duty
+    or a remedy for the breach of the other's duty
+  examples: []
+  id: 1215
+  language_code: eng
+  lineage_source: ISO 19153:2014, 4.9
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: contract
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 0725bc6a-00e7-5442-a0d0-7562c4f05458
+status: valid

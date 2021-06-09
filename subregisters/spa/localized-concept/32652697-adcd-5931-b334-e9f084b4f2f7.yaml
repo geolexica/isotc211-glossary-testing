@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: 625d7f
+    tree:
+      625d7f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.16
+            link: https://www.iso.org/standard/54721.html
+            ref: ISO 19135-1:2015
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: parte de un registro jerárquico que contiene ítems de una partición
+            de un dominio de información
+          entry_status: valid
+          examples: []
+          id: 436
+          language_code: spa
+          lineage_source: ISO 19135:2005
+          notes: []
+          release: '1'
+          review_date: 2010-10-19 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-10-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19135-1:2015
+          review_decision_notes: Authoritative reference changed from ISO 19135:2005
+            to ISO 19135-1:2015, 4.1.16. Lineage source added as ISO 19135:2005
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: subregistro
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.16
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  definition: parte de un registro jerárquico que contiene ítems de una partición
+    de un dominio de información
+  examples: []
+  id: 436
+  language_code: spa
+  lineage_source: ISO 19135:2005
+  notes: []
+  release: '1'
+  review_date: 2010-10-19 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-10-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19135-1:2015
+  review_decision_notes: Authoritative reference changed from ISO 19135:2005 to ISO
+    19135-1:2015, 4.1.16. Lineage source added as ISO 19135:2005
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: subregistro
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 32652697-adcd-5931-b334-e9f084b4f2f7
+status: valid

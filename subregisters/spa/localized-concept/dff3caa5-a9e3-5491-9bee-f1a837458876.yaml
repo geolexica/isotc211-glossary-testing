@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 45fb6a
+    tree:
+      45fb6a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.46'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: elemento óptico que recibe la luz de los objetos y forma su
+            primera imagen en un sistema óptico
+          entry_status: valid
+          examples: []
+          id: 519
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: objetivo
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.46'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: elemento óptico que recibe la luz de los objetos y forma su primera
+    imagen en un sistema óptico
+  examples: []
+  id: 519
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: objetivo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: dff3caa5-a9e3-5491-9bee-f1a837458876
+status: valid

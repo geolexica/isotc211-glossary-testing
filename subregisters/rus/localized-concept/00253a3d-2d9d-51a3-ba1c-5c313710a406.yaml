@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 04dae2
+    tree:
+      04dae2:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/20057.html
+            ref: ISO 1087-1:2000
+          date_accepted: 2008-11-15 00:00:00+00:00
+          definition: термин, который больше не используется
+          entry_status: valid
+          examples: []
+          id: 315
+          language_code: rus
+          lineage_source: ISO/TS 19104:2008
+          lineage_source_similarity: 1
+          notes: []
+          release: '2'
+          terms:
+          - designation: устаревший термин
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-11-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  definition: термин, который больше не используется
+  examples: []
+  id: 315
+  language_code: rus
+  lineage_source: ISO/TS 19104:2008
+  lineage_source_similarity: 1
+  notes: []
+  release: '2'
+  terms:
+  - designation: устаревший термин
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 00253a3d-2d9d-51a3-ba1c-5c313710a406
+status: valid

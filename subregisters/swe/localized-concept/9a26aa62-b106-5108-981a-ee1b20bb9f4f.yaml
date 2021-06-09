@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: b64798
+    tree:
+      b64798:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.12
+            link: https://www.iso.org/standard/32563.html
+            ref: ISO 19145:2013
+          country_code: swe
+          date_accepted: 2013-02-15 00:00:00+00:00
+          definition: syntaktisk beskrivning av geografisk punkt i ett känt format
+          entry_status: valid
+          examples: []
+          id: 1167
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '3'
+          terms:
+          - designation: geografisk punktrepresentation
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2013-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  country_code: swe
+  definition: syntaktisk beskrivning av geografisk punkt i ett känt format
+  examples: []
+  id: 1167
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '3'
+  terms:
+  - designation: geografisk punktrepresentation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 9a26aa62-b106-5108-981a-ee1b20bb9f4f
+status: valid

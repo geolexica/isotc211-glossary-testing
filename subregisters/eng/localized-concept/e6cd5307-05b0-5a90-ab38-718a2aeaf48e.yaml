@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 4e5b93
+    tree:
+      4e5b93:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128:2005
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: result of an operation returned from a server to a client
+          entry_status: valid
+          examples: []
+          id: 384
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: response
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  definition: result of an operation returned from a server to a client
+  examples: []
+  id: 384
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: response
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: e6cd5307-05b0-5a90-ab38-718a2aeaf48e
+status: valid

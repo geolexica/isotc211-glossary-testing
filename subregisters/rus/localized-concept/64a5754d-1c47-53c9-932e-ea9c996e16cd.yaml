@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: a7311a
+    tree:
+      a7311a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/43041.html
+            ref: ISO/TS 19129:2009
+          date_accepted: 2009-04-01 00:00:00+00:00
+          definition: прямоугольный массив чисел
+          entry_status: valid
+          examples: []
+          id: 918
+          language_code: rus
+          lineage_source: перевод ИСО/ТС 19129:2009
+          notes:
+          - матрица - математический термин
+          release: '2'
+          terms:
+          - designation: матрица
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-04-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  definition: прямоугольный массив чисел
+  examples: []
+  id: 918
+  language_code: rus
+  lineage_source: перевод ИСО/ТС 19129:2009
+  notes:
+  - матрица - математический термин
+  release: '2'
+  terms:
+  - designation: матрица
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 64a5754d-1c47-53c9-932e-ea9c996e16cd
+status: valid

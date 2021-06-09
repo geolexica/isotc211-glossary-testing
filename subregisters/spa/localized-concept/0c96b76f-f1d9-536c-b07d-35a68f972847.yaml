@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 52e05f
+    tree:
+      52e05f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.30'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: componente del sistema sonar que transforma las ondas acústicas
+            en señales eléctricas
+          entry_status: valid
+          examples: []
+          id: 1392
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: hidrófono<SONAR>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.30'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: componente del sistema sonar que transforma las ondas acústicas en señales
+    eléctricas
+  examples: []
+  id: 1392
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: hidrófono<SONAR>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 0c96b76f-f1d9-536c-b07d-35a68f972847
+status: valid

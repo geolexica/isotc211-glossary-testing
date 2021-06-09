@@ -1,0 +1,53 @@
+data:
+  _revisions:
+    current: 37c27b
+    tree:
+      37c27b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.75'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: Kawasan tanah di mana data dikumpulkan secara berterusan semasa
+            operasi LIDAR.
+          entry_status: valid
+          examples: []
+          id: 1422
+          language_code: msa
+          notes:
+          - A typical mapping mission may consist of multiple adjacent swaths, with
+            some overlap, and the operator will turn off the laser while the aircraft
+            is oriented for the next swath.  This term may also be referred to as
+            a Pass.
+          release: '3'
+          terms:
+          - designation: liputan <LIDAR>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.75'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: Kawasan tanah di mana data dikumpulkan secara berterusan semasa operasi
+    LIDAR.
+  examples: []
+  id: 1422
+  language_code: msa
+  notes:
+  - A typical mapping mission may consist of multiple adjacent swaths, with some overlap,
+    and the operator will turn off the laser while the aircraft is oriented for the
+    next swath.  This term may also be referred to as a Pass.
+  release: '3'
+  terms:
+  - designation: liputan <LIDAR>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 267f8880-1b1f-5d3b-a488-002fc465b407
+status: valid

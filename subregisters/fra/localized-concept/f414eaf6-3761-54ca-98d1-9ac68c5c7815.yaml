@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: ac16fa
+    tree:
+      ac16fa:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/70742.html
+            ref: ISO 19112
+          date_accepted: 2003-10-15 00:00:00+00:00
+          definition: système permettant l'identification de la position dans le monde
+            réel
+          entry_status: valid
+          examples: []
+          id: 422
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: système de référence spatial
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/70742.html
+    ref: ISO 19112
+  definition: système permettant l'identification de la position dans le monde réel
+  examples: []
+  id: 422
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: système de référence spatial
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: f414eaf6-3761-54ca-98d1-9ac68c5c7815
+status: valid

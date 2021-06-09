@@ -1,0 +1,63 @@
+data:
+  _revisions:
+    current: 7317a6
+    tree:
+      7317a6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.20'
+            link: https://www.iso.org/standard/56734.html
+            ref: ISO 19103:2015
+          date_accepted: 2015-12-01 00:00:00+00:00
+          definition: individual entity having its own value and possibly its own
+            identity
+          entry_status: valid
+          examples: []
+          id: 1615
+          language_code: eng
+          notes:
+          - A classifier specifies the form and behaviour of a set of instances with
+            similar properties.
+          release: '4'
+          review_date: 2009-01-14 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-12-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19103:2015
+          review_decision_notes: This entry supersedes the entry for "instance <UML>"
+            in ISO/TS 19103:2005
+          review_status: final
+          terms:
+          - designation: instance <UML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2015-12-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.20'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  definition: individual entity having its own value and possibly its own identity
+  examples: []
+  id: 1615
+  language_code: eng
+  notes:
+  - A classifier specifies the form and behaviour of a set of instances with similar
+    properties.
+  release: '4'
+  review_date: 2009-01-14 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-12-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19103:2015
+  review_decision_notes: This entry supersedes the entry for "instance <UML>" in ISO/TS
+    19103:2005
+  review_status: final
+  terms:
+  - designation: instance <UML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-12-01 00:00:00+00:00
+id: 8c543a25-5e17-563e-94c9-ad639ae78596
+status: valid

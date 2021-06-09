@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 2e4d37
+    tree:
+      2e4d37:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.45'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: цена того, что может быть потеряно, если происходит нарушение
+          entry_status: valid
+          examples: []
+          id: 1253
+          language_code: rus
+          lineage_source: перевод ИСО 19153:2014
+          notes: []
+          release: '3'
+          terms:
+          - designation: риск
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.45'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: цена того, что может быть потеряно, если происходит нарушение
+  examples: []
+  id: 1253
+  language_code: rus
+  lineage_source: перевод ИСО 19153:2014
+  notes: []
+  release: '3'
+  terms:
+  - designation: риск
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 99e1fcdf-eeef-5b13-beb8-3ca5b7079204
+status: valid

@@ -1,0 +1,15 @@
+data:
+  identifier: '826'
+  localizedConcepts:
+    ara: 7b0c4b72-8983-563d-8d05-278a30b3615d
+    deu: 29f8ea2d-2f4c-54d2-8953-9312e6797376
+    eng: 17b33dcd-177b-50bc-a2d1-8b60700f3b40
+    fin: 49098620-f1c9-5370-8f35-39058233cda7
+    fra: 23cbefdf-56b3-55eb-990a-67d0f7b02a8a
+    kor: 6f73c6f0-c975-5643-9585-2c99a844b3a8
+    rus: b6987297-a222-5e39-b5ac-cc87dea3e288
+    spa: a40084f3-693e-5189-9bcc-2d8e90069866
+    zho: c4fc1fa6-d193-5b66-b448-337e8dcc1cbe
+dateAccepted: 2018-11-17
+id: c3963843-a765-51eb-a5b8-9ad4d8fa99c7
+status: valid

@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 4399d5
+    tree:
+      4399d5:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (Adapted from)
+            link: https://www.iso.org/standard/31367.html
+            ref: 'ISO/IEC 11179-3:2003 '
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: Sistem maklumat di mana suatu daftar dikekalkan.
+          entry_status: valid
+          examples: []
+          id: 375
+          language_code: msa
+          lineage_source: ISO 19135:2005
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: daftar/ daftaran
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/31367.html
+    ref: 'ISO/IEC 11179-3:2003 '
+  definition: Sistem maklumat di mana suatu daftar dikekalkan.
+  examples: []
+  id: 375
+  language_code: msa
+  lineage_source: ISO 19135:2005
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: daftar/ daftaran
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: c38499e1-3b7d-5ab0-831a-3ce37c2ac1c9
+status: valid

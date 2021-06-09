@@ -1,0 +1,68 @@
+data:
+  _revisions:
+    current: 0f85bf
+    tree:
+      0f85bf:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.1
+            link: https://www.iso.org/standard/54721.html
+            ref: ISO 19135-1:2015
+          country_code: swe
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: ändring av data vilket inte påverkar dess betydelse
+          entry_status: valid
+          examples: []
+          id: 506
+          language_code: swe
+          lineage_source: ISO 19135:2005
+          lineage_source_similarity: 1
+          notes:
+          - Exempel på detta är rättelse av ett stavfel.
+          release: '1'
+          review_date: 2010-10-19 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-10-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19135-1:20157
+          review_decision_notes: Authoritative reference changed from ISO 19135:2005
+            to ISO 19135-1:2015, 4.1.1. Lineage source added as ISO 19135:2005
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: korrekturändring
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.1
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  country_code: swe
+  definition: ändring av data vilket inte påverkar dess betydelse
+  examples: []
+  id: 506
+  language_code: swe
+  lineage_source: ISO 19135:2005
+  lineage_source_similarity: 1
+  notes:
+  - Exempel på detta är rättelse av ett stavfel.
+  release: '1'
+  review_date: 2010-10-19 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-10-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19135-1:20157
+  review_decision_notes: Authoritative reference changed from ISO 19135:2005 to ISO
+    19135-1:2015, 4.1.1. Lineage source added as ISO 19135:2005
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: korrekturändring
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: eec81bcf-d0f1-59a1-a0df-f49f563b5052
+status: valid

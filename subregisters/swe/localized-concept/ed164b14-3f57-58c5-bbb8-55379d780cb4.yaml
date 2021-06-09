@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: 360d20
+    tree:
+      360d20:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          country_code: swe
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: 'testning vars syfte är att utvärdera ett
+
+            systems uppfyllande'
+          entry_status: valid
+          examples: []
+          id: 495
+          language_code: swe
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: verifieringstest
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  country_code: swe
+  definition: 'testning vars syfte är att utvärdera ett
+
+    systems uppfyllande'
+  examples: []
+  id: 495
+  language_code: swe
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: verifieringstest
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: ed164b14-3f57-58c5-bbb8-55379d780cb4
+status: valid

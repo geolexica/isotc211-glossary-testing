@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: b550cb
+    tree:
+      b550cb:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.34
+            link: https://www.iso.org/standard/59164.html
+            ref: ISO 19101-1:2014
+          date_accepted: 2008-12-30 00:00:00+00:00
+          definition: 모델의 형식적 기술
+          entry_status: valid
+          examples: []
+          id: 395
+          language_code: kor
+          lineage_source: ISO 19101:2002
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2010-10-12 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2014-11-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19101-1:2014
+          review_decision_notes: Authoritative reference changed from ISO 19101:2002
+            to ISO 19101-1:2014. Lineage source added as ISO 19101:2002.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: 스키마
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-12-30 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.34
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  definition: 모델의 형식적 기술
+  examples: []
+  id: 395
+  language_code: kor
+  lineage_source: ISO 19101:2002
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2010-10-12 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2014-11-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19101-1:2014
+  review_decision_notes: Authoritative reference changed from ISO 19101:2002 to ISO
+    19101-1:2014. Lineage source added as ISO 19101:2002.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: 스키마
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: 59ffe5d6-dd1c-528a-bd68-a2e28e166e07
+status: valid

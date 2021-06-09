@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 8d5198
+    tree:
+      8d5198:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32554.html
+            ref: ISO 19136:2007
+          date_accepted: 2007-09-01 00:00:00+00:00
+          definition: kaikkien niiden arvojen joukko, jotka funktio f voi saada, kun
+            funktion muuttujat vaihtelevat funktion määritysjoukon alueella
+          entry_status: valid
+          examples: []
+          id: 696
+          language_code: fin
+          lineage_source: Internet, Maanmittauslaitos
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: arvojoukko
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  definition: kaikkien niiden arvojen joukko, jotka funktio f voi saada, kun funktion
+    muuttujat vaihtelevat funktion määritysjoukon alueella
+  examples: []
+  id: 696
+  language_code: fin
+  lineage_source: Internet, Maanmittauslaitos
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: arvojoukko
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 82e9c8b8-6b9d-59f6-b225-9fe2f18207b4
+status: valid

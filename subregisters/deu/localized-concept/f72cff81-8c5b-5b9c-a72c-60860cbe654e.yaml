@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: '197275'
+    tree:
+      '197275':
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 757
+          language_code: deu
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: geometrisches Werteobjekt
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  examples: []
+  id: 757
+  language_code: deu
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: geometrisches Werteobjekt
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: f72cff81-8c5b-5b9c-a72c-60860cbe654e
+status: valid

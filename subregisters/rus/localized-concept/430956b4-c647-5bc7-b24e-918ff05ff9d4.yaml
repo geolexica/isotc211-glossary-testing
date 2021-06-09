@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: ea7a78
+    tree:
+      ea7a78:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: PI platform
+          authoritative_source:
+            clause: '4.12'
+            link: https://www.iso.org/standard/32573.html
+            ref: ISO 19155:2012
+          date_accepted: 2012-11-01 00:00:00+00:00
+          definition: Группа сервисных интерфейсов и структур данных, используемых
+            для сопоставления ИМ (PI)
+          entry_status: valid
+          examples: []
+          id: 1340
+          language_code: rus
+          lineage_source: ISO 19155:2012
+          notes: []
+          release: '3'
+          terms:
+          - designation: платформа Идентификатора Места
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-11-01 00:00:00+00:00
+  abbrev: PI platform
+  authoritativeSource:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  definition: Группа сервисных интерфейсов и структур данных, используемых для сопоставления
+    ИМ (PI)
+  examples: []
+  id: 1340
+  language_code: rus
+  lineage_source: ISO 19155:2012
+  notes: []
+  release: '3'
+  terms:
+  - designation: платформа Идентификатора Места
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: 430956b4-c647-5bc7-b24e-918ff05ff9d4
+status: valid

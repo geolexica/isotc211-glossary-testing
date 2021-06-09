@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: '260493'
+    tree:
+      '260493':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.8'
+            link: https://www.iso.org/standard/32576.html
+            ref: ISO/TS 19158:2012
+          date_accepted: 2012-10-15 00:00:00+00:00
+          definition: достигнутый уровень гарантии является результатом проведения
+            процедуры оценки качества
+          entry_status: valid
+          examples: []
+          id: 1579
+          language_code: rus
+          lineage_source: ISO/TS 19158:2012
+          notes:
+          - 'Три уровня гарантии качества могут быть достигнуты в рамках гарантии
+            качества: базовый, оперативный и полный.'
+          release: '3'
+          terms:
+          - designation: Уровень гарантии качества
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  definition: достигнутый уровень гарантии является результатом проведения процедуры
+    оценки качества
+  examples: []
+  id: 1579
+  language_code: rus
+  lineage_source: ISO/TS 19158:2012
+  notes:
+  - 'Три уровня гарантии качества могут быть достигнуты в рамках гарантии качества:
+    базовый, оперативный и полный.'
+  release: '3'
+  terms:
+  - designation: Уровень гарантии качества
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: df0d79c5-ecca-5604-850c-72bd486b08da
+status: valid

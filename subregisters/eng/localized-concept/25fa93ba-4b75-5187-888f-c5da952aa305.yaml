@@ -1,0 +1,58 @@
+data:
+  _revisions:
+    current: 68b126
+    tree:
+      68b126:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.1'
+            link: https://www.iso.org/standard/32572.html
+            ref: ISO 19154:2014
+          date_accepted: 2014-11-01 00:00:00+00:00
+          definition: convergence of ubiquitous computing, ubiquitous communication,
+            and interfaces adapting to the user
+          entry_status: valid
+          examples: []
+          id: 1637
+          language_code: eng
+          notes: []
+          release: '4'
+          review_date: 2012-08-03 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2014-11-01 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19154:2014(E)
+          review_status: final
+          terms:
+          - designation: ambient intelligence
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-11-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.1'
+    link: https://www.iso.org/standard/32572.html
+    ref: ISO 19154:2014
+  definition: convergence of ubiquitous computing, ubiquitous communication, and interfaces
+    adapting to the user
+  examples: []
+  id: 1637
+  language_code: eng
+  notes: []
+  release: '4'
+  review_date: 2012-08-03 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2014-11-01 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19154:2014(E)
+  review_status: final
+  terms:
+  - designation: ambient intelligence
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: 25fa93ba-4b75-5187-888f-c5da952aa305
+status: valid

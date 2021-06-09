@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: 2336f5
+    tree:
+      2336f5:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: position within a network on a link defined by some strictly
+            monotonic measure associated with that link
+          entry_status: valid
+          examples: []
+          id: 275
+          language_code: eng
+          notes:
+          - Link positions are often associated with a target feature that is not
+            part of the network. The most common link measures used for this are the
+            distance from start node or address. The most common use of a link position
+            is to geolocate an "address."
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: link position
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: position within a network on a link defined by some strictly monotonic
+    measure associated with that link
+  examples: []
+  id: 275
+  language_code: eng
+  notes:
+  - Link positions are often associated with a target feature that is not part of
+    the network. The most common link measures used for this are the distance from
+    start node or address. The most common use of a link position is to geolocate
+    an "address."
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: link position
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 10d1926c-5314-5882-92c1-89c829cd7fe9
+status: valid

@@ -1,0 +1,49 @@
+data:
+  _revisions:
+    current: 94d762
+    tree:
+      94d762:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: patrón, normalmente rectangular, de líneas de barrido paralelas
+            que forman o se corresponden a la visualización sobre un tubo de rayos
+            catódicos
+          entry_status: valid
+          examples: []
+          id: 364
+          language_code: spa
+          notes:
+          - Una matriz es un tipo de malla.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: ráster
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: patrón, normalmente rectangular, de líneas de barrido paralelas que
+    forman o se corresponden a la visualización sobre un tubo de rayos catódicos
+  examples: []
+  id: 364
+  language_code: spa
+  notes:
+  - Una matriz es un tipo de malla.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: ráster
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 983a732d-4c7f-5fff-8ab4-e7ba4ee218db
+status: valid

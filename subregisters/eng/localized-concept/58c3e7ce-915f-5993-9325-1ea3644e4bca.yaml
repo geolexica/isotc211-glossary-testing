@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: a1e51a
+    tree:
+      a1e51a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.12'
+            link: https://www.iso.org/standard/32574.html
+            ref: ISO 19156:2011
+          date_accepted: 2011-12-15 00:00:00+00:00
+          definition: method, algorithm or instrument, or system of these, which may
+            be used in making an observation
+          entry_status: valid
+          examples: []
+          id: 1305
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: observation procedure
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2011-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  definition: method, algorithm or instrument, or system of these, which may be used
+    in making an observation
+  examples: []
+  id: 1305
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: observation procedure
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 58c3e7ce-915f-5993-9325-1ea3644e4bca
+status: valid

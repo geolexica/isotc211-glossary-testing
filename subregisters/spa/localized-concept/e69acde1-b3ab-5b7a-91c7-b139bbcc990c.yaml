@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: db6624
+    tree:
+      db6624:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42180.html
+            ref: ISO 9000:2005
+          date_accepted: 2012-10-15 00:00:00+00:00
+          definition: resultado de un proceso
+          entry_status: valid
+          examples: []
+          id: 1097
+          language_code: spa
+          lineage_source: ISO/TS 19158:2012, 4.3
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: producto
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  definition: resultado de un proceso
+  examples: []
+  id: 1097
+  language_code: spa
+  lineage_source: ISO/TS 19158:2012, 4.3
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: producto
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: e69acde1-b3ab-5b7a-91c7-b139bbcc990c
+status: valid

@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 60967d
+    tree:
+      60967d:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 238
+          language_code: deu
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: ergebnisloser Prüfnachweis
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  examples: []
+  id: 238
+  language_code: deu
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: ergebnisloser Prüfnachweis
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 95f4ff19-af72-50b5-9b14-a2db1f857041
+status: valid

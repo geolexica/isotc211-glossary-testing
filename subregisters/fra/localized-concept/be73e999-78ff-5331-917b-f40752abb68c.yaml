@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: '999179'
+    tree:
+      '999179':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: point situé à l'intersection de deux ou plusieurs courbes dans
+            une grille
+          entry_status: valid
+          examples: []
+          id: 223
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: point de grille
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  definition: point situé à l'intersection de deux ou plusieurs courbes dans une grille
+  examples: []
+  id: 223
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: point de grille
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: be73e999-78ff-5331-917b-f40752abb68c
+status: valid

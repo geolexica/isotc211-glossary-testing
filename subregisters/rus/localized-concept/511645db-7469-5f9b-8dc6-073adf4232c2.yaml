@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 4bface
+    tree:
+      4bface:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.13'
+            link: https://www.iso.org/standard/32574.html
+            ref: ISO 19156:2011
+          date_accepted: 2011-12-15 00:00:00+00:00
+          definition: сочетание стратегии выборки и процедуры наблюдения, используемой
+            при проведении наблюдения
+          entry_status: valid
+          examples: []
+          id: 1306
+          language_code: rus
+          lineage_source: ISO 19156:2011
+          notes: []
+          release: '3'
+          terms:
+          - designation: протокол наблюдения
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2011-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  definition: сочетание стратегии выборки и процедуры наблюдения, используемой при
+    проведении наблюдения
+  examples: []
+  id: 1306
+  language_code: rus
+  lineage_source: ISO 19156:2011
+  notes: []
+  release: '3'
+  terms:
+  - designation: протокол наблюдения
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 511645db-7469-5f9b-8dc6-073adf4232c2
+status: valid

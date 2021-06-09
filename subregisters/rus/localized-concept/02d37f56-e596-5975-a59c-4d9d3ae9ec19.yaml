@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 3c1d60
+    tree:
+      3c1d60:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.1'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: сочетание аутентификации и авторизации
+          entry_status: valid
+          examples: []
+          id: 1206
+          language_code: rus
+          lineage_source: перевод ИСО 19153:2014
+          notes: []
+          release: '3'
+          terms:
+          - designation: контроль доступа
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.1'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: сочетание аутентификации и авторизации
+  examples: []
+  id: 1206
+  language_code: rus
+  lineage_source: перевод ИСО 19153:2014
+  notes: []
+  release: '3'
+  terms:
+  - designation: контроль доступа
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 02d37f56-e596-5975-a59c-4d9d3ae9ec19
+status: valid

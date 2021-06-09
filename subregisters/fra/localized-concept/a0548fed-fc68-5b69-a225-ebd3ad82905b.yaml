@@ -1,0 +1,67 @@
+data:
+  _revisions:
+    current: feb9f6
+    tree:
+      feb9f6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.1.25
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111:2019
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: système de coordonnées de référence basé sur un référentiel
+            d'ingénierie
+          entry_status: valid
+          examples: []
+          id: 706
+          language_code: fra
+          lineage_source: ISO 19111:2007(E)
+          lineage_source_similarity: 1
+          notes:
+          - 'Alternative suggérée: système de coordonnées de référence local'
+          release: '1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of ISO 19111:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19111:2007
+            to ISO 19111:2019(E), 3.1.25. Lineage source added as ISO 19111:2007(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: système de coordonnées de référence d'ingénierie
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.25
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  definition: système de coordonnées de référence basé sur un référentiel d'ingénierie
+  examples: []
+  id: 706
+  language_code: fra
+  lineage_source: ISO 19111:2007(E)
+  lineage_source_similarity: 1
+  notes:
+  - 'Alternative suggérée: système de coordonnées de référence local'
+  release: '1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of ISO 19111:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19111:2007 to ISO
+    19111:2019(E), 3.1.25. Lineage source added as ISO 19111:2007(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: système de coordonnées de référence d'ingénierie
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: a0548fed-fc68-5b69-a225-ebd3ad82905b
+status: valid

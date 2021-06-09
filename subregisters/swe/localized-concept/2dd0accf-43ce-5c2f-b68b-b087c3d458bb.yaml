@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: a1ad10
+    tree:
+      a1ad10:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.1'
+            link: https://www.iso.org/standard/46226.html
+            ref: ISO 19117:2012
+          country_code: swe
+          date_accepted: 2005-06-01 00:00:00+00:00
+          definition: kort kommentar eller anteckning
+          entry_status: valid
+          examples: []
+          id: 13
+          language_code: swe
+          lineage_source: ISO 19117:2005
+          lineage_source_similarity: '1'
+          notes:
+          - Numbers, letters, symbols, and signs are examples of annotation
+          release: '1'
+          review_date: 2009-11-25 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2012-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19117:2012
+          review_decision_notes: Authoritative reference changed from ISO 19117:2005
+            to ISO 19117:2012. Lineage source added as ISO 19117:2005.
+          review_status: final
+          terms:
+          - designation: annotation
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-06-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.1'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  country_code: swe
+  definition: kort kommentar eller anteckning
+  examples: []
+  id: 13
+  language_code: swe
+  lineage_source: ISO 19117:2005
+  lineage_source_similarity: '1'
+  notes:
+  - Numbers, letters, symbols, and signs are examples of annotation
+  release: '1'
+  review_date: 2009-11-25 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2012-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19117:2012
+  review_decision_notes: Authoritative reference changed from ISO 19117:2005 to ISO
+    19117:2012. Lineage source added as ISO 19117:2005.
+  review_status: final
+  terms:
+  - designation: annotation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 2dd0accf-43ce-5c2f-b68b-b087c3d458bb
+status: valid

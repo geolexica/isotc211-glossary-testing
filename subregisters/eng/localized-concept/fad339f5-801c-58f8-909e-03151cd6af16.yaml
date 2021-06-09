@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 0b2283
+    tree:
+      0b2283:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.40
+            link: https://www.iso.org/standard/59164.html
+            ref: ISO 19101-1:2014
+          date_accepted: 2014-11-01 00:00:00+00:00
+          definition: universe of network-accessible information and services
+          entry_status: valid
+          examples: []
+          id: 1433
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: Web
+            normative_status: admitted
+            type: expression
+          - designation: World Wide Web
+            type: expression
+        parents: []
+        timeCreated: 2014-11-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.40
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  definition: universe of network-accessible information and services
+  examples: []
+  id: 1433
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: Web
+    normative_status: admitted
+    type: expression
+  - designation: World Wide Web
+    type: expression
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: fad339f5-801c-58f8-909e-03151cd6af16
+status: valid

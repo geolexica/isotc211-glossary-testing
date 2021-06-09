@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: ef271e
+    tree:
+      ef271e:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40115.html
+            ref: ISO 19125-2:2004
+          date_accepted: 2004-08-01 00:00:00+00:00
+          definition: 列表示要素属性，行表示要素的表格。
+          entry_status: valid
+          examples: []
+          id: 182
+          language_code: zho
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: 要素表
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-08-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  definition: 列表示要素属性，行表示要素的表格。
+  examples: []
+  id: 182
+  language_code: zho
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: 要素表
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: ca6a47b2-630d-5b93-ae4d-dff5656d5c3a
+status: valid

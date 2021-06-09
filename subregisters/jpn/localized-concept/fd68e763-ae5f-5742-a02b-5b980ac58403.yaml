@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 4380bb
+    tree:
+      4380bb:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: 特定の試験手続から独立した実装の試験の方法。
+          entry_status: valid
+          examples: []
+          id: 4
+          language_code: jpn
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: 抽象試験方法
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: 特定の試験手続から独立した実装の試験の方法。
+  examples: []
+  id: 4
+  language_code: jpn
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: 抽象試験方法
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: fd68e763-ae5f-5742-a02b-5b980ac58403
+status: valid

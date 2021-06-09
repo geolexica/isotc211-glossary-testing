@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: '932122'
+    tree:
+      '932122':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: сеть треугольников, в пределах которой внутри окружности, описанной
+            вокруг любого треугольника, нет вершин другого треугольника
+          entry_status: valid
+          examples: []
+          id: 129
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: триангуляция Делоне
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: сеть треугольников, в пределах которой внутри окружности, описанной
+    вокруг любого треугольника, нет вершин другого треугольника
+  examples: []
+  id: 129
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: триангуляция Делоне
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: c330cb6b-7120-59d7-bd74-23c2bbb54c08
+status: valid

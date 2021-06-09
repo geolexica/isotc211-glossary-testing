@@ -1,0 +1,47 @@
+data:
+  _revisions:
+    current: 687e9d
+    tree:
+      687e9d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: udfald af test om at der ikke er overensstemmelse
+          examples: []
+          id: 166
+          language_code: dan
+          notes:
+          - At der ikke er overensstemmelse kan være enten med hensyn til testformål
+            eller at mindst et af overensstemmelseskravene i den eller de relevante
+            standard(er) ikke er opfyldt.
+          release: '1'
+          terms:
+          - designation: overensstemmelse, manglende
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: udfald af test om at der ikke er overensstemmelse
+  examples: []
+  id: 166
+  language_code: dan
+  notes:
+  - At der ikke er overensstemmelse kan være enten med hensyn til testformål eller
+    at mindst et af overensstemmelseskravene i den eller de relevante standard(er)
+    ikke er opfyldt.
+  release: '1'
+  terms:
+  - designation: overensstemmelse, manglende
+    normative_status: null
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: d39e2df9-4d15-543d-854b-87ce8672bccc
+status: valid

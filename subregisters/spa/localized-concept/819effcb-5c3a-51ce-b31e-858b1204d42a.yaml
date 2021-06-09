@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 2abc47
+    tree:
+      2abc47:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.2
+            link: https://www.iso.org/standard/32563.html
+            ref: ISO 19145:2013
+          date_accepted: 2013-02-15 00:00:00+00:00
+          definition: servicio que permite realizar una compresión
+          entry_status: valid
+          examples: []
+          id: 1160
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: servicio de compresión
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2013-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.2
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  definition: servicio que permite realizar una compresión
+  examples: []
+  id: 1160
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: servicio de compresión
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 819effcb-5c3a-51ce-b31e-858b1204d42a
+status: valid

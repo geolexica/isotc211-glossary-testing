@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: 0bf6de
+    tree:
+      0bf6de:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: coverage, der giver forskellige værdier for samme featureattribut
+            på forskellige direkte positioner inden for et enkelt spatialt objekt,
+            temporale objekt eller temporalt-spatialt objekt i sit domæne
+          examples: []
+          id: 83
+          language_code: dan
+          notes:
+          - Skønt en sammenhængende coverages domæne sædvanligvis er afgrænset ved
+            sin rumlige og/eller tidsmæssige udbredelse, kan den underinddeles i et
+            uendeligt antal direkte positioner.
+          release: '1'
+          terms:
+          - designation: coverage,  sammenhængende
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: coverage, der giver forskellige værdier for samme featureattribut på
+    forskellige direkte positioner inden for et enkelt spatialt objekt, temporale
+    objekt eller temporalt-spatialt objekt i sit domæne
+  examples: []
+  id: 83
+  language_code: dan
+  notes:
+  - Skønt en sammenhængende coverages domæne sædvanligvis er afgrænset ved sin rumlige
+    og/eller tidsmæssige udbredelse, kan den underinddeles i et uendeligt antal direkte
+    positioner.
+  release: '1'
+  terms:
+  - designation: coverage,  sammenhængende
+    normative_status: null
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 30a2c6fa-43fa-5464-b913-6b0f5e387d9d
+status: valid

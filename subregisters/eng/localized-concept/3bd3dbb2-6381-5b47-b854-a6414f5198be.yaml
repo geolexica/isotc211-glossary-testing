@@ -1,0 +1,68 @@
+data:
+  _revisions:
+    current: eca56d
+    tree:
+      eca56d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.5'
+            link: https://www.iso.org/standard/26019.html
+            ref: ISO 19114:2003
+          date_accepted: 2003-08-15 00:00:00+00:00
+          date_amended: 2013-12-15 00:00:00+00:00
+          definition: inspection of every item in a dataset
+          entry_status: retired
+          examples: []
+          id: 189
+          language_code: eng
+          lineage_source: ''
+          notes:
+          - Full inspection is also known as 100% inspection.
+          release: '-1'
+          review_date: 2013-12-15 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2013-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19157:2013
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19157:2013).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: full inspection
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-08-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/26019.html
+    ref: ISO 19114:2003
+  date_amended: 2013-12-15 00:00:00+00:00
+  definition: inspection of every item in a dataset
+  examples: []
+  id: 189
+  language_code: eng
+  lineage_source: ''
+  notes:
+  - Full inspection is also known as 100% inspection.
+  release: '-1'
+  review_date: 2013-12-15 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2013-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19157:2013
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19157:2013).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: full inspection
+    normative_status: null
+    type: expression
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 3bd3dbb2-6381-5b47-b854-a6414f5198be
+status: retired

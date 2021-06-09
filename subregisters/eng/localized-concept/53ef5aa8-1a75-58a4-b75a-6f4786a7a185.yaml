@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 78c16c
+    tree:
+      78c16c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.76'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: type of SONAR that has several single beam transducer/receivers
+            mounted on a boom, which is then operated parallel to the water’s surface
+            and orthogonal to the vessel’s direction of travel
+          entry_status: valid
+          examples: []
+          id: 1423
+          language_code: eng
+          notes:
+          - Sweep sounding is commonly called multi-channel echosounding (MCES).
+          release: '3'
+          terms:
+          - designation: sweep SONAR
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.76'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: type of SONAR that has several single beam transducer/receivers mounted
+    on a boom, which is then operated parallel to the water’s surface and orthogonal
+    to the vessel’s direction of travel
+  examples: []
+  id: 1423
+  language_code: eng
+  notes:
+  - Sweep sounding is commonly called multi-channel echosounding (MCES).
+  release: '3'
+  terms:
+  - designation: sweep SONAR
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 53ef5aa8-1a75-58a4-b75a-6f4786a7a185
+status: valid

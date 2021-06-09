@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: cc08de
+    tree:
+      cc08de:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: couverture qui a un domaine composé de points
+          entry_status: valid
+          examples: []
+          id: 337
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: couverture de points
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  definition: couverture qui a un domaine composé de points
+  examples: []
+  id: 337
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: couverture de points
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: d5d5920b-50fd-52bf-b33e-0d831d04342f
+status: valid

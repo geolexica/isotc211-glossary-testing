@@ -1,0 +1,60 @@
+data:
+  _revisions:
+    current: ac1bab
+    tree:
+      ac1bab:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32554.html
+            ref: ISO 19136:2007
+          date_accepted: 2007-09-01 00:00:00+00:00
+          date_amended: 2020-01-09 00:00:00+00:00
+          definition: 根据ISO 19136标准规则，以XML模式编写的应用模式。
+          entry_status: superseded
+          examples: []
+          id: 906
+          language_code: zho
+          notes: []
+          release: '-1'
+          review_date: 2020-01-09 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2020-01-09 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19136-1:2020(E)
+          review_decision_notes: This entry is superseded by the entry for GML application
+            schema in ISO 19136-1:2020(E)
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: GML应用模式
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2007-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  date_amended: 2020-01-09 00:00:00+00:00
+  definition: 根据ISO 19136标准规则，以XML模式编写的应用模式。
+  examples: []
+  id: 906
+  language_code: zho
+  notes: []
+  release: '-1'
+  review_date: 2020-01-09 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2020-01-09 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19136-1:2020(E)
+  review_decision_notes: This entry is superseded by the entry for GML application
+    schema in ISO 19136-1:2020(E)
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: GML应用模式
+    normative_status: null
+    type: expression
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: b8f83e0d-2e35-5cb2-a058-bc40bdb8f7dd
+status: superseded

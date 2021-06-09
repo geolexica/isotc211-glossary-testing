@@ -1,0 +1,68 @@
+data:
+  _revisions:
+    current: 068629
+    tree:
+      068629:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/44075.html
+            ref: ISO 19111-2:2009
+          date_accepted: 2009-08-15 00:00:00+00:00
+          date_amended: 2019-01-31 00:00:00+00:00
+          definition: kombiniertes Koordinatenreferenzsystem, in dem ein Bestandteil
+            des Koordinatenreferenzsystems ein parametrisches Koordinatenreferenzsystem
+            ist und der andere ein räumliches Koordinatenreferenzsystem
+          entry_status: superseded
+          examples: []
+          id: 844
+          language_code: deu
+          notes:
+          - Normally the spatial component is "horizontal" and the parametric component
+            is "vertical".
+          release: '-2'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19111:2019(E)
+          review_decision_notes: This entry is superseded by the entry for spatio-parametric
+            coordinate reference system in ISO 19111:2019(E)
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: räumlich-parametrisches Koordinatenreferenzsystem
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2009-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/44075.html
+    ref: ISO 19111-2:2009
+  date_amended: 2019-01-31 00:00:00+00:00
+  definition: kombiniertes Koordinatenreferenzsystem, in dem ein Bestandteil des Koordinatenreferenzsystems
+    ein parametrisches Koordinatenreferenzsystem ist und der andere ein räumliches
+    Koordinatenreferenzsystem
+  examples: []
+  id: 844
+  language_code: deu
+  notes:
+  - Normally the spatial component is "horizontal" and the parametric component is
+    "vertical".
+  release: '-2'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19111:2019(E)
+  review_decision_notes: This entry is superseded by the entry for spatio-parametric
+    coordinate reference system in ISO 19111:2019(E)
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: räumlich-parametrisches Koordinatenreferenzsystem
+    normative_status: null
+    type: expression
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: d3a3906c-e7da-51f2-8338-92d736e3e99d
+status: superseded

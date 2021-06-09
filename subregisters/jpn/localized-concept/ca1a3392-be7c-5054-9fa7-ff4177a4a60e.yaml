@@ -1,0 +1,70 @@
+data:
+  _revisions:
+    current: 6fd3aa
+    tree:
+      6fd3aa:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.13'
+            link: https://www.iso.org/standard/26018.html
+            ref: ISO 19113:2002
+          date_accepted: 2002-12-01 00:00:00+00:00
+          date_amended: 2013-12-15 00:00:00+00:00
+          definition: データ品質評価結果を報告するための値の単位。
+          entry_status: retired
+          examples:
+          - 　“メートル”
+          id: 121
+          language_code: jpn
+          lineage_source: ''
+          notes:
+          - 　データ品質評価値単位は，データ品質評価結果に適用できるときだけ規定する。
+          release: '-1'
+          review_date: 2013-12-15 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2013-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19157:2013
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19157:2013).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: データ品質評価値単位
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2002-12-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  date_amended: 2013-12-15 00:00:00+00:00
+  definition: データ品質評価結果を報告するための値の単位。
+  examples:
+  - 　“メートル”
+  id: 121
+  language_code: jpn
+  lineage_source: ''
+  notes:
+  - 　“メートル”
+  release: '-1'
+  review_date: 2013-12-15 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2013-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19157:2013
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19157:2013).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: データ品質評価値単位
+    normative_status: null
+    type: expression
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: ca1a3392-be7c-5054-9fa7-ff4177a4a60e
+status: retired

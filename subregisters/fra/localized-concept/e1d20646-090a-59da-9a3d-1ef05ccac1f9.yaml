@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: 6fa7d9
+    tree:
+      6fa7d9:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: processus évaluant la conformité d'une implémentation d'une
+            Norme Internationale
+          entry_status: valid
+          examples: []
+          id: 72
+          language_code: fra
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: processus d'évaluation de conformité
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: processus évaluant la conformité d'une implémentation d'une Norme Internationale
+  examples: []
+  id: 72
+  language_code: fra
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: processus d'évaluation de conformité
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: e1d20646-090a-59da-9a3d-1ef05ccac1f9
+status: valid

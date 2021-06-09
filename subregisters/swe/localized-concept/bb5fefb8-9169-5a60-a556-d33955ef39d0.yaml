@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: 3c5b64
+    tree:
+      3c5b64:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/44875.html
+            ref: ISO 19126:2009
+          country_code: swe
+          date_accepted: 2009-11-01 00:00:00+00:00
+          definition: begrepp som kan specificeras i detalj som ett eller flera objektsamband
+          entry_status: valid
+          examples:
+          - A "supports" feature association concept describes a relationship between
+            real world phenomena such as "highways" and "bridges" where the role of
+            one feature is that it is supported-by the other feature (whose role is
+            supporter-of).
+          id: 852
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '2'
+          terms:
+          - designation: sambandsbeskrivande begrepp
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-11-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  country_code: swe
+  definition: begrepp som kan specificeras i detalj som ett eller flera objektsamband
+  examples:
+  - A "supports" feature association concept describes a relationship between real
+    world phenomena such as "highways" and "bridges" where the role of one feature
+    is that it is supported-by the other feature (whose role is supporter-of).
+  id: 852
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes:
+  - A "supports" feature association concept describes a relationship between real
+    world phenomena such as "highways" and "bridges" where the role of one feature
+    is that it is supported-by the other feature (whose role is supporter-of).
+  release: '2'
+  terms:
+  - designation: sambandsbeskrivande begrepp
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: bb5fefb8-9169-5a60-a556-d33955ef39d0
+status: valid

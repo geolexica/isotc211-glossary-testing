@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 780e1c
+    tree:
+      780e1c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: méthode de test d'implémentation indépendante de toute procédure
+            de test
+          entry_status: valid
+          examples: []
+          id: 4
+          language_code: fra
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: méthode de test abstrait
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: méthode de test d'implémentation indépendante de toute procédure de
+    test
+  examples: []
+  id: 4
+  language_code: fra
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: méthode de test abstrait
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 29ee027f-06b5-513b-8f4f-b943bc5fcf5e
+status: valid

@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 7ae769
+    tree:
+      7ae769:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.63'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: conjunto de frames secuenciales recogidos durante un único ciclo
+            completo de un escáner mecánico que representa la trayectoria cruzada
+            de un lado del campo al otro y vuelta otra vez.
+          entry_status: valid
+          examples: []
+          id: 1414
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: barrido+B260
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.63'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: conjunto de frames secuenciales recogidos durante un único ciclo completo
+    de un escáner mecánico que representa la trayectoria cruzada de un lado del campo
+    al otro y vuelta otra vez.
+  examples: []
+  id: 1414
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: barrido+B260
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 6eb5fba6-4f9d-5525-aba7-eca7ef9663f1
+status: valid

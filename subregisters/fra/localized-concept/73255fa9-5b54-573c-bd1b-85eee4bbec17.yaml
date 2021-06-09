@@ -1,0 +1,53 @@
+data:
+  _revisions:
+    current: 69820f
+    tree:
+      69820f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: système de référence temporel basé sur une échelle d'intervalle
+            sur laquelle la distance est mesurée comme un multiple d'une seule unité
+            de temps
+          entry_status: valid
+          examples: []
+          id: 446
+          language_code: fra
+          notes: []
+          release: '1'
+          review_date: 2018-04-09 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: supersession
+          terms:
+          - designation: système de coordonnées temporel
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: système de référence temporel basé sur une échelle d'intervalle sur
+    laquelle la distance est mesurée comme un multiple d'une seule unité de temps
+  examples: []
+  id: 446
+  language_code: fra
+  notes: []
+  release: '1'
+  review_date: 2018-04-09 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: supersession
+  terms:
+  - designation: système de coordonnées temporel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 73255fa9-5b54-573c-bd1b-85eee4bbec17
+status: valid

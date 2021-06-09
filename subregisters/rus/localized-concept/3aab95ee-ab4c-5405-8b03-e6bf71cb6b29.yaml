@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 1986a6
+    tree:
+      1986a6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: IBM Rational System Developer
+          date_accepted: 2009-04-01 00:00:00+00:00
+          definition: Параметризованный элемент модели, который описывает или идентифицирует
+            шаблон для группы элементов модели определенного типа
+          entry_status: valid
+          examples: []
+          id: 919
+          language_code: rus
+          lineage_source: ISO/TS 19129:2009
+          lineage_source_similarity: '1'
+          notes: []
+          release: '2'
+          terms:
+          - designation: шаблон UML
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-04-01 00:00:00+00:00
+  authoritativeSource:
+  - ref: IBM Rational System Developer
+  definition: Параметризованный элемент модели, который описывает или идентифицирует
+    шаблон для группы элементов модели определенного типа
+  examples: []
+  id: 919
+  language_code: rus
+  lineage_source: ISO/TS 19129:2009
+  lineage_source_similarity: '1'
+  notes: []
+  release: '2'
+  terms:
+  - designation: шаблон UML
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 3aab95ee-ab4c-5405-8b03-e6bf71cb6b29
+status: valid

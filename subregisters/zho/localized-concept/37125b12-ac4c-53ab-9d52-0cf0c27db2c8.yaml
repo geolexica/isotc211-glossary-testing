@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 3992ff
+    tree:
+      3992ff:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: 除了成本函数最优路径之外，还包含任何可满足路径请求的所有限制条件的路径。
+          entry_status: valid
+          examples: []
+          id: 34
+          language_code: zho
+          notes:
+          - 导航就是在备选路径中寻找最优化成本函数的过程。
+          review_indicator: ''
+          terms:
+          - designation: 候选路径
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: 除了成本函数最优路径之外，还包含任何可满足路径请求的所有限制条件的路径。
+  examples: []
+  id: 34
+  language_code: zho
+  notes:
+  - 导航就是在备选路径中寻找最优化成本函数的过程。
+  review_indicator: ''
+  terms:
+  - designation: 候选路径
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 37125b12-ac4c-53ab-9d52-0cf0c27db2c8
+status: valid

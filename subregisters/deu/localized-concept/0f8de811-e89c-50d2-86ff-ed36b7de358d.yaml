@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: 8898cd
+    tree:
+      8898cd:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/20697.html
+            ref: ISO/IEC 10746-3:1996
+          date_accepted: 2005-02-15 00:00:00+00:00
+          date_amended: 2008-06-01 00:00:00+00:00
+          entry_status: superseded
+          examples: []
+          id: 63
+          language_code: deu
+          lineage_source: ISO 19119:2005
+          lineage_source_similarity: 1
+          notes: []
+          release: '-1'
+          review_date: 2012-08-11 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2016-01-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19119:2016
+          review_decision_notes: The entry has been superseded. An entry with a revised
+            definition has been published in ISO 19119:2016
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: Implementierungssicht
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2005-02-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/20697.html
+    ref: ISO/IEC 10746-3:1996
+  date_amended: 2008-06-01 00:00:00+00:00
+  examples: []
+  id: 63
+  language_code: deu
+  lineage_source: ISO 19119:2005
+  lineage_source_similarity: 1
+  notes: []
+  release: '-1'
+  review_date: 2012-08-11 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2016-01-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19119:2016
+  review_decision_notes: The entry has been superseded. An entry with a revised definition
+    has been published in ISO 19119:2016
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: Implementierungssicht
+    normative_status: null
+    type: expression
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 0f8de811-e89c-50d2-86ff-ed36b7de358d
+status: superseded

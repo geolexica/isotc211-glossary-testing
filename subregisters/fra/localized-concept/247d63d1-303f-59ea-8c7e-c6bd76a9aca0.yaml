@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 23a18c
+    tree:
+      23a18c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105
+          date_accepted: 2000-11-16 00:00:00+00:00
+          definition: ensemble de cas de test exécutables
+          entry_status: valid
+          examples: []
+          id: 162
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: suite exécutable de tests
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-11-16 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105
+  definition: ensemble de cas de test exécutables
+  examples: []
+  id: 162
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: suite exécutable de tests
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-11-16 00:00:00+00:00
+id: 247d63d1-303f-59ea-8c7e-c6bd76a9aca0
+status: valid

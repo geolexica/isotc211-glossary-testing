@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 77f8e8
+    tree:
+      77f8e8:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: 基于影像基准的坐标参照系。
+          entry_status: valid
+          examples: []
+          id: 709
+          language_code: zho
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: 影像坐标参照系m
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  definition: 基于影像基准的坐标参照系。
+  examples: []
+  id: 709
+  language_code: zho
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: 影像坐标参照系m
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: d9e52d1c-8d50-527d-99c8-7466910d7ee0
+status: valid

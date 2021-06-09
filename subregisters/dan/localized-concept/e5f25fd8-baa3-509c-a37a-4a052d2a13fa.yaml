@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 2b6bfb
+    tree:
+      2b6bfb:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: metode til at teste implementering uafhængigt af testprocedure
+          entry_status: valid
+          examples: []
+          id: 4
+          language_code: dan
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: abstrakt testmetode
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: metode til at teste implementering uafhængigt af testprocedure
+  examples: []
+  id: 4
+  language_code: dan
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: abstrakt testmetode
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: e5f25fd8-baa3-509c-a37a-4a052d2a13fa
+status: valid

@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: a7080d
+    tree:
+      a7080d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.12
+            link: https://www.iso.org/standard/32563.html
+            ref: ISO 19145:2013
+          date_accepted: 2013-02-15 00:00:00+00:00
+          definition: Синтаксическое описание географического местоположения  точки
+            в хорошо известном формате
+          entry_status: valid
+          examples: []
+          id: 1167
+          language_code: rus
+          lineage_source: ISO 19145:2013
+          notes: []
+          release: '3'
+          terms:
+          - designation: Представление географического местоположения  точек
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2013-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  definition: Синтаксическое описание географического местоположения  точки в хорошо
+    известном формате
+  examples: []
+  id: 1167
+  language_code: rus
+  lineage_source: ISO 19145:2013
+  notes: []
+  release: '3'
+  terms:
+  - designation: Представление географического местоположения  точек
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 947a181f-4656-5ed4-adb5-24409dc68946
+status: valid

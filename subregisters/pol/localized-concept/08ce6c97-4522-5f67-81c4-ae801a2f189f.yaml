@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: c9c659
+    tree:
+      c9c659:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128:2005
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: wynik operacji zwrócony klientowi przez serwer
+          examples: []
+          id: 384
+          language_code: pol
+          lineage_source: PN-EN-ISO 19128
+          notes: []
+          release: '1'
+          terms:
+          - designation: odpowiedź
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  definition: wynik operacji zwrócony klientowi przez serwer
+  examples: []
+  id: 384
+  language_code: pol
+  lineage_source: PN-EN-ISO 19128
+  notes: []
+  release: '1'
+  terms:
+  - designation: odpowiedź
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 08ce6c97-4522-5f67-81c4-ae801a2f189f
+status: valid

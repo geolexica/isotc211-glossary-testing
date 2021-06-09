@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: 4b8e15
+    tree:
+      4b8e15:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: feature that acts as a function to return values from its range
+            for any direct position within its spatial, temporal or spatiotemporal
+            domain
+          entry_status: valid
+          examples:
+          - Examples include a raster image, polygon overlay, or digital elevation
+            matrix.
+          id: 99
+          language_code: eng
+          notes:
+          - In other words, a coverage is a feature that has multiple values for each
+            attribute type, where each direct position within the geometric representation
+            of the feature has a single value for each attribute type.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: coverage
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: feature that acts as a function to return values from its range for
+    any direct position within its spatial, temporal or spatiotemporal domain
+  examples:
+  - Examples include a raster image, polygon overlay, or digital elevation matrix.
+  id: 99
+  language_code: eng
+  notes:
+  - Examples include a raster image, polygon overlay, or digital elevation matrix.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: coverage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: c099d9c8-ee9d-5f74-9995-267faf946ba4
+status: valid

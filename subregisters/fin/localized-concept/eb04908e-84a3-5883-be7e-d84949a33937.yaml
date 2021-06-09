@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: 4c4c6e
+    tree:
+      4c4c6e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32576.html
+            ref: ISO/TS 19158:2012
+          definition: menettely, jolla asiakas varmistuu siitä, että toimittaja kykenee
+            toimittamaan tuotteen vaaditun laadun mukaisena
+          entry_status: valid
+          examples: []
+          id: 1577
+          language_code: fin
+          notes: []
+          release: '3'
+          terms:
+          - designation: laadun arviointimenettely
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2020-07-01 10:08:49.646000+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  definition: menettely, jolla asiakas varmistuu siitä, että toimittaja kykenee toimittamaan
+    tuotteen vaaditun laadun mukaisena
+  examples: []
+  id: 1577
+  language_code: fin
+  notes: []
+  release: '3'
+  terms:
+  - designation: laadun arviointimenettely
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: eb04908e-84a3-5883-be7e-d84949a33937
+status: valid

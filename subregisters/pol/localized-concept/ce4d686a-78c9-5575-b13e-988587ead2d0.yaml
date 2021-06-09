@@ -1,0 +1,47 @@
+data:
+  _revisions:
+    current: fbf660
+    tree:
+      fbf660:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: jedno wymiarowy prosty element geometryczny reprezentujący zasięg
+            w czasie
+          examples: []
+          id: 330
+          language_code: pol
+          lineage_source: PN-EN ISO 19108
+          notes:
+          - Okres jest ograniczony przez dwa różne położenia czasowe.
+          release: '1'
+          terms:
+          - designation: okres
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: jedno wymiarowy prosty element geometryczny reprezentujący zasięg w
+    czasie
+  examples: []
+  id: 330
+  language_code: pol
+  lineage_source: PN-EN ISO 19108
+  notes:
+  - Okres jest ograniczony przez dwa różne położenia czasowe.
+  release: '1'
+  terms:
+  - designation: okres
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: ce4d686a-78c9-5575-b13e-988587ead2d0
+status: valid

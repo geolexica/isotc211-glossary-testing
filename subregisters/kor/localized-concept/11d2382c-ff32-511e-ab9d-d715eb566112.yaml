@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 9c0032
+    tree:
+      9c0032:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: FindLaw
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: 허가증을 수령한 자
+          entry_status: valid
+          examples: []
+          id: 1235
+          language_code: kor
+          lineage_source: ISO 19153:2014, 4.29
+          lineage_source_similarity: '1'
+          notes: []
+          release: '3'
+          terms:
+          - designation: 사업자, 라이선시, 실사권자
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: FindLaw
+  definition: 허가증을 수령한 자
+  examples: []
+  id: 1235
+  language_code: kor
+  lineage_source: ISO 19153:2014, 4.29
+  lineage_source_similarity: '1'
+  notes: []
+  release: '3'
+  terms:
+  - designation: 사업자, 라이선시, 실사권자
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 11d2382c-ff32-511e-ab9d-d715eb566112
+status: valid

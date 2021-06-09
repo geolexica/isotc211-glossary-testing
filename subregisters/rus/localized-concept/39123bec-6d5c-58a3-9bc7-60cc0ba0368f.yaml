@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: ba37dd
+    tree:
+      ba37dd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: набор исполяемых тестов
+          entry_status: valid
+          examples: []
+          id: 162
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: исполняемый тестовый модуль
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: набор исполяемых тестов
+  examples: []
+  id: 162
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: исполняемый тестовый модуль
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 39123bec-6d5c-58a3-9bc7-60cc0ba0368f
+status: valid

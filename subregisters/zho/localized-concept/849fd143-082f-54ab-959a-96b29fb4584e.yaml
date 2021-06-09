@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: '489333'
+    tree:
+      '489333':
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: 用于实现测试的方法，它与特定测试过程无关。
+          entry_status: valid
+          examples: []
+          id: 4
+          language_code: zho
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: 抽象测试方法
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: 用于实现测试的方法，它与特定测试过程无关。
+  examples: []
+  id: 4
+  language_code: zho
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: 抽象测试方法
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 849fd143-082f-54ab-959a-96b29fb4584e
+status: valid

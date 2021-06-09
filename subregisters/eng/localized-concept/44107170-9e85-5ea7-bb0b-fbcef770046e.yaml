@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: a51e80
+    tree:
+      a51e80:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.10'
+            link: https://www.iso.org/standard/46226.html
+            ref: ISO 19117:2012
+          date_accepted: 2012-12-15 00:00:00+00:00
+          definition: function that maps a geographic feature to a symbol
+          entry_status: valid
+          examples: []
+          id: 1264
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: feature portrayal function
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  definition: function that maps a geographic feature to a symbol
+  examples: []
+  id: 1264
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: feature portrayal function
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 44107170-9e85-5ea7-bb0b-fbcef770046e
+status: valid

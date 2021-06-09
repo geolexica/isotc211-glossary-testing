@@ -1,0 +1,53 @@
+data:
+  _revisions:
+    current: '769956'
+    tree:
+      '769956':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42180.html
+            ref: ISO 9000:2005
+          date_accepted: 2012-10-15 00:00:00+00:00
+          definition: организация или личность, которая предоставлет продукт
+          entry_status: valid
+          examples: []
+          id: 1332
+          language_code: rus
+          lineage_source: ISO/TS 19158:2012, 4.11
+          lineage_source_similarity: 1
+          notes:
+          - Поставщик может быть внутренним или внешним по отношению к организации
+            покупателя
+          - в контексте настоящей технической спецификации поставщик предоставил продукт
+            с помощью процесса, который может оказать определенное влияние на качество.
+          release: '3'
+          terms:
+          - designation: поставщик
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  definition: организация или личность, которая предоставлет продукт
+  examples: []
+  id: 1332
+  language_code: rus
+  lineage_source: ISO/TS 19158:2012, 4.11
+  lineage_source_similarity: 1
+  notes:
+  - Поставщик может быть внутренним или внешним по отношению к организации покупателя
+  - в контексте настоящей технической спецификации поставщик предоставил продукт с
+    помощью процесса, который может оказать определенное влияние на качество.
+  release: '3'
+  terms:
+  - designation: поставщик
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 4c7fe125-2d01-5f64-a202-47a8ce81d78f
+status: valid

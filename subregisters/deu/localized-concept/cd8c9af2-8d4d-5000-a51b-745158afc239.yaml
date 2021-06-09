@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 5deccd
+    tree:
+      5deccd:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: Koordinatenreferenzsystem auf der Basis eines Bilddatums
+          entry_status: valid
+          examples: []
+          id: 709
+          language_code: deu
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: Bildkoordinatenreferenzsystem
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  definition: Koordinatenreferenzsystem auf der Basis eines Bilddatums
+  examples: []
+  id: 709
+  language_code: deu
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: Bildkoordinatenreferenzsystem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: cd8c9af2-8d4d-5000-a51b-745158afc239
+status: valid

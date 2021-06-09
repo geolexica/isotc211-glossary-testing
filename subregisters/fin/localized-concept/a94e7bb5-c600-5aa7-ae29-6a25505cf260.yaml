@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 34ff76
+    tree:
+      34ff76:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: tuotteen testaaminen sen selvittämiseksi, missä määrin tuote
+            on vaatimuksenmukainen toteutus
+          entry_status: valid
+          examples: []
+          id: 76
+          language_code: fin
+          lineage_source: Maanmittauslaitos
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: vaatimuksenmukaisuuden testaus
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: tuotteen testaaminen sen selvittämiseksi, missä määrin tuote on vaatimuksenmukainen
+    toteutus
+  examples: []
+  id: 76
+  language_code: fin
+  lineage_source: Maanmittauslaitos
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: vaatimuksenmukaisuuden testaus
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: a94e7bb5-c600-5aa7-ae29-6a25505cf260
+status: valid

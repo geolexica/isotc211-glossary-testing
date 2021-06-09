@@ -1,0 +1,72 @@
+data:
+  _revisions:
+    current: 09b980
+    tree:
+      09b980:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.7
+            link: https://www.iso.org/standard/59164.html
+            ref: ISO 19101-1:2014
+          date_accepted: 2002-07-01 00:00:00+00:00
+          definition: lenguaje formal basado en un formalismo conceptual con el propósito
+            de representar esquemas conceptuales
+          entry_status: valid
+          examples:
+          - UML, EXPRESS, IDEF1X.
+          id: 70
+          language_code: spa
+          lineage_source: ISO 19101:2002
+          lineage_source_similarity: 1
+          notes:
+          - Un lenguaje de esquema conceptual puede ser léxico o gráfico. Distintos
+            lenguajes de esquema conceptual pueden basarse en el mismo formalismo
+            conceptual.
+          release: '1'
+          review_date: 2010-10-12 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2014-11-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19101-1:2014
+          review_decision_notes: Authoritative reference changed from ISO 19101:2002
+            to ISO 19101-1:2014. Lineage source added as ISO 19101:2002.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: lenguaje de esquemas conceptuales
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  definition: lenguaje formal basado en un formalismo conceptual con el propósito
+    de representar esquemas conceptuales
+  examples:
+  - UML, EXPRESS, IDEF1X.
+  id: 70
+  language_code: spa
+  lineage_source: ISO 19101:2002
+  lineage_source_similarity: 1
+  notes:
+  - UML, EXPRESS, IDEF1X.
+  release: '1'
+  review_date: 2010-10-12 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2014-11-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19101-1:2014
+  review_decision_notes: Authoritative reference changed from ISO 19101:2002 to ISO
+    19101-1:2014. Lineage source added as ISO 19101:2002.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: lenguaje de esquemas conceptuales
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 4711dee5-2b56-5394-acde-b9d763380485
+status: valid

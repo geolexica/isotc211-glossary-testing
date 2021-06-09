@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: 7c5177
+    tree:
+      7c5177:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            clause: (E), 3.58
+            link: https://www.iso.org/standard/66847.html
+            ref: ISO 19130-1:2018
+          date_accepted: 2010-06-15 00:00:00+00:00
+          definition: Koordinatenreferenzsystem, dessen Datum durch das darzustellende
+            Objekt definiert wird
+          entry_status: valid
+          examples: []
+          id: 1004
+          language_code: deu
+          lineage_source: ISO/TS 19130:2010(E)
+          lineage_source_similarity: '1'
+          notes: []
+          release: '2'
+          review_date: 2018-09-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-09-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19130-1:2018(E)
+          review_decision_notes: Authoritative reference changed from ISO/TS 19130:2010
+            to ISO 19130-1:2018(E), 3.58. Lineage source added as ISO/TS 19130:2010(E)
+          review_status: final
+          terms:
+          - designation: Gerätekoordinatenreferenzsystem
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-06-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.58
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  definition: Koordinatenreferenzsystem, dessen Datum durch das darzustellende Objekt
+    definiert wird
+  examples: []
+  id: 1004
+  language_code: deu
+  lineage_source: ISO/TS 19130:2010(E)
+  lineage_source_similarity: '1'
+  notes: []
+  release: '2'
+  review_date: 2018-09-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-09-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19130-1:2018(E)
+  review_decision_notes: Authoritative reference changed from ISO/TS 19130:2010 to
+    ISO 19130-1:2018(E), 3.58. Lineage source added as ISO/TS 19130:2010(E)
+  review_status: final
+  terms:
+  - designation: Gerätekoordinatenreferenzsystem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: c9538852-54f4-55d7-9321-132f46c5a5d8
+status: valid

@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: b6d301
+    tree:
+      b6d301:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.15'
+            link: https://www.iso.org/standard/44212.html
+            ref: ISO 19118:2011
+          date_accepted: 2005-07-15 00:00:00+00:00
+          definition: composant logiciel implémentant une règle de codage
+          entry_status: valid
+          examples: []
+          id: 153
+          language_code: fra
+          lineage_source: ISO 19118:2005
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2007-01-23 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2011-10-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19118:2011
+          review_decision_notes: Authoritative reference changed from ISO 19118:2005
+            to ISO 19118:2011. Lineage source added as ISO 19118:2005.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: service de codage
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  definition: composant logiciel implémentant une règle de codage
+  examples: []
+  id: 153
+  language_code: fra
+  lineage_source: ISO 19118:2005
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2007-01-23 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2011-10-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19118:2011
+  review_decision_notes: Authoritative reference changed from ISO 19118:2005 to ISO
+    19118:2011. Lineage source added as ISO 19118:2005.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: service de codage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 594e6dbe-b4af-5eef-99c9-21f12232648f
+status: valid

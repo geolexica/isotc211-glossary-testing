@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 2b61fd
+    tree:
+      2b61fd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32562.html
+            ref: ISO 19144-1:2009
+          date_accepted: 2009-08-15 00:00:00+00:00
+          definition: система нахначения  объектов классам
+          entry_status: valid
+          examples: []
+          id: 810
+          language_code: rus
+          lineage_source: ISO 19144-1:2009
+          notes: []
+          release: '2'
+          terms:
+          - designation: классификационная система
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  definition: система нахначения  объектов классам
+  examples: []
+  id: 810
+  language_code: rus
+  lineage_source: ISO 19144-1:2009
+  notes: []
+  release: '2'
+  terms:
+  - designation: классификационная система
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: e790c2a8-da34-50c7-a771-2b21fcfdb881
+status: valid

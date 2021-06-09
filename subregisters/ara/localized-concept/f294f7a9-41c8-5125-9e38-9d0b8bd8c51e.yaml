@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: 508a54
+    tree:
+      508a54:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.39
+            link: https://www.iso.org/standard/66847.html
+            ref: ISO 19130-1:2018
+          date_accepted: 2010-06-15 00:00:00+00:00
+          definition: زاوية رأسية من مستوى السطح المحلي المماس لاتجاه المدى المائل
+          entry_status: valid
+          examples: []
+          id: 945
+          language_code: ara
+          lineage_source: ISO/TS 19130:2010(E)
+          lineage_source_similarity: '1'
+          notes: []
+          release: '2'
+          review_date: 2018-09-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-09-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19130-1:2018(E)
+          review_decision_notes: Authoritative reference changed from ISO/TS 19130:2010
+            to ISO 19130-1:2018(E), 3.39. Lineage source added as ISO/TS 19130:2010(E)
+          review_status: final
+          terms:
+          - designation: زاوية الميل < تقنية رادار الرصد المركب"سار">
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-06-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.39
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  definition: زاوية رأسية من مستوى السطح المحلي المماس لاتجاه المدى المائل
+  examples: []
+  id: 945
+  language_code: ara
+  lineage_source: ISO/TS 19130:2010(E)
+  lineage_source_similarity: '1'
+  notes: []
+  release: '2'
+  review_date: 2018-09-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-09-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19130-1:2018(E)
+  review_decision_notes: Authoritative reference changed from ISO/TS 19130:2010 to
+    ISO 19130-1:2018(E), 3.39. Lineage source added as ISO/TS 19130:2010(E)
+  review_status: final
+  terms:
+  - designation: زاوية الميل < تقنية رادار الرصد المركب"سار">
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: f294f7a9-41c8-5125-9e38-9d0b8bd8c51e
+status: valid

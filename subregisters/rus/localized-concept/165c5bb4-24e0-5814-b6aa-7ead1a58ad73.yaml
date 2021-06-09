@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 99e151
+    tree:
+      99e151:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.74'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: режим сканирования, состоящий из шаблона ступенчатой лестницы
+          entry_status: valid
+          examples: []
+          id: 1421
+          language_code: rus
+          lineage_source: ISO/TS 19130-2:2014
+          notes:
+          - это относится к приемопередатчику HARLIE на основе объемного фазового
+            голографического оптического элемента.
+          release: '3'
+          terms:
+          - designation: stare
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.74'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: режим сканирования, состоящий из шаблона ступенчатой лестницы
+  examples: []
+  id: 1421
+  language_code: rus
+  lineage_source: ISO/TS 19130-2:2014
+  notes:
+  - это относится к приемопередатчику HARLIE на основе объемного фазового голографического
+    оптического элемента.
+  release: '3'
+  terms:
+  - designation: stare
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 165c5bb4-24e0-5814-b6aa-7ead1a58ad73
+status: valid

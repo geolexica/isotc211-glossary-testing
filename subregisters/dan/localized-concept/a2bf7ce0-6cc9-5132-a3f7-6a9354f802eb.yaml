@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 9e82b3
+    tree:
+      9e82b3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: sæt af forbundne abstrakte testforløb
+          entry_status: valid
+          examples: []
+          id: 5
+          language_code: dan
+          notes:
+          - Abstrakte testmoduler kan hænge hierarkisk sammen.
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: abstrakt testmodul
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: sæt af forbundne abstrakte testforløb
+  examples: []
+  id: 5
+  language_code: dan
+  notes:
+  - Abstrakte testmoduler kan hænge hierarkisk sammen.
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: abstrakt testmodul
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: a2bf7ce0-6cc9-5132-a3f7-6a9354f802eb
+status: valid

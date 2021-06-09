@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: d98caa
+    tree:
+      d98caa:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (Adapted from)
+            ref: Booch 1999
+          date_accepted: 2007-04-15 00:00:00+00:00
+          definition: <UML> specialized abstraction relationship (4.30) between two
+            sets of model elements, one representing a specification (the supplier)
+            and the other representing an implementation of the latter (the client)
+          entry_status: valid
+          examples: []
+          id: 839
+          language_code: fin
+          lineage_source: ISO/TS 19139:2007 ,4.3
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2009-08-31 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: supersession
+          terms:
+          - designation: toteutus
+            normative_status: preferred
+            type: expression
+          - designation: realisaatio
+            type: expression
+        parents: []
+        timeCreated: 2007-04-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: (Adapted from)
+    ref: Booch 1999
+  definition: <UML> specialized abstraction relationship (4.30) between two sets of
+    model elements, one representing a specification (the supplier) and the other
+    representing an implementation of the latter (the client)
+  examples: []
+  id: 839
+  language_code: fin
+  lineage_source: ISO/TS 19139:2007 ,4.3
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2009-08-31 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: supersession
+  terms:
+  - designation: toteutus
+    normative_status: preferred
+    type: expression
+  - designation: realisaatio
+    type: expression
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: c746f1bb-ff7c-5f73-9e31-c64d8f89034d
+status: valid

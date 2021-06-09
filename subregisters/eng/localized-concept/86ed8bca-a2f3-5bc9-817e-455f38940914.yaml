@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: '600295'
+    tree:
+      '600295':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: media type and subtype of data in the body of a message that
+            designates the native representation (canonical form) of such data
+          entry_status: valid
+          examples: []
+          id: 1336
+          language_code: eng
+          lineage_source: ISO 19142:2010
+          notes: []
+          release: '2'
+          terms:
+          - designation: Multipurpose Internet Mail Extensions (MIME) type
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - {}
+  definition: media type and subtype of data in the body of a message that designates
+    the native representation (canonical form) of such data
+  examples: []
+  id: 1336
+  language_code: eng
+  lineage_source: ISO 19142:2010
+  notes: []
+  release: '2'
+  terms:
+  - designation: Multipurpose Internet Mail Extensions (MIME) type
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 86ed8bca-a2f3-5bc9-817e-455f38940914
+status: valid

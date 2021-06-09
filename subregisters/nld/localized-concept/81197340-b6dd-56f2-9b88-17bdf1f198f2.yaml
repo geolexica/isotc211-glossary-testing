@@ -1,0 +1,68 @@
+data:
+  _revisions:
+    current: 14051d
+    tree:
+      14051d:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            clause: '4.37'
+            link: https://www.iso.org/standard/56734.html
+            ref: ISO 19103:2015
+          date_accepted: 2005-07-15 00:00:00+00:00
+          definition: verzameling van afgesproken waarden
+          entry_status: valid
+          examples:
+          - The range 3-28, all integers, any ASCII character, enumeration of all
+            accepted values (green, blue, white).
+          id: 490
+          language_code: nld
+          lineage_source: ISO/TS 19103:2005, 4.1.15
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2009-01-14 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-12-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19103:2015
+          review_decision_notes: Authoritative reference changed from ISO/TS 19103:2005
+            to ISO 19103:2015, 4.37. Lineage source added as ISO/TS 19103:2005, 4.1.15
+          review_status: final
+          terms:
+          - designation: value domain
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.37'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  definition: verzameling van afgesproken waarden
+  examples:
+  - The range 3-28, all integers, any ASCII character, enumeration of all accepted
+    values (green, blue, white).
+  id: 490
+  language_code: nld
+  lineage_source: ISO/TS 19103:2005, 4.1.15
+  lineage_source_similarity: 1
+  notes:
+  - The range 3-28, all integers, any ASCII character, enumeration of all accepted
+    values (green, blue, white).
+  release: '1'
+  review_date: 2009-01-14 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-12-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19103:2015
+  review_decision_notes: Authoritative reference changed from ISO/TS 19103:2005 to
+    ISO 19103:2015, 4.37. Lineage source added as ISO/TS 19103:2005, 4.1.15
+  review_status: final
+  terms:
+  - designation: value domain
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 81197340-b6dd-56f2-9b88-17bdf1f198f2
+status: valid

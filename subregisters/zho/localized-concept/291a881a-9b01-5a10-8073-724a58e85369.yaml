@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: e30990
+    tree:
+      e30990:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            clause: (Adapted from)
+            link: https://www.iso.org/standard/3626.html
+            ref: 'ISO 31-2:1992 '
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: 一个周期的持续时间。
+          entry_status: valid
+          examples: []
+          id: 331
+          language_code: zho
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: 时段时间
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/3626.html
+    ref: 'ISO 31-2:1992 '
+  definition: 一个周期的持续时间。
+  examples: []
+  id: 331
+  language_code: zho
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: 时段时间
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 291a881a-9b01-5a10-8073-724a58e85369
+status: valid

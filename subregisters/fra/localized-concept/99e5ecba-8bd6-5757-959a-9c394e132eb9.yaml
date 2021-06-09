@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: c21954
+    tree:
+      c21954:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: collection finie et nommée d'éléments (objets ou valeurs) liés
+          entry_status: valid
+          examples: []
+          id: 366
+          language_code: fra
+          notes: []
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: enregistrement
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  definition: collection finie et nommée d'éléments (objets ou valeurs) liés
+  examples: []
+  id: 366
+  language_code: fra
+  notes: []
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: enregistrement
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 99e5ecba-8bd6-5757-959a-9c394e132eb9
+status: valid

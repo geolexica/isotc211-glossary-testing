@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 757f08
+    tree:
+      757f08:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: Objekt, das eine Klasse realisiert
+          entry_status: valid
+          examples: []
+          id: 244
+          language_code: deu
+          notes: []
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: Instanz
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  definition: Objekt, das eine Klasse realisiert
+  examples: []
+  id: 244
+  language_code: deu
+  notes: []
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: Instanz
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: cf208e20-0a72-5352-8d60-196d01a77d04
+status: valid

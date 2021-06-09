@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: f47aa6
+    tree:
+      f47aa6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32562.html
+            ref: ISO 19144-1:2009
+          date_accepted: 2009-08-15 00:00:00+00:00
+          definition: 클래스에 객체를 배정하는데 사용되는 시스템
+          entry_status: valid
+          examples: []
+          id: 810
+          language_code: kor
+          notes: []
+          release: '2'
+          terms:
+          - designation: 분류 체계
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  definition: 클래스에 객체를 배정하는데 사용되는 시스템
+  examples: []
+  id: 810
+  language_code: kor
+  notes: []
+  release: '2'
+  terms:
+  - designation: 분류 체계
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 75585078-128e-56d3-9802-6f4abab3db86
+status: valid

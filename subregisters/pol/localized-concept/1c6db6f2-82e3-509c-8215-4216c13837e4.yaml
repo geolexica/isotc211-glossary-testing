@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: b5de95
+    tree:
+      b5de95:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: obiekt reprezentujący zbiór położeń bezpośrednich w przestrzeni
+            i czasie
+          examples: []
+          id: 424
+          language_code: pol
+          lineage_source: PN-EN ISO 19123
+          notes: []
+          release: '1'
+          terms:
+          - designation: obiekt czasoprzestrzenny
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: obiekt reprezentujący zbiór położeń bezpośrednich w przestrzeni i czasie
+  examples: []
+  id: 424
+  language_code: pol
+  lineage_source: PN-EN ISO 19123
+  notes: []
+  release: '1'
+  terms:
+  - designation: obiekt czasoprzestrzenny
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 1c6db6f2-82e3-509c-8215-4216c13837e4
+status: valid

@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: c75b92
+    tree:
+      c75b92:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.11'
+            link: https://www.iso.org/standard/32574.html
+            ref: ISO 19156:2011
+          date_accepted: 2011-12-15 00:00:00+00:00
+          definition: act of measuring or otherwise determining the value of a property
+          entry_status: valid
+          examples: []
+          id: 1442
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: observation
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2011-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  definition: act of measuring or otherwise determining the value of a property
+  examples: []
+  id: 1442
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: observation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 7498807c-6acf-5836-b629-5c1d5a4d430d
+status: valid

@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: 604dd1
+    tree:
+      604dd1:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: succession d'entités dans laquelle une entité existant précédemment
+            est remplacée par deux ou plusieurs instances d'entités distinctes du
+            même type
+          entry_status: valid
+          examples: []
+          id: 174
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: division d'entité
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108
+  definition: succession d'entités dans laquelle une entité existant précédemment
+    est remplacée par deux ou plusieurs instances d'entités distinctes du même type
+  examples: []
+  id: 174
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: division d'entité
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: fcd688fa-4dd7-56c2-9bd9-4584e4dc5153
+status: valid

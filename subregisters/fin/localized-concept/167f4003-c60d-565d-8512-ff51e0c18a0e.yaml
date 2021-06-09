@@ -1,0 +1,74 @@
+data:
+  _revisions:
+    current: 70b43c
+    tree:
+      70b43c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32620.html
+            ref: ISO/IEC 19501
+          date_accepted: 2005-07-15 00:00:00+00:00
+          date_amended: 2015-12-01 00:00:00+00:00
+          definition: moduuleista koostuva, sijoiteltavissa ja korvattavissa oleva
+            järjestelmän osa, joka kätkee toteutuksen ja paljastaa joukon rajapintoja
+          entry_status: superseded
+          examples: []
+          id: 724
+          language_code: fin
+          lineage_source: ISO/TS 19103:2005 ,4.2.9
+          lineage_source_similarity: 1
+          notes:
+          - Komponentti on järjestelmän fyysinen toteutusosa, sisältäen ohjelmakoodin
+            (lähdekoodi, binäärinen tai suorituskelpoinen koodi) tai vastaavan, kuten
+            komentosarjan tai komentotiedoston.
+          release: '-1'
+          review_date: 2009-01-14 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-12-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19103:2015
+          review_decision_notes: The entry has been superseded. An entry with a revised
+            definition has been published in ISO 19103:2015
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: komponentti <UML>
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  date_amended: 2015-12-01 00:00:00+00:00
+  definition: moduuleista koostuva, sijoiteltavissa ja korvattavissa oleva järjestelmän
+    osa, joka kätkee toteutuksen ja paljastaa joukon rajapintoja
+  examples: []
+  id: 724
+  language_code: fin
+  lineage_source: ISO/TS 19103:2005 ,4.2.9
+  lineage_source_similarity: 1
+  notes:
+  - Komponentti on järjestelmän fyysinen toteutusosa, sisältäen ohjelmakoodin (lähdekoodi,
+    binäärinen tai suorituskelpoinen koodi) tai vastaavan, kuten komentosarjan tai
+    komentotiedoston.
+  release: '-1'
+  review_date: 2009-01-14 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-12-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19103:2015
+  review_decision_notes: The entry has been superseded. An entry with a revised definition
+    has been published in ISO 19103:2015
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: komponentti <UML>
+    normative_status: null
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 167f4003-c60d-565d-8512-ff51e0c18a0e
+status: superseded

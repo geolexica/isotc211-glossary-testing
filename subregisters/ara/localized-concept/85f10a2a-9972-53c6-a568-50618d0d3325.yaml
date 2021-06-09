@@ -1,0 +1,58 @@
+data:
+  _revisions:
+    current: e78633
+    tree:
+      e78633:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: مجموعة محددة من البنود ذات العلاقة ( كائنات أو قيم ) مرتبة وفقا
+            لنظام معين وهي قابلة للتكرار
+          entry_status: valid
+          examples: []
+          id: 403
+          language_code: ara
+          notes:
+          - منطقياً , التتابع هو عبارة عن مجموعة من الأزواج <بند , تعويض>. استخدمت
+            في هذا المقياس الدولي قواعد تركيب الجمل في لغة البرمجةLISP , التي تعيِّن
+            حدود التتابعات بحصرها بين هلالين أو نحوهما وتفصل بين عناصر التتابع بالفاصلة.
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: تسلسل
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  definition: مجموعة محددة من البنود ذات العلاقة ( كائنات أو قيم ) مرتبة وفقا لنظام
+    معين وهي قابلة للتكرار
+  examples: []
+  id: 403
+  language_code: ara
+  notes:
+  - منطقياً , التتابع هو عبارة عن مجموعة من الأزواج <بند , تعويض>. استخدمت في هذا
+    المقياس الدولي قواعد تركيب الجمل في لغة البرمجةLISP , التي تعيِّن حدود التتابعات
+    بحصرها بين هلالين أو نحوهما وتفصل بين عناصر التتابع بالفاصلة.
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: تسلسل
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 85f10a2a-9972-53c6-a568-50618d0d3325
+status: valid

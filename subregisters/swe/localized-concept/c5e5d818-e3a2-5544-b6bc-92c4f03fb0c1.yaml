@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: '303076'
+    tree:
+      '303076':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.1.71
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111:2019
+          country_code: swe
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: endimensionellt referenssystem baserat på ett verikalt datum
+          entry_status: valid
+          examples: []
+          id: 716
+          language_code: swe
+          lineage_source: ISO 19111:2007(E)
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of ISO 19111:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19111:2007
+            to ISO 19111:2019(E), 3.1.71. Lineage source added as ISO 19111:2007(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: vertikalt referenssystem
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.71
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  country_code: swe
+  definition: endimensionellt referenssystem baserat på ett verikalt datum
+  examples: []
+  id: 716
+  language_code: swe
+  lineage_source: ISO 19111:2007(E)
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of ISO 19111:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19111:2007 to ISO
+    19111:2019(E), 3.1.71. Lineage source added as ISO 19111:2007(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: vertikalt referenssystem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: c5e5d818-e3a2-5544-b6bc-92c4f03fb0c1
+status: valid

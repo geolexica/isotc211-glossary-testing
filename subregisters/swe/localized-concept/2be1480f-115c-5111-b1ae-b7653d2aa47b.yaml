@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 58f1bf
+    tree:
+      58f1bf:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.31'
+            link: https://www.iso.org/standard/46226.html
+            ref: ISO 19117:2012
+          country_code: swe
+          date_accepted: 2012-12-15 00:00:00+00:00
+          definition: representation av information som till sin natur kan vara grafisk,
+            hörbar eller taktil, eller en kombination av dessa
+          entry_status: valid
+          examples: []
+          id: 1273
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '3'
+          terms:
+          - designation: symbol
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.31'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  country_code: swe
+  definition: representation av information som till sin natur kan vara grafisk, hörbar
+    eller taktil, eller en kombination av dessa
+  examples: []
+  id: 1273
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '3'
+  terms:
+  - designation: symbol
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 2be1480f-115c-5111-b1ae-b7653d2aa47b
+status: valid

@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: 0fd2a9
+    tree:
+      0fd2a9:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 3.8.2, modified — Note 1 to entry has been added.
+            link: https://www.iso.org/standard/20057.html
+            ref: ISO 1087-1:2000
+          date_accepted: 2010-11-01 00:00:00+00:00
+          definition: part of a terminological data collection that contains the terminological
+            data related to one concept
+          entry_status: valid
+          examples: []
+          id: 902
+          language_code: eng
+          lineage_source: ISO 19146:2010(E)
+          lineage_source_similarity: 1
+          notes: []
+          release: '2'
+          review_date: 2018-06-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-06-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19146:2018(E)
+          review_decision_notes: Authoritative reference changed from ISO 1087-2:2000
+            to ISO 1087-1:2000, 3.8.2, modified — Note 1 to entry has been added..
+            Lineage source added as ISO 19146:2010(E)
+          review_status: final
+          terms:
+          - designation: terminological entry
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-11-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 3.8.2, modified — Note 1 to entry has been added.
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  definition: part of a terminological data collection that contains the terminological
+    data related to one concept
+  examples: []
+  id: 902
+  language_code: eng
+  lineage_source: ISO 19146:2010(E)
+  lineage_source_similarity: 1
+  notes: []
+  release: '2'
+  review_date: 2018-06-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-06-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19146:2018(E)
+  review_decision_notes: Authoritative reference changed from ISO 1087-2:2000 to ISO
+    1087-1:2000, 3.8.2, modified — Note 1 to entry has been added.. Lineage source
+    added as ISO 19146:2010(E)
+  review_status: final
+  terms:
+  - designation: terminological entry
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: acc82b45-e68b-531e-a051-d2ef570ef37c
+status: valid

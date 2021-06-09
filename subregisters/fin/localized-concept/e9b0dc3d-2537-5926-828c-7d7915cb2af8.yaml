@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 55d026
+    tree:
+      55d026:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128:2005
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: ohjelmistokomponentti, joka voi kutsua operaatiota palvelimelta
+          entry_status: valid
+          examples: []
+          id: 45
+          language_code: fin
+          lineage_source: Maanmittauslaitos, Geodeettinen laitos
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: asiakassovellus
+            normative_status: preferred
+            type: expression
+          - designation: asiakasohjelma
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  definition: ohjelmistokomponentti, joka voi kutsua operaatiota palvelimelta
+  examples: []
+  id: 45
+  language_code: fin
+  lineage_source: Maanmittauslaitos, Geodeettinen laitos
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: asiakassovellus
+    normative_status: preferred
+    type: expression
+  - designation: asiakasohjelma
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: e9b0dc3d-2537-5926-828c-7d7915cb2af8
+status: valid

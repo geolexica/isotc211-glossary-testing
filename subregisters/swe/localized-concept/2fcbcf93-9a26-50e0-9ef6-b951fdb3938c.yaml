@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: d39c4a
+    tree:
+      d39c4a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          country_code: swe
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: 'samling utförbara testfall som tillsammans
+
+            kan avgöra om överensstämmelse råder med alla uppställda krav'
+          entry_status: valid
+          examples: []
+          id: 162
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: utförbar testsvit
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  country_code: swe
+  definition: 'samling utförbara testfall som tillsammans
+
+    kan avgöra om överensstämmelse råder med alla uppställda krav'
+  examples: []
+  id: 162
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: utförbar testsvit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 2fcbcf93-9a26-50e0-9ef6-b951fdb3938c
+status: valid

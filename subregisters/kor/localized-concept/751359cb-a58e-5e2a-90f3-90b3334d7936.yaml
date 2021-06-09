@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 59d27d
+    tree:
+      59d27d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.54'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: 경사범위와 동일한 안테나와 원거리 물체간 거리
+          entry_status: valid
+          examples: []
+          id: 1566
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 범위
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.54'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: 경사범위와 동일한 안테나와 원거리 물체간 거리
+  examples: []
+  id: 1566
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 범위
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 751359cb-a58e-5e2a-90f3-90b3334d7936
+status: valid

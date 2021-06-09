@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: 82b178
+    tree:
+      82b178:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: IXIT
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: 시험소가 해당 IUT에 대해 적절한 시험 스위트를 수행할 수 있도록 IUT 및 이에 대응하는 SUT에 관련된
+            모든 정보를 포함하는 문서
+          entry_status: valid
+          examples: []
+          id: 237
+          language_code: kor
+          notes:
+          - 일반적으로 IXIT는 SUT에 대한 수정 및 접근 방법과 SUT에서 개념의 구성 및 저장에 관한 세부사항을 제공한다.
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: 시험용 구현 부가 정보
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  abbrev: IXIT
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: 시험소가 해당 IUT에 대해 적절한 시험 스위트를 수행할 수 있도록 IUT 및 이에 대응하는 SUT에 관련된 모든 정보를
+    포함하는 문서
+  examples: []
+  id: 237
+  language_code: kor
+  notes:
+  - 일반적으로 IXIT는 SUT에 대한 수정 및 접근 방법과 SUT에서 개념의 구성 및 저장에 관한 세부사항을 제공한다.
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: 시험용 구현 부가 정보
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 3fffc5cd-f3d5-53ca-8b4c-2f9df51656ee
+status: valid

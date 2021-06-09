@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: 2244d9
+    tree:
+      2244d9:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: координатная система отсчета,  основанная на исходных датах
+            изображения
+          entry_status: valid
+          examples: []
+          id: 709
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: координатная система отсчета изображения
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  definition: координатная система отсчета,  основанная на исходных датах изображения
+  examples: []
+  id: 709
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: координатная система отсчета изображения
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 124a886d-8127-53b3-b8fd-1fade43f0056
+status: valid

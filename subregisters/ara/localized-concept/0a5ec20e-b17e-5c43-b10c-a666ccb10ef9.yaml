@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 78c353
+    tree:
+      78c353:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: في العادة نمط مستطيل الشكل مكون من خطوط مسح ضوئي متوازية يشكل
+            أو يقابل العرض على أنبوب أشعة الكاثود
+          entry_status: valid
+          examples: []
+          id: 364
+          language_code: ara
+          notes:
+          - المتجه هو نوع من شبكات التربيع.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: نقطي
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: في العادة نمط مستطيل الشكل مكون من خطوط مسح ضوئي متوازية يشكل أو يقابل
+    العرض على أنبوب أشعة الكاثود
+  examples: []
+  id: 364
+  language_code: ara
+  notes:
+  - المتجه هو نوع من شبكات التربيع.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: نقطي
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 0a5ec20e-b17e-5c43-b10c-a666ccb10ef9
+status: valid

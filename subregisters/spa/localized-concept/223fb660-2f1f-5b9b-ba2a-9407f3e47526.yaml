@@ -1,0 +1,70 @@
+data:
+  _revisions:
+    current: dd5fd9
+    tree:
+      dd5fd9:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: GRP
+          authoritative_source:
+            clause: (E), 3.44
+            link: https://www.iso.org/standard/66847.html
+            ref: ISO 19130-1:2018
+          date_accepted: 2010-06-15 00:00:00+00:00
+          definition: posición tridimensional de un punto de referencia en el terreno
+            para una apertura sintética dada
+          entry_status: valid
+          examples: []
+          id: 999
+          language_code: spa
+          lineage_source: ISO/TS 19130:2010(E)
+          lineage_source_similarity: '1'
+          notes:
+          - Normalmente es el punto central de una imagen (foco) o  una línea de la
+            imagen (pasada). Normalmente se expresa en coordenadas ECEF en metros.
+          release: '2'
+          review_date: 2018-09-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-09-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19130-1:2018(E)
+          review_decision_notes: Authoritative reference changed from ISO/TS 19130:2010
+            to ISO 19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+          review_status: final
+          terms:
+          - designation: punto terrestre de referencia
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-06-15 00:00:00+00:00
+  abbrev: GRP
+  authoritativeSource:
+  - clause: (E), 3.44
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  definition: posición tridimensional de un punto de referencia en el terreno para
+    una apertura sintética dada
+  examples: []
+  id: 999
+  language_code: spa
+  lineage_source: ISO/TS 19130:2010(E)
+  lineage_source_similarity: '1'
+  notes:
+  - Normalmente es el punto central de una imagen (foco) o  una línea de la imagen
+    (pasada). Normalmente se expresa en coordenadas ECEF en metros.
+  release: '2'
+  review_date: 2018-09-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-09-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19130-1:2018(E)
+  review_decision_notes: Authoritative reference changed from ISO/TS 19130:2010 to
+    ISO 19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+  review_status: final
+  terms:
+  - designation: punto terrestre de referencia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 223fb660-2f1f-5b9b-ba2a-9407f3e47526
+status: valid

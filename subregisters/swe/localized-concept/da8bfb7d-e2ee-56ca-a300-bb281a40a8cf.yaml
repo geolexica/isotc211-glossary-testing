@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 6d1d8b
+    tree:
+      6d1d8b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          country_code: swe
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: restriktion för hur en länk eller sväng får trafikeras av fordon,
+            såsom fordonsklass, fysisk begränsning eller tidsmässig begränsning
+          entry_status: valid
+          examples: []
+          id: 734
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: trafikbegränsning
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  country_code: swe
+  definition: restriktion för hur en länk eller sväng får trafikeras av fordon, såsom
+    fordonsklass, fysisk begränsning eller tidsmässig begränsning
+  examples: []
+  id: 734
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: trafikbegränsning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: da8bfb7d-e2ee-56ca-a300-bb281a40a8cf
+status: valid

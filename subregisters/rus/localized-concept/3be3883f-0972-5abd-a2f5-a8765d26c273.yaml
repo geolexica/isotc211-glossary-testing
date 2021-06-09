@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: fd6124
+    tree:
+      fd6124:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/43041.html
+            ref: ISO/TS 19129:2009
+          date_accepted: 2009-04-01 00:00:00+00:00
+          definition: взаимосвязь между элементами модели содержания  и отдельными
+            механизмами кодирования и отображения
+          entry_status: valid
+          examples: []
+          id: 188
+          language_code: rus
+          lineage_source: перевод ИСО/ТС 19129:2009
+          notes: []
+          release: '2'
+          terms:
+          - designation: гиперструктура
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-04-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  definition: взаимосвязь между элементами модели содержания  и отдельными механизмами
+    кодирования и отображения
+  examples: []
+  id: 188
+  language_code: rus
+  lineage_source: перевод ИСО/ТС 19129:2009
+  notes: []
+  release: '2'
+  terms:
+  - designation: гиперструктура
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 3be3883f-0972-5abd-a2f5-a8765d26c273
+status: valid

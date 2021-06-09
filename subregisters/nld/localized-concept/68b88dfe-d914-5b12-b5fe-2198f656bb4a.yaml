@@ -1,0 +1,70 @@
+data:
+  _revisions:
+    current: 7c22cd
+    tree:
+      7c22cd:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          abbrev: b
+          authoritative_source:
+            clause: (E), 3.1.54
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111:2019
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: halve diameter van de kortste as van een ellipsoïde
+          entry_status: valid
+          examples: []
+          id: 623
+          language_code: nld
+          lineage_source: ISO 19111:2007(E)
+          lineage_source_similarity: 1
+          notes:
+          - De kortste as is gelijk aan de omwentelingsas van de ellipsoïde en bevat
+            daarmee beide polen.
+          release: '1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of ISO 19111:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19111:2007
+            to ISO 19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: halve korte as
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  abbrev: b
+  authoritativeSource:
+  - clause: (E), 3.1.54
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  definition: halve diameter van de kortste as van een ellipsoïde
+  examples: []
+  id: 623
+  language_code: nld
+  lineage_source: ISO 19111:2007(E)
+  lineage_source_similarity: 1
+  notes:
+  - De kortste as is gelijk aan de omwentelingsas van de ellipsoïde en bevat daarmee
+    beide polen.
+  release: '1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of ISO 19111:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19111:2007 to ISO
+    19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: halve korte as
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 68b88dfe-d914-5b12-b5fe-2198f656bb4a
+status: valid

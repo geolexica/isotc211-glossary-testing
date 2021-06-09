@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 051f0c
+    tree:
+      051f0c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.1'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: 인증과 인가의 조합
+          entry_status: valid
+          examples: []
+          id: 1206
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 접근 제어
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.1'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: 인증과 인가의 조합
+  examples: []
+  id: 1206
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 접근 제어
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: dcb8032e-259e-5d0d-ae55-3a526d712b04
+status: valid

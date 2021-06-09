@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 63939f
+    tree:
+      63939f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40147.html
+            ref: ISO 3534-2:2006
+          date_accepted: 2008-07-15 00:00:00+00:00
+          definition: closeness of agreement between a test result or measurement
+            result and the true value
+          entry_status: valid
+          examples: []
+          id: 1014
+          language_code: eng
+          lineage_source: ISO 6709:2008
+          notes: []
+          release: '2'
+          terms:
+          - designation: accuracy
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40147.html
+    ref: ISO 3534-2:2006
+  definition: closeness of agreement between a test result or measurement result and
+    the true value
+  examples: []
+  id: 1014
+  language_code: eng
+  lineage_source: ISO 6709:2008
+  notes: []
+  release: '2'
+  terms:
+  - designation: accuracy
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: 850764e2-54d3-55ca-98f1-b8403718a684
+status: valid

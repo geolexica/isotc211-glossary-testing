@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 0881f6
+    tree:
+      0881f6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.5'
+            link: https://www.iso.org/standard/46226.html
+            ref: ISO 19117:2012
+          date_accepted: 2012-12-15 00:00:00+00:00
+          definition: функция, которая сопоставляет географический объект с символом
+            на основе некоторого условия, вычисляемого по свойству или атрибуту объекта
+          entry_status: valid
+          examples: []
+          id: 1263
+          language_code: rus
+          lineage_source: перевод ИСО 19117:2012
+          notes: []
+          release: '3'
+          terms:
+          - designation: функция условного отображения объекта
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  definition: функция, которая сопоставляет географический объект с символом на основе
+    некоторого условия, вычисляемого по свойству или атрибуту объекта
+  examples: []
+  id: 1263
+  language_code: rus
+  lineage_source: перевод ИСО 19117:2012
+  notes: []
+  release: '3'
+  terms:
+  - designation: функция условного отображения объекта
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 01867e76-61b5-55b9-af44-2f8ff83cd0e7
+status: valid

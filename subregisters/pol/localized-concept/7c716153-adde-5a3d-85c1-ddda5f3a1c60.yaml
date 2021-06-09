@@ -1,0 +1,67 @@
+data:
+  _revisions:
+    current: 8124b3
+    tree:
+      8124b3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 3.2.7
+            link: https://www.iso.org/standard/55723.html
+            ref: ISO/IEC 10746-2
+          date_accepted: 2005-02-15 00:00:00+00:00
+          definition: (na dany system) forma abstrakcji uzyskana, z wykorzystaniem
+            wybranego zbioru pojęć architektonicznych i reguł strukturyzacji, w celu
+            skupienia się na wybranych aspektach systemu
+          examples: []
+          id: 497
+          language_code: pol
+          lineage_source: ISO 19119:2005
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2012-08-11 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2016-01-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19119:2016
+          review_decision_notes: Authoritative reference changed from ISO/IEC 10746-2:1996
+            to ISO/IEC 10746-2, 3.2.7. Lineage source added as ISO 19119:2005
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: punkt widzenia
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 3.2.7
+    link: https://www.iso.org/standard/55723.html
+    ref: ISO/IEC 10746-2
+  definition: (na dany system) forma abstrakcji uzyskana, z wykorzystaniem wybranego
+    zbioru pojęć architektonicznych i reguł strukturyzacji, w celu skupienia się na
+    wybranych aspektach systemu
+  examples: []
+  id: 497
+  language_code: pol
+  lineage_source: ISO 19119:2005
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2012-08-11 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2016-01-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19119:2016
+  review_decision_notes: Authoritative reference changed from ISO/IEC 10746-2:1996
+    to ISO/IEC 10746-2, 3.2.7. Lineage source added as ISO 19119:2005
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: punkt widzenia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 7c716153-adde-5a3d-85c1-ddda5f3a1c60
+status: valid

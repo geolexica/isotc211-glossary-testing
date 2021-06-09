@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 94f162
+    tree:
+      94f162:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: restriction on how a link or turn may be traversed by a vehicle,
+            such as vehicle classification, physical or temporal constraint
+          entry_status: valid
+          examples: []
+          id: 740
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: navigation constraint
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: restriction on how a link or turn may be traversed by a vehicle, such
+    as vehicle classification, physical or temporal constraint
+  examples: []
+  id: 740
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: navigation constraint
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f4495a45-f62e-5924-9149-10e5f36b3a6d
+status: valid

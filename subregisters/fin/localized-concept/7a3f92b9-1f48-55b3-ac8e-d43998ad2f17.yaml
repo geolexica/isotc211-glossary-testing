@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: ba2b39
+    tree:
+      ba2b39:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40115.html
+            ref: ISO 19125-2:2004
+          date_accepted: 2004-08-01 00:00:00+00:00
+          definition: abstrakti kuvaus todellisesta asiasta tai ilmiöstä, joka liittyy
+            tiettyyn paikkaan tai maantieteelliseen alueeseen
+          entry_status: valid
+          examples: []
+          id: 203
+          language_code: fin
+          lineage_source: 'Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 42), 2011'
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: paikkatietokohde
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-08-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  definition: abstrakti kuvaus todellisesta asiasta tai ilmiöstä, joka liittyy tiettyyn
+    paikkaan tai maantieteelliseen alueeseen
+  examples: []
+  id: 203
+  language_code: fin
+  lineage_source: 'Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 42), 2011'
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: paikkatietokohde
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: 7a3f92b9-1f48-55b3-ac8e-d43998ad2f17
+status: valid

@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 731f51
+    tree:
+      731f51:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/44875.html
+            ref: ISO 19126:2009
+          date_accepted: 2009-11-01 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 851
+          language_code: deu
+          notes:
+          - The common characteristic may be a shared namespace for the assignment
+            of names and/or codes.
+          release: '2'
+          terms:
+          - designation: zusammengesetzte Registry
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-11-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  examples: []
+  id: 851
+  language_code: deu
+  notes:
+  - The common characteristic may be a shared namespace for the assignment of names
+    and/or codes.
+  release: '2'
+  terms:
+  - designation: zusammengesetzte Registry
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: 83e07b2d-be77-51b0-b370-f10216552bc2
+status: valid

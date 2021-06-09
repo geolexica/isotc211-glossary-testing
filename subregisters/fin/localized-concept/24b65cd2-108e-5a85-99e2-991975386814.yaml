@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: 2a9d6f
+    tree:
+      2a9d6f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: äärellinen, nimetty kokoelma toisiinsa liittyviä tietokohteita
+            (objekteja tai arvoja)
+          entry_status: valid
+          examples: []
+          id: 366
+          language_code: fin
+          notes:
+          - Tietue on joukko <nimi, tietokohde>-pareja.
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: tietue
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  definition: äärellinen, nimetty kokoelma toisiinsa liittyviä tietokohteita (objekteja
+    tai arvoja)
+  examples: []
+  id: 366
+  language_code: fin
+  notes:
+  - Tietue on joukko <nimi, tietokohde>-pareja.
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: tietue
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 24b65cd2-108e-5a85-99e2-991975386814
+status: valid

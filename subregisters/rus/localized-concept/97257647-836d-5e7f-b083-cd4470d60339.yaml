@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 3c971c
+    tree:
+      3c971c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/43041.html
+            ref: ISO/TS 19129:2009
+          date_accepted: 2009-04-01 00:00:00+00:00
+          definition: Последовательность, в которой перечислены ячейки сетки
+          entry_status: valid
+          examples: []
+          id: 475
+          language_code: rus
+          lineage_source: перевод ИСО/ТС 19129:2009
+          notes: []
+          release: '2'
+          terms:
+          - designation: пордок перехода
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-04-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  definition: Последовательность, в которой перечислены ячейки сетки
+  examples: []
+  id: 475
+  language_code: rus
+  lineage_source: перевод ИСО/ТС 19129:2009
+  notes: []
+  release: '2'
+  terms:
+  - designation: пордок перехода
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 97257647-836d-5e7f-b083-cd4470d60339
+status: valid

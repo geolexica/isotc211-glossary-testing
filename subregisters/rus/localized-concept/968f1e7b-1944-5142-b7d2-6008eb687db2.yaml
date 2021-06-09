@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: adaa3a
+    tree:
+      adaa3a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.11'
+            link: https://www.iso.org/standard/32574.html
+            ref: ISO 19156:2011
+          date_accepted: 2011-12-15 00:00:00+00:00
+          definition: акт измерения или иного определения значения свойства
+          entry_status: valid
+          examples: []
+          id: 1442
+          language_code: rus
+          lineage_source: ISO 19156:2011
+          notes: []
+          release: '3'
+          terms:
+          - designation: наблюдение
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2011-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  definition: акт измерения или иного определения значения свойства
+  examples: []
+  id: 1442
+  language_code: rus
+  lineage_source: ISO 19156:2011
+  notes: []
+  release: '3'
+  terms:
+  - designation: наблюдение
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 968f1e7b-1944-5142-b7d2-6008eb687db2
+status: valid

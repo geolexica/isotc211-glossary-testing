@@ -1,0 +1,57 @@
+data:
+  _revisions:
+    current: 971ccc
+    tree:
+      971ccc:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: układ odniesienia opisujący związek dwu lub trójwymiarowego
+            układu współrzędnych z Ziemią
+          examples: []
+          id: 708
+          language_code: pol
+          notes: []
+          release: '1'
+          review_date: 2017-06-28 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2007-07-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19111:2007
+          review_indicator: ''
+          review_status: pending
+          review_type: supersession
+          terms:
+          - designation: geodezyjny układ odniesienia
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  definition: układ odniesienia opisujący związek dwu lub trójwymiarowego układu współrzędnych
+    z Ziemią
+  examples: []
+  id: 708
+  language_code: pol
+  notes: []
+  release: '1'
+  review_date: 2017-06-28 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2007-07-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19111:2007
+  review_indicator: ''
+  review_status: pending
+  review_type: supersession
+  terms:
+  - designation: geodezyjny układ odniesienia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: daf04c55-13b2-5174-8579-143553b1c294
+status: valid

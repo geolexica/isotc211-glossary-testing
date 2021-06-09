@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: a7b492
+    tree:
+      a7b492:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/44316.html
+            ref: ISO/TS 27790:2009
+          date_accepted: 2012-11-15 00:00:00+00:00
+          definition: logical structure for classifying and organizing complex information
+          entry_status: valid
+          examples: []
+          id: 1547
+          language_code: eng
+          lineage_source: ISO/TS 19150-1:2012, 4.6
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: framework
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-11-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/44316.html
+    ref: ISO/TS 27790:2009
+  definition: logical structure for classifying and organizing complex information
+  examples: []
+  id: 1547
+  language_code: eng
+  lineage_source: ISO/TS 19150-1:2012, 4.6
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: framework
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-11-15 00:00:00+00:00
+id: ba8f5a15-0116-570d-a565-4ae0d133ac84
+status: valid

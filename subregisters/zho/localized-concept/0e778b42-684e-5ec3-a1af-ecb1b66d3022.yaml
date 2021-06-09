@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: 20bac8
+    tree:
+      20bac8:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            ref: https://searchcio.techtarget.com/
+          date_accepted: 2007-04-15 00:00:00+00:00
+          definition: 在不同上下文环境中可以对同一事物赋予不同含义或用途的特性，确切地说，某一实体如变量、函数或对象可以具有1个以上的形态的特性。
+          entry_status: valid
+          examples: []
+          id: 840
+          language_code: zho
+          lineage_source: ISO/TS 19139:2007(E)
+          lineage_source_similarity: 1
+          notes:
+          - 有多种不同类型的多态性。
+          release: '1'
+          review_date: 2019-03-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-03-01 00:00:00+00:00
+          review_decision_event: Publication of ISO/TS 19139-1:2019(E)
+          review_decision_notes: Authoritative reference changed from http://searchsmallbizit.techtarget.com
+            to https://searchcio.techtarget.com/. Lineage source added as ISO/TS 19139:2007(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: 多态性
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-04-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: https://searchcio.techtarget.com/
+  definition: 在不同上下文环境中可以对同一事物赋予不同含义或用途的特性，确切地说，某一实体如变量、函数或对象可以具有1个以上的形态的特性。
+  examples: []
+  id: 840
+  language_code: zho
+  lineage_source: ISO/TS 19139:2007(E)
+  lineage_source_similarity: 1
+  notes:
+  - 有多种不同类型的多态性。
+  release: '1'
+  review_date: 2019-03-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-03-01 00:00:00+00:00
+  review_decision_event: Publication of ISO/TS 19139-1:2019(E)
+  review_decision_notes: Authoritative reference changed from http://searchsmallbizit.techtarget.com
+    to https://searchcio.techtarget.com/. Lineage source added as ISO/TS 19139:2007(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: 多态性
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 0e778b42-684e-5ec3-a1af-ecb1b66d3022
+status: valid

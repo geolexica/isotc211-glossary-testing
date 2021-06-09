@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 1ec96b
+    tree:
+      1ec96b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          country_code: swe
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: 'att finna den optimala vägen mellan
+
+            två punkter (noder)'
+          entry_status: valid
+          examples: []
+          id: 391
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: ruttoptimering
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  country_code: swe
+  definition: 'att finna den optimala vägen mellan
+
+    två punkter (noder)'
+  examples: []
+  id: 391
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: ruttoptimering
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: cc6fc663-6bb8-5d7c-ae92-317aeb32f74b
+status: valid

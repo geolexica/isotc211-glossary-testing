@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: 74c2be
+    tree:
+      74c2be:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.11'
+            link: https://www.iso.org/standard/26018.html
+            ref: ISO 19113:2002
+          date_accepted: 2002-12-01 00:00:00+00:00
+          date_amended: 2013-12-15 00:00:00+00:00
+          definition: データ品質要素のある側面を記述するデータ品質要素の構成要素。
+          entry_status: retired
+          examples: []
+          id: 119
+          language_code: jpn
+          lineage_source: ''
+          notes: []
+          release: '-1'
+          review_date: 2013-12-15 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2013-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19157:2013
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19157:2013).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: データ品質副要素
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2002-12-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  date_amended: 2013-12-15 00:00:00+00:00
+  definition: データ品質要素のある側面を記述するデータ品質要素の構成要素。
+  examples: []
+  id: 119
+  language_code: jpn
+  lineage_source: ''
+  notes: []
+  release: '-1'
+  review_date: 2013-12-15 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2013-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19157:2013
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19157:2013).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: データ品質副要素
+    normative_status: null
+    type: expression
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 2759a26b-0b51-5607-80b7-f917c05e1580
+status: retired

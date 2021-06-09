@@ -1,0 +1,72 @@
+data:
+  _revisions:
+    current: 56c366
+    tree:
+      56c366:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          abbrev: l
+          authoritative_source:
+            clause: (E), 3.1.33
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111:2019
+          date_accepted: 2003-02-15 00:00:00+00:00
+          definition: hoek vanaf het vlak van de nulmeridiaan tot het meridiaan vlak
+            van een gegeven punt, oostwaarts wordt als positief genomen
+          entry_status: valid
+          examples: []
+          id: 201
+          language_code: nld
+          lineage_source: ISO 19111:2003
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of ISO 19111:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19111:2007
+            to ISO 19111:2019(E), 3.1.33. Lineage source added as ISO 19111:2003
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: geodetische lengte
+            normative_status: preferred
+            type: expression
+          - designation: ellipsoïde lengte
+            type: expression
+        parents: []
+        timeCreated: 2003-02-15 00:00:00+00:00
+  abbrev: l
+  authoritativeSource:
+  - clause: (E), 3.1.33
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  definition: hoek vanaf het vlak van de nulmeridiaan tot het meridiaan vlak van een
+    gegeven punt, oostwaarts wordt als positief genomen
+  examples: []
+  id: 201
+  language_code: nld
+  lineage_source: ISO 19111:2003
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of ISO 19111:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19111:2007 to ISO
+    19111:2019(E), 3.1.33. Lineage source added as ISO 19111:2003
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: geodetische lengte
+    normative_status: preferred
+    type: expression
+  - designation: ellipsoïde lengte
+    type: expression
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 87e34856-d2aa-5a48-8797-16b199abca2d
+status: valid

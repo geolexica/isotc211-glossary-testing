@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 4a3387
+    tree:
+      4a3387:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: اختبار محدد للتنفيذ لتلبية متطلبات محددة
+          entry_status: valid
+          examples: []
+          id: 161
+          language_code: ara
+          notes:
+          - تمثيل حالة اختبار تجريدي بالقيم.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: حالة اختبار قابلة للتنفيذ
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: اختبار محدد للتنفيذ لتلبية متطلبات محددة
+  examples: []
+  id: 161
+  language_code: ara
+  notes:
+  - تمثيل حالة اختبار تجريدي بالقيم.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: حالة اختبار قابلة للتنفيذ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 9f7f29b7-978e-5517-bf5c-44eb2facfd27
+status: valid

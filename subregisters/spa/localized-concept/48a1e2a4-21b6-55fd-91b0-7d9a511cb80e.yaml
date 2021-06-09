@@ -1,0 +1,65 @@
+data:
+  _revisions:
+    current: f17b9c
+    tree:
+      f17b9c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.15'
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2015-07-01 00:00:00+00:00
+          definition: valor constante especificado explícitamente
+          entry_status: valid
+          examples:
+          - '"1"^^xsd:integer, "abc"^^xsd:string'
+          id: 1644
+          language_code: spa
+          notes:
+          - A diferencia del valor que se determina resolviendo una cadena de sustituciones
+            (por ejemplo, una variable).
+          release: '4'
+          review_date: 2012-05-25 00:00:00+00:00
+          review_decision: ''
+          review_decision_date: 2015-07-01 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19150-2:2015(E)
+          review_status: final
+          terms:
+          - designation: valor literal
+            normative_status: admitted
+            type: expression
+          - designation: valor literal
+            type: expression
+        parents: []
+        timeCreated: 2015-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: valor constante especificado explícitamente
+  examples:
+  - '"1"^^xsd:integer, "abc"^^xsd:string'
+  id: 1644
+  language_code: spa
+  notes:
+  - '"1"^^xsd:integer, "abc"^^xsd:string'
+  release: '4'
+  review_date: 2012-05-25 00:00:00+00:00
+  review_decision: ''
+  review_decision_date: 2015-07-01 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19150-2:2015(E)
+  review_status: final
+  terms:
+  - designation: valor literal
+    normative_status: admitted
+    type: expression
+  - designation: valor literal
+    type: expression
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 48a1e2a4-21b6-55fd-91b0-7d9a511cb80e
+status: valid

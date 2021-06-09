@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 21b457
+    tree:
+      21b457:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40601.html
+            ref: ISO 19132:2007
+          date_accepted: 2007-10-15 00:00:00+00:00
+          definition: application that combines or offers lower-level services for
+            specific user needs
+          entry_status: valid
+          examples: []
+          id: 683
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: service broker
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  definition: application that combines or offers lower-level services for specific
+    user needs
+  examples: []
+  id: 683
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: service broker
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 9eb79f60-2c40-50ba-a714-fc6cabf7fce5
+status: valid

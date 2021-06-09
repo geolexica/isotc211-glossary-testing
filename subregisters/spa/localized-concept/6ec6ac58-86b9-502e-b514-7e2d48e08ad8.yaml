@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 639c25
+    tree:
+      639c25:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26017.html
+            ref: ISO 19112:2003
+          date_accepted: 2003-10-15 00:00:00+00:00
+          definition: sistema para identificar posiciones en el mundo real
+          entry_status: valid
+          examples: []
+          id: 422
+          language_code: spa
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: sistema de referencia espacial
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  definition: sistema para identificar posiciones en el mundo real
+  examples: []
+  id: 422
+  language_code: spa
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: sistema de referencia espacial
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: 6ec6ac58-86b9-502e-b514-7e2d48e08ad8
+status: valid

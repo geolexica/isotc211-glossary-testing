@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: 6d1863
+    tree:
+      6d1863:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: opsummering af overensstemmelsen med den internationale standard
+            samt detaljer om testen, der understøtter den givne samlede opsummering
+          examples: []
+          id: 75
+          language_code: dan
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: overensstemmelse, testrapport
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: opsummering af overensstemmelsen med den internationale standard samt
+    detaljer om testen, der understøtter den givne samlede opsummering
+  examples: []
+  id: 75
+  language_code: dan
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: overensstemmelse, testrapport
+    normative_status: null
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 8f4cb2af-2c4c-537d-a0db-bf89cb646162
+status: valid

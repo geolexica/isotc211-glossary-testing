@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 4c2b80
+    tree:
+      4c2b80:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: 月の循環周期の持続時間とほぼ等しい期間。
+          entry_status: valid
+          examples: []
+          id: 300
+          language_code: jpn
+          lineage_source: JIS X 7108
+          notes:
+          - 　１か月の持続時間は整数で表す日数である。１か月の日数は個々の暦の規則で定められている。
+          release: '1'
+          terms:
+          - designation: 月
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: 月の循環周期の持続時間とほぼ等しい期間。
+  examples: []
+  id: 300
+  language_code: jpn
+  lineage_source: JIS X 7108
+  notes:
+  - 　１か月の持続時間は整数で表す日数である。１か月の日数は個々の暦の規則で定められている。
+  release: '1'
+  terms:
+  - designation: 月
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: dec57495-2906-5575-9b22-6b04d1efc0ef
+status: valid

@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: acd7c8
+    tree:
+      acd7c8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: ETS
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: sæt af eksekverbare testforløb
+          examples: []
+          id: 162
+          language_code: dan
+          notes: []
+          release: '1'
+          terms:
+          - designation: eksekverbar testsuite
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  abbrev: ETS
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: sæt af eksekverbare testforløb
+  examples: []
+  id: 162
+  language_code: dan
+  notes: []
+  release: '1'
+  terms:
+  - designation: eksekverbar testsuite
+    normative_status: null
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 7fb0e626-ab92-52d1-950f-91d38b323f97
+status: valid

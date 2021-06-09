@@ -1,0 +1,65 @@
+data:
+  _revisions:
+    current: 38cbf9
+    tree:
+      38cbf9:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26017.html
+            ref: ISO 19112:2003
+          date_accepted: 2003-10-15 00:00:00+00:00
+          date_amended: 2019-02-14 00:00:00+00:00
+          definition: مكان جغرافي يمكن التعرف عليه
+          entry_status: superseded
+          examples:
+          - '"برج إيفيل" , "مدريد" , "كاليفورنيا".'
+          id: 276
+          language_code: ara
+          notes: []
+          release: '-1'
+          review_date: 2019-02-14 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-02-14 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19112:2019(E)
+          review_decision_notes: This entry is superseded by the entry for location
+            in ISO 19112:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: موقع
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  date_amended: 2019-02-14 00:00:00+00:00
+  definition: مكان جغرافي يمكن التعرف عليه
+  examples:
+  - '"برج إيفيل" , "مدريد" , "كاليفورنيا".'
+  id: 276
+  language_code: ara
+  notes:
+  - '"برج إيفيل" , "مدريد" , "كاليفورنيا".'
+  release: '-1'
+  review_date: 2019-02-14 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-02-14 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19112:2019(E)
+  review_decision_notes: This entry is superseded by the entry for location in ISO
+    19112:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: موقع
+    normative_status: null
+    type: expression
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: 4b949a44-30ae-5b95-b784-7f642035b596
+status: superseded

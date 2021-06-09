@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: 5dcd28
+    tree:
+      5dcd28:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: 拓扑对象，表达拓扑单形和它的一个方向之间的逻辑关联。
+          entry_status: retired
+          examples: []
+          id: 140
+          language_code: zho
+          notes: []
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of documentISO 19107:2019(E)
+          review_decision_notes: This entry has been omitted from the superseding
+            standard ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: 有向拓扑对象
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: 拓扑对象，表达拓扑单形和它的一个方向之间的逻辑关联。
+  examples: []
+  id: 140
+  language_code: zho
+  notes: []
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of documentISO 19107:2019(E)
+  review_decision_notes: This entry has been omitted from the superseding standard
+    ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: 有向拓扑对象
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 0b227d9d-6e6b-5f8b-94f5-6a31a09b0fdf
+status: retired

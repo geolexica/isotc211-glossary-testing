@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 7a3202
+    tree:
+      7a3202:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: 为满足标准要求而必须规定的条款。
+          entry_status: valid
+          examples: []
+          id: 73
+          language_code: zho
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: 一致性条款
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: 为满足标准要求而必须规定的条款。
+  examples: []
+  id: 73
+  language_code: zho
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: 一致性条款
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 841c1104-16ed-58fd-9797-9233617d371f
+status: valid

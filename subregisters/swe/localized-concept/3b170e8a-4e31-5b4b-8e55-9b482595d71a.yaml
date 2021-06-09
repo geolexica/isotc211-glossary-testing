@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: c0f8fe
+    tree:
+      c0f8fe:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42180.html
+            ref: ISO 9000:2005
+          country_code: swe
+          date_accepted: 2012-10-15 00:00:00+00:00
+          definition: organisation eller person som är mottagare av produkt
+          entry_status: valid
+          examples: []
+          id: 1330
+          language_code: swe
+          lineage_source: ISO/TS 19158:2012, 4.1
+          lineage_source_similarity: 1
+          notes:
+          - The customer can be internal or external to the supplier organisation.
+          release: '3'
+          terms:
+          - designation: kund
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  country_code: swe
+  definition: organisation eller person som är mottagare av produkt
+  examples: []
+  id: 1330
+  language_code: swe
+  lineage_source: ISO/TS 19158:2012, 4.1
+  lineage_source_similarity: 1
+  notes:
+  - The customer can be internal or external to the supplier organisation.
+  release: '3'
+  terms:
+  - designation: kund
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 3b170e8a-4e31-5b4b-8e55-9b482595d71a
+status: valid

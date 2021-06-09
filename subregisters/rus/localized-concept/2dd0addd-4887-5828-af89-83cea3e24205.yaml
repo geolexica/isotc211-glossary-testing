@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: 30b6b1
+    tree:
+      30b6b1:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: ISO/IEC JTC1 Procedures (Adapted from)
+            ref: Annex E
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: набор файлов, содержащий идентификаторы объектов с описаниями
+            объектов
+          entry_status: valid
+          examples: []
+          id: 371
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: реестр
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: ISO/IEC JTC1 Procedures (Adapted from)
+    ref: Annex E
+  definition: набор файлов, содержащий идентификаторы объектов с описаниями объектов
+  examples: []
+  id: 371
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: реестр
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 2dd0addd-4887-5828-af89-83cea3e24205
+status: valid

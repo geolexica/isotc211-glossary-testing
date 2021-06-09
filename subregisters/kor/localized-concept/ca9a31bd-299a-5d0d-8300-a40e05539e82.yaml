@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 26418a
+    tree:
+      26418a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.80'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: 지표면 지세를 측정하기 위해 사용된 광선레이더 시스템
+          entry_status: valid
+          examples: []
+          id: 1427
+          language_code: kor
+          notes:
+          - Generally referring to an airborne LIDAR system
+          release: '3'
+          terms:
+          - designation: 지세, 지형 광선레이더
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.80'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: 지표면 지세를 측정하기 위해 사용된 광선레이더 시스템
+  examples: []
+  id: 1427
+  language_code: kor
+  notes:
+  - Generally referring to an airborne LIDAR system
+  release: '3'
+  terms:
+  - designation: 지세, 지형 광선레이더
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: ca9a31bd-299a-5d0d-8300-a40e05539e82
+status: valid

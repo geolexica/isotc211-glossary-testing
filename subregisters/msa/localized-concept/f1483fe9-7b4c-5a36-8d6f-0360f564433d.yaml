@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: c1981a
+    tree:
+      c1981a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: ISO/IEC JTC1 Procedures (Adapted from)
+            ref: Annex E
+          date_accepted: 2005-10-15 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 371
+          language_code: msa
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: daftar; tingkat nada; laras bahasa; penghala; kena jadi;
+              tingkat suara
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: ISO/IEC JTC1 Procedures (Adapted from)
+    ref: Annex E
+  examples: []
+  id: 371
+  language_code: msa
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: daftar; tingkat nada; laras bahasa; penghala; kena jadi; tingkat
+      suara
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f1483fe9-7b4c-5a36-8d6f-0360f564433d
+status: valid

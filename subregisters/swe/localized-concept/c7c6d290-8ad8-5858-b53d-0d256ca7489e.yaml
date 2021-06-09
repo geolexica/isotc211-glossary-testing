@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 565ceb
+    tree:
+      565ceb:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          country_code: swe
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: objekt som representerar en mängd av positioner i rum och tid
+          entry_status: valid
+          examples: []
+          id: 424
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: rumstemporalt objekt
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  country_code: swe
+  definition: objekt som representerar en mängd av positioner i rum och tid
+  examples: []
+  id: 424
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: rumstemporalt objekt
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: c7c6d290-8ad8-5858-b53d-0d256ca7489e
+status: valid

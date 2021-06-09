@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 5fa15c
+    tree:
+      5fa15c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/39890.html
+            ref: ISO 19119:2005
+          date_accepted: 2005-02-15 00:00:00+00:00
+          definition: полная или частичная автоматизация  деловых процессов, при которой
+            документы, информация или задания передаются от одного участника к другому
+            для обработки согласно своду процедурных правил
+          entry_status: valid
+          examples: []
+          id: 499
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: поток работ
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-02-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/39890.html
+    ref: ISO 19119:2005
+  definition: полная или частичная автоматизация  деловых процессов, при которой документы,
+    информация или задания передаются от одного участника к другому для обработки
+    согласно своду процедурных правил
+  examples: []
+  id: 499
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: поток работ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 8ef61006-811d-54f1-b038-a525dda430e2
+status: valid

@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 1d76a9
+    tree:
+      1d76a9:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: сочетание маршрутизации, движения по маршруту и слежения
+          entry_status: valid
+          examples: []
+          id: 306
+          language_code: rus
+          lineage_source: Internet
+          notes:
+          - Это, по существу, самое распространенное определение термина «навигация»,
+            но это определение разбивает весь процесс навигации на термины, используемые
+            в пакетах, описанных в ISO 19133
+          terms:
+          - designation: навигация
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: сочетание маршрутизации, движения по маршруту и слежения
+  examples: []
+  id: 306
+  language_code: rus
+  lineage_source: Internet
+  notes:
+  - Это, по существу, самое распространенное определение термина «навигация», но это
+    определение разбивает весь процесс навигации на термины, используемые в пакетах,
+    описанных в ISO 19133
+  terms:
+  - designation: навигация
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 2f155c3c-2b10-5e62-8c41-66949663e523
+status: valid

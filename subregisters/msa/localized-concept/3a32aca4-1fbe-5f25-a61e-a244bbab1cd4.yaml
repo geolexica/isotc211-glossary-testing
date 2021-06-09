@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 314d05
+    tree:
+      314d05:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.69'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: Alat pengesan di dalam air SONAR yang menggunakan gelombang
+            bunyi untuk pemetaan dasar laut
+          entry_status: valid
+          examples: []
+          id: 1416
+          language_code: msa
+          notes:
+          - Sidescan SONAR is used for imaging bottom features and targets in a wide
+            variety of water depths.
+          - This includes synthetic aperture sidescan SONAR.
+          release: '3'
+          terms:
+          - designation: sonar imbas sisi
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.69'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: Alat pengesan di dalam air SONAR yang menggunakan gelombang bunyi untuk
+    pemetaan dasar laut
+  examples: []
+  id: 1416
+  language_code: msa
+  notes:
+  - Sidescan SONAR is used for imaging bottom features and targets in a wide variety
+    of water depths.
+  - This includes synthetic aperture sidescan SONAR.
+  release: '3'
+  terms:
+  - designation: sonar imbas sisi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 3a32aca4-1fbe-5f25-a61e-a244bbab1cd4
+status: valid

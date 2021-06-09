@@ -1,0 +1,70 @@
+data:
+  _revisions:
+    current: ca2681
+    tree:
+      ca2681:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.11
+            link: https://www.iso.org/standard/59164.html
+            ref: ISO 19101-1:2014
+          date_accepted: 2008-12-30 00:00:00+00:00
+          definition: 실세계 현상의 추상화
+          entry_status: valid
+          examples: []
+          id: 168
+          language_code: kor
+          lineage_source: ISO 19101:2002
+          lineage_source_similarity: '1'
+          notes:
+          - 피처는 유형이나 인스턴스로 나타난다. 피처 유형 및 피처 인스턴스는 단 한 가지의 의미를 갖도록 사용해야 한다.
+          release: '1'
+          review_date: 2010-10-12 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2014-11-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19101-1:2014
+          review_decision_notes: Authoritative reference changed from ISO 19101:2002
+            to ISO 19101-1:2014. Lineage source added as ISO 19101:2002.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: 지형지물
+            normative_status: preferred
+            type: expression
+          - designation: 피처
+            type: expression
+        parents: []
+        timeCreated: 2008-12-30 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.11
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  definition: 실세계 현상의 추상화
+  examples: []
+  id: 168
+  language_code: kor
+  lineage_source: ISO 19101:2002
+  lineage_source_similarity: '1'
+  notes:
+  - 피처는 유형이나 인스턴스로 나타난다. 피처 유형 및 피처 인스턴스는 단 한 가지의 의미를 갖도록 사용해야 한다.
+  release: '1'
+  review_date: 2010-10-12 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2014-11-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19101-1:2014
+  review_decision_notes: Authoritative reference changed from ISO 19101:2002 to ISO
+    19101-1:2014. Lineage source added as ISO 19101:2002.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: 지형지물
+    normative_status: preferred
+    type: expression
+  - designation: 피처
+    type: expression
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: bdbf59ad-5956-5936-8a43-877d09b6cc80
+status: valid

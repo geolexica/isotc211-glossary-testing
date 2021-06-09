@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 04a105
+    tree:
+      04a105:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.1'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: combination of authentication and authorization
+          entry_status: valid
+          examples: []
+          id: 1206
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: access control
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.1'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: combination of authentication and authorization
+  examples: []
+  id: 1206
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: access control
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 542726a7-694d-5895-9fc6-084c8eccdea5
+status: valid

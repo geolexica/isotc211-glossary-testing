@@ -1,0 +1,70 @@
+data:
+  _revisions:
+    current: f547bd
+    tree:
+      f547bd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32620.html
+            ref: ISO/IEC 19501
+          date_accepted: 2005-07-15 00:00:00+00:00
+          date_amended: 2015-12-01 00:00:00+00:00
+          definition: entity that has unique identity, a set of operations can be
+            applied to it, and state that stores the effects of the operations
+          entry_status: superseded
+          examples: []
+          id: 727
+          language_code: eng
+          lineage_source: ISO/TS 19103:2005 ,4.2.15
+          lineage_source_similarity: 1
+          notes:
+          - 'See: object.'
+          release: '-1'
+          review_date: 2009-01-14 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-12-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19103:2015
+          review_decision_notes: The entry has been superseded. An entry with a revised
+            definition has been published in ISO 19103:2015
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: instance <UML>
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  date_amended: 2015-12-01 00:00:00+00:00
+  definition: entity that has unique identity, a set of operations can be applied
+    to it, and state that stores the effects of the operations
+  examples: []
+  id: 727
+  language_code: eng
+  lineage_source: ISO/TS 19103:2005 ,4.2.15
+  lineage_source_similarity: 1
+  notes:
+  - 'See: object.'
+  release: '-1'
+  review_date: 2009-01-14 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-12-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19103:2015
+  review_decision_notes: The entry has been superseded. An entry with a revised definition
+    has been published in ISO 19103:2015
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: instance <UML>
+    normative_status: null
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: abb5217e-14f6-5fec-9cdf-92b53e94742e
+status: superseded

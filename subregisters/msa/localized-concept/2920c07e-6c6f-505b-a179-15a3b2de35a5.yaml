@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 66aa5f
+    tree:
+      66aa5f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: skala dan origin sebarangan yang boleh di gunakan untuk menerangkan
+            kedua-dua turutan nilai  dan jarak di antara nilai-nilai
+          entry_status: valid
+          examples: []
+          id: 256
+          language_code: msa
+          notes:
+          - Ratios of values measured on an interval scale have no meaning.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: skala sela
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: skala dan origin sebarangan yang boleh di gunakan untuk menerangkan
+    kedua-dua turutan nilai  dan jarak di antara nilai-nilai
+  examples: []
+  id: 256
+  language_code: msa
+  notes:
+  - Ratios of values measured on an interval scale have no meaning.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: skala sela
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 2920c07e-6c6f-505b-a179-15a3b2de35a5
+status: valid

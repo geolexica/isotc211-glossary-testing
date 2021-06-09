@@ -1,0 +1,70 @@
+data:
+  _revisions:
+    current: c10bd6
+    tree:
+      c10bd6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.7
+            link: https://www.iso.org/standard/32553.html
+            ref: ISO 19135:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          date_amended: 2015-10-01 00:00:00+00:00
+          definition: marco cultural y lingüístico aplicable a la interpretación de
+            una cadena de caracteres
+          entry_status: retired
+          examples: []
+          id: 507
+          language_code: spa
+          lineage_source: ''
+          lineage_source_similarity: 0
+          notes: []
+          release: '-1'
+          review_date: 2010-10-19 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-10-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19135-1:2015
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19135-1:2015).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: escenario
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  date_amended: 2015-10-01 00:00:00+00:00
+  definition: marco cultural y lingüístico aplicable a la interpretación de una cadena
+    de caracteres
+  examples: []
+  id: 507
+  language_code: spa
+  lineage_source: ''
+  lineage_source_similarity: 0
+  notes: []
+  release: '-1'
+  review_date: 2010-10-19 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-10-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19135-1:2015
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19135-1:2015).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: escenario
+    normative_status: null
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 85924863-1f73-5a2e-b4d2-c032bbe425c5
+status: retired

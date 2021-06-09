@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 3b1259
+    tree:
+      3b1259:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.74'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: scanning mode consisting of a step stair pattern
+          entry_status: valid
+          examples: []
+          id: 1421
+          language_code: eng
+          notes:
+          - This applies to a HARLIE transceiver, based on a volume phase holographic
+            optical element.
+          release: '3'
+          terms:
+          - designation: stare
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.74'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: scanning mode consisting of a step stair pattern
+  examples: []
+  id: 1421
+  language_code: eng
+  notes:
+  - This applies to a HARLIE transceiver, based on a volume phase holographic optical
+    element.
+  release: '3'
+  terms:
+  - designation: stare
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 9eb4ec24-f377-5792-9e2f-b7bc384a237a
+status: valid

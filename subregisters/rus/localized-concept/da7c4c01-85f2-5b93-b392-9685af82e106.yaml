@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: accfff
+    tree:
+      accfff:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.75'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: площадь земли, с которой собираются данные о возврате во время
+            непрерывной работы LIDAR в воздухе
+          entry_status: valid
+          examples: []
+          id: 1422
+          language_code: rus
+          lineage_source: ISO/TS 19130-2:2014
+          notes:
+          - типичная картографическая миссия может состоять из нескольких смежных
+            полос с некоторым перекрытием, и оператор выключит лазер, пока самолет
+            ориентируется на следующую полосу.  Этот термин можно также назвать Проход.
+          release: '3'
+          terms:
+          - designation: полоса <LIDAR>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.75'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: площадь земли, с которой собираются данные о возврате во время непрерывной
+    работы LIDAR в воздухе
+  examples: []
+  id: 1422
+  language_code: rus
+  lineage_source: ISO/TS 19130-2:2014
+  notes:
+  - типичная картографическая миссия может состоять из нескольких смежных полос с
+    некоторым перекрытием, и оператор выключит лазер, пока самолет ориентируется на
+    следующую полосу.  Этот термин можно также назвать Проход.
+  release: '3'
+  terms:
+  - designation: полоса <LIDAR>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: da7c4c01-85f2-5b93-b392-9685af82e106
+status: valid

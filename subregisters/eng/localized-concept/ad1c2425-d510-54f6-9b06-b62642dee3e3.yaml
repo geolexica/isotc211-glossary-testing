@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: da9775
+    tree:
+      da9775:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: process of following a route
+          entry_status: valid
+          examples: []
+          id: 390
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: route traversal
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: process of following a route
+  examples: []
+  id: 390
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: route traversal
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: ad1c2425-d510-54f6-9b06-b62642dee3e3
+status: valid

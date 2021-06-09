@@ -1,0 +1,74 @@
+data:
+  _revisions:
+    current: 7cde2c
+    tree:
+      7cde2c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32620.html
+            ref: ISO/IEC 19501
+          date_accepted: 2005-07-15 00:00:00+00:00
+          date_amended: 2015-07-01 00:00:00+00:00
+          definition: taxonomic relationship between a more general element and a
+            more specific element that is fully consistent with the more general element
+            and contains additional information
+          entry_status: superseded
+          examples: []
+          id: 726
+          language_code: swe
+          lineage_source: ISO/TS 19103:2005 ,4.2.13
+          lineage_source_similarity: 1
+          notes:
+          - 'An instance of the more specific element may be used where the more general
+            element is allowed. See: inheritance.'
+          release: '-1'
+          review_date: 2009-08-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-07-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19150-2:2015(E)
+          review_decision_notes: This entry is superseded by the entry for "generalization
+            <UML>" in ISO 19103:2015
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: generalization <UML>
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  date_amended: 2015-07-01 00:00:00+00:00
+  definition: taxonomic relationship between a more general element and a more specific
+    element that is fully consistent with the more general element and contains additional
+    information
+  examples: []
+  id: 726
+  language_code: swe
+  lineage_source: ISO/TS 19103:2005 ,4.2.13
+  lineage_source_similarity: 1
+  notes:
+  - 'An instance of the more specific element may be used where the more general element
+    is allowed. See: inheritance.'
+  release: '-1'
+  review_date: 2009-08-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-07-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19150-2:2015(E)
+  review_decision_notes: This entry is superseded by the entry for "generalization
+    <UML>" in ISO 19103:2015
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: generalization <UML>
+    normative_status: null
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: cba2048d-748d-5a21-8903-0cfe68f150af
+status: superseded

@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: bb2761
+    tree:
+      bb2761:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: https://searchcio.techtarget.com/
+          date_accepted: 2007-04-15 00:00:00+00:00
+          definition: возможность назначать чему-либо различный смысл или разные формы
+            использования в разных контекстах, в частности позволять таким сущностям,
+            как переменная, функция или объект, иметь более одной формы
+          entry_status: valid
+          examples: []
+          id: 840
+          language_code: rus
+          lineage_source: ISO/TS 19139:2007(E)
+          lineage_source_similarity: 1
+          notes:
+          - Сществует несколько различных видов полиморфизма
+          release: '1'
+          review_date: 2019-03-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-03-01 00:00:00+00:00
+          review_decision_event: Publication of ISO/TS 19139-1:2019(E)
+          review_decision_notes: Authoritative reference changed from http://searchsmallbizit.techtarget.com
+            to https://searchcio.techtarget.com/. Lineage source added as ISO/TS 19139:2007(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: полиморфизм
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-04-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: https://searchcio.techtarget.com/
+  definition: возможность назначать чему-либо различный смысл или разные формы использования
+    в разных контекстах, в частности позволять таким сущностям, как переменная, функция
+    или объект, иметь более одной формы
+  examples: []
+  id: 840
+  language_code: rus
+  lineage_source: ISO/TS 19139:2007(E)
+  lineage_source_similarity: 1
+  notes:
+  - Сществует несколько различных видов полиморфизма
+  release: '1'
+  review_date: 2019-03-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-03-01 00:00:00+00:00
+  review_decision_event: Publication of ISO/TS 19139-1:2019(E)
+  review_decision_notes: Authoritative reference changed from http://searchsmallbizit.techtarget.com
+    to https://searchcio.techtarget.com/. Lineage source added as ISO/TS 19139:2007(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: полиморфизм
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 5b744051-6f9f-5e12-8cd6-27af98f7f8e5
+status: valid

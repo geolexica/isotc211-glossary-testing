@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: c08905
+    tree:
+      c08905:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.39'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: efecto visual en la imágenes SAR provocado por ambigüedad entre
+            retornos de alturas dispersas y diferentes, que provienen de un mismo
+            rango de tiempo Doppler
+          entry_status: valid
+          examples: []
+          id: 955
+          language_code: spa
+          notes:
+          - Este efecto hace solaparse los edificios sobre eL suelo en dirección del
+            vector velocidad del sensor, similar a vistas en perspectiva en imágenes
+          release: '3'
+          terms:
+          - designation: traslapo
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.39'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: efecto visual en la imágenes SAR provocado por ambigüedad entre retornos
+    de alturas dispersas y diferentes, que provienen de un mismo rango de tiempo Doppler
+  examples: []
+  id: 955
+  language_code: spa
+  notes:
+  - Este efecto hace solaparse los edificios sobre eL suelo en dirección del vector
+    velocidad del sensor, similar a vistas en perspectiva en imágenes
+  release: '3'
+  terms:
+  - designation: traslapo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 7a2f3501-6d68-50cd-a489-c5c5edf138f5
+status: valid

@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: a4e623
+    tree:
+      a4e623:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: relación de cambio de elevación con respecto a la longitud de
+            la curva
+          entry_status: valid
+          examples: []
+          id: 415
+          language_code: spa
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: pendiente
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: relación de cambio de elevación con respecto a la longitud de la curva
+  examples: []
+  id: 415
+  language_code: spa
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: pendiente
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 5103efe2-beca-55dd-833c-a2dd3d84916e
+status: valid

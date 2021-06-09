@@ -1,0 +1,77 @@
+data:
+  _revisions:
+    current: 6dde9d
+    tree:
+      6dde9d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: relación entre dos dominios (como dos complejos) tal que hay
+            una función que preserva estructuras de uno a otro
+          entry_status: superseded
+          examples: []
+          id: 228
+          language_code: spa
+          notes:
+          - El Homomorfismo es diferente del isomorfismo en que no requiere función
+            inversa. En el isomorfismo, hay, esencialmente, dos homomorfismos que
+            son funcionalmente inversos uno del otro. Las funciones continuas son
+            homomórficas topológicas porque mantienen las "características topológicas".
+            La correspondencia entre los complejos topológicos y sus realizaciones
+            geométricas mantiene el concepto de frontera y exite, por lo tanto, un
+            homomorfismo.
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19107:2019(E)
+          review_decision_notes: This entry is superseded by the entry for homomorphism
+            <mathematics> in ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: homomorfismo
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: relación entre dos dominios (como dos complejos) tal que hay una función
+    que preserva estructuras de uno a otro
+  examples: []
+  id: 228
+  language_code: spa
+  notes:
+  - El Homomorfismo es diferente del isomorfismo en que no requiere función inversa.
+    En el isomorfismo, hay, esencialmente, dos homomorfismos que son funcionalmente
+    inversos uno del otro. Las funciones continuas son homomórficas topológicas porque
+    mantienen las "características topológicas". La correspondencia entre los complejos
+    topológicos y sus realizaciones geométricas mantiene el concepto de frontera y
+    exite, por lo tanto, un homomorfismo.
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19107:2019(E)
+  review_decision_notes: This entry is superseded by the entry for homomorphism <mathematics>
+    in ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: homomorfismo
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 7aa56a52-3d17-54ad-8d16-002d6b4c8fa1
+status: superseded

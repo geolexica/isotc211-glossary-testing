@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: f2e311
+    tree:
+      f2e311:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: Fourth Edition, Oxford University Press
+            ref: Dictionary of Computing
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: 내부의 임의 두 직접 위치를 잇는 직선 조각상의 모든 점을 포함할 수 있는 기하 집합
+          entry_status: valid
+          examples: []
+          id: 87
+          language_code: kor
+          lineage_source: ISO 19107:2003
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: 볼록 집합
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: Fourth Edition, Oxford University Press
+    ref: Dictionary of Computing
+  definition: 내부의 임의 두 직접 위치를 잇는 직선 조각상의 모든 점을 포함할 수 있는 기하 집합
+  examples: []
+  id: 87
+  language_code: kor
+  lineage_source: ISO 19107:2003
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: 볼록 집합
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3ec59ac9-0520-5062-8339-dd6a3d55d065
+status: valid

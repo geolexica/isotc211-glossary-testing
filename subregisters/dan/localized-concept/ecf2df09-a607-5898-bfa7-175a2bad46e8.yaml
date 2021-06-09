@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: 0a64af
+    tree:
+      0a64af:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.9'
+            link: https://www.iso.org/standard/37796.html
+            ref: ISO 19118:2005
+          date_accepted: 2005-07-15 00:00:00+00:00
+          date_amended: 2011-10-15 00:00:00+00:00
+          definition: dataenhed, som i en bestemt kontekst anses for at være udelelig
+          entry_status: retired
+          examples: []
+          id: 105
+          language_code: dan
+          lineage_source: ''
+          notes: []
+          release: '-1'
+          review_date: 2011-10-15 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: '2011-10-15'
+          review_decision_event: Publication of ISO 19118:2011
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19118:2011).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: dataelement
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/37796.html
+    ref: ISO 19118:2005
+  date_amended: 2011-10-15 00:00:00+00:00
+  definition: dataenhed, som i en bestemt kontekst anses for at være udelelig
+  examples: []
+  id: 105
+  language_code: dan
+  lineage_source: ''
+  notes: []
+  release: '-1'
+  review_date: 2011-10-15 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: '2011-10-15'
+  review_decision_event: Publication of ISO 19118:2011
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19118:2011).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: dataelement
+    normative_status: null
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: ecf2df09-a607-5898-bfa7-175a2bad46e8
+status: retired

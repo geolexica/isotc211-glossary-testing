@@ -1,0 +1,49 @@
+data:
+  _revisions:
+    current: f6c784
+    tree:
+      f6c784:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          country_code: swe
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: "<vid test> resultat som anger överensstämmelse\n med angivna\
+            \ krav"
+          entry_status: valid
+          examples: []
+          id: 326
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: godkänt resultat
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  country_code: swe
+  definition: "<vid test> resultat som anger överensstämmelse\n med angivna krav"
+  examples: []
+  id: 326
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: godkänt resultat
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 962a48f8-8396-5d4d-a923-c7160a2c6c1d
+status: valid

@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 5efa3f
+    tree:
+      5efa3f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: appel d'une opération par un client
+          entry_status: valid
+          examples: []
+          id: 380
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: requête
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128
+  definition: appel d'une opération par un client
+  examples: []
+  id: 380
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: requête
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 77efcf90-82fb-5f00-91ec-5a90aa9f5a55
+status: valid

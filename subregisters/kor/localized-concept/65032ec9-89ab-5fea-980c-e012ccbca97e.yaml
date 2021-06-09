@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: e1af0e
+    tree:
+      e1af0e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.11'
+            link: https://www.iso.org/standard/32574.html
+            ref: ISO 19156:2011
+          date_accepted: 2011-12-15 00:00:00+00:00
+          definition: 측정 행위 또는 속성값을 결정하는 행위
+          entry_status: valid
+          examples: []
+          id: 1442
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 관측
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2011-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  definition: 측정 행위 또는 속성값을 결정하는 행위
+  examples: []
+  id: 1442
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 관측
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 65032ec9-89ab-5fea-980c-e012ccbca97e
+status: valid

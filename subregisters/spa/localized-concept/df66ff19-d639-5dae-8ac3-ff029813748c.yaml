@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: a9c1a4
+    tree:
+      a9c1a4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.48'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: capaz de satisfacer los requisitos de un sistema
+          entry_status: valid
+          examples: []
+          id: 1256
+          language_code: spa
+          notes:
+          - Debe puentearse un sistema DRM suficiente para que una vulneración sea
+            posible. Una prueba de suficiencia puede ser dificil porque puede ser
+            dependiente del "modelo de ataque", que describe la clase de ataques a
+            los que el sistema es inmune.
+          release: '3'
+          terms:
+          - designation: suficiente
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.48'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: capaz de satisfacer los requisitos de un sistema
+  examples: []
+  id: 1256
+  language_code: spa
+  notes:
+  - Debe puentearse un sistema DRM suficiente para que una vulneración sea posible.
+    Una prueba de suficiencia puede ser dificil porque puede ser dependiente del "modelo
+    de ataque", que describe la clase de ataques a los que el sistema es inmune.
+  release: '3'
+  terms:
+  - designation: suficiente
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: df66ff19-d639-5dae-8ac3-ff029813748c
+status: valid

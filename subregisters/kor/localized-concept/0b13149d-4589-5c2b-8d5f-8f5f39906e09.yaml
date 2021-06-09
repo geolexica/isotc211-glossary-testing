@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 366d98
+    tree:
+      366d98:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: S-32, Fifth Edition
+            ref: IHO Hydrographic Dictionary
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: 선체내 해수면에서 용골바닥까지의 수직 거리
+          entry_status: valid
+          examples: []
+          id: 1386
+          language_code: kor
+          lineage_source: ISO/TS 19130-2:2014, 4.17
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: 흘수
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: S-32, Fifth Edition
+    ref: IHO Hydrographic Dictionary
+  definition: 선체내 해수면에서 용골바닥까지의 수직 거리
+  examples: []
+  id: 1386
+  language_code: kor
+  lineage_source: ISO/TS 19130-2:2014, 4.17
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: 흘수
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 0b13149d-4589-5c2b-8d5f-8f5f39906e09
+status: valid

@@ -1,0 +1,47 @@
+data:
+  _revisions:
+    current: c255df
+    tree:
+      c255df:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: network of triangles such that  the circle passing through the
+            vertices of any triangle does not contain, in its interior, the vertex
+            of any other triangle
+          entry_status: valid
+          examples: []
+          id: 129
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: Delaunay triangulation
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: network of triangles such that  the circle passing through the vertices
+    of any triangle does not contain, in its interior, the vertex of any other triangle
+  examples: []
+  id: 129
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: Delaunay triangulation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: aab7210d-0084-5187-9229-441a1bce9c26
+status: valid

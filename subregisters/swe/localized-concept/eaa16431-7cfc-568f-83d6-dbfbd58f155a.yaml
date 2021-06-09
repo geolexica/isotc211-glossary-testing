@@ -1,0 +1,55 @@
+data:
+  _revisions:
+    current: 50fb0c
+    tree:
+      50fb0c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/44875.html
+            ref: ISO 19126:2009
+          country_code: swe
+          date_accepted: 2009-11-01 00:00:00+00:00
+          definition: begrepp som kan specificeras i detalj genom dess egenskaper
+          entry_status: valid
+          examples:
+          - A "height" feature attribute concept describes length in the vertical
+            direction as a characteristic that may be shared by real world phenomena
+            such as "human", "tree" and "building."
+          id: 853
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '2'
+          terms:
+          - designation: attributbeskrivande begrepp
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-11-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  country_code: swe
+  definition: begrepp som kan specificeras i detalj genom dess egenskaper
+  examples:
+  - A "height" feature attribute concept describes length in the vertical direction
+    as a characteristic that may be shared by real world phenomena such as "human",
+    "tree" and "building."
+  id: 853
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes:
+  - A "height" feature attribute concept describes length in the vertical direction
+    as a characteristic that may be shared by real world phenomena such as "human",
+    "tree" and "building."
+  release: '2'
+  terms:
+  - designation: attributbeskrivande begrepp
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: eaa16431-7cfc-568f-83d6-dbfbd58f155a
+status: valid

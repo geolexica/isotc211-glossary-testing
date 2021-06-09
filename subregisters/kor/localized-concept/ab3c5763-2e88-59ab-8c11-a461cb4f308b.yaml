@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 87b880
+    tree:
+      87b880:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40601.html
+            ref: ISO 19132:2007
+          date_accepted: 2009-12-29 00:00:00+00:00
+          definition: 집합의 부분인 점 또는 다각형
+          entry_status: valid
+          examples: []
+          id: 397
+          language_code: kor
+          lineage_source: KS X ISO 19132
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: 조각
+            normative_status: preferred
+            type: expression
+          - designation: 세그먼트
+            type: expression
+        parents: []
+        timeCreated: 2009-12-29 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  definition: 집합의 부분인 점 또는 다각형
+  examples: []
+  id: 397
+  language_code: kor
+  lineage_source: KS X ISO 19132
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: 조각
+    normative_status: preferred
+    type: expression
+  - designation: 세그먼트
+    type: expression
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: ab3c5763-2e88-59ab-8c11-a461cb4f308b
+status: valid

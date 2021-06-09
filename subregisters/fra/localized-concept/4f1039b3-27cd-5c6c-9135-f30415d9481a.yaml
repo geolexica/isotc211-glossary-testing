@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: eadad0
+    tree:
+      eadad0:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: connexion topologique orientée entre deux nœuds (jonctions),
+            consistant en une arête et une direction
+          entry_status: valid
+          examples: []
+          id: 274
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: lien
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  definition: connexion topologique orientée entre deux nœuds (jonctions), consistant
+    en une arête et une direction
+  examples: []
+  id: 274
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: lien
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 4f1039b3-27cd-5c6c-9135-f30415d9481a
+status: valid

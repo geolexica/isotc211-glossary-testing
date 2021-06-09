@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 2d056a
+    tree:
+      2d056a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: تحقيق مواصفات
+          entry_status: valid
+          examples: []
+          id: 235
+          language_code: ara
+          notes:
+          - في سياق مواصفات آيزو القياسية للمعلومات الجغرافية , فإن هذا يشمل المواصفات
+            القياسية لخدمات المعلومات الجغرافية ومجموعة البيانات.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: تنفيذ
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: تحقيق مواصفات
+  examples: []
+  id: 235
+  language_code: ara
+  notes:
+  - في سياق مواصفات آيزو القياسية للمعلومات الجغرافية , فإن هذا يشمل المواصفات القياسية
+    لخدمات المعلومات الجغرافية ومجموعة البيانات.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: تنفيذ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: de9571a5-a069-5625-933d-01988681e20c
+status: valid

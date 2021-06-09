@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 8b8e44
+    tree:
+      8b8e44:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (1994)
+            ref: 'Jensen et al. '
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: ある事実がデータベース内に存続し，検索が可能になっている時間[Jensenなど(1994)]。
+          entry_status: valid
+          examples: []
+          id: 471
+          language_code: jpn
+          lineage_source: JIS X 7108
+          notes: []
+          release: '1'
+          terms:
+          - designation: トランザクション時間
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (1994)
+    ref: 'Jensen et al. '
+  definition: ある事実がデータベース内に存続し，検索が可能になっている時間[Jensenなど(1994)]。
+  examples: []
+  id: 471
+  language_code: jpn
+  lineage_source: JIS X 7108
+  notes: []
+  release: '1'
+  terms:
+  - designation: トランザクション時間
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: dc25b063-9a93-5f86-af25-accc38d18951
+status: valid

@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: 8aed0a
+    tree:
+      8aed0a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: Fifth Edition
+            ref: IHO Hydrographic Dictionary S-32
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: 멀티빔 원리를 사용하여 해저 매핑 및 조사에서 사용되는 광폭 에코 음향기
+          entry_status: valid
+          examples: []
+          id: 1563
+          language_code: kor
+          lineage_source: ISO/TS 19130-2:2014, 4.44
+          lineage_source_similarity: '1'
+          notes:
+          - Depths are measured directly below and transverse to the ship's track.
+            The width of the swath is a function of the number of beams and their
+            aperture.
+          release: '3'
+          terms:
+          - designation: 멀티빔 소나
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  definition: 멀티빔 원리를 사용하여 해저 매핑 및 조사에서 사용되는 광폭 에코 음향기
+  examples: []
+  id: 1563
+  language_code: kor
+  lineage_source: ISO/TS 19130-2:2014, 4.44
+  lineage_source_similarity: '1'
+  notes:
+  - Depths are measured directly below and transverse to the ship's track. The width
+    of the swath is a function of the number of beams and their aperture.
+  release: '3'
+  terms:
+  - designation: 멀티빔 소나
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: fe5968cb-f63a-5c05-97a3-e7b3038e5880
+status: valid

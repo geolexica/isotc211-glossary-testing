@@ -1,0 +1,67 @@
+data:
+  _revisions:
+    current: e3ff98
+    tree:
+      e3ff98:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.13
+            link: https://www.iso.org/standard/54721.html
+            ref: ISO 19135-1:2015
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: 등록물을 유지, 관리하는 정보 시스템
+          entry_status: valid
+          examples: []
+          id: 375
+          language_code: kor
+          lineage_source: ISO 19135:2005
+          notes: []
+          release: '1'
+          review_date: 2010-10-19 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-10-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19135-1:2015
+          review_decision_notes: Authoritative reference changed from ISO/IEC 11179-3:2003
+            (Adapted from) to ISO 19135-1:2015, 4.1.13. Lineage source added as ISO
+            19135:2005
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: 등록소
+            normative_status: preferred
+            type: expression
+          - designation: 레지스트리
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  definition: 등록물을 유지, 관리하는 정보 시스템
+  examples: []
+  id: 375
+  language_code: kor
+  lineage_source: ISO 19135:2005
+  notes: []
+  release: '1'
+  review_date: 2010-10-19 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-10-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19135-1:2015
+  review_decision_notes: Authoritative reference changed from ISO/IEC 11179-3:2003
+    (Adapted from) to ISO 19135-1:2015, 4.1.13. Lineage source added as ISO 19135:2005
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: 등록소
+    normative_status: preferred
+    type: expression
+  - designation: 레지스트리
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: b014ef13-f75f-5231-b1d0-5c67bc9ff44a
+status: valid

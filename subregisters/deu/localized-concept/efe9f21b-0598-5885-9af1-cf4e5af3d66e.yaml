@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: e5a998
+    tree:
+      e5a998:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 34
+          language_code: deu
+          notes:
+          - Navigation is the process of finding the candidate route that optimizes
+            a chosen cost function.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: mögliche Route
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  examples: []
+  id: 34
+  language_code: deu
+  notes:
+  - Navigation is the process of finding the candidate route that optimizes a chosen
+    cost function.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: mögliche Route
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: efe9f21b-0598-5885-9af1-cf4e5af3d66e
+status: valid

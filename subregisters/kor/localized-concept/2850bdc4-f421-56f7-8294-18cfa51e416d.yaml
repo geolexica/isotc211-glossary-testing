@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: 313f5b
+    tree:
+      313f5b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.40'
+            link: https://www.iso.org/standard/63541.html
+            ref: ISO 19104:2016
+          date_accepted: 2008-11-15 00:00:00+00:00
+          definition: 용어와 연관 정의가 보관 또는 기록되는 자료 저장소 또는 문서
+          entry_status: valid
+          examples: []
+          id: 913
+          language_code: kor
+          lineage_source: ISO/TS 19104:2008, 4.20
+          lineage_source_similarity: 1
+          notes: []
+          release: '2'
+          review_date: 2013-01-29 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2016-10-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19104:2016
+          review_decision_notes: Authoritative reference changed from ISO/TS 19104:2008
+            to ISO 19104:2016, 4.40. Lineage source added as ISO/TS 19104:2008, 4.20
+          review_status: final
+          terms:
+          - designation: 용어 저장소/보관소
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-11-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.40'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  definition: 용어와 연관 정의가 보관 또는 기록되는 자료 저장소 또는 문서
+  examples: []
+  id: 913
+  language_code: kor
+  lineage_source: ISO/TS 19104:2008, 4.20
+  lineage_source_similarity: 1
+  notes: []
+  release: '2'
+  review_date: 2013-01-29 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2016-10-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19104:2016
+  review_decision_notes: Authoritative reference changed from ISO/TS 19104:2008 to
+    ISO 19104:2016, 4.40. Lineage source added as ISO/TS 19104:2008, 4.20
+  review_status: final
+  terms:
+  - designation: 용어 저장소/보관소
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 2850bdc4-f421-56f7-8294-18cfa51e416d
+status: valid

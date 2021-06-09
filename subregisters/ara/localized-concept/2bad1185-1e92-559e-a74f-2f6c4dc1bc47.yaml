@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 735a42
+    tree:
+      735a42:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: مكون من مكونات نظام ما يوظف لمعالجة تعبير فلترة البيانات
+          entry_status: valid
+          examples: []
+          id: 1021
+          language_code: ara
+          notes: []
+          release: '2'
+          terms:
+          - designation: معالج تعبير فلترة
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: مكون من مكونات نظام ما يوظف لمعالجة تعبير فلترة البيانات
+  examples: []
+  id: 1021
+  language_code: ara
+  notes: []
+  release: '2'
+  terms:
+  - designation: معالج تعبير فلترة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 2bad1185-1e92-559e-a74f-2f6c4dc1bc47
+status: valid

@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: a4a4a3
+    tree:
+      a4a4a3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: PSF
+          authoritative_source:
+            link: https://webstore.iec.ch/publication/7512
+            ref: IEC 88528-11:2004
+          date_accepted: 2014-07-15 00:00:00+00:00
+          definition: характеристика реакции системы формирования изображения на  высококонтрастную
+            точечную цель
+          entry_status: valid
+          examples: []
+          id: 1472
+          language_code: rus
+          lineage_source: ISO/TS 19159-1:2014, 4.24
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: функция рассеяния точки
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-07-15 00:00:00+00:00
+  abbrev: PSF
+  authoritativeSource:
+  - link: https://webstore.iec.ch/publication/7512
+    ref: IEC 88528-11:2004
+  definition: характеристика реакции системы формирования изображения на  высококонтрастную
+    точечную цель
+  examples: []
+  id: 1472
+  language_code: rus
+  lineage_source: ISO/TS 19159-1:2014, 4.24
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: функция рассеяния точки
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 4a0fea07-7254-5043-8fb1-985a77821d3f
+status: valid

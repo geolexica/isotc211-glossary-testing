@@ -1,0 +1,49 @@
+data:
+  _revisions:
+    current: d638ef
+    tree:
+      d638ef:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.17'
+            link: https://www.iso.org/standard/32574.html
+            ref: ISO 19156:2011
+          date_accepted: 2011-12-15 00:00:00+00:00
+          definition: 영역 지형지물 관측에 연관되어 있는 지형지물
+          entry_status: valid
+          examples:
+          - Station, transect, section or specimen.
+          id: 1443
+          language_code: kor
+          notes:
+          - A sampling feature is an artefact of the observational strategy, and has
+            no significance independent of the observational campaign.
+          release: '3'
+          terms:
+          - designation: 샘플링 지형지물
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2011-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  definition: 영역 지형지물 관측에 연관되어 있는 지형지물
+  examples:
+  - Station, transect, section or specimen.
+  id: 1443
+  language_code: kor
+  notes:
+  - Station, transect, section or specimen.
+  release: '3'
+  terms:
+  - designation: 샘플링 지형지물
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 11ae26d7-3583-5c8a-907d-3a8deaba891c
+status: valid

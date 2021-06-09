@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: b757be
+    tree:
+      b757be:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: realisering af en specifikation
+          examples: []
+          id: 235
+          language_code: dan
+          notes:
+          - I ISO's geografiske informationsstandarder omfatter dette geografiske
+            informationstjenester og datasæt.
+          release: '1'
+          terms:
+          - designation: implementering
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: realisering af en specifikation
+  examples: []
+  id: 235
+  language_code: dan
+  notes:
+  - I ISO's geografiske informationsstandarder omfatter dette geografiske informationstjenester
+    og datasæt.
+  release: '1'
+  terms:
+  - designation: implementering
+    normative_status: null
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 816ec2cf-2b72-5b88-aa7a-507202f185ad
+status: valid

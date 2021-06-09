@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 0018e1
+    tree:
+      0018e1:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: FindLaw
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: one to whom a licence is given
+          entry_status: valid
+          examples: []
+          id: 1235
+          language_code: eng
+          lineage_source: ISO 19153:2014, 4.29
+          lineage_source_similarity: '1'
+          notes: []
+          release: '3'
+          terms:
+          - designation: licensee
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: FindLaw
+  definition: one to whom a licence is given
+  examples: []
+  id: 1235
+  language_code: eng
+  lineage_source: ISO 19153:2014, 4.29
+  lineage_source_similarity: '1'
+  notes: []
+  release: '3'
+  terms:
+  - designation: licensee
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: bfbe2fa4-b883-5e84-8a77-16a7768b5e34
+status: valid

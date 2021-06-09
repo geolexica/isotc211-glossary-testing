@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 8aa14a
+    tree:
+      8aa14a:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            clause: (Adapted from)
+            link: https://www.iso.org/standard/26780.html
+            ref: 'ISO 8601:2000 '
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: 1582年引入的通用日历，所定义的年比儒略历的更接近回归年。
+          entry_status: valid
+          examples: []
+          id: 220
+          language_code: zho
+          notes:
+          - 公历的引入消除了儒略年的累积误差。在公历中，历年或为平年，或为闰年，均分为12个顺序月。
+          review_indicator: ''
+          terms:
+          - designation: 公历
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/26780.html
+    ref: 'ISO 8601:2000 '
+  definition: 1582年引入的通用日历，所定义的年比儒略历的更接近回归年。
+  examples: []
+  id: 220
+  language_code: zho
+  notes:
+  - 公历的引入消除了儒略年的累积误差。在公历中，历年或为平年，或为闰年，均分为12个顺序月。
+  review_indicator: ''
+  terms:
+  - designation: 公历
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 806f5fe3-736d-51d8-aaba-a257f656cd2d
+status: valid

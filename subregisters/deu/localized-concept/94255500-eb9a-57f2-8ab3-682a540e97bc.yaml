@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: '661302'
+    tree:
+      '661302':
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: konstanter, explizit festgelegter Wert
+          entry_status: valid
+          examples: []
+          id: 1029
+          language_code: deu
+          notes:
+          - This contrasts with a value that is determined by resolving a chain of
+            substitution (e.g. a variable)
+          release: '2'
+          terms:
+          - designation: expliziter Wert
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: konstanter, explizit festgelegter Wert
+  examples: []
+  id: 1029
+  language_code: deu
+  notes:
+  - This contrasts with a value that is determined by resolving a chain of substitution
+    (e.g. a variable)
+  release: '2'
+  terms:
+  - designation: expliziter Wert
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 94255500-eb9a-57f2-8ab3-682a540e97bc
+status: valid

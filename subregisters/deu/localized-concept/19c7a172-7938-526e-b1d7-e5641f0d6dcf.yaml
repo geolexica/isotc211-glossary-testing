@@ -1,0 +1,40 @@
+data:
+  _revisions:
+    current: d7583b
+    tree:
+      d7583b:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41445.html
+            ref: ISO 19141:2008
+          date_accepted: 2008-06-01 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 643
+          language_code: deu
+          notes: []
+          release: '2'
+          terms:
+          - designation: Blatt <einparametrige Menge von Geometrien>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-06-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  examples: []
+  id: 643
+  language_code: deu
+  notes: []
+  release: '2'
+  terms:
+  - designation: Blatt <einparametrige Menge von Geometrien>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 19c7a172-7938-526e-b1d7-e5641f0d6dcf
+status: valid

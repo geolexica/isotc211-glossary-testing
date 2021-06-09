@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: c160ab
+    tree:
+      c160ab:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: 有方向且有大小的量。
+          entry_status: valid
+          examples: []
+          id: 491
+          language_code: zho
+          notes:
+          - 如果一条线段的长度和方向等价于一个矢量的大小和方向，则该有向线段可以表示该矢量。术语矢量数据是指把表达要素空间结构的数据看作一个有向线段的集合。
+          review_indicator: ''
+          terms:
+          - designation: 矢量
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: 有方向且有大小的量。
+  examples: []
+  id: 491
+  language_code: zho
+  notes:
+  - 如果一条线段的长度和方向等价于一个矢量的大小和方向，则该有向线段可以表示该矢量。术语矢量数据是指把表达要素空间结构的数据看作一个有向线段的集合。
+  review_indicator: ''
+  terms:
+  - designation: 矢量
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: b7059165-79f0-532c-8002-c12cf6508791
+status: valid

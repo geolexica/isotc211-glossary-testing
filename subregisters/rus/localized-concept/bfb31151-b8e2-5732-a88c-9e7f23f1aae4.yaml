@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: c30a57
+    tree:
+      c30a57:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: modified
+            ref: FindLaw
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: право собственности двух или более лиц, каждое из которых имеет
+            неделимые доли  собственности в целом
+          entry_status: valid
+          examples: []
+          id: 1229
+          language_code: rus
+          lineage_source: ISO 19153:2014, 4.23
+          lineage_source_similarity: 1
+          notes:
+          - В данном случае, принципал, выступающий в роли владельца  представляет
+            собой группу принципалов, т.е. группу других субъектов
+          release: '3'
+          terms:
+          - designation: совместное владение
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: modified
+    ref: FindLaw
+  definition: право собственности двух или более лиц, каждое из которых имеет неделимые
+    доли  собственности в целом
+  examples: []
+  id: 1229
+  language_code: rus
+  lineage_source: ISO 19153:2014, 4.23
+  lineage_source_similarity: 1
+  notes:
+  - В данном случае, принципал, выступающий в роли владельца  представляет собой группу
+    принципалов, т.е. группу других субъектов
+  release: '3'
+  terms:
+  - designation: совместное владение
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: bfb31151-b8e2-5732-a88c-9e7f23f1aae4
+status: valid

@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: a087b5
+    tree:
+      a087b5:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: عملية السير على المسار
+          entry_status: valid
+          examples: []
+          id: 390
+          language_code: ara
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: اجتياز المسار
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: عملية السير على المسار
+  examples: []
+  id: 390
+  language_code: ara
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: اجتياز المسار
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 5d488fab-1de6-53c8-b3e7-63c33cde7967
+status: valid

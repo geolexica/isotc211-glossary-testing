@@ -1,0 +1,68 @@
+data:
+  _revisions:
+    current: 0a0389
+    tree:
+      0a0389:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.4
+            link: https://www.iso.org/standard/59164.html
+            ref: ISO 19101-1:2014
+          date_accepted: 2002-07-01 00:00:00+00:00
+          definition: käsiteskeeman kuvaamiseen käytetty mallinnuskäsitejoukko
+          entry_status: valid
+          examples:
+          - UML-metamalli, EXPRESS-metamalli.
+          id: 67
+          language_code: fin
+          lineage_source: ISO 19101:2002
+          lineage_source_similarity: '1'
+          notes:
+          - Sama käsitteellinen formalismi voidaan ilmaista usealla eri mallinnuskielellä.
+          release: '1'
+          review_date: 2010-10-12 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2014-11-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19101-1:2014
+          review_decision_notes: Authoritative reference changed from ISO 19101:2002
+            to ISO 19101-1:2014. Lineage source added as ISO 19101:2002.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: käsitteellinen formalismi
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.4
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  definition: käsiteskeeman kuvaamiseen käytetty mallinnuskäsitejoukko
+  examples:
+  - UML-metamalli, EXPRESS-metamalli.
+  id: 67
+  language_code: fin
+  lineage_source: ISO 19101:2002
+  lineage_source_similarity: '1'
+  notes:
+  - UML-metamalli, EXPRESS-metamalli.
+  release: '1'
+  review_date: 2010-10-12 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2014-11-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19101-1:2014
+  review_decision_notes: Authoritative reference changed from ISO 19101:2002 to ISO
+    19101-1:2014. Lineage source added as ISO 19101:2002.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: käsitteellinen formalismi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 37debbf4-0d09-5e67-9744-840f04d0ce64
+status: valid

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: dff926
+    tree:
+      dff926:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: часть маршрута или сети, состоящая из точки примыкания, а также
+            входной и выходной дуг данного примыкания
+          entry_status: valid
+          examples: []
+          id: 478
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: поворот
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: часть маршрута или сети, состоящая из точки примыкания, а также входной
+    и выходной дуг данного примыкания
+  examples: []
+  id: 478
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: поворот
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 7aa3357f-9206-5608-bedb-cfc88243742a
+status: valid

@@ -1,0 +1,70 @@
+data:
+  _revisions:
+    current: c369a4
+    tree:
+      c369a4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.17
+            link: https://www.iso.org/standard/59164.html
+            ref: ISO 19101-1:2014
+          date_accepted: 2002-07-01 00:00:00+00:00
+          definition: tietojärjestelmien yhteentoimivuuden mahdollistamiseksi laadittu
+            ja vahvistettu, käytössä oleva standardi
+          entry_status: valid
+          examples: []
+          id: 192
+          language_code: fin
+          lineage_source: ISO 19101:2002
+          lineage_source_similarity: '1'
+          notes:
+          - Toiminnallisia standardeja ovat esimerkiksi Geographic Data File (GDF),
+            S-57 ja Digital Geographic Information Exchange Standard (DIGEST).
+          release: '1'
+          review_date: 2010-10-12 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2014-11-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19101-1:2014
+          review_decision_notes: Authoritative reference changed from ISO 19101:2002
+            to ISO 19101-1:2014. Lineage source added as ISO 19101:2002.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: toiminnallinen standardi
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  definition: tietojärjestelmien yhteentoimivuuden mahdollistamiseksi laadittu ja
+    vahvistettu, käytössä oleva standardi
+  examples: []
+  id: 192
+  language_code: fin
+  lineage_source: ISO 19101:2002
+  lineage_source_similarity: '1'
+  notes:
+  - Toiminnallisia standardeja ovat esimerkiksi Geographic Data File (GDF), S-57 ja
+    Digital Geographic Information Exchange Standard (DIGEST).
+  release: '1'
+  review_date: 2010-10-12 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2014-11-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19101-1:2014
+  review_decision_notes: Authoritative reference changed from ISO 19101:2002 to ISO
+    19101-1:2014. Lineage source added as ISO 19101:2002.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: toiminnallinen standardi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 266753a8-d39b-5d95-9901-15f5ed0dafb7
+status: valid

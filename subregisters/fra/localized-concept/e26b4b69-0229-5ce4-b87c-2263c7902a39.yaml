@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 98de55
+    tree:
+      98de55:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: recherche de parcours optimaux (fonction de coût minimal) entre
+            des positions dans un réseau
+          entry_status: valid
+          examples: []
+          id: 391
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: routage
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  definition: recherche de parcours optimaux (fonction de coût minimal) entre des
+    positions dans un réseau
+  examples: []
+  id: 391
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: routage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: e26b4b69-0229-5ce4-b87c-2263c7902a39
+status: valid

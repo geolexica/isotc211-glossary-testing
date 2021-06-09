@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: 1977ba
+    tree:
+      1977ba:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: ruuduston kahden tai useamman käyrän leikkauspisteessä sijaitseva
+            piste
+          entry_status: valid
+          examples: []
+          id: 223
+          language_code: fin
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: hilapiste
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: ruuduston kahden tai useamman käyrän leikkauspisteessä sijaitseva piste
+  examples: []
+  id: 223
+  language_code: fin
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: hilapiste
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: c2d54277-5dce-5235-a199-0637a3a78998
+status: valid

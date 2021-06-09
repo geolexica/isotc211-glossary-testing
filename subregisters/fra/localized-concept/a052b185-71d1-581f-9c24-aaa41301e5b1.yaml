@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: 8085c5
+    tree:
+      8085c5:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: surveillance et signalisation (rapportage) de la localisation
+            d'un véhicule
+          entry_status: valid
+          examples: []
+          id: 470
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: suivi
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  definition: surveillance et signalisation (rapportage) de la localisation d'un véhicule
+  examples: []
+  id: 470
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: suivi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: a052b185-71d1-581f-9c24-aaa41301e5b1
+status: valid

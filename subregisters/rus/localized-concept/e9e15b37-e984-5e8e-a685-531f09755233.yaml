@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 521b32
+    tree:
+      521b32:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32553.html
+            ref: ISO 19135:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: ссылка на источник данных об  учетной единице, заимствованной
+            из источника, внешнего по отношению к данному реестру
+          entry_status: valid
+          examples: []
+          id: 417
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: указатель источника
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  definition: ссылка на источник данных об  учетной единице, заимствованной из источника,
+    внешнего по отношению к данному реестру
+  examples: []
+  id: 417
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: указатель источника
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: e9e15b37-e984-5e8e-a685-531f09755233
+status: valid

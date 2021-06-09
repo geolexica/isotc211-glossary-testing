@@ -1,0 +1,18 @@
+data:
+  identifier: '422'
+  localizedConcepts:
+    ara: 720a9d73-7cad-5dce-9bee-6ff0b94e7ba2
+    deu: ec64bde6-4a0e-542a-b77b-de67d870d226
+    eng: b39c9567-28c1-5bd2-a9a4-68aea81d34ca
+    fin: 666435f7-2522-587a-bb28-a96c6aa609ba
+    fra: f414eaf6-3761-54ca-98d1-9ac68c5c7815
+    jpn: 7e8b4624-9a63-54ee-b9f3-d9fcca6638ad
+    kor: eec7bed5-91b9-5413-8579-57114f64ecdc
+    nld: 8773b40f-56d0-539e-a22a-85a8812335c0
+    rus: d740b957-83b9-5ba8-afab-c7b4dd368922
+    spa: 6ec6ac58-86b9-502e-b514-7e2d48e08ad8
+    swe: 8e81f22f-d6e5-5678-b503-78bac00dee6c
+    zho: 3d99fba6-a840-5491-85a8-8435ec599e02
+dateAccepted: 2018-11-17
+id: e1e646ef-9eaf-5967-a9a7-7f43a99127f8
+status: valid

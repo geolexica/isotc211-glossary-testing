@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: ee6b79
+    tree:
+      ee6b79:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42136.html
+            ref: ISO 19142:2010
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: set of two or more object instances that satisfy a filter that
+            includes join predicates
+          entry_status: valid
+          examples: []
+          id: 1333
+          language_code: eng
+          notes:
+          - In this International Standard, the object instances will be feature instances.
+          release: '2'
+          terms:
+          - designation: join tuple
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  definition: set of two or more object instances that satisfy a filter that includes
+    join predicates
+  examples: []
+  id: 1333
+  language_code: eng
+  notes:
+  - In this International Standard, the object instances will be feature instances.
+  release: '2'
+  terms:
+  - designation: join tuple
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 4b66d84a-6acd-54b0-ae1e-e420ae39b56b
+status: valid

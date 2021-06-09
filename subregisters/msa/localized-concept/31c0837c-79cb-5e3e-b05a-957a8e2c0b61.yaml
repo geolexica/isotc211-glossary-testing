@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: '173010'
+    tree:
+      '173010':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: min aras laut
+          authoritative_source:
+            clause: Fifth Edition
+            ref: IHO Hydrographic Dictionary S-32
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: Purata aras ketinggian permukaan laut, iaitu purata kesemua
+            aras pasang surut bagi kawasan tertentu
+          entry_status: valid
+          examples: []
+          id: 1562
+          language_code: msa
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          notes: []
+          release: '3'
+          terms:
+          - designation: min aras laut
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  abbrev: min aras laut
+  authoritativeSource:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  definition: Purata aras ketinggian permukaan laut, iaitu purata kesemua aras pasang
+    surut bagi kawasan tertentu
+  examples: []
+  id: 1562
+  language_code: msa
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  notes: []
+  release: '3'
+  terms:
+  - designation: min aras laut
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 31c0837c-79cb-5e3e-b05a-957a8e2c0b61
+status: valid

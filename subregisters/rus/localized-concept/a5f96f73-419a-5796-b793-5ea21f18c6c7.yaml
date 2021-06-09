@@ -1,0 +1,53 @@
+data:
+  _revisions:
+    current: eb149a
+    tree:
+      eb149a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/37805.html
+            ref: ISO 19116:2004
+          date_accepted: 2004-07-01 00:00:00+00:00
+          definition: изменение положения объекта c течением времени, выражающееся
+            через изменение значений координат в конкретной системе отсчета
+          entry_status: valid
+          examples:
+          - Это может быть изменение положения датчика на транспортном средстве или
+            другой платформе, или изменение положения объекта, отслеживаемого системой
+            позиционирования
+          id: 301
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: перемещение
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  definition: изменение положения объекта c течением времени, выражающееся через изменение
+    значений координат в конкретной системе отсчета
+  examples:
+  - Это может быть изменение положения датчика на транспортном средстве или другой
+    платформе, или изменение положения объекта, отслеживаемого системой позиционирования
+  id: 301
+  language_code: rus
+  lineage_source: Internet
+  notes:
+  - Это может быть изменение положения датчика на транспортном средстве или другой
+    платформе, или изменение положения объекта, отслеживаемого системой позиционирования
+  review_indicator: ''
+  terms:
+  - designation: перемещение
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: a5f96f73-419a-5796-b793-5ea21f18c6c7
+status: valid

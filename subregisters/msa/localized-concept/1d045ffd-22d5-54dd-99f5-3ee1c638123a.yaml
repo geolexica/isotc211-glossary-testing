@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 1c3da7
+    tree:
+      1c3da7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 478
+          language_code: msa
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: belit; belokan;balik
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  examples: []
+  id: 478
+  language_code: msa
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: belit; belokan;balik
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 1d045ffd-22d5-54dd-99f5-3ee1c638123a
+status: valid

@@ -1,0 +1,71 @@
+data:
+  _revisions:
+    current: d18e21
+    tree:
+      d18e21:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.1.23
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111:2019
+          date_accepted: 2003-02-15 00:00:00+00:00
+          definition: koordinaatisto, jossa sijainti ilmaistaan geodeettisen leveyden,
+            geodeettisen pituuden ja (kolmiulotteisessa tapauksessa) ellipsoidisen
+            korkeuden avulla
+          entry_status: valid
+          examples: []
+          id: 502
+          language_code: fin
+          lineage_source: ISO 19111:2003
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of ISO 19111:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19111:2007
+            to ISO 19111:2019(E), 3.1.23. Lineage source added as ISO 19111:2003
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: ellipsoidinen koordinaatisto
+            normative_status: preferred
+            type: expression
+          - designation: geodeettinen koordinaatisto
+            type: expression
+        parents: []
+        timeCreated: 2003-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.23
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  definition: koordinaatisto, jossa sijainti ilmaistaan geodeettisen leveyden, geodeettisen
+    pituuden ja (kolmiulotteisessa tapauksessa) ellipsoidisen korkeuden avulla
+  examples: []
+  id: 502
+  language_code: fin
+  lineage_source: ISO 19111:2003
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of ISO 19111:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19111:2007 to ISO
+    19111:2019(E), 3.1.23. Lineage source added as ISO 19111:2003
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: ellipsoidinen koordinaatisto
+    normative_status: preferred
+    type: expression
+  - designation: geodeettinen koordinaatisto
+    type: expression
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 8455bf5c-d458-58ec-9a44-5e6038afa94a
+status: valid

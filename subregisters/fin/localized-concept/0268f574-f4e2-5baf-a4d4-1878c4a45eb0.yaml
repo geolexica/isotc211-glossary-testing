@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: f838be
+    tree:
+      f838be:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: reitti, joka täyttää kaikki reitinhakupyynnön ehdot mahdollisesti
+            lukuunottamatta kustannusten optimointitoimintoa
+          entry_status: valid
+          examples: []
+          id: 34
+          language_code: fin
+          lineage_source: Ei lähdettä, käännetty
+          notes:
+          - Navigoinnissa pyritään löytämään reittiehdokas, joka parhaiten täyttää
+            valitun kustannusten optimointifunktion ehdot.
+          review_indicator: ''
+          terms:
+          - designation: reittiehdokas
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: reitti, joka täyttää kaikki reitinhakupyynnön ehdot mahdollisesti lukuunottamatta
+    kustannusten optimointitoimintoa
+  examples: []
+  id: 34
+  language_code: fin
+  lineage_source: Ei lähdettä, käännetty
+  notes:
+  - Navigoinnissa pyritään löytämään reittiehdokas, joka parhaiten täyttää valitun
+    kustannusten optimointifunktion ehdot.
+  review_indicator: ''
+  terms:
+  - designation: reittiehdokas
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 0268f574-f4e2-5baf-a4d4-1878c4a45eb0
+status: valid

@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: aeecda
+    tree:
+      aeecda:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.32'
+            link: https://www.iso.org/standard/44212.html
+            ref: ISO 19118:2011
+          date_accepted: 2011-10-15 00:00:00+00:00
+          definition: совокупность данных для цели передачи данных
+          entry_status: valid
+          examples: []
+          id: 800
+          language_code: rus
+          lineage_source: перевод ИСО 19118:2011
+          notes:
+          - Блок передачи не обязательно должен идентифицироваться как набор данных.
+          release: '3'
+          terms:
+          - designation: блок передачи
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2011-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.32'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  definition: совокупность данных для цели передачи данных
+  examples: []
+  id: 800
+  language_code: rus
+  lineage_source: перевод ИСО 19118:2011
+  notes:
+  - Блок передачи не обязательно должен идентифицироваться как набор данных.
+  release: '3'
+  terms:
+  - designation: блок передачи
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-10-15 00:00:00+00:00
+id: d4e0fffe-d3ab-584c-9c27-6fdbf4049107
+status: valid

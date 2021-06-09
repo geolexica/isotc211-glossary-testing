@@ -1,0 +1,72 @@
+data:
+  _revisions:
+    current: 6530b7
+    tree:
+      6530b7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: свойство геометрического объекта, состоящее в том, что его внутренняя
+            область изотропна (все точки имеют изоморфные окрестности) и поэтому всюду
+            локально изоморфна некоторому открытому подмножеству Евклидова координатного
+            пространства соответствующей размерности
+          entry_status: superseded
+          examples: []
+          id: 411
+          language_code: rus
+          notes:
+          - Предполагается, что не существует внутренних точек, участвующих в самопересечениях
+            любого рода
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19107:2019(E)
+          review_decision_notes: This entry is superseded by the entry for simple
+            <topology, geometry> in ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: простой
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: свойство геометрического объекта, состоящее в том, что его внутренняя
+    область изотропна (все точки имеют изоморфные окрестности) и поэтому всюду локально
+    изоморфна некоторому открытому подмножеству Евклидова координатного пространства
+    соответствующей размерности
+  examples: []
+  id: 411
+  language_code: rus
+  notes:
+  - Предполагается, что не существует внутренних точек, участвующих в самопересечениях
+    любого рода
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19107:2019(E)
+  review_decision_notes: This entry is superseded by the entry for simple <topology,
+    geometry> in ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: простой
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3b5b4ab6-f8c2-5aa9-bead-5a70d2ab996e
+status: superseded

@@ -1,0 +1,74 @@
+data:
+  _revisions:
+    current: '413026'
+    tree:
+      '413026':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.14'
+            link: https://www.iso.org/standard/44212.html
+            ref: ISO 19118:2011
+          date_accepted: 2005-07-15 00:00:00+00:00
+          definition: مجموعة من قواعد الترميز القابلة للتحديد تستخدم لتعريف رموز التشفير
+            الخاصة بهيكل بيانات معين
+          entry_status: valid
+          examples:
+          - لغة XML , المقياس آيزو 10303 – 21 , ومقياس منظمة الآيزو واللجنة الدولية
+            للتقنية الكهربائية 8211.
+          id: 152
+          language_code: ara
+          lineage_source: ISO 19118:2005
+          lineage_source_similarity: 1
+          notes:
+          - تحدد قاعدة الترميز أنواع البيانات التي يلزم تحويلها كما تحدد تركيب وبناء
+            الجمل , والبناء والرموز التي تستخدم في هيكل البيانات التي تنتج عن التحويل.
+          release: '1'
+          review_date: 2007-01-23 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2011-10-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19118:2011
+          review_decision_notes: Authoritative reference changed from ISO 19118:2005
+            to ISO 19118:2011. Lineage source added as ISO 19118:2005.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: قاعدة التشفير
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  definition: مجموعة من قواعد الترميز القابلة للتحديد تستخدم لتعريف رموز التشفير الخاصة
+    بهيكل بيانات معين
+  examples:
+  - لغة XML , المقياس آيزو 10303 – 21 , ومقياس منظمة الآيزو واللجنة الدولية للتقنية
+    الكهربائية 8211.
+  id: 152
+  language_code: ara
+  lineage_source: ISO 19118:2005
+  lineage_source_similarity: 1
+  notes:
+  - لغة XML , المقياس آيزو 10303 – 21 , ومقياس منظمة الآيزو واللجنة الدولية للتقنية
+    الكهربائية 8211.
+  release: '1'
+  review_date: 2007-01-23 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2011-10-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19118:2011
+  review_decision_notes: Authoritative reference changed from ISO 19118:2005 to ISO
+    19118:2011. Lineage source added as ISO 19118:2005.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: قاعدة التشفير
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 5ce903af-fd49-5d7f-8579-39ebc5bbcf7f
+status: valid

@@ -1,0 +1,14 @@
+data:
+  identifier: '911'
+  localizedConcepts:
+    ara: e7fc3da6-9ad9-5cf2-bb8c-9e9bd3afc6ff
+    deu: 89bdab9f-f691-515b-b0c3-38d8129bb1a7
+    eng: e441c3ba-2f84-54f0-9acb-1f251bd0147e
+    kor: b3fbe2ff-05f1-5c1f-85af-2de071339133
+    msa: ad4788ed-b11c-5945-9a67-c87a4543cd99
+    rus: f00fa8b4-5e07-5ff7-8648-cf5540fd5dc1
+    spa: 90388c65-3daf-561c-995e-558fb80aaa09
+    swe: 4c860688-a442-55bc-be2a-a0f4f7803b48
+dateAccepted: 2018-11-17
+id: 37cfc973-24d2-50f4-a22f-bc866b45c20b
+status: valid

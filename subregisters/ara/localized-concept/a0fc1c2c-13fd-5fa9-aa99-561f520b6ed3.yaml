@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: ced333
+    tree:
+      ced333:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: منحنى بسيط هو عبارة عن دائرة
+          entry_status: retired
+          examples: []
+          id: 385
+          language_code: ara
+          notes:
+          - تستخدم الأطواق لوصف مكونات الحدود الخارجية للأسطح في نظم الإحداثيات ذات
+            البعدين والثلاثة أبعاد.
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of documentISO 19107:2019(E)
+          review_decision_notes: This entry has been omitted from the superseding
+            standard ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: حلقة
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: منحنى بسيط هو عبارة عن دائرة
+  examples: []
+  id: 385
+  language_code: ara
+  notes:
+  - تستخدم الأطواق لوصف مكونات الحدود الخارجية للأسطح في نظم الإحداثيات ذات البعدين
+    والثلاثة أبعاد.
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of documentISO 19107:2019(E)
+  review_decision_notes: This entry has been omitted from the superseding standard
+    ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: حلقة
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: a0fc1c2c-13fd-5fa9-aa99-561f520b6ed3
+status: retired

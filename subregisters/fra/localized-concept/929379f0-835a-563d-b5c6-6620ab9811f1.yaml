@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: d39ff7
+    tree:
+      d39ff7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/36760.html
+            ref: ISO 19131
+          date_accepted: 2007-04-15 00:00:00+00:00
+          definition: description détaillée d'un jeu de données ou d'une série de
+            jeux de données comprenant également des informations supplémentaires
+            permettant leur création, fourniture  et utilisation par une tierce partie
+          entry_status: valid
+          examples: []
+          id: 111
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: spécification de produit (de données)
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-04-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/36760.html
+    ref: ISO 19131
+  definition: description détaillée d'un jeu de données ou d'une série de jeux de
+    données comprenant également des informations supplémentaires permettant leur
+    création, fourniture  et utilisation par une tierce partie
+  examples: []
+  id: 111
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: spécification de produit (de données)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 929379f0-835a-563d-b5c6-6620ab9811f1
+status: valid

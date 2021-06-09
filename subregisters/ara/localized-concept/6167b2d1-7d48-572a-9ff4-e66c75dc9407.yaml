@@ -1,0 +1,40 @@
+data:
+  _revisions:
+    current: 4e1d92
+    tree:
+      4e1d92:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: W3C XLink:2001
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: استخدام أو اتباع رابط XLink لأي غرض
+          entry_status: valid
+          examples: []
+          id: 785
+          language_code: ara
+          notes: []
+          release: '2'
+          terms:
+          - designation: اجتياز <XML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: W3C XLink:2001
+  definition: استخدام أو اتباع رابط XLink لأي غرض
+  examples: []
+  id: 785
+  language_code: ara
+  notes: []
+  release: '2'
+  terms:
+  - designation: اجتياز <XML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 6167b2d1-7d48-572a-9ff4-e66c75dc9407
+status: valid

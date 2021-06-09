@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: ac67cd
+    tree:
+      ac67cd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105
+          date_accepted: 2000-11-16 00:00:00+00:00
+          definition: verdict de test de conformité où ni un verdict de succès ni
+            un verdict d'échec ne s'appliquent
+          entry_status: valid
+          examples: []
+          id: 238
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: verdict non concluant
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-11-16 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105
+  definition: verdict de test de conformité où ni un verdict de succès ni un verdict
+    d'échec ne s'appliquent
+  examples: []
+  id: 238
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: verdict non concluant
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-11-16 00:00:00+00:00
+id: dc40e716-4a98-58e3-8ee3-730c63b81d30
+status: valid

@@ -1,0 +1,40 @@
+data:
+  _revisions:
+    current: 3d333e
+    tree:
+      3d333e:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            ref: W3C XLink:2001
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: Nutzung oder Verfolgung einer Xlink-Verknüpfung
+          entry_status: valid
+          examples: []
+          id: 785
+          language_code: deu
+          notes: []
+          release: '2'
+          terms:
+          - designation: Durchquerung <XML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: W3C XLink:2001
+  definition: Nutzung oder Verfolgung einer Xlink-Verknüpfung
+  examples: []
+  id: 785
+  language_code: deu
+  notes: []
+  release: '2'
+  terms:
+  - designation: Durchquerung <XML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 337bec9e-d22e-5518-98e6-5c1d7b3ceb60
+status: valid

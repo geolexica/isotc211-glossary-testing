@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: f16210
+    tree:
+      f16210:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: toteutukselle suoritettava erityinen testi tiettyjen vaatimusten
+            täyttymisen toteamiseksi
+          entry_status: valid
+          examples: []
+          id: 161
+          language_code: fin
+          lineage_source: Ei lähdettä, käännetty
+          notes:
+          - Kyseessä on abstraktin testitapauksen konkretisoiminen arvoilla.
+          review_indicator: ''
+          terms:
+          - designation: suoritettavissa oleva testitapaus
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: toteutukselle suoritettava erityinen testi tiettyjen vaatimusten täyttymisen
+    toteamiseksi
+  examples: []
+  id: 161
+  language_code: fin
+  lineage_source: Ei lähdettä, käännetty
+  notes:
+  - Kyseessä on abstraktin testitapauksen konkretisoiminen arvoilla.
+  review_indicator: ''
+  terms:
+  - designation: suoritettavissa oleva testitapaus
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: bbf2e41f-0457-5bcc-81af-f96be519884b
+status: valid

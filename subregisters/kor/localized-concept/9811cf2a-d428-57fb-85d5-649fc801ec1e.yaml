@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: afa211
+    tree:
+      afa211:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.12'
+            link: https://www.iso.org/standard/32573.html
+            ref: ISO 19155:2012
+          date_accepted: 2012-11-01 00:00:00+00:00
+          definition: PI매칭에 사용되는 서비스 인터페이스와 자료 구조 그룹
+          entry_status: valid
+          examples: []
+          id: 1340
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 장소 식별자 플랫폼
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-11-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  definition: PI매칭에 사용되는 서비스 인터페이스와 자료 구조 그룹
+  examples: []
+  id: 1340
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 장소 식별자 플랫폼
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: 9811cf2a-d428-57fb-85d5-649fc801ec1e
+status: valid

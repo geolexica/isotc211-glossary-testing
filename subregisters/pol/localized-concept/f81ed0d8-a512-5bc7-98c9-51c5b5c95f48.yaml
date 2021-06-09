@@ -1,0 +1,47 @@
+data:
+  _revisions:
+    current: 79600e
+    tree:
+      79600e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: najczęściej prostokątny wzór równoległych linii skaningowych,
+            tworzących obraz lub odpowiadających obrazowi na lampie katodowej
+          examples: []
+          id: 364
+          language_code: pol
+          lineage_source: PN-EN ISO 19123
+          notes:
+          - Raster jest typem siatki.
+          release: '1'
+          terms:
+          - designation: raster
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: najczęściej prostokątny wzór równoległych linii skaningowych, tworzących
+    obraz lub odpowiadających obrazowi na lampie katodowej
+  examples: []
+  id: 364
+  language_code: pol
+  lineage_source: PN-EN ISO 19123
+  notes:
+  - Raster jest typem siatki.
+  release: '1'
+  terms:
+  - designation: raster
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: f81ed0d8-a512-5bc7-98c9-51c5b5c95f48
+status: valid

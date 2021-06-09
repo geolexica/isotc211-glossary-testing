@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 0b33b7
+    tree:
+      0b33b7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: тип носителя и подтип данных в теле сообщения, обозначающий
+            собственное представление (каноническую форму) таких данных
+          entry_status: valid
+          examples: []
+          id: 1336
+          language_code: rus
+          lineage_source: ISO 19142:2010
+          notes: []
+          release: '2'
+          terms:
+          - designation: Тип многоцелевых расширений почты Интернета (MIME)
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - {}
+  definition: тип носителя и подтип данных в теле сообщения, обозначающий собственное
+    представление (каноническую форму) таких данных
+  examples: []
+  id: 1336
+  language_code: rus
+  lineage_source: ISO 19142:2010
+  notes: []
+  release: '2'
+  terms:
+  - designation: Тип многоцелевых расширений почты Интернета (MIME)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 02cda43f-2b46-51d0-8dc0-a3f67274e97a
+status: valid

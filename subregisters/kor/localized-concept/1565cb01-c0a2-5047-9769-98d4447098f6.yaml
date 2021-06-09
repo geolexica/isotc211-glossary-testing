@@ -1,0 +1,68 @@
+data:
+  _revisions:
+    current: 855a0a
+    tree:
+      855a0a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.21'
+            link: https://www.iso.org/standard/26002.html
+            ref: ISO 19101:2002
+          date_accepted: 2008-12-30 00:00:00+00:00
+          date_amended: 2014-11-01 00:00:00+00:00
+          definition: 메타데이터를 기술하는 개념적 스키마
+          entry_status: retired
+          examples: []
+          id: 292
+          language_code: kor
+          lineage_source: ''
+          notes:
+          - KS X ISO 19115는 메타데이터 스키마를 기술하는 표준이다.
+          release: '-1'
+          review_date: 2010-10-12 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2014-11-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19101-1:2014
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19101-1:2014).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: 메타데이터 스키마
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2008-12-30 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  date_amended: 2014-11-01 00:00:00+00:00
+  definition: 메타데이터를 기술하는 개념적 스키마
+  examples: []
+  id: 292
+  language_code: kor
+  lineage_source: ''
+  notes:
+  - KS X ISO 19115는 메타데이터 스키마를 기술하는 표준이다.
+  release: '-1'
+  review_date: 2010-10-12 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2014-11-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19101-1:2014
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19101-1:2014).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: 메타데이터 스키마
+    normative_status: null
+    type: expression
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: 1565cb01-c0a2-5047-9769-98d4447098f6
+status: retired

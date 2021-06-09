@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: 22b0f1
+    tree:
+      22b0f1:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.1.29
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111:2019
+          date_accepted: 2019-01-31 00:00:00+00:00
+          definition: epoch of coordinates that define a dynamic reference frame
+          entry_status: valid
+          examples: []
+          id: 2367
+          language_code: eng
+          notes: []
+          release: '5'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19111:2019(E)
+          review_status: final
+          terms:
+          - designation: frame reference epoch
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2019-01-31 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.29
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  definition: epoch of coordinates that define a dynamic reference frame
+  examples: []
+  id: 2367
+  language_code: eng
+  notes: []
+  release: '5'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19111:2019(E)
+  review_status: final
+  terms:
+  - designation: frame reference epoch
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: b44f5f06-1111-591b-8d70-e24d36e622c8
+status: valid

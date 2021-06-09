@@ -1,0 +1,74 @@
+data:
+  _revisions:
+    current: cfc47f
+    tree:
+      cfc47f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.97
+            link: https://www.iso.org/standard/66175.html
+            ref: ISO 19107:2019
+          country_code: swe
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: samling av topologiska grundelement inklusive de topologiska
+            objekt som avgränsar dessa
+          entry_status: valid
+          examples: []
+          id: 462
+          language_code: swe
+          lineage_source: ISO 19107:2003(E)
+          lineage_source_similarity: 1
+          notes:
+          - Closed under the boundary operations means that if a topological primitive
+            is in the topological complex, then its boundary objects are also in the
+            topological complex.
+          release: '1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of ISO 19107:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19107:2003
+            to ISO 19107:2019(E), 3.97. Lineage source added as ISO 19107:2003(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: topologiskt komplex
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.97
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  country_code: swe
+  definition: samling av topologiska grundelement inklusive de topologiska objekt
+    som avgränsar dessa
+  examples: []
+  id: 462
+  language_code: swe
+  lineage_source: ISO 19107:2003(E)
+  lineage_source_similarity: 1
+  notes:
+  - Closed under the boundary operations means that if a topological primitive is
+    in the topological complex, then its boundary objects are also in the topological
+    complex.
+  release: '1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of ISO 19107:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19107:2003 to ISO
+    19107:2019(E), 3.97. Lineage source added as ISO 19107:2003(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: topologiskt komplex
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 39767707-afb6-5a73-9550-b5b5e355a357
+status: valid

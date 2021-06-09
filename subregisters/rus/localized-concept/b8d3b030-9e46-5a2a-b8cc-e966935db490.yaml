@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 42e393
+    tree:
+      42e393:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: сетка, для которой существует аффинное преобразование между
+            сеточными координатами и координатами внешней координатной системы отсчета
+          entry_status: retired
+          examples: []
+          id: 367
+          language_code: rus
+          lineage_source: Internet
+          notes:
+          - Если координатная система отсчета привязана к Земле исходными датами,
+            сетка является георектифицированной сеткой
+          review_indicator: ''
+          terms:
+          - designation: ректифицированная сетка
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: сетка, для которой существует аффинное преобразование между сеточными
+    координатами и координатами внешней координатной системы отсчета
+  examples: []
+  id: 367
+  language_code: rus
+  lineage_source: Internet
+  notes:
+  - Если координатная система отсчета привязана к Земле исходными датами, сетка является
+    георектифицированной сеткой
+  review_indicator: ''
+  terms:
+  - designation: ректифицированная сетка
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: b8d3b030-9e46-5a2a-b8cc-e966935db490
+status: retired

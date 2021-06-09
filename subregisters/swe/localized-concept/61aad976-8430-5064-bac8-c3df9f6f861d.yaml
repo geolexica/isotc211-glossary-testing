@@ -1,0 +1,65 @@
+data:
+  _revisions:
+    current: d03bc6
+    tree:
+      d03bc6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          country_code: swe
+          date_accepted: 2007-07-01 00:00:00+00:00
+          date_amended: 2019-01-31 00:00:00+00:00
+          definition: nivåyta i jordens tyngdkraftsfält, överallt vinkelrät mot lodlinjen,
+            som bäst sammanfaller med havets medelvattenyta lokalt eller globalt
+          entry_status: superseded
+          examples: []
+          id: 764
+          language_code: swe
+          notes: []
+          release: '-1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19111:2019(E)
+          review_decision_notes: This entry is superseded by the entry for geoid in
+            ISO 19111:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: geoid(en)
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  country_code: swe
+  date_amended: 2019-01-31 00:00:00+00:00
+  definition: nivåyta i jordens tyngdkraftsfält, överallt vinkelrät mot lodlinjen,
+    som bäst sammanfaller med havets medelvattenyta lokalt eller globalt
+  examples: []
+  id: 764
+  language_code: swe
+  notes: []
+  release: '-1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19111:2019(E)
+  review_decision_notes: This entry is superseded by the entry for geoid in ISO 19111:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: geoid(en)
+    normative_status: null
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 61aad976-8430-5064-bac8-c3df9f6f861d
+status: superseded

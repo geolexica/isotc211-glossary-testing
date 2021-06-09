@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: c35d56
+    tree:
+      c35d56:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 416
+          language_code: deu
+          notes:
+          - A solid is realizable locally as a three parameter set of direct positions.
+            The boundary of a solid is the set of oriented, closed surfaces that comprise
+            the limits of the solid.
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: Körper
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  examples: []
+  id: 416
+  language_code: deu
+  notes:
+  - A solid is realizable locally as a three parameter set of direct positions. The
+    boundary of a solid is the set of oriented, closed surfaces that comprise the
+    limits of the solid.
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: Körper
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: cef0068e-4d9e-51c8-acf1-c565765813b4
+status: valid

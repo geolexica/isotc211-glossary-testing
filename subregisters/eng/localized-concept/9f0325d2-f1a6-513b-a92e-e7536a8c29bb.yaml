@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 4eff02
+    tree:
+      4eff02:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: tessellation composed of triangles
+          entry_status: valid
+          examples: []
+          id: 476
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: triangulated irregular network
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: tessellation composed of triangles
+  examples: []
+  id: 476
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: triangulated irregular network
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 9f0325d2-f1a6-513b-a92e-e7536a8c29bb
+status: valid

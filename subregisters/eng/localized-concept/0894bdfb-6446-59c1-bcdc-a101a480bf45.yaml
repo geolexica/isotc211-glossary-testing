@@ -1,0 +1,58 @@
+data:
+  _revisions:
+    current: ad03b8
+    tree:
+      ad03b8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: UML 2
+          date_accepted: 2015-07-01 00:00:00+00:00
+          definition: behavioural <UML> feature of a classifier that specifies the
+            name, type, parameters, and constraints for invoking an associated behaviour
+          entry_status: valid
+          examples: []
+          id: 1617
+          language_code: eng
+          lineage_source: ISO 19150-2:2015, 4.1.30
+          notes: []
+          release: '4'
+          review_date: 2009-01-14 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-07-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19150-2:2015(E)
+          review_decision_notes: This entry supersedes the entry for "operation <UML>"
+            in ISO/TS 19103:2005
+          review_status: final
+          terms:
+          - designation: operation <UML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2015-07-01 00:00:00+00:00
+  authoritativeSource:
+  - ref: UML 2
+  definition: behavioural <UML> feature of a classifier that specifies the name, type,
+    parameters, and constraints for invoking an associated behaviour
+  examples: []
+  id: 1617
+  language_code: eng
+  lineage_source: ISO 19150-2:2015, 4.1.30
+  notes: []
+  release: '4'
+  review_date: 2009-01-14 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-07-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19150-2:2015(E)
+  review_decision_notes: This entry supersedes the entry for "operation <UML>" in
+    ISO/TS 19103:2005
+  review_status: final
+  terms:
+  - designation: operation <UML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 0894bdfb-6446-59c1-bcdc-a101a480bf45
+status: valid

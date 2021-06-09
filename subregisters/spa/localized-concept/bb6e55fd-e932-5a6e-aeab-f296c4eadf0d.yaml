@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 843af2
+    tree:
+      843af2:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.11'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: producto de primer nivel producido procesando los datos de la
+            historia de fase de un Radar de Apertura Sintética (SAR)
+          entry_status: valid
+          examples: []
+          id: 1383
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: imagen compleja
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: producto de primer nivel producido procesando los datos de la historia
+    de fase de un Radar de Apertura Sintética (SAR)
+  examples: []
+  id: 1383
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: imagen compleja
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: bb6e55fd-e932-5a6e-aeab-f296c4eadf0d
+status: valid

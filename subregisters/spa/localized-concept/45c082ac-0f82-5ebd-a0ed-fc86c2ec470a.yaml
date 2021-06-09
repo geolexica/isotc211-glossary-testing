@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: '636579'
+    tree:
+      '636579':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.8'
+            link: https://www.iso.org/standard/32573.html
+            ref: ISO 19155:2012
+          date_accepted: 2012-11-01 00:00:00+00:00
+          definition: parte identificable de un cierto espacio
+          entry_status: valid
+          examples: []
+          id: 1280
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: lugar
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-11-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  definition: parte identificable de un cierto espacio
+  examples: []
+  id: 1280
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: lugar
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: 45c082ac-0f82-5ebd-a0ed-fc86c2ec470a
+status: valid

@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: eab8c4
+    tree:
+      eab8c4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: processus déterminant comment une implémentation soumise à test
+            traite des données contenant des erreurs
+          entry_status: valid
+          examples: []
+          id: 386
+          language_code: fra
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: test de robustesse
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: processus déterminant comment une implémentation soumise à test traite
+    des données contenant des erreurs
+  examples: []
+  id: 386
+  language_code: fra
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: test de robustesse
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 44f0f1aa-0c2f-56cc-a93a-b5bb8f3765e0
+status: valid

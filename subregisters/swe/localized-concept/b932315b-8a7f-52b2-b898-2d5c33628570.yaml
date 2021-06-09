@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 21b054
+    tree:
+      21b054:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.12
+            link: https://www.iso.org/standard/44342.html
+            ref: ISO 19144-2:2012
+          country_code: swe
+          date_accepted: 2012-07-01 00:00:00+00:00
+          definition: yttre uppträdande hos objekt eller terräng, utan hänsyn till
+            dess inre eller vetenskapligt baserade egenskaper
+          entry_status: valid
+          examples: []
+          id: 1440
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '3'
+          terms:
+          - designation: fysionomi
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/44342.html
+    ref: ISO 19144-2:2012
+  country_code: swe
+  definition: yttre uppträdande hos objekt eller terräng, utan hänsyn till dess inre
+    eller vetenskapligt baserade egenskaper
+  examples: []
+  id: 1440
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '3'
+  terms:
+  - designation: fysionomi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-07-01 00:00:00+00:00
+id: b932315b-8a7f-52b2-b898-2d5c33628570
+status: valid

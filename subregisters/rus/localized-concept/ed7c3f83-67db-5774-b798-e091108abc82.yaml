@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 8637b6
+    tree:
+      8637b6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: точка, расположенная на пересечении двух или более кривых сетки
+          entry_status: valid
+          examples: []
+          id: 223
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: узел сетки
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: точка, расположенная на пересечении двух или более кривых сетки
+  examples: []
+  id: 223
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: узел сетки
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: ed7c3f83-67db-5774-b798-e091108abc82
+status: valid

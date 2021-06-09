@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 7060d7
+    tree:
+      7060d7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: sellainen kolmioiden verkosto, jossa minkä hyvänsä kolmion kärkien
+            kautta kulkeva ympyrä ei pidä sisällään minkään muun kolmion kärkeä
+          entry_status: valid
+          examples: []
+          id: 129
+          language_code: fin
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: Delaunayn kolmiointi
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: sellainen kolmioiden verkosto, jossa minkä hyvänsä kolmion kärkien kautta
+    kulkeva ympyrä ei pidä sisällään minkään muun kolmion kärkeä
+  examples: []
+  id: 129
+  language_code: fin
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: Delaunayn kolmiointi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 4bbe9cbf-12f1-5f00-867f-4a04d90fab80
+status: valid

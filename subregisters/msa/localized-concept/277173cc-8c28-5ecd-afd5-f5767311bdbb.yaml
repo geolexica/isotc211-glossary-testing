@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: bf061d
+    tree:
+      bf061d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: https://searchcio.techtarget.com/
+          date_accepted: 2007-04-15 00:00:00+00:00
+          definition: Keupayaan wujud dalam berbagai-bagai bentuk.
+          entry_status: valid
+          examples: []
+          id: 840
+          language_code: msa
+          lineage_source: ISO/TS 19139:2007(E)
+          lineage_source_similarity: 1
+          notes:
+          - There are several different kinds of polymorphism
+          release: '1'
+          review_date: 2019-03-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-03-01 00:00:00+00:00
+          review_decision_event: Publication of ISO/TS 19139-1:2019(E)
+          review_decision_notes: Authoritative reference changed from http://searchsmallbizit.techtarget.com
+            to https://searchcio.techtarget.com/. Lineage source added as ISO/TS 19139:2007(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: polimorfisme
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-04-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: https://searchcio.techtarget.com/
+  definition: Keupayaan wujud dalam berbagai-bagai bentuk.
+  examples: []
+  id: 840
+  language_code: msa
+  lineage_source: ISO/TS 19139:2007(E)
+  lineage_source_similarity: 1
+  notes:
+  - There are several different kinds of polymorphism
+  release: '1'
+  review_date: 2019-03-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-03-01 00:00:00+00:00
+  review_decision_event: Publication of ISO/TS 19139-1:2019(E)
+  review_decision_notes: Authoritative reference changed from http://searchsmallbizit.techtarget.com
+    to https://searchcio.techtarget.com/. Lineage source added as ISO/TS 19139:2007(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: polimorfisme
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 277173cc-8c28-5ecd-afd5-f5767311bdbb
+status: valid

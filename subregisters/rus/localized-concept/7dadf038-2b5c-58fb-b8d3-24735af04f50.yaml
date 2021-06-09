@@ -1,0 +1,53 @@
+data:
+  _revisions:
+    current: e6cfc7
+    tree:
+      e6cfc7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: MSL
+          authoritative_source:
+            clause: Fifth Edition
+            ref: IHO Hydrographic Dictionary S-32
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: средняя высота поверхности моря на приливной станции для всех
+            этапов прилива в течение 19-летнего периода, как правило, определяется
+            по часовым показаниям высоты, измеренным от фиксированного заданного опорного
+            уровня
+          entry_status: valid
+          examples: []
+          id: 1562
+          language_code: rus
+          lineage_source: ISO/TS 19130-2:2014, 4.43
+          lineage_source_similarity: '1'
+          notes: []
+          release: '3'
+          terms:
+          - designation: средний уровень моря
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  abbrev: MSL
+  authoritativeSource:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  definition: средняя высота поверхности моря на приливной станции для всех этапов
+    прилива в течение 19-летнего периода, как правило, определяется по часовым показаниям
+    высоты, измеренным от фиксированного заданного опорного уровня
+  examples: []
+  id: 1562
+  language_code: rus
+  lineage_source: ISO/TS 19130-2:2014, 4.43
+  lineage_source_similarity: '1'
+  notes: []
+  release: '3'
+  terms:
+  - designation: средний уровень моря
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 7dadf038-2b5c-58fb-b8d3-24735af04f50
+status: valid

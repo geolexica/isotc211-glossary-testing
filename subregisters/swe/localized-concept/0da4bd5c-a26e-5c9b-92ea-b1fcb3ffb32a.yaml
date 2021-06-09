@@ -1,0 +1,58 @@
+data:
+  _revisions:
+    current: 1106c4
+    tree:
+      1106c4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/43041.html
+            ref: ISO/TS 19129:2009
+          country_code: swe
+          date_accepted: 2009-04-01 00:00:00+00:00
+          definition: minskning antingen av det  lagringgsutrymme som behövs för en
+            viss mängd data eller av längden på det meddelande som behövs för att
+            överföra en viss mängd information
+          entry_status: valid
+          examples: []
+          id: 1118
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes:
+          - Adapted from ANSI T1.523-2001.
+          - Data compression is probabilistic in nature based on particular instances
+            of imagery, gridded or coverage data and is related to encoding and is
+            outside the scope of this Technical Specification.
+          release: '2'
+          terms:
+          - designation: datakomprimering
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-04-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  country_code: swe
+  definition: minskning antingen av det  lagringgsutrymme som behövs för en viss mängd
+    data eller av längden på det meddelande som behövs för att överföra en viss mängd
+    information
+  examples: []
+  id: 1118
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes:
+  - Adapted from ANSI T1.523-2001.
+  - Data compression is probabilistic in nature based on particular instances of imagery,
+    gridded or coverage data and is related to encoding and is outside the scope of
+    this Technical Specification.
+  release: '2'
+  terms:
+  - designation: datakomprimering
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 0da4bd5c-a26e-5c9b-92ea-b1fcb3ffb32a
+status: valid

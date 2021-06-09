@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 85fd51
+    tree:
+      85fd51:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.18'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: 지리와 관련된 허가증
+          entry_status: valid
+          examples: []
+          id: 1224
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 지오허가증
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: 지리와 관련된 허가증
+  examples: []
+  id: 1224
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 지오허가증
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 909b7322-fcfd-52ea-823f-76657a92fed9
+status: valid

@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: c17b0b
+    tree:
+      c17b0b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: modified
+            ref: FindLaw
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: 허가증 발행인
+          entry_status: valid
+          examples: []
+          id: 1237
+          language_code: kor
+          lineage_source: ISO 19153:2014, 4.31
+          lineage_source_similarity: 1
+          notes:
+          - The licensor is a content owner or a licensing agent.
+          release: '3'
+          terms:
+          - designation: 허가자, 검열관, 인가자
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: modified
+    ref: FindLaw
+  definition: 허가증 발행인
+  examples: []
+  id: 1237
+  language_code: kor
+  lineage_source: ISO 19153:2014, 4.31
+  lineage_source_similarity: 1
+  notes:
+  - The licensor is a content owner or a licensing agent.
+  release: '3'
+  terms:
+  - designation: 허가자, 검열관, 인가자
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 385c509b-839a-5204-8630-5adc2939e92c
+status: valid

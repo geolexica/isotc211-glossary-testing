@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 57dbda
+    tree:
+      57dbda:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32562.html
+            ref: ISO 19144-1:2009
+          date_accepted: 2009-08-15 00:00:00+00:00
+          definition: تمثيل تجريدي للظواهر الطبيعية باستخدام المصنِّفات
+          entry_status: valid
+          examples: []
+          id: 848
+          language_code: ara
+          notes: []
+          release: '2'
+          terms:
+          - designation: تصنيف
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  definition: تمثيل تجريدي للظواهر الطبيعية باستخدام المصنِّفات
+  examples: []
+  id: 848
+  language_code: ara
+  notes: []
+  release: '2'
+  terms:
+  - designation: تصنيف
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 0f81af29-f0cd-5e39-bedd-2d40cd767047
+status: valid

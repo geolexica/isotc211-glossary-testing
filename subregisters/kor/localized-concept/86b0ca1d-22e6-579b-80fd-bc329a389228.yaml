@@ -1,0 +1,60 @@
+data:
+  _revisions:
+    current: 551c44
+    tree:
+      551c44:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.12'
+            link: https://www.iso.org/standard/32566.html
+            ref: ISO 19148:2012
+          date_accepted: 2012-02-15 00:00:00+00:00
+          definition: 선형참조법과 정책, 시행에 필요한 기록 및 절차의 집합
+          entry_status: valid
+          examples: []
+          id: 1079
+          language_code: kor
+          notes: []
+          release: '3'
+          review_date: 2009-02-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2012-02-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19148:2012
+          review_decision_notes: This entry supersedes the entry for "linear referencing
+            system" in ISO 19133:2005
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: 선형 참조계
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  definition: 선형참조법과 정책, 시행에 필요한 기록 및 절차의 집합
+  examples: []
+  id: 1079
+  language_code: kor
+  notes: []
+  release: '3'
+  review_date: 2009-02-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2012-02-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19148:2012
+  review_decision_notes: This entry supersedes the entry for "linear referencing system"
+    in ISO 19133:2005
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: 선형 참조계
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 86b0ca1d-22e6-579b-80fd-bc329a389228
+status: valid

@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 4ab7a7
+    tree:
+      4ab7a7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (Adapted from)
+            link: https://www.iso.org/standard/3626.html
+            ref: 'ISO 31-2:1992 '
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: duration of one cycle
+          entry_status: valid
+          examples: []
+          id: 331
+          language_code: eng
+          lineage_source: ISO 19108:2002
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: periodic time
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/3626.html
+    ref: 'ISO 31-2:1992 '
+  definition: duration of one cycle
+  examples: []
+  id: 331
+  language_code: eng
+  lineage_source: ISO 19108:2002
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: periodic time
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 0019a830-d1a2-5905-a462-e6eb4728b2b4
+status: valid

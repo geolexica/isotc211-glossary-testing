@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 69f90b
+    tree:
+      69f90b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.3'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: 타인의 대리로 업무를 수행하는 자
+          entry_status: valid
+          examples: []
+          id: 1208
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 대리인
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: 타인의 대리로 업무를 수행하는 자
+  examples: []
+  id: 1208
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 대리인
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 3a5f86e9-5eff-5a49-8fed-d0461158c781
+status: valid

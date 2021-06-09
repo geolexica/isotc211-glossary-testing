@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: fdf894
+    tree:
+      fdf894:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: 조건자 묘사에 사용되는 공식 표헌
+          entry_status: valid
+          examples: []
+          id: 808
+          language_code: kor
+          notes: []
+          release: '2'
+          terms:
+          - designation: 조건자 표현
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: 조건자 묘사에 사용되는 공식 표헌
+  examples: []
+  id: 808
+  language_code: kor
+  notes: []
+  release: '2'
+  terms:
+  - designation: 조건자 표현
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: ca3ae186-7659-5d04-8a96-3f0411acd0d3
+status: valid

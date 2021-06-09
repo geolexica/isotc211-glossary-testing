@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: 28b165
+    tree:
+      28b165:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40115.html
+            ref: ISO 19125-2:2004
+          date_accepted: 2004-08-01 00:00:00+00:00
+          definition: reprezentacja zjawiska występującego w świecie rzeczywistym,
+            powiązanego z pozycją względem  Ziemi.
+          examples: []
+          id: 203
+          language_code: pol
+          lineage_source: PN-EN ISO 19125-2
+          notes: []
+          release: '1'
+          terms:
+          - designation: obiekt geograficzny
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-08-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  definition: reprezentacja zjawiska występującego w świecie rzeczywistym, powiązanego
+    z pozycją względem  Ziemi.
+  examples: []
+  id: 203
+  language_code: pol
+  lineage_source: PN-EN ISO 19125-2
+  notes: []
+  release: '1'
+  terms:
+  - designation: obiekt geograficzny
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: dbe99921-089a-510b-8725-e420d2f92f00
+status: valid

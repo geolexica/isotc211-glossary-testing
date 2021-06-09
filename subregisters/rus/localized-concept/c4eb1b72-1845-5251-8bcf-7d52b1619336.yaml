@@ -1,0 +1,71 @@
+data:
+  _revisions:
+    current: 26c594
+    tree:
+      26c594:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.14'
+            link: https://www.iso.org/standard/44212.html
+            ref: ISO 19118:2011
+          date_accepted: 2005-07-15 00:00:00+00:00
+          definition: идентифицируемая совокупность правил преобразования, определяющая
+            кодирование конкретной структуры данных
+          entry_status: valid
+          examples:
+          - XML, ISO 10303-21, ISO/IEC 8211
+          id: 152
+          language_code: rus
+          lineage_source: ISO 19118:2005
+          lineage_source_similarity: 1
+          notes:
+          - Правило кодирования определяет типы данных для конвертирования, а также
+            синтаксис, структуру и коды, используемые в выходной структуре данных
+          release: '1'
+          review_date: 2007-01-23 00:00:00+00:00
+          review_decision: ''
+          review_decision_date: 2011-10-15 00:00:00+00:00
+          review_decision_event: Публикация ИСО19118:2011
+          review_decision_notes: 'Авторитетная ссылка изменена с ISO 19118:2005 на
+            ISO 19118: 2011. Источник происхождения добавлен как ISO 19118: 2005.'
+          review_indicator: ''
+          review_status: ''
+          terms:
+          - designation: правило кодирования
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  definition: идентифицируемая совокупность правил преобразования, определяющая кодирование
+    конкретной структуры данных
+  examples:
+  - XML, ISO 10303-21, ISO/IEC 8211
+  id: 152
+  language_code: rus
+  lineage_source: ISO 19118:2005
+  lineage_source_similarity: 1
+  notes:
+  - XML, ISO 10303-21, ISO/IEC 8211
+  release: '1'
+  review_date: 2007-01-23 00:00:00+00:00
+  review_decision: ''
+  review_decision_date: 2011-10-15 00:00:00+00:00
+  review_decision_event: Публикация ИСО19118:2011
+  review_decision_notes: 'Авторитетная ссылка изменена с ISO 19118:2005 на ISO 19118:
+    2011. Источник происхождения добавлен как ISO 19118: 2005.'
+  review_indicator: ''
+  review_status: ''
+  terms:
+  - designation: правило кодирования
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: c4eb1b72-1845-5251-8bcf-7d52b1619336
+status: valid

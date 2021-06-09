@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 7dc444
+    tree:
+      7dc444:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (1994)
+            ref: 'Jensen et al. '
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: время,  в течение которого  данный факт является истинным в
+            моделируемой реальности
+          entry_status: valid
+          examples: []
+          id: 487
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: действительное время
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (1994)
+    ref: 'Jensen et al. '
+  definition: время,  в течение которого  данный факт является истинным в моделируемой
+    реальности
+  examples: []
+  id: 487
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: действительное время
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 417e91b5-2950-5df4-a6f5-1fc1408e3230
+status: valid

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: c7d531
+    tree:
+      c7d531:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/44875.html
+            ref: ISO 19126:2009
+          date_accepted: 2009-08-15 00:00:00+00:00
+          definition: diccionario que contiene definiciones e información descriptiva
+            relacionada sobre conceptos que se pueden especificar en detalle en un
+            catálogo de objetos geográficos
+          entry_status: valid
+          examples: []
+          id: 856
+          language_code: spa
+          notes: []
+          release: '2'
+          terms:
+          - designation: diccionario conceptual de objetos geográficos
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  definition: diccionario que contiene definiciones e información descriptiva relacionada
+    sobre conceptos que se pueden especificar en detalle en un catálogo de objetos
+    geográficos
+  examples: []
+  id: 856
+  language_code: spa
+  notes: []
+  release: '2'
+  terms:
+  - designation: diccionario conceptual de objetos geográficos
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: a37838e4-ce89-5782-af8f-df929dfd0156
+status: valid

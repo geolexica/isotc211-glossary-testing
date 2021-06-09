@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: 09bed7
+    tree:
+      09bed7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (Adapted from)
+            ref: Booch 1999
+          date_accepted: 2007-04-15 00:00:00+00:00
+          definition: semantic relationship between classifiers, wherein one classifier
+            specifies a contract that another classifier guarentees to carry out
+          entry_status: valid
+          examples: []
+          id: 839
+          language_code: eng
+          lineage_source: ISO/TS 19139:2007 ,4.3
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2009-08-31 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: supersession
+          terms:
+          - designation: realization
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-04-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: (Adapted from)
+    ref: Booch 1999
+  definition: semantic relationship between classifiers, wherein one classifier specifies
+    a contract that another classifier guarentees to carry out
+  examples: []
+  id: 839
+  language_code: eng
+  lineage_source: ISO/TS 19139:2007 ,4.3
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2009-08-31 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: supersession
+  terms:
+  - designation: realization
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 07843e29-dd03-5c48-8266-dec44430d304
+status: valid

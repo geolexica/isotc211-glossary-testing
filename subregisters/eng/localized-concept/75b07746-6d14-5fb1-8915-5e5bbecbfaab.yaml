@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: ddefba
+    tree:
+      ddefba:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: ordered pair composed of a spatial object, a temporal object
+            or a spatiotemporal object and a record of feature attribute values
+          entry_status: valid
+          examples: []
+          id: 758
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: geometry value pair
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: ordered pair composed of a spatial object, a temporal object or a spatiotemporal
+    object and a record of feature attribute values
+  examples: []
+  id: 758
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: geometry value pair
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 75b07746-6d14-5fb1-8915-5e5bbecbfaab
+status: valid

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 0bd7dc
+    tree:
+      0bd7dc:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (Adapted from)
+            link: https://www.iso.org/standard/3626.html
+            ref: 'ISO 31-2:1992 '
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: الدورة الزمنية لدورة واحدة
+          entry_status: valid
+          examples: []
+          id: 331
+          language_code: ara
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: وقت الفترة
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/3626.html
+    ref: 'ISO 31-2:1992 '
+  definition: الدورة الزمنية لدورة واحدة
+  examples: []
+  id: 331
+  language_code: ara
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: وقت الفترة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 4b5396af-8fb6-5f88-9834-146ee086f17d
+status: valid

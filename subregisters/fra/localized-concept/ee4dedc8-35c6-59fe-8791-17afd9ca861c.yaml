@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: be6a3c
+    tree:
+      be6a3c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: organisation effectuant le processus d'évaluation de conformité
+          entry_status: valid
+          examples: []
+          id: 458
+          language_code: fra
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: laboratoire d'essais
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: organisation effectuant le processus d'évaluation de conformité
+  examples: []
+  id: 458
+  language_code: fra
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: laboratoire d'essais
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: ee4dedc8-35c6-59fe-8791-17afd9ca861c
+status: valid

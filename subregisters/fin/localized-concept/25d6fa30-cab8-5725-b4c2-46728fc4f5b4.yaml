@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: b39d52
+    tree:
+      b39d52:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: paikkatietojakauman arvojen määrittäminen jakaumaan kuuluvassa
+            koordinaattipisteessä
+          entry_status: valid
+          examples: []
+          id: 159
+          language_code: fin
+          lineage_source: Ei lähdettä, käännetty
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: arvonmääritys <paikkatietojakauma>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: paikkatietojakauman arvojen määrittäminen jakaumaan kuuluvassa koordinaattipisteessä
+  examples: []
+  id: 159
+  language_code: fin
+  lineage_source: Ei lähdettä, käännetty
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: arvonmääritys <paikkatietojakauma>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 25d6fa30-cab8-5725-b4c2-46728fc4f5b4
+status: valid

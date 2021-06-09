@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: d0081e
+    tree:
+      d0081e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: Fifth Edition
+            ref: IHO Hydrographic Dictionary S-32
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: 'franja o banda del fondo registrada por una ecosonda de haces
+            múltiples situada en un buque
+
+            hidrográfico a lo largo de su rumbo'
+          entry_status: valid
+          examples: []
+          id: 1394
+          language_code: spa
+          lineage_source: ISO/TS 19130-2:2014, 4.32
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: franja hidrográfica<SONAR>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  definition: 'franja o banda del fondo registrada por una ecosonda de haces múltiples
+    situada en un buque
+
+    hidrográfico a lo largo de su rumbo'
+  examples: []
+  id: 1394
+  language_code: spa
+  lineage_source: ISO/TS 19130-2:2014, 4.32
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: franja hidrográfica<SONAR>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: bbbcbcd9-6827-5f46-adfb-cfeb9de8ede5
+status: valid

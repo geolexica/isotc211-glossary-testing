@@ -1,0 +1,70 @@
+data:
+  _revisions:
+    current: e6b6e9
+    tree:
+      e6b6e9:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.9'
+            link: https://www.iso.org/standard/26019.html
+            ref: ISO 19114:2003
+          date_accepted: 2003-08-15 00:00:00+00:00
+          date_amended: 2013-12-15 00:00:00+00:00
+          definition: datos aceptados como representativos del universo de discurso,
+            para ser usados como referencia en los métodos directos externos de evaluación
+            de la calidad
+          entry_status: retired
+          examples: []
+          id: 368
+          language_code: spa
+          lineage_source: ''
+          notes: []
+          release: '-1'
+          review_date: 2013-12-15 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2013-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19157:2013
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19157:2013).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: datos de referencia
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-08-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/26019.html
+    ref: ISO 19114:2003
+  date_amended: 2013-12-15 00:00:00+00:00
+  definition: datos aceptados como representativos del universo de discurso, para
+    ser usados como referencia en los métodos directos externos de evaluación de la
+    calidad
+  examples: []
+  id: 368
+  language_code: spa
+  lineage_source: ''
+  notes: []
+  release: '-1'
+  review_date: 2013-12-15 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2013-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19157:2013
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19157:2013).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: datos de referencia
+    normative_status: null
+    type: expression
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 7eb999e9-9aae-57eb-b820-df3298e2187b
+status: retired

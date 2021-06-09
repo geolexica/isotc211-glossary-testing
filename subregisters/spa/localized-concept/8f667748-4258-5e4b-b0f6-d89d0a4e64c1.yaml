@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: 1fa82b
+    tree:
+      1fa82b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/20057.html
+            ref: ISO 1087-1:2000
+          date_accepted: 2008-11-15 00:00:00+00:00
+          date_amended: 2016-10-01 00:00:00+00:00
+          definition: todos los objetos con los que se corresponde un concepto
+          entry_status: retired
+          examples: []
+          id: 910
+          language_code: spa
+          lineage_source: ISO/TS 19104:2008
+          lineage_source_similarity: 1
+          notes: []
+          release: '-2'
+          review_date: 2013-01-29 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2016-10-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19104:2016
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19104:2016).
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: extensión
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2008-11-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  date_amended: 2016-10-01 00:00:00+00:00
+  definition: todos los objetos con los que se corresponde un concepto
+  examples: []
+  id: 910
+  language_code: spa
+  lineage_source: ISO/TS 19104:2008
+  lineage_source_similarity: 1
+  notes: []
+  release: '-2'
+  review_date: 2013-01-29 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2016-10-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19104:2016
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19104:2016).
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: extensión
+    normative_status: null
+    type: expression
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 8f667748-4258-5e4b-b0f6-d89d0a4e64c1
+status: retired

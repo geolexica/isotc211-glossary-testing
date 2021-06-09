@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: f2d799
+    tree:
+      f2d799:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/43041.html
+            ref: ISO/TS 19129:2009
+          date_accepted: 2009-04-01 00:00:00+00:00
+          definition: arreglo rectangular de números
+          entry_status: valid
+          examples: []
+          id: 918
+          language_code: spa
+          notes:
+          - Una matriz es un término matemático
+          release: '2'
+          terms:
+          - designation: matriz
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-04-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  definition: arreglo rectangular de números
+  examples: []
+  id: 918
+  language_code: spa
+  notes:
+  - Una matriz es un término matemático
+  release: '2'
+  terms:
+  - designation: matriz
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 5c3a8b00-4e0d-5baf-a81e-270548e80b94
+status: valid

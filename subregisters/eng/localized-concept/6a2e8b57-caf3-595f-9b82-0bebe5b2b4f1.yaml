@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: 7658a2
+    tree:
+      7658a2:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: configuration of the domain of a coverage described in terms
+            of coordinates
+          entry_status: valid
+          examples: []
+          id: 100
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: coverage geometry
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: configuration of the domain of a coverage described in terms of coordinates
+  examples: []
+  id: 100
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: coverage geometry
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 6a2e8b57-caf3-595f-9b82-0bebe5b2b4f1
+status: valid

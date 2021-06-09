@@ -1,0 +1,19 @@
+data:
+  identifier: '409'
+  localizedConcepts:
+    ara: c7033b30-4426-5a50-a8ee-4a7769f9cd7d
+    deu: dd721abe-9a41-584c-8ae0-4c0f136362e8
+    eng: 881d021a-c2b7-59a1-a552-ae3bd6f0a4ab
+    fin: 1623afeb-a373-5899-b525-f29bb790cc60
+    fra: 440d324b-bafb-5fb0-8562-e7db6dff5351
+    jpn: c1c97392-14d2-5aa4-9d4a-046311871525
+    kor: d379969a-3903-519d-8ec4-8e34657d4422
+    msa: 6c5a9811-054e-5a04-a435-dafb9ed3f35f
+    pol: 3f6aeb10-f8a5-5264-aa9e-512d7d6eca07
+    rus: 84661671-c02c-5fe1-b6a8-950b60214b68
+    spa: ad99b6dc-b716-5157-b755-0a0ea9e2b05c
+    swe: 21d4270c-1ba6-5f7c-8ddb-12ecc78589d7
+    zho: 85eaf233-00a0-5241-babd-1532a51c4a8e
+dateAccepted: 2018-11-17
+id: 6815dba5-f507-5db7-9ba8-a86f390a61b9
+status: valid

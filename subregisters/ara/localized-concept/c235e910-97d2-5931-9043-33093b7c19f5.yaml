@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 86bf9f
+    tree:
+      86bf9f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/43041.html
+            ref: ISO/TS 19129:2009
+          date_accepted: 2009-04-01 00:00:00+00:00
+          definition: العلاقة بين عناصر نموذج المحتوى وآليات الترميز والعرض المنفصلة
+          entry_status: valid
+          examples: []
+          id: 188
+          language_code: ara
+          notes: []
+          release: '2'
+          terms:
+          - designation: إطار
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-04-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  definition: العلاقة بين عناصر نموذج المحتوى وآليات الترميز والعرض المنفصلة
+  examples: []
+  id: 188
+  language_code: ara
+  notes: []
+  release: '2'
+  terms:
+  - designation: إطار
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: c235e910-97d2-5931-9043-33093b7c19f5
+status: valid

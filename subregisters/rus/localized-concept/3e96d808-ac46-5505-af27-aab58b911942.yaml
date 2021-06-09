@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: a7b18e
+    tree:
+      a7b18e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.18'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: Лицензия, связанная с геоинформацией
+          entry_status: valid
+          examples: []
+          id: 1224
+          language_code: rus
+          lineage_source: перевод ИСО 19153:2014
+          notes: []
+          release: '3'
+          terms:
+          - designation: геолицензия
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: Лицензия, связанная с геоинформацией
+  examples: []
+  id: 1224
+  language_code: rus
+  lineage_source: перевод ИСО 19153:2014
+  notes: []
+  release: '3'
+  terms:
+  - designation: геолицензия
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 3e96d808-ac46-5505-af27-aab58b911942
+status: valid

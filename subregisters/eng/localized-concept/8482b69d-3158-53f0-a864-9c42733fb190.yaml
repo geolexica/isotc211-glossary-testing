@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 42bfbd
+    tree:
+      42bfbd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.8
+            link: https://www.iso.org/standard/32563.html
+            ref: ISO 19145:2013
+          date_accepted: 2013-02-15 00:00:00+00:00
+          definition: online and real time conversion of data
+          entry_status: valid
+          examples: []
+          id: 1164
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: dynamic conversion
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2013-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  definition: online and real time conversion of data
+  examples: []
+  id: 1164
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: dynamic conversion
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 8482b69d-3158-53f0-a864-9c42733fb190
+status: valid

@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: 52b1c2
+    tree:
+      52b1c2:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: pokrycie, którego dziedzina jest złożona z punktów
+          examples: []
+          id: 337
+          language_code: pol
+          lineage_source: PN-EN ISO 19123
+          notes: []
+          release: '1'
+          terms:
+          - designation: pokrycie punktowe
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: pokrycie, którego dziedzina jest złożona z punktów
+  examples: []
+  id: 337
+  language_code: pol
+  lineage_source: PN-EN ISO 19123
+  notes: []
+  release: '1'
+  terms:
+  - designation: pokrycie punktowe
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: c5a9f406-11b6-510c-8132-597246cc3112
+status: valid

@@ -1,0 +1,60 @@
+data:
+  _revisions:
+    current: 1fda76
+    tree:
+      1fda76:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          country_code: swe
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: tredimensionellt geometriskt grundelement som är sammanhängande
+            och har begränsad utsträckning
+          entry_status: valid
+          examples: []
+          id: 416
+          language_code: swe
+          notes:
+          - A solid is realizable locally as a three parameter set of direct positions.
+            The boundary of a solid is the set of oriented, closed surfaces that comprise
+            the limits of the solid.
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: kropp
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  country_code: swe
+  definition: tredimensionellt geometriskt grundelement som är sammanhängande och
+    har begränsad utsträckning
+  examples: []
+  id: 416
+  language_code: swe
+  notes:
+  - A solid is realizable locally as a three parameter set of direct positions. The
+    boundary of a solid is the set of oriented, closed surfaces that comprise the
+    limits of the solid.
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: kropp
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 95117b4a-fdfd-5355-8905-c642db3db148
+status: valid

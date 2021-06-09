@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: aa7f03
+    tree:
+      aa7f03:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          country_code: swe
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: punkt där två eller flera linjer i ett rutnät skär varandra
+          entry_status: valid
+          examples: []
+          id: 223
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: skärningspunkt
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  country_code: swe
+  definition: punkt där två eller flera linjer i ett rutnät skär varandra
+  examples: []
+  id: 223
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: skärningspunkt
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 6fd2d64c-aa70-50ea-b7f1-624b07daae22
+status: valid

@@ -1,0 +1,55 @@
+data:
+  _revisions:
+    current: aabab4
+    tree:
+      aabab4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: OSE
+          authoritative_source:
+            link: https://www.iso.org/standard/30726.html
+            ref: ISO/IEC TR 10000-1:1998
+          date_accepted: 2004-07-01 00:00:00+00:00
+          definition: comprehensive set of interfaces, services and supporting formats,
+            plus user aspects, for interoperability and/or portability of applications,
+            data, or people, as specified by information technology standards and
+            profiles
+          entry_status: valid
+          examples: []
+          id: 316
+          language_code: eng
+          lineage_source: ISO 19106:2004
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: open systems environment
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-07-01 00:00:00+00:00
+  abbrev: OSE
+  authoritativeSource:
+  - link: https://www.iso.org/standard/30726.html
+    ref: ISO/IEC TR 10000-1:1998
+  definition: comprehensive set of interfaces, services and supporting formats, plus
+    user aspects, for interoperability and/or portability of applications, data, or
+    people, as specified by information technology standards and profiles
+  examples: []
+  id: 316
+  language_code: eng
+  lineage_source: ISO 19106:2004
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: open systems environment
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 59eb4c2c-397e-5435-93e6-c8bbec79d5c6
+status: valid

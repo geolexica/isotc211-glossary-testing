@@ -1,0 +1,86 @@
+data:
+  _revisions:
+    current: bb7359
+    tree:
+      bb7359:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.9'
+            link: https://www.iso.org/standard/26018.html
+            ref: ISO 19113:2002
+          date_accepted: 2013-07-03 00:00:00+00:00
+          date_amended: 2013-12-15 00:00:00+00:00
+          definition: arvo tai arvojoukko, joka saadaan soveltamalla laatumittaria
+            tai vertaamalla mitattuja tuloksia ennalta määrättyyn laatuvaatimustasoon,
+            tai tekstimuotoinen, subjektiiviseen arvioon perustuva kuvaus laadusta
+          entry_status: retired
+          examples:
+          - Laatutulos ”90” laatuarvotyypille ”prosentti” on esimerkki laatumittarista,
+            joka on sovellettu mitattavan laadun tekijälle ”täydellisyys, mukana olo”
+            laatukuvauksen laajuudessa määritettyihin tietoihin. Laatutulos ”tosi”
+            laatuarvotyypille ”totuusarvo” on esimerkki laatumittarista, jossa laatutulosta
+            (”90”) verrataan laatuvaatimustasoon (”85”) ja lopputuloksena raportoidaan
+            laatutestauksen läpäisy.
+          id: 117
+          language_code: fin
+          lineage_source: ''
+          notes: []
+          release: '-1'
+          review_date: 2013-12-15 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2013-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19157:2013
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19157:2013).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: laatutulos
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2013-07-03 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  date_amended: 2013-12-15 00:00:00+00:00
+  definition: arvo tai arvojoukko, joka saadaan soveltamalla laatumittaria tai vertaamalla
+    mitattuja tuloksia ennalta määrättyyn laatuvaatimustasoon, tai tekstimuotoinen,
+    subjektiiviseen arvioon perustuva kuvaus laadusta
+  examples:
+  - Laatutulos ”90” laatuarvotyypille ”prosentti” on esimerkki laatumittarista, joka
+    on sovellettu mitattavan laadun tekijälle ”täydellisyys, mukana olo” laatukuvauksen
+    laajuudessa määritettyihin tietoihin. Laatutulos ”tosi” laatuarvotyypille ”totuusarvo”
+    on esimerkki laatumittarista, jossa laatutulosta (”90”) verrataan laatuvaatimustasoon
+    (”85”) ja lopputuloksena raportoidaan laatutestauksen läpäisy.
+  id: 117
+  language_code: fin
+  lineage_source: ''
+  notes:
+  - Laatutulos ”90” laatuarvotyypille ”prosentti” on esimerkki laatumittarista, joka
+    on sovellettu mitattavan laadun tekijälle ”täydellisyys, mukana olo” laatukuvauksen
+    laajuudessa määritettyihin tietoihin. Laatutulos ”tosi” laatuarvotyypille ”totuusarvo”
+    on esimerkki laatumittarista, jossa laatutulosta (”90”) verrataan laatuvaatimustasoon
+    (”85”) ja lopputuloksena raportoidaan laatutestauksen läpäisy.
+  release: '-1'
+  review_date: 2013-12-15 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2013-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19157:2013
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19157:2013).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: laatutulos
+    normative_status: null
+    type: expression
+dateAccepted: 2013-07-03 00:00:00+00:00
+id: 2add9cd3-4593-5f29-9f30-3c074f9d76a9
+status: retired

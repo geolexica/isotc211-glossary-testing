@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: 3fd546
+    tree:
+      3fd546:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            clause: (E), 3.1.1
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111:2019
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: Koordinatensystem im euklidischen Raum mit geraden Achsen, die
+            nicht notwendig zueinander orthogonal sind
+          entry_status: valid
+          examples: []
+          id: 598
+          language_code: deu
+          lineage_source: ISO 19111:2007(E)
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of ISO 19111:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19111:2007
+            to ISO 19111:2019(E), 3.1.1. Lineage source added as ISO 19111:2007(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: affines Koordinatensystem
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.1
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  definition: Koordinatensystem im euklidischen Raum mit geraden Achsen, die nicht
+    notwendig zueinander orthogonal sind
+  examples: []
+  id: 598
+  language_code: deu
+  lineage_source: ISO 19111:2007(E)
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of ISO 19111:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19111:2007 to ISO
+    19111:2019(E), 3.1.1. Lineage source added as ISO 19111:2007(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: affines Koordinatensystem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: bd5f85cf-c07c-5c25-b92f-6ced8020f9ed
+status: valid

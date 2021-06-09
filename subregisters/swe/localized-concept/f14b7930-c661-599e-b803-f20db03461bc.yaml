@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: c6901f
+    tree:
+      c6901f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/43041.html
+            ref: ISO/TS 19129:2009
+          country_code: swe
+          date_accepted: 2009-04-01 00:00:00+00:00
+          definition: informationsperspektiv på ett applikationsschema
+          entry_status: valid
+          examples: []
+          id: 82
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes:
+          - The term "information view" comes from the ISO Reference Model for Open
+            Distributed Processing (RM-ODP) as specified in 19101-2.
+          release: '2'
+          terms:
+          - designation: innehållsmodell
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-04-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  country_code: swe
+  definition: informationsperspektiv på ett applikationsschema
+  examples: []
+  id: 82
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes:
+  - The term "information view" comes from the ISO Reference Model for Open Distributed
+    Processing (RM-ODP) as specified in 19101-2.
+  release: '2'
+  terms:
+  - designation: innehållsmodell
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: f14b7930-c661-599e-b803-f20db03461bc
+status: valid

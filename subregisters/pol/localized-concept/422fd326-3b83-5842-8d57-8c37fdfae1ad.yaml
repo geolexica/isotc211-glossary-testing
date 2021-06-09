@@ -1,0 +1,65 @@
+data:
+  _revisions:
+    current: 52957f
+    tree:
+      52957f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: pojęcia topologiczne, struktury i algebra, które wspomagają,
+            rozszerzają lub definiują operacje na obiektach topologicznych, wykonywane
+            zwykle w geometrii obliczeniowej
+          examples: []
+          id: 62
+          language_code: pol
+          notes: []
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of documentISO 19107:2019(E)
+          review_decision_notes: This entry has been omitted from the superseding
+            standard ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: topologia obliczeniowa
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: pojęcia topologiczne, struktury i algebra, które wspomagają, rozszerzają
+    lub definiują operacje na obiektach topologicznych, wykonywane zwykle w geometrii
+    obliczeniowej
+  examples: []
+  id: 62
+  language_code: pol
+  notes: []
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of documentISO 19107:2019(E)
+  review_decision_notes: This entry has been omitted from the superseding standard
+    ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: topologia obliczeniowa
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 422fd326-3b83-5842-8d57-8c37fdfae1ad
+status: valid

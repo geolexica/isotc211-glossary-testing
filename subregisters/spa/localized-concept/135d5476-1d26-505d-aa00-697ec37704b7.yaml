@@ -1,0 +1,57 @@
+data:
+  _revisions:
+    current: 10f644
+    tree:
+      10f644:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/39229.html
+            ref: ISO 19115-2:2009
+          date_accepted: 2009-02-15 00:00:00+00:00
+          definition: intervalo especifico de longitudes de onda dentro del espectro
+            electromagnético
+          entry_status: valid
+          examples:
+          - La banda 1 del Landsat TM se encuentra entre los 0,45 y 0,52 m en la
+            parte visible del espectro
+          id: 835
+          language_code: spa
+          notes: []
+          release: '2'
+          review_date: 2016-09-30 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: resolución espectral
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-02-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/39229.html
+    ref: ISO 19115-2:2009
+  definition: intervalo especifico de longitudes de onda dentro del espectro electromagnético
+  examples:
+  - La banda 1 del Landsat TM se encuentra entre los 0,45 y 0,52 m en la parte visible
+    del espectro
+  id: 835
+  language_code: spa
+  notes:
+  - La banda 1 del Landsat TM se encuentra entre los 0,45 y 0,52 m en la parte visible
+    del espectro
+  release: '2'
+  review_date: 2016-09-30 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: resolución espectral
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 135d5476-1d26-505d-aa00-697ec37704b7
+status: valid

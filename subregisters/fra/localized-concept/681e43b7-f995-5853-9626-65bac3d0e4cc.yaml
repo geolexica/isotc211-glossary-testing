@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 1f9a33
+    tree:
+      1f9a33:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: service dont la disponibilité dépend de la localisation du client
+          entry_status: valid
+          examples: []
+          id: 279
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: service dépendant de la localisation
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  definition: service dont la disponibilité dépend de la localisation du client
+  examples: []
+  id: 279
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: service dépendant de la localisation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 681e43b7-f995-5853-9626-65bac3d0e4cc
+status: valid

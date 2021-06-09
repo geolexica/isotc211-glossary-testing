@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 93876b
+    tree:
+      93876b:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: 具有一致性的测试判定。
+          entry_status: valid
+          examples: []
+          id: 326
+          language_code: zho
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: 合格判定
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: 具有一致性的测试判定。
+  examples: []
+  id: 326
+  language_code: zho
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: 合格判定
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: b51375e2-36ff-5128-8b68-acf4d67b3089
+status: valid

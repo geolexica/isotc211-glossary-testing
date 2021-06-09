@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: f3d66b
+    tree:
+      f3d66b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/39891.html
+            ref: ISO 19109:2005
+          date_accepted: 2005-06-15 00:00:00+00:00
+          definition: пространственный объект, состоящий из нескольких простых и/или
+            сложных пространственных объектов
+          entry_status: valid
+          examples: []
+          id: 52
+          language_code: rus
+          lineage_source: ГОСТ Р 52438-2005
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: сложный (пространственный ) объект
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-06-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/39891.html
+    ref: ISO 19109:2005
+  definition: пространственный объект, состоящий из нескольких простых и/или сложных
+    пространственных объектов
+  examples: []
+  id: 52
+  language_code: rus
+  lineage_source: ГОСТ Р 52438-2005
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: сложный (пространственный ) объект
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: e33dabe2-aca4-5b38-84f6-885e36f17e34
+status: valid

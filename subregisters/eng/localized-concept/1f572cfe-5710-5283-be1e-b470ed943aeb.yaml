@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: d58c0e
+    tree:
+      d58c0e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26011.html
+            ref: ISO 19106:2004
+          date_accepted: 2004-07-01 00:00:00+00:00
+          definition: ISO geographic information standard or other information technology
+            standard that is used as a source from which a profile may be constructed
+          entry_status: valid
+          examples: []
+          id: 26
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: base standard
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26011.html
+    ref: ISO 19106:2004
+  definition: ISO geographic information standard or other information technology
+    standard that is used as a source from which a profile may be constructed
+  examples: []
+  id: 26
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: base standard
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 1f572cfe-5710-5283-be1e-b470ed943aeb
+status: valid

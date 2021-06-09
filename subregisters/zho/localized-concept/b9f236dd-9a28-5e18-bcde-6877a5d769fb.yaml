@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 2cb01b
+    tree:
+      2cb01b:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40114.html
+            ref: ISO 19125-1:2004
+          date_accepted: 2004-08-01 00:00:00+00:00
+          definition: 限制于可在顶点间进行线性插值的二维几何要素，同时具有空间和非空间属性。
+          entry_status: valid
+          examples: []
+          id: 412
+          language_code: zho
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: 简单要素
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-08-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40114.html
+    ref: ISO 19125-1:2004
+  definition: 限制于可在顶点间进行线性插值的二维几何要素，同时具有空间和非空间属性。
+  examples: []
+  id: 412
+  language_code: zho
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: 简单要素
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: b9f236dd-9a28-5e18-bcde-6877a5d769fb
+status: valid

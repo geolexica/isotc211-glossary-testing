@@ -1,0 +1,72 @@
+data:
+  _revisions:
+    current: cca9c3
+    tree:
+      cca9c3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: f
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2003-02-15 00:00:00+00:00
+          date_amended: 2015-08-15 00:00:00+00:00
+          definition: 'stosunek różnicy długości dużej półosi (a) i małej półosi (b)
+            elipsoidy do dużej półosi: f = (a-b)/a'
+          examples: []
+          id: 187
+          language_code: pol
+          lineage_source: ISO 19111:2003
+          lineage_source_similarity: 1
+          notes:
+          - Czasami podawana jest odwrotność spłaszczenia 1/f = a/(a-b).
+          release: '-1'
+          review_date: 2015-08-15 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-08-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19162:2015
+          review_decision_notes: The entry has been superseded. An entry with a revised
+            definition has been published in ISO 19162:2015. Revision in this strandard
+            is required.
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: spłaszczenie
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-02-15 00:00:00+00:00
+  abbrev: f
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  date_amended: 2015-08-15 00:00:00+00:00
+  definition: 'stosunek różnicy długości dużej półosi (a) i małej półosi (b) elipsoidy
+    do dużej półosi: f = (a-b)/a'
+  examples: []
+  id: 187
+  language_code: pol
+  lineage_source: ISO 19111:2003
+  lineage_source_similarity: 1
+  notes:
+  - Czasami podawana jest odwrotność spłaszczenia 1/f = a/(a-b).
+  release: '-1'
+  review_date: 2015-08-15 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-08-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19162:2015
+  review_decision_notes: The entry has been superseded. An entry with a revised definition
+    has been published in ISO 19162:2015. Revision in this strandard is required.
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: spłaszczenie
+    normative_status: null
+    type: expression
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 8372acec-9582-5ffa-a3d9-a3dc6dc87286
+status: valid

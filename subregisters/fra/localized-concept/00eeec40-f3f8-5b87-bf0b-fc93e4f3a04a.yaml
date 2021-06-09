@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: 3242ab
+    tree:
+      3242ab:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.1.53
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111:2019
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: demi-diamètre de l'axe le plus long d'un ellipsoïde
+          entry_status: valid
+          examples: []
+          id: 622
+          language_code: fra
+          lineage_source: ISO 19111:2007(E)
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of ISO 19111:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19111:2007
+            to ISO 19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: axe semi-majeur
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.53
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  definition: demi-diamètre de l'axe le plus long d'un ellipsoïde
+  examples: []
+  id: 622
+  language_code: fra
+  lineage_source: ISO 19111:2007(E)
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of ISO 19111:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19111:2007 to ISO
+    19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: axe semi-majeur
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 00eeec40-f3f8-5b87-bf0b-fc93e4f3a04a
+status: valid

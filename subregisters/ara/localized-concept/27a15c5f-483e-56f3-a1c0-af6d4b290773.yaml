@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 958fca
+    tree:
+      958fca:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: عملية لتقييم مطابقة التنفيذ للمعيار الدولي
+          entry_status: valid
+          examples: []
+          id: 72
+          language_code: ara
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: عملية تقييم المطابقة
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: عملية لتقييم مطابقة التنفيذ للمعيار الدولي
+  examples: []
+  id: 72
+  language_code: ara
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: عملية تقييم المطابقة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 27a15c5f-483e-56f3-a1c0-af6d4b290773
+status: valid

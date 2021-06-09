@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 4d7bd6
+    tree:
+      4d7bd6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: punkt znajdujący się na przecięciu dwóch lub więcej krzywych
+            w siatce
+          examples: []
+          id: 223
+          language_code: pol
+          lineage_source: PN-EN ISO 19123
+          notes: []
+          release: '1'
+          terms:
+          - designation: punkt siatki
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: punkt znajdujący się na przecięciu dwóch lub więcej krzywych w siatce
+  examples: []
+  id: 223
+  language_code: pol
+  lineage_source: PN-EN ISO 19123
+  notes: []
+  release: '1'
+  terms:
+  - designation: punkt siatki
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: d3f9f0a0-781c-5c45-8688-91eff4244949
+status: valid

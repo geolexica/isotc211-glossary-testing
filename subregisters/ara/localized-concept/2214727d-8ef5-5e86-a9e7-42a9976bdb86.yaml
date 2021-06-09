@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 0c33be
+    tree:
+      0c33be:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: مجموعة قيم خواص المعالم التي تربطها دالة معينة بعناصر مجال تغطية
+          entry_status: valid
+          examples: []
+          id: 363
+          language_code: ara
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: نطاق <تغطية>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: مجموعة قيم خواص المعالم التي تربطها دالة معينة بعناصر مجال تغطية
+  examples: []
+  id: 363
+  language_code: ara
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: نطاق <تغطية>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 2214727d-8ef5-5e86-a9e7-42a9976bdb86
+status: valid

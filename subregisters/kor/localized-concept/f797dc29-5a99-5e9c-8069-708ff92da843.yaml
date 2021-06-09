@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 6db19f
+    tree:
+      6db19f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42180.html
+            ref: ISO 9000:2005
+          date_accepted: 2012-10-15 00:00:00+00:00
+          definition: 제품을 수령하는 기관 또는 개인
+          entry_status: valid
+          examples: []
+          id: 1330
+          language_code: kor
+          lineage_source: ISO/TS 19158:2012, 4.1
+          lineage_source_similarity: 1
+          notes:
+          - The customer can be internal or external to the supplier organisation.
+          release: '3'
+          terms:
+          - designation: 고객
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  definition: 제품을 수령하는 기관 또는 개인
+  examples: []
+  id: 1330
+  language_code: kor
+  lineage_source: ISO/TS 19158:2012, 4.1
+  lineage_source_similarity: 1
+  notes:
+  - The customer can be internal or external to the supplier organisation.
+  release: '3'
+  terms:
+  - designation: 고객
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: f797dc29-5a99-5e9c-8069-708ff92da843
+status: valid

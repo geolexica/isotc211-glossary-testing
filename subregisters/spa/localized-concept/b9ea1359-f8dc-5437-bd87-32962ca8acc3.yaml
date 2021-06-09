@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 4d8450
+    tree:
+      4d8450:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '3.3'
+            link: https://www.iso.org/standard/28928.html
+            ref: ISO/TR 19120:2001
+          date_accepted: 2014-11-01 00:00:00+00:00
+          definition: conjunto predefinido de elementos en una norma base que se pueden
+            usar para construir un perfil
+          entry_status: valid
+          examples: []
+          id: 1678
+          language_code: spa
+          lineage_source: ISO 19101-1:2014, 4.1.25
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: módulo
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-11-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '3.3'
+    link: https://www.iso.org/standard/28928.html
+    ref: ISO/TR 19120:2001
+  definition: conjunto predefinido de elementos en una norma base que se pueden usar
+    para construir un perfil
+  examples: []
+  id: 1678
+  language_code: spa
+  lineage_source: ISO 19101-1:2014, 4.1.25
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: módulo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: b9ea1359-f8dc-5437-bd87-32962ca8acc3
+status: valid

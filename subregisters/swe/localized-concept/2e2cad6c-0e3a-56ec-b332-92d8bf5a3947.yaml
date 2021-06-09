@@ -1,0 +1,68 @@
+data:
+  _revisions:
+    current: 6752f6
+    tree:
+      6752f6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.39
+            link: https://www.iso.org/standard/66847.html
+            ref: ISO 19130-1:2018
+          country_code: swe
+          date_accepted: 2010-06-15 00:00:00+00:00
+          definition: spetsiga vinkeln mellan en mot en yta infallande vågs utbredningsriktning
+            och ytan
+          entry_status: valid
+          examples: []
+          id: 945
+          language_code: swe
+          lineage_source: ISO/TS 19130:2010(E)
+          lineage_source_similarity: '1'
+          notes:
+          - Kan även uttryckas som infallsvinkelns komplementvinkel.
+          release: '2'
+          review_date: 2018-09-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-09-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19130-1:2018(E)
+          review_decision_notes: Authoritative reference changed from ISO/TS 19130:2010
+            to ISO 19130-1:2018(E), 3.39. Lineage source added as ISO/TS 19130:2010(E)
+          review_status: final
+          terms:
+          - designation: bestrykningsvinkel
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-06-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.39
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  country_code: swe
+  definition: spetsiga vinkeln mellan en mot en yta infallande vågs utbredningsriktning
+    och ytan
+  examples: []
+  id: 945
+  language_code: swe
+  lineage_source: ISO/TS 19130:2010(E)
+  lineage_source_similarity: '1'
+  notes:
+  - Kan även uttryckas som infallsvinkelns komplementvinkel.
+  release: '2'
+  review_date: 2018-09-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-09-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19130-1:2018(E)
+  review_decision_notes: Authoritative reference changed from ISO/TS 19130:2010 to
+    ISO 19130-1:2018(E), 3.39. Lineage source added as ISO/TS 19130:2010(E)
+  review_status: final
+  terms:
+  - designation: bestrykningsvinkel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 2e2cad6c-0e3a-56ec-b332-92d8bf5a3947
+status: valid

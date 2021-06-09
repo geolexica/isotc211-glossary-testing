@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: f93770
+    tree:
+      f93770:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.8
+            link: https://www.iso.org/standard/32563.html
+            ref: ISO 19145:2013
+          date_accepted: 2013-02-15 00:00:00+00:00
+          definition: 온라인 및 실시간 자료 변환
+          entry_status: valid
+          examples: []
+          id: 1164
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 다이내믹 변환
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2013-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  definition: 온라인 및 실시간 자료 변환
+  examples: []
+  id: 1164
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 다이내믹 변환
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: c4b3e1f6-8b89-5fa5-bc00-54e9abe3d33d
+status: valid

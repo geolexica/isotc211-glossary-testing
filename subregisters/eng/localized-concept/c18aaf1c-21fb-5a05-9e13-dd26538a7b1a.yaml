@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: e257f7
+    tree:
+      e257f7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.1.10
+            link: https://www.iso.org/standard/33636.html
+            ref: ISO 5127:2001
+          date_accepted: 2014-04-01 00:00:00+00:00
+          definition: organization or individual that created, accumulated, maintained
+            and used records
+          entry_status: valid
+          examples: []
+          id: 1439
+          language_code: eng
+          lineage_source: ISO 19115-1:2014, 4.16
+          lineage_source_similarity: '1'
+          notes: []
+          release: '3'
+          terms:
+          - designation: provenance
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-04-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.1.10
+    link: https://www.iso.org/standard/33636.html
+    ref: ISO 5127:2001
+  definition: organization or individual that created, accumulated, maintained and
+    used records
+  examples: []
+  id: 1439
+  language_code: eng
+  lineage_source: ISO 19115-1:2014, 4.16
+  lineage_source_similarity: '1'
+  notes: []
+  release: '3'
+  terms:
+  - designation: provenance
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-04-01 00:00:00+00:00
+id: c18aaf1c-21fb-5a05-9e13-dd26538a7b1a
+status: valid

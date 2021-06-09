@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 3813bc
+    tree:
+      3813bc:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: laatuvaatimustason mukaisten vaatimusten täyttyminen
+          entry_status: valid
+          examples: []
+          id: 71
+          language_code: fin
+          lineage_source: 'Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 42), 2011'
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: vaatimuksenmukaisuus
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: laatuvaatimustason mukaisten vaatimusten täyttyminen
+  examples: []
+  id: 71
+  language_code: fin
+  lineage_source: 'Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 42), 2011'
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: vaatimuksenmukaisuus
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: e09cc9a7-7b60-558e-a797-a5bd769fec11
+status: valid

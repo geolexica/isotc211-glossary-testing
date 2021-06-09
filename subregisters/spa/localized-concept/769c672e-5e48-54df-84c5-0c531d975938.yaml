@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 538ba9
+    tree:
+      538ba9:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.19'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: establecimiento o resolución de el estado de una geolicencia
+          entry_status: valid
+          examples: []
+          id: 1225
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: resolución de GeoLicencia
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.19'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: establecimiento o resolución de el estado de una geolicencia
+  examples: []
+  id: 1225
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: resolución de GeoLicencia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 769c672e-5e48-54df-84c5-0c531d975938
+status: valid

@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: a90f2b
+    tree:
+      a90f2b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.17'
+            link: https://www.iso.org/standard/32574.html
+            ref: ISO 19156:2011
+          date_accepted: 2011-12-15 00:00:00+00:00
+          definition: feature which is involved in making observations concerning
+            a domain feature
+          entry_status: valid
+          examples:
+          - Station, transect, section or specimen.
+          id: 1443
+          language_code: eng
+          notes:
+          - A sampling feature is an artefact of the observational strategy, and has
+            no significance independent of the observational campaign.
+          release: '3'
+          terms:
+          - designation: sampling feature
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2011-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  definition: feature which is involved in making observations concerning a domain
+    feature
+  examples:
+  - Station, transect, section or specimen.
+  id: 1443
+  language_code: eng
+  notes:
+  - Station, transect, section or specimen.
+  release: '3'
+  terms:
+  - designation: sampling feature
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: cf2ffcb8-5589-56c4-829b-8d6266c62622
+status: valid

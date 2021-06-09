@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: ad20a0
+    tree:
+      ad20a0:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.53'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: 일반적으로 킬로헤르츠(kHz)로 표현된 일정시간 동안 시스템이 펄스를 방출하는 횟수(e.g.LIDAR)
+          entry_status: valid
+          examples: []
+          id: 1565
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 펄스 반복주파수
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.53'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: 일반적으로 킬로헤르츠(kHz)로 표현된 일정시간 동안 시스템이 펄스를 방출하는 횟수(e.g.LIDAR)
+  examples: []
+  id: 1565
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 펄스 반복주파수
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 2376d56d-ddc9-5b57-aec5-dbd5fcc015b6
+status: valid

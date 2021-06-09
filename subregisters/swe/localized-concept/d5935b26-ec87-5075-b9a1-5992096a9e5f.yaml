@@ -1,0 +1,59 @@
+data:
+  _revisions:
+    current: '564525'
+    tree:
+      '564525':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          country_code: swe
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: test i avsikt att finna eventuella fel
+          entry_status: valid
+          examples: []
+          id: 167
+          language_code: swe
+          notes:
+          - If errors are found, one can correctly deduce that the implementation
+            does not conform to the International Standard; however, the absence of
+            errors does not necessarily imply the converse.  The falsification test
+            can only demonstrate non-conformance
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: felsökningstetst
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  country_code: swe
+  definition: test i avsikt att finna eventuella fel
+  examples: []
+  id: 167
+  language_code: swe
+  notes:
+  - If errors are found, one can correctly deduce that the implementation does not
+    conform to the International Standard; however, the absence of errors does not
+    necessarily imply the converse.  The falsification test can only demonstrate non-conformance
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: felsökningstetst
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: d5935b26-ec87-5075-b9a1-5992096a9e5f
+status: valid

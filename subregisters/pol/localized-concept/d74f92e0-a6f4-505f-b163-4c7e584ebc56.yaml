@@ -1,0 +1,65 @@
+data:
+  _revisions:
+    current: 6815b6
+    tree:
+      6815b6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: prosta krzywa, która jest cyklem
+          examples: []
+          id: 385
+          language_code: pol
+          notes:
+          - Pierścienie są stosowane do opisu składowych granic powierzchni w 2- wymiarowych
+            i 3-wymiarowych układach współrzędnych.
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of documentISO 19107:2019(E)
+          review_decision_notes: This entry has been omitted from the superseding
+            standard ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: pierścień
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: prosta krzywa, która jest cyklem
+  examples: []
+  id: 385
+  language_code: pol
+  notes:
+  - Pierścienie są stosowane do opisu składowych granic powierzchni w 2- wymiarowych
+    i 3-wymiarowych układach współrzędnych.
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of documentISO 19107:2019(E)
+  review_decision_notes: This entry has been omitted from the superseding standard
+    ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: pierścień
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: d74f92e0-a6f4-505f-b163-4c7e584ebc56
+status: valid

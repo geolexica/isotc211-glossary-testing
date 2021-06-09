@@ -1,0 +1,53 @@
+data:
+  _revisions:
+    current: c0d6ea
+    tree:
+      c0d6ea:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: resumen de la conformidad con la Norma Internacional así como
+            de todos los detalles de las pruebas que justifican el resumen global
+            incluido
+          entry_status: valid
+          examples: []
+          id: 75
+          language_code: spa
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: informe de prueba de conformidad
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: resumen de la conformidad con la Norma Internacional así como de todos
+    los detalles de las pruebas que justifican el resumen global incluido
+  examples: []
+  id: 75
+  language_code: spa
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: informe de prueba de conformidad
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: f2941d3e-86a4-5a64-8ead-8d3d22c7a6ef
+status: valid

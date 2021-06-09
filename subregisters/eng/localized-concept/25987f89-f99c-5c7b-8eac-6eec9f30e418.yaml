@@ -1,0 +1,61 @@
+data:
+  _revisions:
+    current: d370ad
+    tree:
+      d370ad:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.1.27
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111:2019
+          date_accepted: 2019-01-31 00:00:00+00:00
+          definition: point in time
+          entry_status: valid
+          examples:
+          - 03-25 in the Gregorian calendar is epoch 2017.23.
+          id: 2366
+          language_code: eng
+          notes:
+          - In this document an epoch is expressed in the Gregorian calendar as a
+            decimal year.
+          release: '5'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19111:2019(E)
+          review_status: final
+          terms:
+          - designation: epoch <geodesy>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2019-01-31 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.27
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  definition: point in time
+  examples:
+  - 03-25 in the Gregorian calendar is epoch 2017.23.
+  id: 2366
+  language_code: eng
+  notes:
+  - 03-25 in the Gregorian calendar is epoch 2017.23.
+  release: '5'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19111:2019(E)
+  review_status: final
+  terms:
+  - designation: epoch <geodesy>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 25987f89-f99c-5c7b-8eac-6eec9f30e418
+status: valid

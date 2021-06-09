@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: f58477
+    tree:
+      f58477:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.12'
+            link: https://www.iso.org/standard/32574.html
+            ref: ISO 19156:2011
+          date_accepted: 2011-12-15 00:00:00+00:00
+          definition: 관측에 사용될 수 있는 방법, 알고리즘, 도국 또는 이러한 것들의 시스템
+          entry_status: valid
+          examples: []
+          id: 1305
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 관측절차
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2011-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  definition: 관측에 사용될 수 있는 방법, 알고리즘, 도국 또는 이러한 것들의 시스템
+  examples: []
+  id: 1305
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 관측절차
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 959bda2f-033f-5363-b534-9f041f1b2017
+status: valid

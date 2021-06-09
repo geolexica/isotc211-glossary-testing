@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: a4489c
+    tree:
+      a4489c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: تحديد القيم لتغطية ما عند موقع مباشر يقع ضمن مجال التغطية المذكورة
+          entry_status: valid
+          examples: []
+          id: 159
+          language_code: ara
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: التقييم > التغطية <
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: تحديد القيم لتغطية ما عند موقع مباشر يقع ضمن مجال التغطية المذكورة
+  examples: []
+  id: 159
+  language_code: ara
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: التقييم > التغطية <
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: dc99beaa-ffbc-5d3e-b8a6-74057dc70fba
+status: valid

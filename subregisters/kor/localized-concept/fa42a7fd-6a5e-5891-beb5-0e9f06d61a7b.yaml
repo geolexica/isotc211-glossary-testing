@@ -1,0 +1,47 @@
+data:
+  _revisions:
+    current: '217919'
+    tree:
+      '217919':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: modified
+            ref: FindLaw
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: 상표권, 상표 이름 또는 트레이드 드레스의 보호사항, 저작권, 특허물질에 승인받지 않고 접속하거나 사용하는
+            사건 또는 행위
+          entry_status: valid
+          examples: []
+          id: 1226
+          language_code: kor
+          lineage_source: ISO 19153:2014, 4.20
+          lineage_source_similarity: '1'
+          notes: []
+          release: '3'
+          terms:
+          - designation: 지오허가증 침해
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: modified
+    ref: FindLaw
+  definition: 상표권, 상표 이름 또는 트레이드 드레스의 보호사항, 저작권, 특허물질에 승인받지 않고 접속하거나 사용하는 사건 또는 행위
+  examples: []
+  id: 1226
+  language_code: kor
+  lineage_source: ISO 19153:2014, 4.20
+  lineage_source_similarity: '1'
+  notes: []
+  release: '3'
+  terms:
+  - designation: 지오허가증 침해
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: fa42a7fd-6a5e-5891-beb5-0e9f06d61a7b
+status: valid

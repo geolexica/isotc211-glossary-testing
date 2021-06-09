@@ -1,0 +1,70 @@
+data:
+  _revisions:
+    current: b9d13b
+    tree:
+      b9d13b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.12'
+            link: https://www.iso.org/standard/26018.html
+            ref: ISO 19113:2002
+          date_accepted: 2002-12-01 00:00:00+00:00
+          date_amended: 2013-12-15 00:00:00+00:00
+          definition: typ wartości do przedstawiania wyniku oceny jakości danych
+          examples:
+          - '"zmienna boole''owska", "procent", "współczynnik"'
+          id: 120
+          language_code: pol
+          lineage_source: ''
+          notes:
+          - Typ wartości jakości danych jest zawsze określany dla wyniku oceny jakości
+            danych.
+          release: '-1'
+          review_date: 2013-12-15 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2013-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19157:2013
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19157:2013).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: typ wartości jakości danych
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2002-12-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  date_amended: 2013-12-15 00:00:00+00:00
+  definition: typ wartości do przedstawiania wyniku oceny jakości danych
+  examples:
+  - '"zmienna boole''owska", "procent", "współczynnik"'
+  id: 120
+  language_code: pol
+  lineage_source: ''
+  notes:
+  - '"zmienna boole''owska", "procent", "współczynnik"'
+  release: '-1'
+  review_date: 2013-12-15 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2013-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19157:2013
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19157:2013).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: typ wartości jakości danych
+    normative_status: null
+    type: expression
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: fd9bc7e1-e671-54ab-b255-e3a6ac2d59ba
+status: valid

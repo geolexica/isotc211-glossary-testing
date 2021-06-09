@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: b0b994
+    tree:
+      b0b994:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32553.html
+            ref: ISO 19135:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          date_amended: 2015-10-01 00:00:00+00:00
+          definition: référence à la source d'un élément ayant été adopté à partir
+            d'une source externe au registre
+          entry_status: retired
+          examples: []
+          id: 417
+          language_code: fra
+          notes: []
+          release: '-1'
+          review_date: 2010-10-19 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-10-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19135-1:2015
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19135-1:2015).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: référence de la source
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  date_amended: 2015-10-01 00:00:00+00:00
+  definition: référence à la source d'un élément ayant été adopté à partir d'une source
+    externe au registre
+  examples: []
+  id: 417
+  language_code: fra
+  notes: []
+  release: '-1'
+  review_date: 2010-10-19 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-10-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19135-1:2015
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19135-1:2015).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: référence de la source
+    normative_status: null
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 1d21c650-45a7-5ea9-95b2-4fc7ab8d053e
+status: retired

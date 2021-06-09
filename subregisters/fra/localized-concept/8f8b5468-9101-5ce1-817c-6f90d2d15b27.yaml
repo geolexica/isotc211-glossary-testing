@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: '177359'
+    tree:
+      '177359':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: ensemble de valeurs d'attributs d'entités associées aux éléments
+            du domaine d'une couverture par une fonction
+          entry_status: valid
+          examples: []
+          id: 363
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: gamme <couverture>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  definition: ensemble de valeurs d'attributs d'entités associées aux éléments du
+    domaine d'une couverture par une fonction
+  examples: []
+  id: 363
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: gamme <couverture>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 8f8b5468-9101-5ce1-817c-6f90d2d15b27
+status: valid

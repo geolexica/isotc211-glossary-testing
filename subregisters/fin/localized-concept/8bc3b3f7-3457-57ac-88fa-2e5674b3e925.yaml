@@ -1,0 +1,72 @@
+data:
+  _revisions:
+    current: 7768b9
+    tree:
+      7768b9:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40147.html
+            ref: ISO 3534-2
+          date_accepted: 2003-08-15 00:00:00+00:00
+          date_amended: 2013-12-15 00:00:00+00:00
+          definition: kaikkien tarkasteltavana olevien tietokohteiden muodostama kokonaisuus
+          entry_status: retired
+          examples:
+          - Kaikki tietoaineiston pisteet.
+          - Kaikki tietyn maantieteellisen alueen katujen nimet.
+          id: 341
+          language_code: fin
+          lineage_source: ISO 19114:2003 ,4.8
+          lineage_source_similarity: 1
+          notes: []
+          release: '-1'
+          review_date: 2013-12-15 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2013-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19157:2013
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19157:2013).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: perusjoukko
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40147.html
+    ref: ISO 3534-2
+  date_amended: 2013-12-15 00:00:00+00:00
+  definition: kaikkien tarkasteltavana olevien tietokohteiden muodostama kokonaisuus
+  examples:
+  - Kaikki tietoaineiston pisteet.
+  - Kaikki tietyn maantieteellisen alueen katujen nimet.
+  id: 341
+  language_code: fin
+  lineage_source: ISO 19114:2003 ,4.8
+  lineage_source_similarity: 1
+  notes:
+  - Kaikki tietoaineiston pisteet.
+  - Kaikki tietyn maantieteellisen alueen katujen nimet.
+  release: '-1'
+  review_date: 2013-12-15 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2013-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19157:2013
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19157:2013).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: perusjoukko
+    normative_status: null
+    type: expression
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 8bc3b3f7-3457-57ac-88fa-2e5674b3e925
+status: retired

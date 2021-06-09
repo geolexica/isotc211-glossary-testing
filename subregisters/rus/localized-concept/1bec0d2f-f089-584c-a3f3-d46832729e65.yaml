@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: c50993
+    tree:
+      c50993:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32620.html
+            ref: ISO/IEC 19501
+          date_accepted: 2005-07-15 00:00:00+00:00
+          definition: именованный набор операций,  характеризующих поведение элемента
+          entry_status: valid
+          examples: []
+          id: 252
+          language_code: rus
+          lineage_source: ISO/TS 19103:2005 ,4.2.16
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2009-08-31 00:00:00+00:00
+          review_indicator: ''
+          review_status: ''
+          review_type: ''
+          terms:
+          - designation: интерфейс <UML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  definition: именованный набор операций,  характеризующих поведение элемента
+  examples: []
+  id: 252
+  language_code: rus
+  lineage_source: ISO/TS 19103:2005 ,4.2.16
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2009-08-31 00:00:00+00:00
+  review_indicator: ''
+  review_status: ''
+  review_type: ''
+  terms:
+  - designation: интерфейс <UML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 1bec0d2f-f089-584c-a3f3-d46832729e65
+status: valid

@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: 73183c
+    tree:
+      73183c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40601.html
+            ref: ISO 19132:2007
+          date_accepted: 2007-10-15 00:00:00+00:00
+          definition: complete representation of an object at a given instance in
+            time
+          entry_status: valid
+          examples: []
+          id: 746
+          language_code: eng
+          notes:
+          - Temporal versions differ from samples in that a complete description is
+            required. In this sense a version is a complete sample able to be considered
+            outside the domain of the temporal sequence to which it may belong.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: version (temporal)
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  definition: complete representation of an object at a given instance in time
+  examples: []
+  id: 746
+  language_code: eng
+  notes:
+  - Temporal versions differ from samples in that a complete description is required.
+    In this sense a version is a complete sample able to be considered outside the
+    domain of the temporal sequence to which it may belong.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: version (temporal)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 162b4727-2b53-52ef-a23f-4f31ea6e3691
+status: valid

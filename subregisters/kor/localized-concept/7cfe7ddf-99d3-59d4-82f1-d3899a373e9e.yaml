@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: b460ed
+    tree:
+      b460ed:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.9'
+            link: https://www.iso.org/standard/26019.html
+            ref: ISO 19114:2003
+          date_accepted: 2009-12-29 00:00:00+00:00
+          date_amended: 2013-12-15 00:00:00+00:00
+          definition: 직접적인 외부 품질 산출 방법에 참조로 활용되는 논의의 영역을 대표하는 것으로 인정된 데이터
+          entry_status: retired
+          examples: []
+          id: 368
+          language_code: kor
+          lineage_source: ''
+          notes: []
+          release: '-1'
+          review_date: 2013-12-15 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2013-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19157:2013
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19157:2013).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: 참조 데이터
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2009-12-29 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/26019.html
+    ref: ISO 19114:2003
+  date_amended: 2013-12-15 00:00:00+00:00
+  definition: 직접적인 외부 품질 산출 방법에 참조로 활용되는 논의의 영역을 대표하는 것으로 인정된 데이터
+  examples: []
+  id: 368
+  language_code: kor
+  lineage_source: ''
+  notes: []
+  release: '-1'
+  review_date: 2013-12-15 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2013-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19157:2013
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19157:2013).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: 참조 데이터
+    normative_status: null
+    type: expression
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: 7cfe7ddf-99d3-59d4-82f1-d3899a373e9e
+status: retired

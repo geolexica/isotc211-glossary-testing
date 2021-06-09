@@ -1,0 +1,47 @@
+data:
+  _revisions:
+    current: f2ec37
+    tree:
+      f2ec37:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.3'
+            link: https://www.iso.org/standard/46226.html
+            ref: ISO 19117:2012
+          date_accepted: 2012-12-15 00:00:00+00:00
+          definition: símbolo compuesto por otros símbolos de distintos tipos
+          entry_status: valid
+          examples:
+          - Un símbolo lineal a trazos con un símbolo puntual repetido en un intervalo
+          id: 1512
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: símbolo complejo
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  definition: símbolo compuesto por otros símbolos de distintos tipos
+  examples:
+  - Un símbolo lineal a trazos con un símbolo puntual repetido en un intervalo
+  id: 1512
+  language_code: spa
+  notes:
+  - Un símbolo lineal a trazos con un símbolo puntual repetido en un intervalo
+  release: '3'
+  terms:
+  - designation: símbolo complejo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: fb0c7208-9d6e-5fa4-9fd9-00baeea33304
+status: valid

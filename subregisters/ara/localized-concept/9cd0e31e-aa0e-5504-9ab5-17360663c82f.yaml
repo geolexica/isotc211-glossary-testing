@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: fbee57
+    tree:
+      fbee57:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32562.html
+            ref: ISO 19144-1:2009
+          date_accepted: 2009-08-15 00:00:00+00:00
+          definition: نظام لتصنيف الأشياء إلى فئات
+          entry_status: valid
+          examples: []
+          id: 810
+          language_code: ara
+          notes: []
+          release: '2'
+          terms:
+          - designation: نظام تصنيف
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  definition: نظام لتصنيف الأشياء إلى فئات
+  examples: []
+  id: 810
+  language_code: ara
+  notes: []
+  release: '2'
+  terms:
+  - designation: نظام تصنيف
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 9cd0e31e-aa0e-5504-9ab5-17360663c82f
+status: valid

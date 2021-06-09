@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 746a69
+    tree:
+      746a69:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42136.html
+            ref: ISO 19142:2010
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: atributo cuyo valor es una referencia a un recurso local o remoto
+          entry_status: valid
+          examples: []
+          id: 1335
+          language_code: spa
+          notes:
+          - En XML, a este atributo se le llama comúnmente href y contiene una referencia
+            URI al recurso remoto (véase W3C XLink).
+          release: '2'
+          terms:
+          - designation: atributo localizador
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  definition: atributo cuyo valor es una referencia a un recurso local o remoto
+  examples: []
+  id: 1335
+  language_code: spa
+  notes:
+  - En XML, a este atributo se le llama comúnmente href y contiene una referencia
+    URI al recurso remoto (véase W3C XLink).
+  release: '2'
+  terms:
+  - designation: atributo localizador
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 25620ce5-dfd2-5d0f-bc55-6935858e68b3
+status: valid

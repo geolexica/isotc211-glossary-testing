@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: '495791'
+    tree:
+      '495791':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2006-12-01 00:00:00+00:00
+          definition: 라우팅, 경로 운행 및 추적의 조합
+          entry_status: valid
+          examples: []
+          id: 306
+          language_code: kor
+          lineage_source: KS X ISO 19133
+          notes:
+          - '''내비게이션''은 일반적 용어로 사용되나, 본 표준의 용어 정의에서는 각 절차를 분할한다.'
+          release: '1'
+          terms:
+          - designation: 내비게이션
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2006-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: 라우팅, 경로 운행 및 추적의 조합
+  examples: []
+  id: 306
+  language_code: kor
+  lineage_source: KS X ISO 19133
+  notes:
+  - '''내비게이션''은 일반적 용어로 사용되나, 본 표준의 용어 정의에서는 각 절차를 분할한다.'
+  release: '1'
+  terms:
+  - designation: 내비게이션
+    normative_status: preferred
+    type: expression
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: 826682b5-10c6-5971-ba20-cb41b338e8bf
+status: valid

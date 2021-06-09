@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 6e6201
+    tree:
+      6e6201:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/39242.html
+            ref: ISO 6709:2008
+          date_accepted: 2008-07-15 00:00:00+00:00
+          definition: угол, представляемый последовательностью значений в градусах,
+            минутах и секундах
+          entry_status: valid
+          examples:
+          - ',079 572 5 градусов представлен как 50º04''46,461" шестидесятеричных
+            градусов.'
+          id: 905
+          language_code: rus
+          lineage_source: перевод ИСО 6709:2008
+          notes:
+          - В случае широты или долготы он может также включать знак, указывающий
+            полушарие.
+          release: '2'
+          terms:
+          - designation: шестидесятеричный градус
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/39242.html
+    ref: ISO 6709:2008
+  definition: угол, представляемый последовательностью значений в градусах, минутах
+    и секундах
+  examples:
+  - ',079 572 5 градусов представлен как 50º04''46,461" шестидесятеричных градусов.'
+  id: 905
+  language_code: rus
+  lineage_source: перевод ИСО 6709:2008
+  notes:
+  - ',079 572 5 градусов представлен как 50º04''46,461" шестидесятеричных градусов.'
+  release: '2'
+  terms:
+  - designation: шестидесятеричный градус
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: 068b9f2d-6af0-5622-9ca0-6ef6dadd67f1
+status: valid

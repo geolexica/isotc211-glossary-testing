@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 566ad0
+    tree:
+      566ad0:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: S-32, Fifth Edition
+            ref: IHO Hydrographic Dictionary
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: 'distancia vertical, medida en cualquier parte del buque, desde
+            la superficie del agua
+
+            hasta el fondo de la quilla'
+          entry_status: valid
+          examples: []
+          id: 1386
+          language_code: spa
+          lineage_source: ISO/TS 19130-2:2014, 4.17
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: calado
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: S-32, Fifth Edition
+    ref: IHO Hydrographic Dictionary
+  definition: 'distancia vertical, medida en cualquier parte del buque, desde la superficie
+    del agua
+
+    hasta el fondo de la quilla'
+  examples: []
+  id: 1386
+  language_code: spa
+  lineage_source: ISO/TS 19130-2:2014, 4.17
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: calado
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: b20d6519-4348-511b-88d4-6b0bae7f8dd3
+status: valid

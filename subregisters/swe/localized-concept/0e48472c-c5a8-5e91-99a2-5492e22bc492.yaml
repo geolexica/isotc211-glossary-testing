@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: fa2d0f
+    tree:
+      fa2d0f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: SUT
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          country_code: swe
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: maskinvara, programvara och kommunikationsnätverk för att stödja
+            testning av en implementering
+          entry_status: valid
+          examples: []
+          id: 440
+          language_code: swe
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: systemlösning vid testning av implementering
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  abbrev: SUT
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  country_code: swe
+  definition: maskinvara, programvara och kommunikationsnätverk för att stödja testning
+    av en implementering
+  examples: []
+  id: 440
+  language_code: swe
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: systemlösning vid testning av implementering
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 0e48472c-c5a8-5e91-99a2-5492e22bc492
+status: valid

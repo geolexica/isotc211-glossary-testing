@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: 83b0c5
+    tree:
+      83b0c5:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.33
+            link: https://www.iso.org/standard/69325.html
+            ref: ISO 19101-2:2018
+          date_accepted: 2008-06-01 00:00:00+00:00
+          definition: сбор и интерпретация информации об объекте без физического контакта
+            с объектом
+          entry_status: valid
+          examples: []
+          id: 379
+          language_code: rus
+          lineage_source: ISO/TS 19101-2:2008(E)
+          lineage_source_similarity: 1
+          notes: []
+          release: '2'
+          review_date: 2018-05-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-05-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19101-2:2018(E)
+          review_decision_notes: Authoritative reference changed from ISO/TS 19101-2:2008
+            to ISO 19101-2:2018(E), 3.33. Lineage source added as ISO/TS 19101-2:2008(E)
+          review_status: final
+          terms:
+          - designation: дистанционное зондирование
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-06-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.33
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  definition: сбор и интерпретация информации об объекте без физического контакта
+    с объектом
+  examples: []
+  id: 379
+  language_code: rus
+  lineage_source: ISO/TS 19101-2:2008(E)
+  lineage_source_similarity: 1
+  notes: []
+  release: '2'
+  review_date: 2018-05-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-05-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19101-2:2018(E)
+  review_decision_notes: Authoritative reference changed from ISO/TS 19101-2:2008
+    to ISO 19101-2:2018(E), 3.33. Lineage source added as ISO/TS 19101-2:2008(E)
+  review_status: final
+  terms:
+  - designation: дистанционное зондирование
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 266598c5-e270-5ad1-8564-fc99a20440c9
+status: valid

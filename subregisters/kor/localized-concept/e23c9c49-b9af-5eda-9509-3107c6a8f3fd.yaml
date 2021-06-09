@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: 274e37
+    tree:
+      274e37:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/44875.html
+            ref: ISO 19126:2009
+          date_accepted: 2009-11-01 00:00:00+00:00
+          definition: 한 개 또는 그 이상의 지형지물 조작 유형으로 명시될 수 있는 개념
+          entry_status: valid
+          examples:
+          - A "traffic flow" operation might return the number of persons or vehicles
+            expected to move on or through some kind of transportation feature during
+            a period of time specified as input to the operation.
+          id: 857
+          language_code: kor
+          notes: []
+          release: '2'
+          terms:
+          - designation: 지형지물 작업 개념
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-11-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  definition: 한 개 또는 그 이상의 지형지물 조작 유형으로 명시될 수 있는 개념
+  examples:
+  - A "traffic flow" operation might return the number of persons or vehicles expected
+    to move on or through some kind of transportation feature during a period of time
+    specified as input to the operation.
+  id: 857
+  language_code: kor
+  notes:
+  - A "traffic flow" operation might return the number of persons or vehicles expected
+    to move on or through some kind of transportation feature during a period of time
+    specified as input to the operation.
+  release: '2'
+  terms:
+  - designation: 지형지물 작업 개념
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: e23c9c49-b9af-5eda-9509-3107c6a8f3fd
+status: valid

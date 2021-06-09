@@ -1,0 +1,63 @@
+data:
+  _revisions:
+    current: d8239e
+    tree:
+      d8239e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 1.7.2, modified — Supporting content has been relocated to an
+              example.
+            link: https://www.iso.org/standard/57284.html
+            ref: ISO 14721:2012
+          date_accepted: 2018-05-01 00:00:00+00:00
+          definition: digital migration in which there is an alteration to the content
+            information or PDI of an archival information package
+          entry_status: valid
+          examples:
+          - Changing ASCII codes to UNICODE in a text document being preserved is
+            a transformation.
+          id: 2282
+          language_code: eng
+          notes: []
+          release: '5'
+          review_date: 2018-05-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-05-01 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19165-1:2018(E)
+          review_status: final
+          terms:
+          - designation: transformation <OAIS>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2018-05-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 1.7.2, modified — Supporting content has been relocated to an example.
+    link: https://www.iso.org/standard/57284.html
+    ref: ISO 14721:2012
+  definition: digital migration in which there is an alteration to the content information
+    or PDI of an archival information package
+  examples:
+  - Changing ASCII codes to UNICODE in a text document being preserved is a transformation.
+  id: 2282
+  language_code: eng
+  notes:
+  - Changing ASCII codes to UNICODE in a text document being preserved is a transformation.
+  release: '5'
+  review_date: 2018-05-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-05-01 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19165-1:2018(E)
+  review_status: final
+  terms:
+  - designation: transformation <OAIS>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: 22146058-b21d-5948-8196-e33feea59a97
+status: valid

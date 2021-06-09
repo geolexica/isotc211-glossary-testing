@@ -1,0 +1,63 @@
+data:
+  _revisions:
+    current: c8ba7d
+    tree:
+      c8ba7d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.18, modified — Note 2 to entry has been added.
+            ref: Implementation Specification — a Draught Information System for the
+              St. Lawrence Seaway
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: efecto que causa un barco en movimiento a través del agua que
+            crea un área de menor presión su parte inferior que aumenta el calado
+            efectivo (es decir, baja el buque en el agua)
+          entry_status: valid
+          examples: []
+          id: 1420
+          language_code: spa
+          lineage_source: ISO/TS 19130-2:2014, 4.73
+          lineage_source_similarity: '1'
+          notes:
+          - Este efecto es el resultado del principio de Bernoulli de dináminca de
+            fluidos. El asentamiento representa una crecida efectiva del calado.
+          - Para un buque navegando, el cambio de nivel de la proa y la popa en la
+            condición de aguas tranquilas en respuesta a la elevación y depresión
+            del nivel del agua alrededor del casco, resultante de los sistemas de
+            proa y popa.
+          release: '3'
+          terms:
+          - designation: asentamiento
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.18, modified — Note 2 to entry has been added.
+    ref: Implementation Specification — a Draught Information System for the St. Lawrence
+      Seaway
+  definition: efecto que causa un barco en movimiento a través del agua que crea un
+    área de menor presión su parte inferior que aumenta el calado efectivo (es decir,
+    baja el buque en el agua)
+  examples: []
+  id: 1420
+  language_code: spa
+  lineage_source: ISO/TS 19130-2:2014, 4.73
+  lineage_source_similarity: '1'
+  notes:
+  - Este efecto es el resultado del principio de Bernoulli de dináminca de fluidos.
+    El asentamiento representa una crecida efectiva del calado.
+  - Para un buque navegando, el cambio de nivel de la proa y la popa en la condición
+    de aguas tranquilas en respuesta a la elevación y depresión del nivel del agua
+    alrededor del casco, resultante de los sistemas de proa y popa.
+  release: '3'
+  terms:
+  - designation: asentamiento
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: f9ef5d05-6f35-5624-b4ab-7439610b5e0d
+status: valid

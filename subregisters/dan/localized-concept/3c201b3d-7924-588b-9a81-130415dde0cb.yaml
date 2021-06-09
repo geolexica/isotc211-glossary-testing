@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: 8751f5
+    tree:
+      8751f5:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: test med det formål at finde fejl i implementeringen
+          examples: []
+          id: 167
+          language_code: dan
+          notes:
+          - Hvis der findes fejl, er det korrekt at udlede, at implementeringen ikke
+            er i overensstemmelse med den relevante standard; fravær af fejl betyder
+            derimod ikke nødvendigvis det modsatte. Fejlfindingstesten kan kun påvise
+            manglende overensstemmelse.
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: fejlfindingstest
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: test med det formål at finde fejl i implementeringen
+  examples: []
+  id: 167
+  language_code: dan
+  notes:
+  - Hvis der findes fejl, er det korrekt at udlede, at implementeringen ikke er i
+    overensstemmelse med den relevante standard; fravær af fejl betyder derimod ikke
+    nødvendigvis det modsatte. Fejlfindingstesten kan kun påvise manglende overensstemmelse.
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: fejlfindingstest
+    normative_status: null
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 3c201b3d-7924-588b-9a81-130415dde0cb
+status: valid

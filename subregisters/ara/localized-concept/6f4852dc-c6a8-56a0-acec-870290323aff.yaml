@@ -1,0 +1,63 @@
+data:
+  _revisions:
+    current: 7e21d1
+    tree:
+      7e21d1:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: كيان هندسي يحتوي على جميع المواضع المباشرة التي تكون في نطاق
+            يبعد عن كيان محدد مسافة محددة
+          entry_status: superseded
+          examples: []
+          id: 30
+          language_code: ara
+          notes: []
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19107:2019(E)
+          review_decision_notes: This entry is superseded by the entry for buffer
+            in ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: نطاق
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: كيان هندسي يحتوي على جميع المواضع المباشرة التي تكون في نطاق يبعد عن
+    كيان محدد مسافة محددة
+  examples: []
+  id: 30
+  language_code: ara
+  notes: []
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19107:2019(E)
+  review_decision_notes: This entry is superseded by the entry for buffer in ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: نطاق
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 6f4852dc-c6a8-56a0-acec-870290323aff
+status: superseded

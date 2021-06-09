@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 40257e
+    tree:
+      40257e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: тестирование продукта с целью определения степени его соответствия
+            установленным требованиям
+          entry_status: valid
+          examples: []
+          id: 76
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: тестирование на соответствие
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: тестирование продукта с целью определения степени его соответствия установленным
+    требованиям
+  examples: []
+  id: 76
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: тестирование на соответствие
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: f716bc4d-5b45-5784-b185-d314e9f80cfa
+status: valid

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: c707bd
+    tree:
+      c707bd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: représenter (une abstraction) par la création d'une instance
+            concrète, ou créer la capacité de création d'une instance
+          entry_status: valid
+          examples: []
+          id: 248
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          review_decision_event: ''
+          terms:
+          - designation: instancier
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  definition: représenter (une abstraction) par la création d'une instance concrète,
+    ou créer la capacité de création d'une instance
+  examples: []
+  id: 248
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  review_decision_event: ''
+  terms:
+  - designation: instancier
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 632eee09-e7ef-5ae3-a503-2b9330c3916a
+status: valid

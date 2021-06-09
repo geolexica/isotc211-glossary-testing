@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: ed6ba4
+    tree:
+      ed6ba4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2007-11-01 00:00:00+00:00
+          definition: 지구 자전 주기와 명목상 같은 지속 기간을 갖는 기간
+          entry_status: valid
+          examples: []
+          id: 127
+          language_code: kor
+          lineage_source: KS X ISO 19108
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: 일
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-11-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: 지구 자전 주기와 명목상 같은 지속 기간을 갖는 기간
+  examples: []
+  id: 127
+  language_code: kor
+  lineage_source: KS X ISO 19108
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: 일
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: ebab14cf-a6d0-5ca9-a37a-a7dc3f86c3d1
+status: valid

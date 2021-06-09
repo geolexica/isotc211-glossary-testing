@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: 390bdc
+    tree:
+      390bdc:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            clause: (E), 3.10
+            link: https://www.iso.org/standard/67039.html
+            ref: ISO 19115-2:2019
+          date_accepted: 2009-02-15 00:00:00+00:00
+          definition: Information über die Georeferenzierung von Bildern
+          entry_status: valid
+          examples: []
+          id: 942
+          language_code: deu
+          lineage_source: ISO 19115-2:2009(E)
+          lineage_source_similarity: 1
+          notes: []
+          release: '2'
+          review_date: 2019-01-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19115-2:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19115-2:2009
+            to ISO 19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+          review_status: final
+          terms:
+          - designation: Information zur strengen Georeferenzierung
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.10
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  definition: Information über die Georeferenzierung von Bildern
+  examples: []
+  id: 942
+  language_code: deu
+  lineage_source: ISO 19115-2:2009(E)
+  lineage_source_similarity: 1
+  notes: []
+  release: '2'
+  review_date: 2019-01-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19115-2:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19115-2:2009 to
+    ISO 19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+  review_status: final
+  terms:
+  - designation: Information zur strengen Georeferenzierung
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: d95eac3a-79ec-5548-b190-007a3f739974
+status: valid

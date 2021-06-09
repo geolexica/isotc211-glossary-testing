@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: e39149
+    tree:
+      e39149:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.5'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: determinación de si a un sujeto se le permiten o no unos determinados
+            tipos de acceso a un recurso particular
+          entry_status: valid
+          examples: []
+          id: 1211
+          language_code: spa
+          notes:
+          - Normalmente una autorización se da en el contexto de una autenticación.
+            Una vez que un sujeto es autenticado pede ser autorizado a efectuar diferentes
+            tipos de acceso.
+          release: '3'
+          terms:
+          - designation: autorización
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: determinación de si a un sujeto se le permiten o no unos determinados
+    tipos de acceso a un recurso particular
+  examples: []
+  id: 1211
+  language_code: spa
+  notes:
+  - Normalmente una autorización se da en el contexto de una autenticación. Una vez
+    que un sujeto es autenticado pede ser autorizado a efectuar diferentes tipos de
+    acceso.
+  release: '3'
+  terms:
+  - designation: autorización
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: ddd315ac-bd14-5a24-a3c8-9d17543e0af8
+status: valid

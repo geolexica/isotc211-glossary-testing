@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: f40d1c
+    tree:
+      f40d1c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: Fifth Edition
+            ref: IHO Hydrographic Dictionary S-32
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: amplia franja de ecosonda para su uso en la cartografía y levantamiento
+            de fondos marinos utilizando el principio de haces múltiples
+          entry_status: valid
+          examples: []
+          id: 1563
+          language_code: spa
+          lineage_source: ISO/TS 19130-2:2014, 4.44
+          lineage_source_similarity: '1'
+          notes:
+          - Las profundidades se miden directamente debajo y en transversal a la trayectora
+            del barco. La anchura de la franja es una función del número de haces
+            y de su apertura.
+          release: '3'
+          terms:
+          - designation: sonar multihaz
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  definition: amplia franja de ecosonda para su uso en la cartografía y levantamiento
+    de fondos marinos utilizando el principio de haces múltiples
+  examples: []
+  id: 1563
+  language_code: spa
+  lineage_source: ISO/TS 19130-2:2014, 4.44
+  lineage_source_similarity: '1'
+  notes:
+  - Las profundidades se miden directamente debajo y en transversal a la trayectora
+    del barco. La anchura de la franja es una función del número de haces y de su
+    apertura.
+  release: '3'
+  terms:
+  - designation: sonar multihaz
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 6fd5dfba-6c60-5dee-a0b5-5ff3ea93b54e
+status: valid

@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 3c0ddd
+    tree:
+      3c0ddd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          country_code: swe
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: uppsättning operationer som vid test av en dataförekomst ger
+            resultatet sant eller falskt
+          entry_status: valid
+          examples: []
+          id: 807
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '2'
+          terms:
+          - designation: testuttryck
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  country_code: swe
+  definition: uppsättning operationer som vid test av en dataförekomst ger resultatet
+    sant eller falskt
+  examples: []
+  id: 807
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '2'
+  terms:
+  - designation: testuttryck
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 152b7e68-4c92-5940-a087-004d5e3d3008
+status: valid

@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: '489003'
+    tree:
+      '489003':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: test destiné à trouver des erreurs dans une implémentation
+          entry_status: valid
+          examples: []
+          id: 167
+          language_code: fra
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: test de déverminage
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: test destiné à trouver des erreurs dans une implémentation
+  examples: []
+  id: 167
+  language_code: fra
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: test de déverminage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: ce975c16-205f-5714-a8c6-2e558120a96c
+status: valid

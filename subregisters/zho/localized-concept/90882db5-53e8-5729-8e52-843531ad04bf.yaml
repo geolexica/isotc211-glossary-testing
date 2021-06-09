@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 5be3c1
+    tree:
+      5be3c1:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40601.html
+            ref: ISO 19132:2007
+          date_accepted: 2007-10-15 00:00:00+00:00
+          definition: 系统参与者可以执行或使用相关资源的行为（活动）或某一类行动。
+          entry_status: valid
+          examples: []
+          id: 680
+          language_code: zho
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: 权限
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  definition: 系统参与者可以执行或使用相关资源的行为（活动）或某一类行动。
+  examples: []
+  id: 680
+  language_code: zho
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: 权限
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 90882db5-53e8-5729-8e52-843531ad04bf
+status: valid

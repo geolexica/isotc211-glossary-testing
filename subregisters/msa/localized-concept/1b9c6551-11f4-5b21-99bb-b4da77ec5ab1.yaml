@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: f8e11e
+    tree:
+      f8e11e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: Unsur yang mempunyai sifat arah dan magnitud
+          entry_status: valid
+          examples: []
+          id: 491
+          language_code: msa
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          notes:
+          - A directed line segment represents a vector if the length and direction
+            of the line segment are equal to the magnitude and direction of the vector.  The
+            term vector data refers to data that represents the spatial configuration
+            of features as a set of directed line segments.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: vektor
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: Unsur yang mempunyai sifat arah dan magnitud
+  examples: []
+  id: 491
+  language_code: msa
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  notes:
+  - A directed line segment represents a vector if the length and direction of the
+    line segment are equal to the magnitude and direction of the vector.  The term
+    vector data refers to data that represents the spatial configuration of features
+    as a set of directed line segments.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: vektor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 1b9c6551-11f4-5b21-99bb-b4da77ec5ab1
+status: valid

@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 0f64e9
+    tree:
+      0f64e9:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42136.html
+            ref: ISO 19142:2010
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: Ресурс, который не находится под прямым контролем системы
+          entry_status: valid
+          examples: []
+          id: 1341
+          language_code: rus
+          lineage_source: ISO 19142:2010
+          notes:
+          - в этом международном стандарте система является сервисом WFS. Ресурс не
+            хранится ни в одном хранилище данных, которое непосредственно контролируется
+            этим сервисом, и поэтому не может быть непосредственно восстановлено сервисом.
+          release: '2'
+          terms:
+          - designation: удаленный ресурс
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  definition: Ресурс, который не находится под прямым контролем системы
+  examples: []
+  id: 1341
+  language_code: rus
+  lineage_source: ISO 19142:2010
+  notes:
+  - в этом международном стандарте система является сервисом WFS. Ресурс не хранится
+    ни в одном хранилище данных, которое непосредственно контролируется этим сервисом,
+    и поэтому не может быть непосредственно восстановлено сервисом.
+  release: '2'
+  terms:
+  - designation: удаленный ресурс
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 034874f1-d191-5986-9fa4-2f5e7e4f4730
+status: valid

@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: '670513'
+    tree:
+      '670513':
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: 从特定事件起算的，日历中使用的一类时段序列。
+          entry_status: valid
+          examples: []
+          id: 32
+          language_code: zho
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: 日历时代
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: 从特定事件起算的，日历中使用的一类时段序列。
+  examples: []
+  id: 32
+  language_code: zho
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: 日历时代
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 57b50678-ae57-53fb-bf84-225205eae5eb
+status: valid

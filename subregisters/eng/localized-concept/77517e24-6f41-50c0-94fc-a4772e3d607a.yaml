@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: b56f8c
+    tree:
+      b56f8c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '3.2'
+            link: https://www.iso.org/standard/63593.html
+            ref: ISO 19155-2:2017
+          date_accepted: 2017-08-01 00:00:00+00:00
+          definition: means used to define a place identifier (PI) link
+          entry_status: valid
+          examples: []
+          id: 1921
+          language_code: eng
+          notes: []
+          release: '4'
+          review_date: 2012-11-05 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2017-08-01 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of ISO 19155-2:2017
+          review_status: final
+          terms:
+          - designation: Place Identifier (PI) linking mechanism
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2017-08-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '3.2'
+    link: https://www.iso.org/standard/63593.html
+    ref: ISO 19155-2:2017
+  definition: means used to define a place identifier (PI) link
+  examples: []
+  id: 1921
+  language_code: eng
+  notes: []
+  release: '4'
+  review_date: 2012-11-05 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2017-08-01 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of ISO 19155-2:2017
+  review_status: final
+  terms:
+  - designation: Place Identifier (PI) linking mechanism
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-08-01 00:00:00+00:00
+id: 77517e24-6f41-50c0-94fc-a4772e3d607a
+status: valid

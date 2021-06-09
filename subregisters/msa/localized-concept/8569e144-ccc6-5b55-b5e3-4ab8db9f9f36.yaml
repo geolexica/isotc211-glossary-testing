@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 49248a
+    tree:
+      49248a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: perihal (proses atau perbuatan) menjejaki (mengesani)
+          entry_status: valid
+          examples: []
+          id: 470
+          language_code: msa
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: penjejakan
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: perihal (proses atau perbuatan) menjejaki (mengesani)
+  examples: []
+  id: 470
+  language_code: msa
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: penjejakan
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 8569e144-ccc6-5b55-b5e3-4ab8db9f9f36
+status: valid

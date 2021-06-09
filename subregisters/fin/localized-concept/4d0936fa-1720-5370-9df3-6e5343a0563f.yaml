@@ -1,0 +1,72 @@
+data:
+  _revisions:
+    current: 7fe919
+    tree:
+      7fe919:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2002-09-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: topologinen objekti, joka edustaa yksittäistä, jatkuvaa ja yhtenäistä
+            topologisen avaruuden osaa
+          entry_status: superseded
+          examples: []
+          id: 467
+          language_code: fin
+          lineage_source: ISO 19108:2002
+          lineage_source_similarity: 1
+          notes:
+          - Topologinen primitiivi vastaa geometrisessä ilmentymässä saman ulottuvuuden
+            geometrisen primitiivin sisäpuolta.
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19107:2019(E)
+          review_decision_notes: This entry is superseded by the entry for topological
+            primitive <geometry, topology> in ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: topologinen primitiivi
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: topologinen objekti, joka edustaa yksittäistä, jatkuvaa ja yhtenäistä
+    topologisen avaruuden osaa
+  examples: []
+  id: 467
+  language_code: fin
+  lineage_source: ISO 19108:2002
+  lineage_source_similarity: 1
+  notes:
+  - Topologinen primitiivi vastaa geometrisessä ilmentymässä saman ulottuvuuden geometrisen
+    primitiivin sisäpuolta.
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19107:2019(E)
+  review_decision_notes: This entry is superseded by the entry for topological primitive
+    <geometry, topology> in ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: topologinen primitiivi
+    normative_status: null
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 4d0936fa-1720-5370-9df3-6e5343a0563f
+status: superseded

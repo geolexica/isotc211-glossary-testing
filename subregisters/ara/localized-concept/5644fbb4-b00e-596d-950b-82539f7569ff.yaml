@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: a60fed
+    tree:
+      a60fed:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41445.html
+            ref: ISO 19141:2008
+          date_accepted: 2008-06-01 00:00:00+00:00
+          definition: مجموعة من النقاط في اتحاد الاشكال الهندسية (أو اتحاد المسارات)  لمجموعة
+            من الاشكال الهندسية ذات متغير واحد
+          entry_status: valid
+          examples: []
+          id: 645
+          language_code: ara
+          notes:
+          - هذا تعميم لمفهوم موشور هندسي هو عبارة عن هيكل محدَّب لمضلعين متطابقين
+            في حيز ثلاثي الأبعاد. ومثل هذه الأشكال المتعددة الوجوه يمكن النظر إليها
+            باعتبارها تورقا لمضلعات متطابقة.
+          release: '2'
+          terms:
+          - designation: موشور < مجموعة من الاشكال الهندسية ذات متغير واحد >
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-06-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  definition: مجموعة من النقاط في اتحاد الاشكال الهندسية (أو اتحاد المسارات)  لمجموعة
+    من الاشكال الهندسية ذات متغير واحد
+  examples: []
+  id: 645
+  language_code: ara
+  notes:
+  - هذا تعميم لمفهوم موشور هندسي هو عبارة عن هيكل محدَّب لمضلعين متطابقين في حيز ثلاثي
+    الأبعاد. ومثل هذه الأشكال المتعددة الوجوه يمكن النظر إليها باعتبارها تورقا لمضلعات
+    متطابقة.
+  release: '2'
+  terms:
+  - designation: موشور < مجموعة من الاشكال الهندسية ذات متغير واحد >
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 5644fbb4-b00e-596d-950b-82539f7569ff
+status: valid

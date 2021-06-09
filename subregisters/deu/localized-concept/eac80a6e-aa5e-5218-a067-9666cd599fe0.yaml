@@ -1,0 +1,60 @@
+data:
+  _revisions:
+    current: 762b31
+    tree:
+      762b31:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            clause: (E), 3.11
+            link: https://www.iso.org/standard/69325.html
+            ref: ISO 19101-2:2018
+          date_accepted: 2008-06-01 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 792
+          language_code: deu
+          lineage_source: ISO/TS 19101-2:2008(E)
+          lineage_source_similarity: 1
+          notes: []
+          release: '2'
+          review_date: 2018-05-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-05-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19101-2:2018(E)
+          review_decision_notes: Authoritative reference changed from ISO/TS 19101-2:2008
+            to ISO 19101-2:2018(E), 3.11. Lineage source added as ISO/TS 19101-2:2008(E)
+          review_status: final
+          terms:
+          - designation: geographische Bilddarstellung
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-06-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.11
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  examples: []
+  id: 792
+  language_code: deu
+  lineage_source: ISO/TS 19101-2:2008(E)
+  lineage_source_similarity: 1
+  notes: []
+  release: '2'
+  review_date: 2018-05-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-05-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19101-2:2018(E)
+  review_decision_notes: Authoritative reference changed from ISO/TS 19101-2:2008
+    to ISO 19101-2:2018(E), 3.11. Lineage source added as ISO/TS 19101-2:2008(E)
+  review_status: final
+  terms:
+  - designation: geographische Bilddarstellung
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: eac80a6e-aa5e-5218-a067-9666cd599fe0
+status: valid

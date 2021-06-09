@@ -1,0 +1,80 @@
+data:
+  _revisions:
+    current: 73d124
+    tree:
+      73d124:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: sellainen kahden määritysjoukon (esimerkiksi kahden kompleksin)
+            välinen suhde, jota kuvaa rakenteen yhdestä määritysjoukosta toiseen säilyttävä
+            funktio
+          entry_status: superseded
+          examples: []
+          id: 228
+          language_code: fin
+          notes:
+          - Homomorfismit eroavat isomorfismeista siten, että edelliset eivät edellytä
+            käänteisfunktiota. Isomorfismissa on periaatteessa kaksi homomorfismia,
+            jotka ovat toistensa käänteisfunktioita. Jatkuvat funktiot ovat topologisia
+            homomorfismeja, koska ne säilyttävät "topologiset ominaisuudet". Topologisten
+            kompleksien kuvaus geometrisiksi ilmentymiksi säilyttää rajauksen käsitteen
+            ja on sen vuoksi homomorfismi.
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19107:2019(E)
+          review_decision_notes: This entry is superseded by the entry for homomorphism
+            <mathematics> in ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: homomorfismi
+            normative_status: null
+            type: expression
+          - designation: homomorfia
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: sellainen kahden määritysjoukon (esimerkiksi kahden kompleksin) välinen
+    suhde, jota kuvaa rakenteen yhdestä määritysjoukosta toiseen säilyttävä funktio
+  examples: []
+  id: 228
+  language_code: fin
+  notes:
+  - Homomorfismit eroavat isomorfismeista siten, että edelliset eivät edellytä käänteisfunktiota.
+    Isomorfismissa on periaatteessa kaksi homomorfismia, jotka ovat toistensa käänteisfunktioita.
+    Jatkuvat funktiot ovat topologisia homomorfismeja, koska ne säilyttävät "topologiset
+    ominaisuudet". Topologisten kompleksien kuvaus geometrisiksi ilmentymiksi säilyttää
+    rajauksen käsitteen ja on sen vuoksi homomorfismi.
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19107:2019(E)
+  review_decision_notes: This entry is superseded by the entry for homomorphism <mathematics>
+    in ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: homomorfismi
+    normative_status: null
+    type: expression
+  - designation: homomorfia
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 0afb874f-a39d-5bf7-80c2-4b0aa287c871
+status: superseded

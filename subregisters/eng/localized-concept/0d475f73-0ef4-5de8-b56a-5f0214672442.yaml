@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: ad2430
+    tree:
+      ad2430:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.53'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: number of times the system (e.g LIDAR) emits pulses over a given
+            time period, usually stated in kilohertz (kHz)
+          entry_status: valid
+          examples: []
+          id: 1565
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: pulse repetition frequency
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.53'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: number of times the system (e.g LIDAR) emits pulses over a given time
+    period, usually stated in kilohertz (kHz)
+  examples: []
+  id: 1565
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: pulse repetition frequency
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 0d475f73-0ef4-5de8-b56a-5f0214672442
+status: valid

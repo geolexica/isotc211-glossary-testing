@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 848e82
+    tree:
+      848e82:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: reitin seuraamisprosessi
+          entry_status: valid
+          examples: []
+          id: 390
+          language_code: fin
+          lineage_source: Maanmittauslaitos
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: reitin kulkeminen
+            normative_status: preferred
+            type: expression
+          - designation: reitin seuraaminen
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: reitin seuraamisprosessi
+  examples: []
+  id: 390
+  language_code: fin
+  lineage_source: Maanmittauslaitos
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: reitin kulkeminen
+    normative_status: preferred
+    type: expression
+  - designation: reitin seuraaminen
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f5a450bd-8145-5af8-964b-407838140f34
+status: valid

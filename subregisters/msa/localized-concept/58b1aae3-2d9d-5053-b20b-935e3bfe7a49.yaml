@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 86bca2
+    tree:
+      86bca2:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: pengenal sumber seragam yang mengenalpasti suatu fitur
+          entry_status: valid
+          examples: []
+          id: 774
+          language_code: msa
+          notes: []
+          release: '2'
+          terms:
+          - designation: Rujukan  fitur
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: pengenal sumber seragam yang mengenalpasti suatu fitur
+  examples: []
+  id: 774
+  language_code: msa
+  notes: []
+  release: '2'
+  terms:
+  - designation: Rujukan  fitur
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 58b1aae3-2d9d-5053-b20b-935e3bfe7a49
+status: valid

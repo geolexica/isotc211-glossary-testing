@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: d970c3
+    tree:
+      d970c3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: geometrinen joukko, joka pitää sisällään tietyn pisteistön sekä
+            kaikki tietyn välimatkan päässä tästä pisteistöstä olevat kohteet
+          entry_status: valid
+          examples: []
+          id: 307
+          language_code: fin
+          notes: []
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: supersession
+          terms:
+          - designation: lähiympäristö
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  definition: geometrinen joukko, joka pitää sisällään tietyn pisteistön sekä kaikki
+    tietyn välimatkan päässä tästä pisteistöstä olevat kohteet
+  examples: []
+  id: 307
+  language_code: fin
+  notes: []
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: supersession
+  terms:
+  - designation: lähiympäristö
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 497026cf-c8da-546a-9b9b-27b41a861f7c
+status: valid

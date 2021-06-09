@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: f68c79
+    tree:
+      f68c79:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2013-07-03 00:00:00+00:00
+          definition: paikkatietojatkumo, joka koostuu pisteistä
+          entry_status: valid
+          examples: []
+          id: 337
+          language_code: fin
+          lineage_source: Ei lähdettä, käännetty
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: pistemäinen paikkatietojatkumo
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2013-07-03 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: paikkatietojatkumo, joka koostuu pisteistä
+  examples: []
+  id: 337
+  language_code: fin
+  lineage_source: Ei lähdettä, käännetty
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: pistemäinen paikkatietojatkumo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-07-03 00:00:00+00:00
+id: d9b2d0f6-e56a-5f6a-a992-73f5f4cc869c
+status: valid

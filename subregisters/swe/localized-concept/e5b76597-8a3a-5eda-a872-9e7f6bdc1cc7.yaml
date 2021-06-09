@@ -1,0 +1,75 @@
+data:
+  _revisions:
+    current: 6575d8
+    tree:
+      6575d8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.14
+            link: https://www.iso.org/standard/70882.html
+            ref: ISO 19116:2019
+          country_code: swe
+          date_accepted: 2004-07-01 00:00:00+00:00
+          definition: lägesbestämningssystem som förenar och hanterar data som kommer
+            från olika håll eller som förenar olika tekniker
+          entry_status: valid
+          examples: []
+          id: 250
+          language_code: swe
+          lineage_source: ISO 19116:2004(E)
+          lineage_source_similarity: 1
+          notes:
+          - The measurements produced by each positioning technology in an integrated
+            system may be any of position, motion, or attitude.  There may be redundant
+            measurements.  When combined, a unified position, motion, or attitude
+            is determined.
+          release: '1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of ISO 19116:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19116:2004
+            to ISO 19116:2019(E), 3.14. Lineage source added as ISO 19116:2004(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: integrerat lägesbestämningsystem
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  country_code: swe
+  definition: lägesbestämningssystem som förenar och hanterar data som kommer från
+    olika håll eller som förenar olika tekniker
+  examples: []
+  id: 250
+  language_code: swe
+  lineage_source: ISO 19116:2004(E)
+  lineage_source_similarity: 1
+  notes:
+  - The measurements produced by each positioning technology in an integrated system
+    may be any of position, motion, or attitude.  There may be redundant measurements.  When
+    combined, a unified position, motion, or attitude is determined.
+  release: '1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of ISO 19116:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19116:2004 to ISO
+    19116:2019(E), 3.14. Lineage source added as ISO 19116:2004(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: integrerat lägesbestämningsystem
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: e5b76597-8a3a-5eda-a872-9e7f6bdc1cc7
+status: valid

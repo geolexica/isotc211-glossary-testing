@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: 1f37da
+    tree:
+      1f37da:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: PI matching
+          authoritative_source:
+            clause: '4.11'
+            link: https://www.iso.org/standard/32573.html
+            ref: ISO 19155:2012
+          date_accepted: 2012-11-01 00:00:00+00:00
+          definition: matching of a Place Identifier specifying a place with another
+            type of PI identifying the same place
+          entry_status: valid
+          examples: []
+          id: 1339
+          language_code: eng
+          notes:
+          - A source PI can be matched with multiple target Place Identifiers.
+          - PI matching can be made among coordinates, geographic identifiers and
+            identifiers in the virtual world such as URI.
+          release: '3'
+          terms:
+          - designation: Place Identifier matching
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-11-01 00:00:00+00:00
+  abbrev: PI matching
+  authoritativeSource:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  definition: matching of a Place Identifier specifying a place with another type
+    of PI identifying the same place
+  examples: []
+  id: 1339
+  language_code: eng
+  notes:
+  - A source PI can be matched with multiple target Place Identifiers.
+  - PI matching can be made among coordinates, geographic identifiers and identifiers
+    in the virtual world such as URI.
+  release: '3'
+  terms:
+  - designation: Place Identifier matching
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: 4e6c9d15-5ecc-502d-91d4-e9f1d0c544c2
+status: valid

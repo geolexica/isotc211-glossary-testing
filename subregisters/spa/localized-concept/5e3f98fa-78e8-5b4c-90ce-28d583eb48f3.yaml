@@ -1,0 +1,41 @@
+data:
+  _revisions:
+    current: c37763
+    tree:
+      c37763:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: W3C XLink:2001
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: utilización o seguimiendo de un enlace XLink para cualquier
+            propósito
+          entry_status: valid
+          examples: []
+          id: 785
+          language_code: spa
+          notes: []
+          release: '2'
+          terms:
+          - designation: enlazado <XML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: W3C XLink:2001
+  definition: utilización o seguimiendo de un enlace XLink para cualquier propósito
+  examples: []
+  id: 785
+  language_code: spa
+  notes: []
+  release: '2'
+  terms:
+  - designation: enlazado <XML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 5e3f98fa-78e8-5b4c-90ce-28d583eb48f3
+status: valid

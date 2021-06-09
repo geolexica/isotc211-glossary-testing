@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 895b74
+    tree:
+      895b74:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105
+          date_accepted: 2000-11-16 00:00:00+00:00
+          definition: mise en oeuvre d'une spécification
+          entry_status: valid
+          examples: []
+          id: 235
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: implémentation
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-11-16 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105
+  definition: mise en oeuvre d'une spécification
+  examples: []
+  id: 235
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: implémentation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-11-16 00:00:00+00:00
+id: 49f1e77d-9838-530f-930b-4e8bf8a843f9
+status: valid

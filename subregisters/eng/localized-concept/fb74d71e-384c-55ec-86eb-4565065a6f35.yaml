@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: fb0381
+    tree:
+      fb0381:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.46'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: optical element that receives light from the object and forms
+            the first or primary image of an optical system
+          entry_status: valid
+          examples: []
+          id: 519
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: objective
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.46'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: optical element that receives light from the object and forms the first
+    or primary image of an optical system
+  examples: []
+  id: 519
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: objective
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: fb74d71e-384c-55ec-86eb-4565065a6f35
+status: valid

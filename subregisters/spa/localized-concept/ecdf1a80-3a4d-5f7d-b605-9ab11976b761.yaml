@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 3e498a
+    tree:
+      3e498a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.47'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: tipo de sensor sonar que sólo recibe ondas de sonido desde fuentes
+            externas sin transmitir ninguna señal
+          entry_status: valid
+          examples: []
+          id: 1405
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: sonar pasivo
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.47'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: tipo de sensor sonar que sólo recibe ondas de sonido desde fuentes externas
+    sin transmitir ninguna señal
+  examples: []
+  id: 1405
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: sonar pasivo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: ecdf1a80-3a4d-5f7d-b605-9ab11976b761
+status: valid

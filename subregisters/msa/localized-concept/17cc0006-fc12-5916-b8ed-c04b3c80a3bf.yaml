@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 460afc
+    tree:
+      460afc:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: aliran arah sesuatu pergerakan
+          entry_status: valid
+          examples: []
+          id: 391
+          language_code: msa
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: Penghalaan, Penjaluran
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: aliran arah sesuatu pergerakan
+  examples: []
+  id: 391
+  language_code: msa
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: Penghalaan, Penjaluran
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 17cc0006-fc12-5916-b8ed-c04b3c80a3bf
+status: valid

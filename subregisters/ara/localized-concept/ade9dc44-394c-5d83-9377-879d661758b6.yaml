@@ -1,0 +1,70 @@
+data:
+  _revisions:
+    current: d123ab
+    tree:
+      d123ab:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.1.25
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111:2019
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: نظام إحداثيات مرجعي مبني على مرجع إسناد هندسي
+          entry_status: valid
+          examples:
+          - 'أمثلة: الشبكات الهندسية والمعمارية المحلية , نظام إحداثيات مرجعي محلي
+            بالنسبة لسفينة أو مركبة فضائية دائرة في فلك.'
+          id: 706
+          language_code: ara
+          lineage_source: ISO 19111:2007(E)
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of ISO 19111:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19111:2007
+            to ISO 19111:2019(E), 3.1.25. Lineage source added as ISO 19111:2007(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: نظام إحداثيات مرجعي هندسي
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.25
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  definition: نظام إحداثيات مرجعي مبني على مرجع إسناد هندسي
+  examples:
+  - 'أمثلة: الشبكات الهندسية والمعمارية المحلية , نظام إحداثيات مرجعي محلي بالنسبة
+    لسفينة أو مركبة فضائية دائرة في فلك.'
+  id: 706
+  language_code: ara
+  lineage_source: ISO 19111:2007(E)
+  lineage_source_similarity: 1
+  notes:
+  - 'أمثلة: الشبكات الهندسية والمعمارية المحلية , نظام إحداثيات مرجعي محلي بالنسبة
+    لسفينة أو مركبة فضائية دائرة في فلك.'
+  release: '1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of ISO 19111:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19111:2007 to ISO
+    19111:2019(E), 3.1.25. Lineage source added as ISO 19111:2007(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: نظام إحداثيات مرجعي هندسي
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: ade9dc44-394c-5d83-9377-879d661758b6
+status: valid

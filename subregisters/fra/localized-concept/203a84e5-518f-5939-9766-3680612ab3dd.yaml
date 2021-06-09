@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 27cf8d
+    tree:
+      27cf8d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: objet soumis à la navigation ou au suivi
+          entry_status: valid
+          examples: []
+          id: 745
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: véhicule
+            normative_status: preferred
+            type: expression
+          - designation: traveller
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  definition: objet soumis à la navigation ou au suivi
+  examples: []
+  id: 745
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: véhicule
+    normative_status: preferred
+    type: expression
+  - designation: traveller
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 203a84e5-518f-5939-9766-3680612ab3dd
+status: valid

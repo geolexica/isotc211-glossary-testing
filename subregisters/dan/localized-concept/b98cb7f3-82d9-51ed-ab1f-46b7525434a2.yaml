@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: c940fe
+    tree:
+      c940fe:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: konfiguration af domænet for en coverage beskrevet i form af
+            koordinater
+          examples: []
+          id: 100
+          language_code: dan
+          notes: []
+          release: '1'
+          terms:
+          - designation: coverage-geometri
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: konfiguration af domænet for en coverage beskrevet i form af koordinater
+  examples: []
+  id: 100
+  language_code: dan
+  notes: []
+  release: '1'
+  terms:
+  - designation: coverage-geometri
+    normative_status: null
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: b98cb7f3-82d9-51ed-ab1f-46b7525434a2
+status: valid

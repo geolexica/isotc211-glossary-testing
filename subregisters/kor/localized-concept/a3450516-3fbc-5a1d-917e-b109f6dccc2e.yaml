@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: c3d9ed
+    tree:
+      c3d9ed:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.9'
+            link: https://www.iso.org/standard/37796.html
+            ref: ISO 19118:2005
+          date_accepted: 2008-12-30 00:00:00+00:00
+          date_amended: 2011-10-15 00:00:00+00:00
+          definition: 특정 상황에서 더 이상 나누어질 수 없는 데이터 단위
+          entry_status: retired
+          examples: []
+          id: 105
+          language_code: kor
+          lineage_source: ''
+          notes: []
+          release: '-1'
+          review_date: 2011-10-15 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: '2011-10-15'
+          review_decision_event: Publication of ISO 19118:2011
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19118:2011).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: 데이터 요소
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2008-12-30 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/37796.html
+    ref: ISO 19118:2005
+  date_amended: 2011-10-15 00:00:00+00:00
+  definition: 특정 상황에서 더 이상 나누어질 수 없는 데이터 단위
+  examples: []
+  id: 105
+  language_code: kor
+  lineage_source: ''
+  notes: []
+  release: '-1'
+  review_date: 2011-10-15 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: '2011-10-15'
+  review_decision_event: Publication of ISO 19118:2011
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19118:2011).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: 데이터 요소
+    normative_status: null
+    type: expression
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: a3450516-3fbc-5a1d-917e-b109f6dccc2e
+status: retired

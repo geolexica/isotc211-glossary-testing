@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: fbe053
+    tree:
+      fbe053:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: تكوين نطاق التغطية الموصوف من خلال الإحداثيات
+          entry_status: valid
+          examples: []
+          id: 100
+          language_code: ara
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: هندسة التغطية
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: تكوين نطاق التغطية الموصوف من خلال الإحداثيات
+  examples: []
+  id: 100
+  language_code: ara
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: هندسة التغطية
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 96465f5d-ef53-5061-b946-de14fc68022c
+status: valid

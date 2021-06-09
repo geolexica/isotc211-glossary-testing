@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 3360fa
+    tree:
+      3360fa:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.20'
+            link: https://www.iso.org/standard/32575.html
+            ref: ISO 19157:2013
+          country_code: swe
+          date_accepted: 2013-12-15 00:00:00+00:00
+          definition: information som beskriver kvaliteten hos datakvalitetsresultat
+          entry_status: valid
+          examples: []
+          id: 1303
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '3'
+          terms:
+          - designation: metakvalitet
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2013-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.20'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  country_code: swe
+  definition: information som beskriver kvaliteten hos datakvalitetsresultat
+  examples: []
+  id: 1303
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '3'
+  terms:
+  - designation: metakvalitet
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: 37f767a7-1571-51fe-a7a6-8cb0cc830137
+status: valid

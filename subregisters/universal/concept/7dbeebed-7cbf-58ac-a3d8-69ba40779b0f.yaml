@@ -1,0 +1,19 @@
+data:
+  identifier: '410'
+  localizedConcepts:
+    ara: 6d5c81b7-2ef0-559a-9b8c-4054d1ffe2e1
+    deu: cf4d63e8-5d4c-5177-8fe7-102f957abb92
+    eng: 09bd3825-fbfb-566d-bbcd-5214f90443b4
+    fin: 12611731-122c-56bb-8ada-153f5d06116a
+    fra: 11156101-94dd-5726-a528-5c727c0f847e
+    jpn: 9c4c5508-51e4-5d70-97ca-ff11ec9182d1
+    kor: 871423b5-ff97-59ef-b11d-bedde96f4b40
+    msa: f934b599-6dfe-5e21-bebf-26e61af667aa
+    pol: 3e933c6b-3b04-500d-9120-d8bbc30af59a
+    rus: 1a5fdf13-1689-5f10-9118-1c24d91f95fa
+    spa: 83ab4c16-5efb-5136-8480-5b85c218ea2e
+    swe: 4e66c98f-b641-5a2f-aeb1-de9f1d678fc5
+    zho: 04ff8ba4-1b65-5f3e-8f47-f67308b92ee8
+dateAccepted: 2018-11-17
+id: 7dbeebed-7cbf-58ac-a3d8-69ba40779b0f
+status: valid

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: '824901'
+    tree:
+      '824901':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.13'
+            link: https://www.iso.org/standard/32574.html
+            ref: ISO 19156:2011
+          date_accepted: 2011-12-15 00:00:00+00:00
+          definition: combination of a sampling strategy and an observation procedure
+            used in making an observation
+          entry_status: valid
+          examples: []
+          id: 1306
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: observation protocol
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2011-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  definition: combination of a sampling strategy and an observation procedure used
+    in making an observation
+  examples: []
+  id: 1306
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: observation protocol
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 7af9414f-94d2-555b-82bc-800d71e3e6bd
+status: valid

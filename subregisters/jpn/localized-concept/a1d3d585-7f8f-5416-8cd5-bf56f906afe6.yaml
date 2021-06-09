@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: a5545a
+    tree:
+      a5545a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: ATS
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: 満たされなければならないすべての要件を規定する抽象試験モジュール。
+          entry_status: valid
+          examples: []
+          id: 6
+          language_code: jpn
+          notes:
+          - 抽象試験項目群は，適合性の箇条において記述する。
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: 抽象試験項目群，ATS
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  abbrev: ATS
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: 満たされなければならないすべての要件を規定する抽象試験モジュール。
+  examples: []
+  id: 6
+  language_code: jpn
+  notes:
+  - 抽象試験項目群は，適合性の箇条において記述する。
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: 抽象試験項目群，ATS
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: a1d3d585-7f8f-5416-8cd5-bf56f906afe6
+status: valid

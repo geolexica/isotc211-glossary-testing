@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: ff86bf
+    tree:
+      ff86bf:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: testitulos, joka annetaan, kun ei voida antaa hyväksyvää eikä
+            hylkäävää lausuntoa
+          entry_status: valid
+          examples: []
+          id: 238
+          language_code: fin
+          lineage_source: Ei lähdettä, käännetty
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: määrittelemätön testitulos
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: testitulos, joka annetaan, kun ei voida antaa hyväksyvää eikä hylkäävää
+    lausuntoa
+  examples: []
+  id: 238
+  language_code: fin
+  lineage_source: Ei lähdettä, käännetty
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: määrittelemätön testitulos
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: b14a64cc-c977-55d8-83bb-812bb49a5f18
+status: valid

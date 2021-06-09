@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 62ccf7
+    tree:
+      62ccf7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.6'
+            link: https://www.iso.org/standard/32576.html
+            ref: ISO/TS 19158:2012
+          country_code: swe
+          date_accepted: 2012-10-15 00:00:00+00:00
+          definition: utfall av leveranskvalitetsbedömning
+          entry_status: valid
+          examples: []
+          id: 1578
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '3'
+          terms:
+          - designation: utfall av leveranskvalitetsbedömning
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-10-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.6'
+    link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  country_code: swe
+  definition: utfall av leveranskvalitetsbedömning
+  examples: []
+  id: 1578
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '3'
+  terms:
+  - designation: utfall av leveranskvalitetsbedömning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 8e3bbc61-71c5-507a-9b67-6c9af9877f0d
+status: valid

@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 5f75d0
+    tree:
+      5f75d0:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: 表示时间位置的0维几何单形。
+          entry_status: valid
+          examples: []
+          id: 247
+          language_code: zho
+          notes:
+          - 时间几何在ISO 19108:2002 5.2阐述。
+          review_indicator: ''
+          terms:
+          - designation: 时刻
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: 表示时间位置的0维几何单形。
+  examples: []
+  id: 247
+  language_code: zho
+  notes:
+  - 时间几何在ISO 19108:2002 5.2阐述。
+  review_indicator: ''
+  terms:
+  - designation: 时刻
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 2bbcde60-0a08-58cc-88c3-29ad0dac24d5
+status: valid

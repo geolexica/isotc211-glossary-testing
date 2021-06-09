@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 958ee0
+    tree:
+      958ee0:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32562.html
+            ref: ISO 19144-1:2009
+          date_accepted: 2009-08-15 00:00:00+00:00
+          definition: representación abstracta de fenómenos del mundo real mediante
+            el uso de clasificadores
+          entry_status: valid
+          examples: []
+          id: 848
+          language_code: spa
+          notes: []
+          release: '2'
+          terms:
+          - designation: clasificación
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  definition: representación abstracta de fenómenos del mundo real mediante el uso
+    de clasificadores
+  examples: []
+  id: 848
+  language_code: spa
+  notes: []
+  release: '2'
+  terms:
+  - designation: clasificación
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 95a27c7d-65c8-5e01-9640-c29134215014
+status: valid

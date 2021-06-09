@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: d96654
+    tree:
+      d96654:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: SUT
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: компьютерные аппаратные средства, программы и сеть коммуникации,
+            необходимые в процессе тестирования
+          entry_status: valid
+          examples: []
+          id: 440
+          language_code: rus
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: тестируемая   система
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  abbrev: SUT
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: компьютерные аппаратные средства, программы и сеть коммуникации, необходимые
+    в процессе тестирования
+  examples: []
+  id: 440
+  language_code: rus
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: тестируемая   система
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: bc3eb274-b236-5ae4-8406-197b9af76d5f
+status: valid

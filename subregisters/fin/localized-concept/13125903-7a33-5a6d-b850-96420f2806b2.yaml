@@ -1,0 +1,53 @@
+data:
+  _revisions:
+    current: af037b
+    tree:
+      af037b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40601.html
+            ref: ISO 19132:2007
+          date_accepted: 2007-10-15 00:00:00+00:00
+          definition: etäisyyden muuttuminen siten, että mitattujen arvojen välillä
+            on aina jatkuvia arvoja
+          entry_status: valid
+          examples: []
+          id: 659
+          language_code: fin
+          lineage_source: Ei lähdettä, käännetty
+          notes:
+          - Jatkuvan muuttumisen interpoloinnissa otetaan huomioon mittauspisteiden
+            (aika1, arvo1) ja (aika2, arvo2) välisen ’käyrän’ rajoitukset. Esimerkiksi
+            ajoneuvon liikkuessa fyysiset rajoitukset ja ajoneuvolle soveltuvat reitit
+            otetaan huomioon.
+          review_indicator: ''
+          terms:
+          - designation: jatkuva muuttuminen
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  definition: etäisyyden muuttuminen siten, että mitattujen arvojen välillä on aina
+    jatkuvia arvoja
+  examples: []
+  id: 659
+  language_code: fin
+  lineage_source: Ei lähdettä, käännetty
+  notes:
+  - Jatkuvan muuttumisen interpoloinnissa otetaan huomioon mittauspisteiden (aika1,
+    arvo1) ja (aika2, arvo2) välisen ’käyrän’ rajoitukset. Esimerkiksi ajoneuvon liikkuessa
+    fyysiset rajoitukset ja ajoneuvolle soveltuvat reitit otetaan huomioon.
+  review_indicator: ''
+  terms:
+  - designation: jatkuva muuttuminen
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 13125903-7a33-5a6d-b850-96420f2806b2
+status: valid

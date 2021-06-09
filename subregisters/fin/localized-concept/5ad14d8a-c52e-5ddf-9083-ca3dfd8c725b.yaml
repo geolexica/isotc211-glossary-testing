@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 905cb9
+    tree:
+      905cb9:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: objekti, joka koostuu joukosta geometria-arvopareja
+          entry_status: valid
+          examples: []
+          id: 757
+          language_code: fin
+          lineage_source: Ei lähdettä, käännetty
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: geometria-arvo-objekti
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: objekti, joka koostuu joukosta geometria-arvopareja
+  examples: []
+  id: 757
+  language_code: fin
+  lineage_source: Ei lähdettä, käännetty
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: geometria-arvo-objekti
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 5ad14d8a-c52e-5ddf-9083-ca3dfd8c725b
+status: valid

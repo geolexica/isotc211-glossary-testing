@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 0449d8
+    tree:
+      0449d8:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/39242.html
+            ref: ISO 6709:2008
+          date_accepted: 2008-07-15 00:00:00+00:00
+          definition: Höhe, bei der die gewählte Bezugsfläche das Normalnull ist
+          entry_status: valid
+          examples: []
+          id: 733
+          language_code: deu
+          notes: []
+          release: '2'
+          terms:
+          - designation: Höhe
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/39242.html
+    ref: ISO 6709:2008
+  definition: Höhe, bei der die gewählte Bezugsfläche das Normalnull ist
+  examples: []
+  id: 733
+  language_code: deu
+  notes: []
+  release: '2'
+  terms:
+  - designation: Höhe
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: 3d158db8-307d-51d6-a25d-f7d28c892645
+status: valid

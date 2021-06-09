@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: 677a94
+    tree:
+      677a94:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: ICS
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          country_code: swe
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: uppgifter om vad som har implementerats utifrån de valmöjligheter
+            som en specifikation ger
+          entry_status: valid
+          examples: []
+          id: 236
+          language_code: swe
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: implementeringsprofil
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  abbrev: ICS
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  country_code: swe
+  definition: uppgifter om vad som har implementerats utifrån de valmöjligheter som
+    en specifikation ger
+  examples: []
+  id: 236
+  language_code: swe
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: implementeringsprofil
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 43e56f6f-d537-5099-92fe-7abc79baf04f
+status: valid

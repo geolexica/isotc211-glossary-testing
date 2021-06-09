@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: 56ddd8
+    tree:
+      56ddd8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          country_code: swe
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: varje rutt som uppfyller kraven i ruttförfrågan, eventuellt
+            frånsett kostnadsoptimering
+          entry_status: valid
+          examples: []
+          id: 34
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes:
+          - Navigation is the process of finding the candidate route that optimizes
+            a chosen cost function.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: ruttkandidat
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  country_code: swe
+  definition: varje rutt som uppfyller kraven i ruttförfrågan, eventuellt frånsett
+    kostnadsoptimering
+  examples: []
+  id: 34
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes:
+  - Navigation is the process of finding the candidate route that optimizes a chosen
+    cost function.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: ruttkandidat
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 32f42b0f-de34-5258-91e6-4273a5d2a0f9
+status: valid

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 8f7130
+    tree:
+      8f7130:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (Adapted from)
+            link: https://www.iso.org/standard/3626.html
+            ref: 'ISO 31-2:1992 '
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: 一周期の持続時間(JIS Z 8202-1を変更)
+          entry_status: valid
+          examples: []
+          id: 331
+          language_code: jpn
+          lineage_source: JIS X 7108
+          notes: []
+          release: '1'
+          terms:
+          - designation: 周期長
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/3626.html
+    ref: 'ISO 31-2:1992 '
+  definition: 一周期の持続時間(JIS Z 8202-1を変更)
+  examples: []
+  id: 331
+  language_code: jpn
+  lineage_source: JIS X 7108
+  notes: []
+  release: '1'
+  terms:
+  - designation: 周期長
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 8feb4a66-90c2-5412-883a-5c7457f340a5
+status: valid

@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: def12f
+    tree:
+      def12f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: abstrakti testausmoduuli, jossa on määritelty kaikki laatuvaatimustason
+            täyttymiseen edellytettävät vaatimukset
+          entry_status: valid
+          examples: []
+          id: 6
+          language_code: fin
+          notes:
+          - Abstraktit testisarjat on kuvattu vaatimuksenmukaisuuden määrittelyssä.
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: abstrakti testisarja
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: abstrakti testausmoduuli, jossa on määritelty kaikki laatuvaatimustason
+    täyttymiseen edellytettävät vaatimukset
+  examples: []
+  id: 6
+  language_code: fin
+  notes:
+  - Abstraktit testisarjat on kuvattu vaatimuksenmukaisuuden määrittelyssä.
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: abstrakti testisarja
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 249c95a4-1905-5ecd-9657-7f34f367b92a
+status: valid

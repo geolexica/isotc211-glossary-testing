@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: d0681c
+    tree:
+      d0681c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: 単一の時間単位の倍数として距離を測定する間隔尺度を基礎とする時間参照系。
+          entry_status: valid
+          examples: []
+          id: 446
+          language_code: jpn
+          notes: []
+          release: '1'
+          review_date: 2018-04-09 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: supersession
+          terms:
+          - designation: 時間座標系
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: 単一の時間単位の倍数として距離を測定する間隔尺度を基礎とする時間参照系。
+  examples: []
+  id: 446
+  language_code: jpn
+  notes: []
+  release: '1'
+  review_date: 2018-04-09 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: supersession
+  terms:
+  - designation: 時間座標系
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: ad728589-3ad9-5809-b009-a63b4c70c426
+status: valid

@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 6e7fe5
+    tree:
+      6e7fe5:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40601.html
+            ref: ISO 19132
+          date_accepted: 2007-10-15 00:00:00+00:00
+          definition: lien de deux ou plusieurs systèmes logiciels par transfert d'information
+            ou de messagerie
+          entry_status: valid
+          examples: []
+          id: 660
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: couplage
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  definition: lien de deux ou plusieurs systèmes logiciels par transfert d'information
+    ou de messagerie
+  examples: []
+  id: 660
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: couplage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: bad4e6b7-fe96-512a-a7e2-eda5fbba7d5f
+status: valid

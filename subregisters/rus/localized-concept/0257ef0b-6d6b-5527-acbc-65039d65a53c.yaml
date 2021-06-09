@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: '199405'
+    tree:
+      '199405':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32620.html
+            ref: ISO/IEC 19501
+          date_accepted: 2005-07-15 00:00:00+00:00
+          definition: таксономическое отношение между более общим элементом и более
+            специализированным элементом, который полностью  совместим с более общим
+            элементом и содержит некоторую дополнительную информацию
+          entry_status: valid
+          examples: []
+          id: 726
+          language_code: rus
+          lineage_source: ISO/TS 19103:2005 ,4.2.13
+          lineage_source_similarity: 1
+          notes:
+          - Экземпляр более специализированного элемента можно использовать везде,
+            где объявлен   более  общий элемент. См. термин «наследование»
+          release: '1'
+          review_date: 2009-08-31 00:00:00+00:00
+          review_indicator: ''
+          review_status: ''
+          review_type: ''
+          terms:
+          - designation: обобщение <UML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  definition: таксономическое отношение между более общим элементом и более специализированным
+    элементом, который полностью  совместим с более общим элементом и содержит некоторую
+    дополнительную информацию
+  examples: []
+  id: 726
+  language_code: rus
+  lineage_source: ISO/TS 19103:2005 ,4.2.13
+  lineage_source_similarity: 1
+  notes:
+  - Экземпляр более специализированного элемента можно использовать везде, где объявлен   более  общий
+    элемент. См. термин «наследование»
+  release: '1'
+  review_date: 2009-08-31 00:00:00+00:00
+  review_indicator: ''
+  review_status: ''
+  review_type: ''
+  terms:
+  - designation: обобщение <UML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 0257ef0b-6d6b-5527-acbc-65039d65a53c
+status: valid

@@ -1,0 +1,49 @@
+data:
+  _revisions:
+    current: 9b4e1d
+    tree:
+      9b4e1d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: область, составленная из пространственно-временных объектов
+          entry_status: valid
+          examples: []
+          id: 423
+          language_code: rus
+          lineage_source: Internet
+          notes:
+          - Пространственно-временнáя область непрерывного покрытия состоит из множества
+            точек, определенных относительно совокупности пространственно-временных
+            объектов
+          review_indicator: ''
+          terms:
+          - designation: пространственно-временнáя область <покрытие>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: область, составленная из пространственно-временных объектов
+  examples: []
+  id: 423
+  language_code: rus
+  lineage_source: Internet
+  notes:
+  - Пространственно-временнáя область непрерывного покрытия состоит из множества точек,
+    определенных относительно совокупности пространственно-временных объектов
+  review_indicator: ''
+  terms:
+  - designation: пространственно-временнáя область <покрытие>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 237af4fc-6775-55f9-b7eb-7a4572bbcc55
+status: valid

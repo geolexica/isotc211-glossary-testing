@@ -1,0 +1,40 @@
+data:
+  _revisions:
+    current: 465d97
+    tree:
+      465d97:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/43041.html
+            ref: ISO/TS 19129:2009
+          date_accepted: 2009-04-01 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 188
+          language_code: deu
+          notes: []
+          release: '2'
+          terms:
+          - designation: Rahmen
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-04-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  examples: []
+  id: 188
+  language_code: deu
+  notes: []
+  release: '2'
+  terms:
+  - designation: Rahmen
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: d188e195-43d7-576d-8a13-79e8cee41003
+status: valid

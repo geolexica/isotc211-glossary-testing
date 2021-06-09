@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 6768d3
+    tree:
+      6768d3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.9'
+            link: https://www.iso.org/standard/53798.html
+            ref: ISO 19115-1:2014
+          date_accepted: 2014-04-01 00:00:00+00:00
+          definition: происхождение, источник(и) и процесс(ы) производства,использованные  в
+            производстве ресурса
+          entry_status: valid
+          examples: []
+          id: 1649
+          language_code: rus
+          lineage_source: ГОСТ Р 57668-2017 (ИСО 19115-1-2014)
+          notes: []
+          release: '3'
+          terms:
+          - designation: родословная (история ресурса)
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-04-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  definition: происхождение, источник(и) и процесс(ы) производства,использованные  в
+    производстве ресурса
+  examples: []
+  id: 1649
+  language_code: rus
+  lineage_source: ГОСТ Р 57668-2017 (ИСО 19115-1-2014)
+  notes: []
+  release: '3'
+  terms:
+  - designation: родословная (история ресурса)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-04-01 00:00:00+00:00
+id: 8bc84b52-4cd3-557d-84f3-9d34fbe987f2
+status: valid

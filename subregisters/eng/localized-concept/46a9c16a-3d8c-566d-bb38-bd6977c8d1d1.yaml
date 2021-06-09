@@ -1,0 +1,59 @@
+data:
+  _revisions:
+    current: 8a6126
+    tree:
+      8a6126:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: OWL
+          date_accepted: 2015-07-01 00:00:00+00:00
+          definition: entities that refer to a set of concrete data values
+          entry_status: valid
+          examples:
+          - xsd:string, xsd:integer, xsd:decimal
+          id: 1584
+          language_code: eng
+          lineage_source: ISO 19150-2:2015, 4.1.18
+          notes:
+          - Datatypes are distinct from classes of individuals, the latter are denoted
+            by URIs and may be used by reference.
+          release: '4'
+          review_date: 2012-05-25 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-07-01 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19150-2:2015(E)
+          review_status: final
+          terms:
+          - designation: datatype <OWL>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2015-07-01 00:00:00+00:00
+  authoritativeSource:
+  - ref: OWL
+  definition: entities that refer to a set of concrete data values
+  examples:
+  - xsd:string, xsd:integer, xsd:decimal
+  id: 1584
+  language_code: eng
+  lineage_source: ISO 19150-2:2015, 4.1.18
+  notes:
+  - xsd:string, xsd:integer, xsd:decimal
+  release: '4'
+  review_date: 2012-05-25 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-07-01 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19150-2:2015(E)
+  review_status: final
+  terms:
+  - designation: datatype <OWL>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 46a9c16a-3d8c-566d-bb38-bd6977c8d1d1
+status: valid

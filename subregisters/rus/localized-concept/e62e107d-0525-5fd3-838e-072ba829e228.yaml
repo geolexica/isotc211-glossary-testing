@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 4ed6fc
+    tree:
+      4ed6fc:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.10
+            link: https://www.iso.org/standard/59164.html
+            ref: ISO 19101-1:2014
+          date_accepted: 2014-11-01 00:00:00+00:00
+          definition: цифровое взаимодействие между правительством и гражданами, правительством
+            и предприятиями, а также между государственными учреждениями
+          entry_status: valid
+          examples: []
+          id: 1430
+          language_code: rus
+          lineage_source: перевод ИСО 19101-1:2014
+          notes: []
+          release: '3'
+          terms:
+          - designation: электронное правительство
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-11-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.10
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  definition: цифровое взаимодействие между правительством и гражданами, правительством
+    и предприятиями, а также между государственными учреждениями
+  examples: []
+  id: 1430
+  language_code: rus
+  lineage_source: перевод ИСО 19101-1:2014
+  notes: []
+  release: '3'
+  terms:
+  - designation: электронное правительство
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: e62e107d-0525-5fd3-838e-072ba829e228
+status: valid

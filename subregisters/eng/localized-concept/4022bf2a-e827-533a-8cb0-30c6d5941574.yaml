@@ -1,0 +1,47 @@
+data:
+  _revisions:
+    current: f63fb4
+    tree:
+      f63fb4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: Adapted from STM E2544
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: first reflected signal that is detected by a 3D imaging system,
+            time of flight (TOF) type, for a given sampling position and a given emitted
+            pulse
+          entry_status: valid
+          examples: []
+          id: 1389
+          language_code: eng
+          lineage_source: ISO/TS 19130-2:2014, 4.21
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: first return
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: Adapted from STM E2544
+  definition: first reflected signal that is detected by a 3D imaging system, time
+    of flight (TOF) type, for a given sampling position and a given emitted pulse
+  examples: []
+  id: 1389
+  language_code: eng
+  lineage_source: ISO/TS 19130-2:2014, 4.21
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: first return
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 4022bf2a-e827-533a-8cb0-30c6d5941574
+status: valid

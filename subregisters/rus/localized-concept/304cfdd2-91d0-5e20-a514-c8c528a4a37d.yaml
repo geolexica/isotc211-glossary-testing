@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 6ba074
+    tree:
+      6ba074:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.17
+            link: https://www.iso.org/standard/32563.html
+            ref: ISO 19145:2013
+          date_accepted: 2013-02-15 00:00:00+00:00
+          definition: автономный процесс для выполнения глобального преобразования
+            большого объема данных
+          entry_status: valid
+          examples: []
+          id: 1168
+          language_code: rus
+          lineage_source: ISO 19145:2013
+          notes: []
+          release: '3'
+          terms:
+          - designation: статическое преобразование
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2013-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  definition: автономный процесс для выполнения глобального преобразования большого
+    объема данных
+  examples: []
+  id: 1168
+  language_code: rus
+  lineage_source: ISO 19145:2013
+  notes: []
+  release: '3'
+  terms:
+  - designation: статическое преобразование
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 304cfdd2-91d0-5e20-a514-c8c528a4a37d
+status: valid

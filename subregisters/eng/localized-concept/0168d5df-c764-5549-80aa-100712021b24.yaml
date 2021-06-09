@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: bacad7
+    tree:
+      bacad7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.50'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: downward normal to the platform horizontal plane
+          entry_status: valid
+          examples: []
+          id: 1407
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: platform down direction
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.50'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: downward normal to the platform horizontal plane
+  examples: []
+  id: 1407
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: platform down direction
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 0168d5df-c764-5549-80aa-100712021b24
+status: valid

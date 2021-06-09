@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 1281a8
+    tree:
+      1281a8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: TIN
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          country_code: swe
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: tesselering där delarna utgörs av trianglar
+          entry_status: valid
+          examples: []
+          id: 476
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: oregelbunden triangelstruktur
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  abbrev: TIN
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  country_code: swe
+  definition: tesselering där delarna utgörs av trianglar
+  examples: []
+  id: 476
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: oregelbunden triangelstruktur
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: ca71606a-5815-51af-b60e-65d2c8d1cc66
+status: valid

@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: 9c52b2
+    tree:
+      9c52b2:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.62
+            link: https://www.iso.org/standard/66847.html
+            ref: ISO 19130-1:2018
+          date_accepted: 2010-06-15 00:00:00+00:00
+          definition: 사물점과 영상점 사이를 지나는 빛이 기하학적으로 지나치는 것으로 보이는 3차원내 점
+          entry_status: valid
+          examples: []
+          id: 958
+          language_code: kor
+          lineage_source: ISO/TS 19130:2010(E)
+          lineage_source_similarity: '1'
+          notes: []
+          release: '2'
+          review_date: 2018-09-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-09-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19130-1:2018(E)
+          review_decision_notes: Authoritative reference changed from ISO/TS 19130:2010
+            to ISO 19130-1:2018(E), 3.62. Lineage source added as ISO/TS 19130:2010(E)
+          review_status: final
+          terms:
+          - designation: 시각 중심
+            normative_status: preferred
+            type: expression
+          - designation: projection centre
+            type: expression
+        parents: []
+        timeCreated: 2010-06-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.62
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  definition: 사물점과 영상점 사이를 지나는 빛이 기하학적으로 지나치는 것으로 보이는 3차원내 점
+  examples: []
+  id: 958
+  language_code: kor
+  lineage_source: ISO/TS 19130:2010(E)
+  lineage_source_similarity: '1'
+  notes: []
+  release: '2'
+  review_date: 2018-09-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-09-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19130-1:2018(E)
+  review_decision_notes: Authoritative reference changed from ISO/TS 19130:2010 to
+    ISO 19130-1:2018(E), 3.62. Lineage source added as ISO/TS 19130:2010(E)
+  review_status: final
+  terms:
+  - designation: 시각 중심
+    normative_status: preferred
+    type: expression
+  - designation: projection centre
+    type: expression
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 7989b757-e61c-572a-8d3d-9390df3988a7
+status: valid

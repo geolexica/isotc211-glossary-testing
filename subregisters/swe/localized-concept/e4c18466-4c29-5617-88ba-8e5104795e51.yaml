@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: ed99aa
+    tree:
+      ed99aa:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40115.html
+            ref: ISO 19125-2:2004
+          country_code: swe
+          date_accepted: 2004-08-01 00:00:00+00:00
+          definition: objekt som representerar en förekomst av en geografisk företeelse
+          entry_status: valid
+          examples: []
+          id: 203
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: geografiskt objekt
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-08-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  country_code: swe
+  definition: objekt som representerar en förekomst av en geografisk företeelse
+  examples: []
+  id: 203
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: geografiskt objekt
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: e4c18466-4c29-5617-88ba-8e5104795e51
+status: valid

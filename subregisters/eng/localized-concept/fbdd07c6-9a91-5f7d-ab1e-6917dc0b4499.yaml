@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 40a6f6
+    tree:
+      40a6f6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128:2005
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: portrayal of geographic information as a digital image file
+            suitable for display on a computer screen
+          entry_status: valid
+          examples: []
+          id: 282
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: map
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  definition: portrayal of geographic information as a digital image file suitable
+    for display on a computer screen
+  examples: []
+  id: 282
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: map
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: fbdd07c6-9a91-5f7d-ab1e-6917dc0b4499
+status: valid

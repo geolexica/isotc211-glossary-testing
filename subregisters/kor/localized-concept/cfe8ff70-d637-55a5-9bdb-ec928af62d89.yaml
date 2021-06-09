@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 66ef53
+    tree:
+      66ef53:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.40
+            link: https://www.iso.org/standard/59164.html
+            ref: ISO 19101-1:2014
+          date_accepted: 2014-11-01 00:00:00+00:00
+          definition: 네트워크를 통해 접속가능한 정보 및 서비스
+          entry_status: valid
+          examples: []
+          id: 1435
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 월드와이드웹
+            normative_status: preferred
+            type: expression
+          - designation: Web
+            type: expression
+        parents: []
+        timeCreated: 2014-11-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.40
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  definition: 네트워크를 통해 접속가능한 정보 및 서비스
+  examples: []
+  id: 1435
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 월드와이드웹
+    normative_status: preferred
+    type: expression
+  - designation: Web
+    type: expression
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: cfe8ff70-d637-55a5-9bdb-ec928af62d89
+status: valid

@@ -1,0 +1,60 @@
+data:
+  _revisions:
+    current: 5f042d
+    tree:
+      5f042d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: заявление, содержащее всю информацию о реализации и соответствующей
+            системе тестирования, которая позволяет испытательной лаборатории исполнить
+            соответствующий тестовый модуль с этой реализацией
+          entry_status: valid
+          examples: []
+          id: 237
+          language_code: rus
+          notes:
+          - В типичном случае дополнительная информация обеспечивает детальные данные
+            об организации и хранении понятий в тестируемой системе, а также о средствах
+            доступа к этой системе и ее модификации
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: дополнительная информация о реализации для тестирования
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: заявление, содержащее всю информацию о реализации и соответствующей
+    системе тестирования, которая позволяет испытательной лаборатории исполнить соответствующий
+    тестовый модуль с этой реализацией
+  examples: []
+  id: 237
+  language_code: rus
+  notes:
+  - В типичном случае дополнительная информация обеспечивает детальные данные об организации
+    и хранении понятий в тестируемой системе, а также о средствах доступа к этой системе
+    и ее модификации
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: дополнительная информация о реализации для тестирования
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 0c8da5e9-e6e8-57fa-9ffb-17c09b1aceac
+status: valid

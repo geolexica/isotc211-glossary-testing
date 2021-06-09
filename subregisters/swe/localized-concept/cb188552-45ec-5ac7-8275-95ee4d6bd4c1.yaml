@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 9afaea
+    tree:
+      9afaea:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42180.html
+            ref: ISO 9000:2005
+          country_code: swe
+          date_accepted: 2012-10-15 00:00:00+00:00
+          definition: del av kvalitetsledning inriktad mot att uppfylla kvalitetskrav
+          entry_status: valid
+          examples: []
+          id: 1372
+          language_code: swe
+          lineage_source: ISO/TS 19158:2012, 4.9
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: kvalitetsstyrning
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  country_code: swe
+  definition: del av kvalitetsledning inriktad mot att uppfylla kvalitetskrav
+  examples: []
+  id: 1372
+  language_code: swe
+  lineage_source: ISO/TS 19158:2012, 4.9
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: kvalitetsstyrning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: cb188552-45ec-5ac7-8275-95ee4d6bd4c1
+status: valid

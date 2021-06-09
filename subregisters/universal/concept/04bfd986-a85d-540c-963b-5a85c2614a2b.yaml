@@ -1,0 +1,17 @@
+data:
+  identifier: '405'
+  localizedConcepts:
+    ara: e8ab2fc0-3ca8-5d0d-982b-7ad5adc563dd
+    deu: 8c5ecdc0-f606-5288-bceb-7c2e761b05e3
+    eng: ce350f8e-e3f0-511a-a5f9-d496fd5046f8
+    fin: e8f3c8fb-4efb-569c-b3c1-e3389ae8a682
+    fra: aef5e06b-5a26-5c57-931c-ebf9eed25b98
+    kor: 0773f448-6462-5966-ba08-e8532cc5eeda
+    pol: 2101d1e7-ef8d-5213-8f77-25739e446c8f
+    rus: 86ef9730-5c9f-5758-b7ac-87d2b14ef611
+    spa: 170da1e5-3ba9-5edc-a147-14565aa8b4a9
+    swe: 54eb145d-371b-5196-a2b9-bea01d3459da
+    zho: 9a4c32e5-1285-575d-b525-2c517357efaf
+dateAccepted: 2018-11-17
+id: 04bfd986-a85d-540c-963b-5a85c2614a2b
+status: valid

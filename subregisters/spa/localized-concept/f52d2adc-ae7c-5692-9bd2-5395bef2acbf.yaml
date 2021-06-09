@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 03f6de
+    tree:
+      03f6de:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.5'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: registro instantáneo de una imagen en un cuadro determinado
+          entry_status: valid
+          examples: []
+          id: 1380
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: registro de área
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: registro instantáneo de una imagen en un cuadro determinado
+  examples: []
+  id: 1380
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: registro de área
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: f52d2adc-ae7c-5692-9bd2-5395bef2acbf
+status: valid

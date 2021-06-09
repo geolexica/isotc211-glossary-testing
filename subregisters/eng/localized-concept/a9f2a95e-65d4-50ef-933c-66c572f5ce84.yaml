@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 26a1b8
+    tree:
+      26a1b8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: determination of the values of a coverage at a direct position
+            within the domain of the coverage
+          entry_status: valid
+          examples: []
+          id: 159
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: evaluation<coverage>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: determination of the values of a coverage at a direct position within
+    the domain of the coverage
+  examples: []
+  id: 159
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: evaluation<coverage>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: a9f2a95e-65d4-50ef-933c-66c572f5ce84
+status: valid

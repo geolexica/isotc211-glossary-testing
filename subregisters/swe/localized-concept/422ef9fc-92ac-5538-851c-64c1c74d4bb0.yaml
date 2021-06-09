@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: e806ca
+    tree:
+      e806ca:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          country_code: swe
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: objekt tillhörande en viss objekttyp eller klass
+          entry_status: valid
+          examples: []
+          id: 244
+          language_code: swe
+          notes: []
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: instans
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  country_code: swe
+  definition: objekt tillhörande en viss objekttyp eller klass
+  examples: []
+  id: 244
+  language_code: swe
+  notes: []
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: instans
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 422ef9fc-92ac-5538-851c-64c1c74d4bb0
+status: valid

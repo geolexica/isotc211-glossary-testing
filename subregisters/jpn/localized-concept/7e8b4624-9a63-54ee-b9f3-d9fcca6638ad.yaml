@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 86a59b
+    tree:
+      86a59b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26017.html
+            ref: ISO 19112:2003
+          date_accepted: 2003-10-15 00:00:00+00:00
+          definition: 実世界における位置を識別するための体系。
+          entry_status: valid
+          examples: []
+          id: 422
+          language_code: jpn
+          lineage_source: JIS X 7112
+          notes: []
+          release: '1'
+          terms:
+          - designation: 空間参照系
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  definition: 実世界における位置を識別するための体系。
+  examples: []
+  id: 422
+  language_code: jpn
+  lineage_source: JIS X 7112
+  notes: []
+  release: '1'
+  terms:
+  - designation: 空間参照系
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: 7e8b4624-9a63-54ee-b9f3-d9fcca6638ad
+status: valid

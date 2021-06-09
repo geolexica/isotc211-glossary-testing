@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: d67957
+    tree:
+      d67957:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128:2005
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: a particular instance of a service
+          entry_status: valid
+          examples: []
+          id: 404
+          language_code: eng
+          notes: []
+          release: '1'
+          terms:
+          - designation: server
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  definition: a particular instance of a service
+  examples: []
+  id: 404
+  language_code: eng
+  notes: []
+  release: '1'
+  terms:
+  - designation: server
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: eac029e3-444e-51c6-94ee-f3f2d00e7ac5
+status: valid

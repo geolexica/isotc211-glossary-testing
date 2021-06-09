@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 8127ba
+    tree:
+      8127ba:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (1994)
+            ref: 'Jensen et al. '
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: aika, jolloin seikka on tosi abstrahoidussa todellisuudessa
+          entry_status: valid
+          examples: []
+          id: 487
+          language_code: fin
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: voimassaoloaika
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (1994)
+    ref: 'Jensen et al. '
+  definition: aika, jolloin seikka on tosi abstrahoidussa todellisuudessa
+  examples: []
+  id: 487
+  language_code: fin
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: voimassaoloaika
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 6a135bcd-2ef3-57c8-9201-6520b491fc5c
+status: valid

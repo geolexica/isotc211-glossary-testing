@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: d45f86
+    tree:
+      d45f86:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: قواعد رسمية لوصف الفرضية
+          entry_status: valid
+          examples: []
+          id: 808
+          language_code: ara
+          notes: []
+          release: '2'
+          terms:
+          - designation: عبارة فرضية
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: قواعد رسمية لوصف الفرضية
+  examples: []
+  id: 808
+  language_code: ara
+  notes: []
+  release: '2'
+  terms:
+  - designation: عبارة فرضية
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 7e4ed0e5-276b-5f10-abb9-bf39398368ef
+status: valid

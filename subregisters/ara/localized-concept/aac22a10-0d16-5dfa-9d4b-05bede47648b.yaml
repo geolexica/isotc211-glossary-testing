@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: bd497e
+    tree:
+      bd497e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/44075.html
+            ref: ISO 19111-2:2009
+          date_accepted: 2009-08-15 00:00:00+00:00
+          date_amended: 2019-01-31 00:00:00+00:00
+          definition: نظام إحداثيات مرجعي مركَّب بحيث ان المكون الرئيس لنظام الإحداثيات
+            المرجعي هو نظام احداثيات مرجعي ذو متغير والاخر نظام إحداثيات مرجعي مكاني
+          entry_status: superseded
+          examples: []
+          id: 844
+          language_code: ara
+          notes:
+          - المعتاد هو أن يكون المكون المكاني "أفقياً" ويكون المكوِّن البارامتري "رأسيا"
+          release: '-2'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19111:2019(E)
+          review_decision_notes: This entry is superseded by the entry for spatio-parametric
+            coordinate reference system in ISO 19111:2019(E)
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: نظام إحداثيات مرجعي مكاني- ذو متغير
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2009-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/44075.html
+    ref: ISO 19111-2:2009
+  date_amended: 2019-01-31 00:00:00+00:00
+  definition: نظام إحداثيات مرجعي مركَّب بحيث ان المكون الرئيس لنظام الإحداثيات المرجعي
+    هو نظام احداثيات مرجعي ذو متغير والاخر نظام إحداثيات مرجعي مكاني
+  examples: []
+  id: 844
+  language_code: ara
+  notes:
+  - المعتاد هو أن يكون المكون المكاني "أفقياً" ويكون المكوِّن البارامتري "رأسيا"
+  release: '-2'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19111:2019(E)
+  review_decision_notes: This entry is superseded by the entry for spatio-parametric
+    coordinate reference system in ISO 19111:2019(E)
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: نظام إحداثيات مرجعي مكاني- ذو متغير
+    normative_status: null
+    type: expression
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: aac22a10-0d16-5dfa-9d4b-05bede47648b
+status: superseded

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 9cfd0f
+    tree:
+      9cfd0f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.2'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: relación legal de una persona (llamada representante) que actua
+            en nombre de otra persona, compañía o gobierno (llamado titular)
+          entry_status: valid
+          examples: []
+          id: 1207
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: representación
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.2'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: relación legal de una persona (llamada representante) que actua en nombre
+    de otra persona, compañía o gobierno (llamado titular)
+  examples: []
+  id: 1207
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: representación
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 1d4a1f5e-4333-582d-982e-930ce7c2d559
+status: valid

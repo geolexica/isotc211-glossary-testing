@@ -1,0 +1,61 @@
+data:
+  _revisions:
+    current: c1603f
+    tree:
+      c1603f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.9'
+            link: https://www.iso.org/standard/32566.html
+            ref: ISO 19148:2012
+          date_accepted: 2012-02-15 00:00:00+00:00
+          definition: 1-мерный объект, который служит осью, по которой выполняется
+            линейная привязка
+          entry_status: valid
+          examples:
+          - Объект (4.4), например, “дорога”; геометрия кривой; топологический простейший
+            элемент направленного ребра
+          id: 1073
+          language_code: rus
+          notes:
+          - Также известен как криволинейный элемент.
+          release: '3'
+          review_date: 2019-11-22 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: линейный элемент
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  definition: 1-мерный объект, который служит осью, по которой выполняется линейная
+    привязка
+  examples:
+  - Объект (4.4), например, “дорога”; геометрия кривой; топологический простейший
+    элемент направленного ребра
+  id: 1073
+  language_code: rus
+  notes:
+  - Объект (4.4), например, “дорога”; геометрия кривой; топологический простейший
+    элемент направленного ребра
+  release: '3'
+  review_date: 2019-11-22 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: линейный элемент
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 23f2d5d0-f140-5189-93ef-6a874724cf89
+status: valid

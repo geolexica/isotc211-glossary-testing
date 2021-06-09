@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: f47140
+    tree:
+      f47140:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: primitive géométrique tridimensionnelle, représentant l'image
+            continue d'une région dans un espace Euclidien tridimensionnel
+          entry_status: valid
+          examples: []
+          id: 416
+          language_code: fra
+          notes: []
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: solide
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  definition: primitive géométrique tridimensionnelle, représentant l'image continue
+    d'une région dans un espace Euclidien tridimensionnel
+  examples: []
+  id: 416
+  language_code: fra
+  notes: []
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: solide
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 462cb808-bcc6-5770-88c4-e75d80b5dead
+status: valid

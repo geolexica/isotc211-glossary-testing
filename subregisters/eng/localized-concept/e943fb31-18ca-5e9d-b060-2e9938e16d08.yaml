@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 3d9dbc
+    tree:
+      3d9dbc:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.71'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: system that processes the SONAR signals to determine the geopositions
+            of objects sensed by SONAR sensors
+          entry_status: valid
+          examples: []
+          id: 1419
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: SONAR processing system
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.71'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: system that processes the SONAR signals to determine the geopositions
+    of objects sensed by SONAR sensors
+  examples: []
+  id: 1419
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: SONAR processing system
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: e943fb31-18ca-5e9d-b060-2e9938e16d08
+status: valid

@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 047cc7
+    tree:
+      047cc7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: processus de suivre un itinéraire
+          entry_status: valid
+          examples: []
+          id: 390
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: cheminement d'itinéraire
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  definition: processus de suivre un itinéraire
+  examples: []
+  id: 390
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: cheminement d'itinéraire
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: c6188b9b-a448-5a03-8a01-a26ac32552eb
+status: valid

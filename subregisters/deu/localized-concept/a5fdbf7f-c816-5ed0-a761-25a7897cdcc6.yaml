@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 0aa406
+    tree:
+      0aa406:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128:2005
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: Ergebnis einer Operation, das von einem Server an einen Client
+            zurückgegeben wird
+          entry_status: valid
+          examples: []
+          id: 384
+          language_code: deu
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: 'Antwort (Syn.: Ergebnis)'
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  definition: Ergebnis einer Operation, das von einem Server an einen Client zurückgegeben
+    wird
+  examples: []
+  id: 384
+  language_code: deu
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: 'Antwort (Syn.: Ergebnis)'
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: a5fdbf7f-c816-5ed0-a761-25a7897cdcc6
+status: valid

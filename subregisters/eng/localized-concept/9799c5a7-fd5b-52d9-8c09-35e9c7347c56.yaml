@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 9e62cd
+    tree:
+      9e62cd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.28'
+            link: https://www.iso.org/standard/60080.html
+            ref: ISO/TS 19159-1:2014
+          date_accepted: 2014-07-15 00:00:00+00:00
+          definition: measurement standard designated for the calibration of other
+            measurement standards for quantities of a given kind in a given organization
+            or at a given location
+          entry_status: valid
+          examples: []
+          id: 1475
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: reference standard
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-07-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.28'
+    link: https://www.iso.org/standard/60080.html
+    ref: ISO/TS 19159-1:2014
+  definition: measurement standard designated for the calibration of other measurement
+    standards for quantities of a given kind in a given organization or at a given
+    location
+  examples: []
+  id: 1475
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: reference standard
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 9799c5a7-fd5b-52d9-8c09-35e9c7347c56
+status: valid

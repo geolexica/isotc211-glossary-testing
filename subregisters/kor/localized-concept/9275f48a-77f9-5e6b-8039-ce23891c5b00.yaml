@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 55e86a
+    tree:
+      55e86a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2007-11-01 00:00:00+00:00
+          definition: 본초 자오선, 다른 자오선의 경도 정량화에 사용되는 기준 자오선
+          entry_status: valid
+          examples: []
+          id: 505
+          language_code: kor
+          lineage_source: KS X ISO 19111
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: 0도 자오선
+            normative_status: admitted
+            type: expression
+        parents: []
+        timeCreated: 2007-11-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  definition: 본초 자오선, 다른 자오선의 경도 정량화에 사용되는 기준 자오선
+  examples: []
+  id: 505
+  language_code: kor
+  lineage_source: KS X ISO 19111
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: 0도 자오선
+    normative_status: admitted
+    type: expression
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 9275f48a-77f9-5e6b-8039-ce23891c5b00
+status: valid

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 38bf05
+    tree:
+      38bf05:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.30'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: component of the SONAR system which receives the sound echo
+            and converts it to an electric signal
+          entry_status: valid
+          examples: []
+          id: 1392
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: hydrophone<SONAR>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.30'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: component of the SONAR system which receives the sound echo and converts
+    it to an electric signal
+  examples: []
+  id: 1392
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: hydrophone<SONAR>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 5733bbf8-db6a-5a7d-b2e0-be7bcee4276b
+status: valid

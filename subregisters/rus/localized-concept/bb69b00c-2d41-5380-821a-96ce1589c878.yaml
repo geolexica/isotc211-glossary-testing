@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: f017f3
+    tree:
+      f017f3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/20057.html
+            ref: ISO 1087-1:2000
+          date_accepted: 2008-11-15 00:00:00+00:00
+          definition: термин, оцененный по шкале рейтинга приемлемости термина как
+            синоним предпочтительного термина
+          entry_status: valid
+          examples: []
+          id: 10
+          language_code: rus
+          lineage_source: ISO/TS 19104:2008
+          lineage_source_similarity: 1
+          notes: []
+          release: '2'
+          terms:
+          - designation: допустимый термин
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-11-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  definition: термин, оцененный по шкале рейтинга приемлемости термина как синоним
+    предпочтительного термина
+  examples: []
+  id: 10
+  language_code: rus
+  lineage_source: ISO/TS 19104:2008
+  lineage_source_similarity: 1
+  notes: []
+  release: '2'
+  terms:
+  - designation: допустимый термин
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: bb69b00c-2d41-5380-821a-96ce1589c878
+status: valid

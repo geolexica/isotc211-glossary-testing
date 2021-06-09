@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: 3c8c15
+    tree:
+      3c8c15:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          country_code: swe
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: anordning avsedd för transport på marken
+          entry_status: valid
+          examples: []
+          id: 745
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes:
+          - Includes pedestrians. See ISO 14825. In this International Standard, vehicle
+            can be replaced by traveller without any change of intent.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: fordon
+            normative_status: preferred
+            type: expression
+          - designation: traveller
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  country_code: swe
+  definition: anordning avsedd för transport på marken
+  examples: []
+  id: 745
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes:
+  - Includes pedestrians. See ISO 14825. In this International Standard, vehicle can
+    be replaced by traveller without any change of intent.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: fordon
+    normative_status: preferred
+    type: expression
+  - designation: traveller
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 1d15b353-6848-50aa-b7f8-191eeac6f278
+status: valid

@@ -1,0 +1,41 @@
+data:
+  _revisions:
+    current: 1f1e12
+    tree:
+      1f1e12:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: objekt sammensat af et sæt af geometriske værdipar
+          examples: []
+          id: 757
+          language_code: dan
+          notes: []
+          release: '1'
+          terms:
+          - designation: geometrisk værdiobjekt
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: objekt sammensat af et sæt af geometriske værdipar
+  examples: []
+  id: 757
+  language_code: dan
+  notes: []
+  release: '1'
+  terms:
+  - designation: geometrisk værdiobjekt
+    normative_status: null
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: a9094bf9-6749-5a60-ac60-b28873cb4f29
+status: valid

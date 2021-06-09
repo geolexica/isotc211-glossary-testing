@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 3fc615
+    tree:
+      3fc615:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.76'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: Teknik SONAR yang bertujuan bagi mendapatkan imej dasar laut
+            menggunakan pemerun gema berbilang alur/sisi/tunggal.
+          entry_status: valid
+          examples: []
+          id: 1423
+          language_code: msa
+          notes:
+          - Sweep sounding is commonly called multi-channel echosounding (MCES).
+          release: '3'
+          terms:
+          - designation: sapuan SONAR
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.76'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: Teknik SONAR yang bertujuan bagi mendapatkan imej dasar laut menggunakan
+    pemerun gema berbilang alur/sisi/tunggal.
+  examples: []
+  id: 1423
+  language_code: msa
+  notes:
+  - Sweep sounding is commonly called multi-channel echosounding (MCES).
+  release: '3'
+  terms:
+  - designation: sapuan SONAR
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: b9c5af6b-5008-5c46-8c51-e72ab3afcb22
+status: valid

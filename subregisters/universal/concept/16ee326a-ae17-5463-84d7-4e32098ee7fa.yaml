@@ -1,0 +1,17 @@
+data:
+  identifier: '433'
+  localizedConcepts:
+    ara: 3959cb10-d329-55fe-a5df-2597c4937fa1
+    eng: 5b377c3c-d5a0-5858-88ea-cdd6c011fbb7
+    fin: ffa52a05-4f1f-5c49-b5fe-7750db66b128
+    fra: da6beb1e-32cc-5ec5-94cf-f46733d598a7
+    jpn: 9c0b612b-32e3-58d1-aa0d-12fc12476b76
+    kor: f5249f9b-c339-55f5-9c51-c18ca964f534
+    pol: 3044a06d-2fab-50e8-80c5-571a5f600081
+    rus: 4d8e1f78-9985-5cd3-9098-4f8b07b3b957
+    spa: 2efe2de4-96fb-56bd-99a6-75b5abc553d0
+    swe: 7b8304a1-0af2-534a-8840-6832114d1548
+    zho: aeaf50d6-be32-504c-bae2-db34c89b0151
+dateAccepted: 2018-11-17
+id: 16ee326a-ae17-5463-84d7-4e32098ee7fa
+status: valid

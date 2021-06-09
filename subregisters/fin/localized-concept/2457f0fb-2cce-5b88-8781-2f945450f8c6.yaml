@@ -1,0 +1,69 @@
+data:
+  _revisions:
+    current: 3a6b2a
+    tree:
+      3a6b2a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.29'
+            link: https://www.iso.org/standard/46226.html
+            ref: ISO 19117:2012
+          date_accepted: 2005-06-01 00:00:00+00:00
+          definition: paikkatietokohteen sijaintia, geometriaa tai topologiaa kuvaileva
+            ominaisuus
+          entry_status: valid
+          examples: []
+          id: 418
+          language_code: fin
+          lineage_source: ISO 19117:2005
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2009-11-25 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2012-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19117:2012
+          review_decision_notes: Authoritative reference changed from ISO 19117:2005
+            to ISO 19117:2012. Lineage source added as ISO 19117:2005.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: sijaintiominaisuus
+            normative_status: preferred
+            type: expression
+          - designation: spatiaalinen ominaisuus
+            type: expression
+        parents: []
+        timeCreated: 2005-06-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.29'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  definition: paikkatietokohteen sijaintia, geometriaa tai topologiaa kuvaileva ominaisuus
+  examples: []
+  id: 418
+  language_code: fin
+  lineage_source: ISO 19117:2005
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2009-11-25 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2012-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19117:2012
+  review_decision_notes: Authoritative reference changed from ISO 19117:2005 to ISO
+    19117:2012. Lineage source added as ISO 19117:2005.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: sijaintiominaisuus
+    normative_status: preferred
+    type: expression
+  - designation: spatiaalinen ominaisuus
+    type: expression
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 2457f0fb-2cce-5b88-8781-2f945450f8c6
+status: valid

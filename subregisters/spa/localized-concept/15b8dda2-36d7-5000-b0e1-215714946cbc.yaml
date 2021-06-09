@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: ed91ae
+    tree:
+      ed91ae:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.4
+            link: https://www.iso.org/standard/32563.html
+            ref: ISO 19145:2013
+          date_accepted: 2013-02-15 00:00:00+00:00
+          definition: servicio que invoca un conversor
+          entry_status: valid
+          examples: []
+          id: 1162
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: servicio de conversión
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2013-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.4
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  definition: servicio que invoca un conversor
+  examples: []
+  id: 1162
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: servicio de conversión
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 15b8dda2-36d7-5000-b0e1-215714946cbc
+status: valid

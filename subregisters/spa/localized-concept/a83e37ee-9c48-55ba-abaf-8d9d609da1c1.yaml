@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 7d4233
+    tree:
+      7d4233:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: asociación de objetos geográficos caracterizada por una referencia
+            al tiempo o por una restricción temporal
+          entry_status: valid
+          examples: []
+          id: 447
+          language_code: spa
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: asociación de objetos geográficos temporales
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: asociación de objetos geográficos caracterizada por una referencia al
+    tiempo o por una restricción temporal
+  examples: []
+  id: 447
+  language_code: spa
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: asociación de objetos geográficos temporales
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: a83e37ee-9c48-55ba-abaf-8d9d609da1c1
+status: valid

@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: aa5c48
+    tree:
+      aa5c48:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128:2005
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: podstawowa jednostka informacji geograficznej, jaka może być
+            żądana z serwera w postaci mapy
+          examples: []
+          id: 267
+          language_code: pol
+          lineage_source: PN-EN-ISO 19128
+          notes: []
+          release: '1'
+          terms:
+          - designation: warstwa
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  definition: podstawowa jednostka informacji geograficznej, jaka może być żądana
+    z serwera w postaci mapy
+  examples: []
+  id: 267
+  language_code: pol
+  lineage_source: PN-EN-ISO 19128
+  notes: []
+  release: '1'
+  terms:
+  - designation: warstwa
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: fbb568a5-eb13-54e0-b2c7-f7f91aaccef6
+status: valid

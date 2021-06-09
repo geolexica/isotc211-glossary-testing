@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: ae46a5
+    tree:
+      ae46a5:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: objekti, joka kuvaa joukkoa sijaintipisteitä avaruudessa ja
+            ajassa
+          entry_status: valid
+          examples: []
+          id: 424
+          language_code: fin
+          lineage_source: Ei lähdettä, käännetty
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: spatiotemporaalinen objekti
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: objekti, joka kuvaa joukkoa sijaintipisteitä avaruudessa ja ajassa
+  examples: []
+  id: 424
+  language_code: fin
+  lineage_source: Ei lähdettä, käännetty
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: spatiotemporaalinen objekti
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: b65d7e3a-93a8-52a7-9ba9-137ab74e502b
+status: valid

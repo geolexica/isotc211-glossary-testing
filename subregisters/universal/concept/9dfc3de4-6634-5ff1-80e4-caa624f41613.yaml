@@ -1,0 +1,14 @@
+data:
+  identifier: '888'
+  localizedConcepts:
+    ara: 70d71588-7a14-5193-886d-ee123a6c71f6
+    deu: 00a1467e-5257-5cfc-a5bd-25fe7c1cc255
+    eng: 13bb8ffe-4233-5c03-88f2-96bd681a1857
+    kor: 7db7c88b-8b91-5c91-97d2-3f69b48bd289
+    msa: b94b575c-f93d-56a1-8de0-3aafd7bad1cb
+    rus: 53ad4d7c-c458-5b1a-8bf5-f44695fbddba
+    spa: bb4b7a96-2c38-5a20-9be3-e78cd2c20d8e
+    swe: 728d2aea-9cc9-5328-9e5a-3200ba2a4d95
+dateAccepted: 2018-11-17
+id: 9dfc3de4-6634-5ff1-80e4-caa624f41613
+status: valid

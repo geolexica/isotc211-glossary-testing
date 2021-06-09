@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: 071f19
+    tree:
+      071f19:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: PDI
+          authoritative_source:
+            clause: 1.7.2, modified
+            link: https://www.iso.org/standard/57284.html
+            ref: ISO 14721:2012
+          date_accepted: 2018-05-01 00:00:00+00:00
+          definition: information which is necessary for adequate preservation of
+            the content information and which can be categorized as provenance, reference,
+            fixity, context, and access rights Information
+          entry_status: valid
+          examples: []
+          id: 2224
+          language_code: eng
+          notes: []
+          release: '5'
+          review_date: 2018-05-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-05-01 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19165-1:2018(E)
+          review_status: final
+          terms:
+          - designation: preservation description information
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2018-05-01 00:00:00+00:00
+  abbrev: PDI
+  authoritativeSource:
+  - clause: 1.7.2, modified
+    link: https://www.iso.org/standard/57284.html
+    ref: ISO 14721:2012
+  definition: information which is necessary for adequate preservation of the content
+    information and which can be categorized as provenance, reference, fixity, context,
+    and access rights Information
+  examples: []
+  id: 2224
+  language_code: eng
+  notes: []
+  release: '5'
+  review_date: 2018-05-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-05-01 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19165-1:2018(E)
+  review_status: final
+  terms:
+  - designation: preservation description information
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: 74683254-fda7-5afd-8eff-109e569c649b
+status: valid

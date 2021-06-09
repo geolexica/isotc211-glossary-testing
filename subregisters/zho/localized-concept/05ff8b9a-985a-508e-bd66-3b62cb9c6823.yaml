@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 3b92eb
+    tree:
+      3b92eb:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          abbrev: OSE
+          authoritative_source:
+            link: https://www.iso.org/standard/30726.html
+            ref: ISO/IEC TR 10000-1:1998
+          date_accepted: 2004-07-01 00:00:00+00:00
+          definition: 为实现应用、数据或人的互操作性和/或可移植性,由信息技术标准或专用标准规定的接口、服务和支持格式以及用户方面的综合集合。
+          entry_status: valid
+          examples: []
+          id: 316
+          language_code: zho
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: 开放系统环境
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-07-01 00:00:00+00:00
+  abbrev: OSE
+  authoritativeSource:
+  - link: https://www.iso.org/standard/30726.html
+    ref: ISO/IEC TR 10000-1:1998
+  definition: 为实现应用、数据或人的互操作性和/或可移植性,由信息技术标准或专用标准规定的接口、服务和支持格式以及用户方面的综合集合。
+  examples: []
+  id: 316
+  language_code: zho
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: 开放系统环境
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 05ff8b9a-985a-508e-bd66-3b62cb9c6823
+status: valid

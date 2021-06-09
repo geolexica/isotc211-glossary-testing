@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 708cfb
+    tree:
+      708cfb:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: 相关项（对象或值）的有限和有名称的集合。
+          entry_status: valid
+          examples: []
+          id: 366
+          language_code: zho
+          notes:
+          - 逻辑上，记录是<名称,项>对的集合。
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: 记录
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  definition: 相关项（对象或值）的有限和有名称的集合。
+  examples: []
+  id: 366
+  language_code: zho
+  notes:
+  - 逻辑上，记录是<名称,项>对的集合。
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: 记录
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 96b184d2-a24d-565b-85c4-e087097a65a6
+status: valid

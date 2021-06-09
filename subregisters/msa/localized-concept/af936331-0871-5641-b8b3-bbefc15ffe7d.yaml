@@ -1,0 +1,63 @@
+data:
+  _revisions:
+    current: cdc30a
+    tree:
+      cdc30a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.17'
+            link: https://www.iso.org/standard/53798.html
+            ref: ISO 19115-1:2014
+          date_accepted: 2014-04-01 00:00:00+00:00
+          definition: Aset atau cara yang dapat dikenal pasti untuk memenuhi keperluan.
+          entry_status: valid
+          examples:
+          - Dataset, datasetseries, service, document, initiative, software, person
+            or organization.
+          id: 1358
+          language_code: msa
+          notes: []
+          release: '3'
+          review_date: 2011-01-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2014-04-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19115-1:2014
+          review_decision_notes: This entry supersedes the entry for "resource" in
+            ISO 19115:2003
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: sumber
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-04-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  definition: Aset atau cara yang dapat dikenal pasti untuk memenuhi keperluan.
+  examples:
+  - Dataset, datasetseries, service, document, initiative, software, person or organization.
+  id: 1358
+  language_code: msa
+  notes:
+  - Dataset, datasetseries, service, document, initiative, software, person or organization.
+  release: '3'
+  review_date: 2011-01-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2014-04-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19115-1:2014
+  review_decision_notes: This entry supersedes the entry for "resource" in ISO 19115:2003
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: sumber
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-04-01 00:00:00+00:00
+id: af936331-0871-5641-b8b3-bbefc15ffe7d
+status: valid

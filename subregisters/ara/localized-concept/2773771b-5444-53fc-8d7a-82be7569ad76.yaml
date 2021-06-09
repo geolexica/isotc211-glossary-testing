@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 5903f4
+    tree:
+      5903f4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32554.html
+            ref: ISO 19136:2007
+          date_accepted: 2007-09-01 00:00:00+00:00
+          definition: مجموعة تشمل كل القيم التي يمكن لدالة ما أن تكون عليها مع تفاوت
+            المتغيرات القيمية فيها على امتداد مجالها
+          entry_status: valid
+          examples: []
+          id: 696
+          language_code: ara
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: نطاق
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  definition: مجموعة تشمل كل القيم التي يمكن لدالة ما أن تكون عليها مع تفاوت المتغيرات
+    القيمية فيها على امتداد مجالها
+  examples: []
+  id: 696
+  language_code: ara
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: نطاق
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 2773771b-5444-53fc-8d7a-82be7569ad76
+status: valid

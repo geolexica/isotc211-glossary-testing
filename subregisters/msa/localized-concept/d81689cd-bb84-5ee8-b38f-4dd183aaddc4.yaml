@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 6497f7
+    tree:
+      6497f7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.31'
+            link: https://www.iso.org/standard/46226.html
+            ref: ISO 19117:2012
+          date_accepted: 2012-12-15 00:00:00+00:00
+          definition: Tanda yang digunakan untuk melambangkan sesuatu
+          entry_status: valid
+          examples: []
+          id: 1273
+          language_code: msa
+          notes: []
+          release: '3'
+          terms:
+          - designation: simbol
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.31'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  definition: Tanda yang digunakan untuk melambangkan sesuatu
+  examples: []
+  id: 1273
+  language_code: msa
+  notes: []
+  release: '3'
+  terms:
+  - designation: simbol
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: d81689cd-bb84-5ee8-b38f-4dd183aaddc4
+status: valid

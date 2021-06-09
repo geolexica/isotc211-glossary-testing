@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 73bd35
+    tree:
+      73bd35:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: PRF
+          authoritative_source:
+            clause: '4.53'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: número de veces que un sistema (p.e. lidar) emite pulsos en
+            un periodo de tiempo dado, normalmente en kilohercios (kHz)
+          entry_status: valid
+          examples: []
+          id: 1565
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: frecuencia de repetición de pulsos
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  abbrev: PRF
+  authoritativeSource:
+  - clause: '4.53'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: número de veces que un sistema (p.e. lidar) emite pulsos en un periodo
+    de tiempo dado, normalmente en kilohercios (kHz)
+  examples: []
+  id: 1565
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: frecuencia de repetición de pulsos
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 0e2019eb-695e-5a79-b116-0a73365c9b0a
+status: valid

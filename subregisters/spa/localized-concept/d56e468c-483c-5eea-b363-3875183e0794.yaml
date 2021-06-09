@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: 7a1b0b
+    tree:
+      7a1b0b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.31'
+            link: https://www.iso.org/standard/45324.html
+            ref: ISO/IEC Guide 99:2007
+          date_accepted: 2014-07-15 00:00:00+00:00
+          definition: expresión de la relación entre la indicación y el correspondiente
+            valor cuantitativo medido
+          entry_status: valid
+          examples: []
+          id: 1448
+          language_code: spa
+          lineage_source: ISO/TS 19159-1:2014, 4.3
+          lineage_source_similarity: 1
+          notes:
+          - Una curva de calibración expresa una relación uno a uno que no proporciona
+            un resultado de la medición, ya que no tiene ninguna información sobre
+            la incertidumbre de la medición.
+          release: '3'
+          terms:
+          - designation: curva de calibración
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-07-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.31'
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  definition: expresión de la relación entre la indicación y el correspondiente valor
+    cuantitativo medido
+  examples: []
+  id: 1448
+  language_code: spa
+  lineage_source: ISO/TS 19159-1:2014, 4.3
+  lineage_source_similarity: 1
+  notes:
+  - Una curva de calibración expresa una relación uno a uno que no proporciona un
+    resultado de la medición, ya que no tiene ninguna información sobre la incertidumbre
+    de la medición.
+  release: '3'
+  terms:
+  - designation: curva de calibración
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: d56e468c-483c-5eea-b363-3875183e0794
+status: valid

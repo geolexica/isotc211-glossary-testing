@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 96223d
+    tree:
+      96223d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: sequence of periods of one of the types used in a calendar,
+            counted from a specified event
+          entry_status: valid
+          examples: []
+          id: 32
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: calendar era
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: sequence of periods of one of the types used in a calendar, counted
+    from a specified event
+  examples: []
+  id: 32
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: calendar era
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: ddd8e830-6875-567a-874b-c02f687da7e4
+status: valid

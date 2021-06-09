@@ -1,0 +1,47 @@
+data:
+  _revisions:
+    current: c1b1ff
+    tree:
+      c1b1ff:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.59'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: Perkakasan yang digunakan untuk mengesan dan merekodkan isyarat.
+          entry_status: valid
+          examples: []
+          id: 1567
+          language_code: msa
+          notes:
+          - In LIDAR and SONAR systems, the receiver detects and records reflected
+            pulse returns.
+          release: '3'
+          terms:
+          - designation: penerima
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.59'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: Perkakasan yang digunakan untuk mengesan dan merekodkan isyarat.
+  examples: []
+  id: 1567
+  language_code: msa
+  notes:
+  - In LIDAR and SONAR systems, the receiver detects and records reflected pulse returns.
+  release: '3'
+  terms:
+  - designation: penerima
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 25fce6e0-4da9-5260-8275-feac4b3f8f55
+status: valid

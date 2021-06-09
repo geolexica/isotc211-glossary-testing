@@ -1,0 +1,60 @@
+data:
+  _revisions:
+    current: 93965b
+    tree:
+      93965b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.57
+            link: https://www.iso.org/standard/66175.html
+            ref: ISO 19107:2019
+          date_accepted: 2019-12-02 00:00:00+00:00
+          definition: mapping between metric spaces that preserves the metric
+          entry_status: valid
+          examples: []
+          id: 2169
+          language_code: eng
+          notes:
+          - 'The formal definition is: \[f: X \rightarrow Y \ni \forall x,y \in X,
+            \textit{distance} (x,y) = \textit{distance} (f(x),f(y))\].'
+          release: '5'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19107:2019(E)
+          review_status: final
+          terms:
+          - designation: isometry <mathematics>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2019-12-02 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.57
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  definition: mapping between metric spaces that preserves the metric
+  examples: []
+  id: 2169
+  language_code: eng
+  notes:
+  - 'The formal definition is: \[f: X \rightarrow Y \ni \forall x,y \in X, \textit{distance}
+    (x,y) = \textit{distance} (f(x),f(y))\].'
+  release: '5'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19107:2019(E)
+  review_status: final
+  terms:
+  - designation: isometry <mathematics>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 36ebf76e-c026-517e-9ad1-e56d155b833a
+status: valid

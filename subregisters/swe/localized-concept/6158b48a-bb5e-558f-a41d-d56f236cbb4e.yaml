@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: eee3ba
+    tree:
+      eee3ba:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          country_code: swe
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: diskret skala där data indelas i grupper som har inbördes rangordning
+            men inte nödvändigtvis numeriska värden
+          entry_status: valid
+          examples: []
+          id: 322
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: 'ordinalskala
+
+
+              ordningsskala'
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  country_code: swe
+  definition: diskret skala där data indelas i grupper som har inbördes rangordning
+    men inte nödvändigtvis numeriska värden
+  examples: []
+  id: 322
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: 'ordinalskala
+
+
+      ordningsskala'
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 6158b48a-bb5e-558f-a41d-d56f236cbb4e
+status: valid

@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 2a4b5e
+    tree:
+      2a4b5e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32553.html
+            ref: ISO 19135:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: организация, которая ведет реестр по поручению его владельца
+          entry_status: valid
+          examples: []
+          id: 508
+          language_code: rus
+          lineage_source: Internet
+          notes:
+          - Например, в ИСО менеджер регистра исполняет функции по регистрации уполномоченных
+            органов, определенных  в директивах ИСО/МЭК
+          review_indicator: ''
+          terms:
+          - designation: менеджер реестра
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  definition: организация, которая ведет реестр по поручению его владельца
+  examples: []
+  id: 508
+  language_code: rus
+  lineage_source: Internet
+  notes:
+  - Например, в ИСО менеджер регистра исполняет функции по регистрации уполномоченных
+    органов, определенных  в директивах ИСО/МЭК
+  review_indicator: ''
+  terms:
+  - designation: менеджер реестра
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 82dd97b0-00d7-5f00-8f46-a1a179e9a0e3
+status: valid

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 57a18a
+    tree:
+      57a18a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: had yang dikenakan
+          entry_status: valid
+          examples: []
+          id: 734
+          language_code: msa
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: kekangan
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: had yang dikenakan
+  examples: []
+  id: 734
+  language_code: msa
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: kekangan
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 3f5ce89d-e98f-5b15-b8a5-25f9281ed7ef
+status: valid

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: dac24f
+    tree:
+      dac24f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128:2005
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: unit asas maklumat geografi yang boleh di bekalkan sebagai peta
+            dari pelayan
+          entry_status: valid
+          examples: []
+          id: 267
+          language_code: msa
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: lapisan
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  definition: unit asas maklumat geografi yang boleh di bekalkan sebagai peta dari
+    pelayan
+  examples: []
+  id: 267
+  language_code: msa
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: lapisan
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 1ac56478-1a7c-5cac-99df-6e7166720d58
+status: valid

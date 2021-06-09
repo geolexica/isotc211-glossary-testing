@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: 73caea
+    tree:
+      73caea:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.14
+            link: https://www.iso.org/standard/51206.html
+            ref: ISO 19152:2012
+          date_accepted: 2012-12-01 00:00:00+00:00
+          definition: parte registrada e identificada como constituyente de una parte
+            colectiva
+          entry_status: valid
+          examples: []
+          id: 1310
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: parte miembro
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.14
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  definition: parte registrada e identificada como constituyente de una parte colectiva
+  examples: []
+  id: 1310
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: parte miembro
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 93955970-4e2a-5359-9b5f-cddf8d9e9d94
+status: valid

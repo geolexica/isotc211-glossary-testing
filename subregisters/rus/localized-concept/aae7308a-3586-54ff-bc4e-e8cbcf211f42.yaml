@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: bc8d7b
+    tree:
+      bc8d7b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: PI
+          authoritative_source:
+            clause: '4.9'
+            link: https://www.iso.org/standard/32573.html
+            ref: ISO 19155:2012
+          date_accepted: 2012-11-01 00:00:00+00:00
+          definition: Ссылка, которая идентифицирует место
+          entry_status: valid
+          examples: []
+          id: 1337
+          language_code: rus
+          lineage_source: ISO 19155:2012
+          notes:
+          - на одно и то же место могут ссылаться несколько экземпляров Идентификаторов
+            Места. Каждый экземпляр будет связан с другой системы отсчета
+          release: '3'
+          terms:
+          - designation: Идентификатор Места
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-11-01 00:00:00+00:00
+  abbrev: PI
+  authoritativeSource:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  definition: Ссылка, которая идентифицирует место
+  examples: []
+  id: 1337
+  language_code: rus
+  lineage_source: ISO 19155:2012
+  notes:
+  - на одно и то же место могут ссылаться несколько экземпляров Идентификаторов Места.
+    Каждый экземпляр будет связан с другой системы отсчета
+  release: '3'
+  terms:
+  - designation: Идентификатор Места
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: aae7308a-3586-54ff-bc4e-e8cbcf211f42
+status: valid

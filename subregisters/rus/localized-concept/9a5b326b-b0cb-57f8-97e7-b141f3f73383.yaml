@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 73237e
+    tree:
+      73237e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/45020.html
+            ref: ISO/TS 19104:2008
+          date_accepted: 2008-11-15 00:00:00+00:00
+          definition: структурированная коллекция терминологических данных, относящихся
+            к одному понятию
+          entry_status: valid
+          examples: []
+          id: 455
+          language_code: rus
+          lineage_source: ISO/TS 19104:2008
+          notes: []
+          release: '2'
+          terms:
+          - designation: Терминологическая запись
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-11-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/45020.html
+    ref: ISO/TS 19104:2008
+  definition: структурированная коллекция терминологических данных, относящихся к
+    одному понятию
+  examples: []
+  id: 455
+  language_code: rus
+  lineage_source: ISO/TS 19104:2008
+  notes: []
+  release: '2'
+  terms:
+  - designation: Терминологическая запись
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 9a5b326b-b0cb-57f8-97e7-b141f3f73383
+status: valid

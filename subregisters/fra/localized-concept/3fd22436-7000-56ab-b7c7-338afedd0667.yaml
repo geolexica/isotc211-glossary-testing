@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: b01c80
+    tree:
+      b01c80:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: matériel informatique, logiciel et réseau de communication exigés
+            pour supporter une implémentation soumise à test
+          entry_status: valid
+          examples: []
+          id: 440
+          language_code: fra
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: système soumis à test
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: matériel informatique, logiciel et réseau de communication exigés pour
+    supporter une implémentation soumise à test
+  examples: []
+  id: 440
+  language_code: fra
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: système soumis à test
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 3fd22436-7000-56ab-b7c7-338afedd0667
+status: valid

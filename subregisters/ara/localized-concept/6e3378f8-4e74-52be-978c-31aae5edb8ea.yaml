@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 87f5af
+    tree:
+      87f5af:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: مجموعة من العمليات الحسابية تطبق على امثلة بيانية والتي تقيم
+            إلى صح او خطأ
+          entry_status: valid
+          examples: []
+          id: 807
+          language_code: ara
+          notes: []
+          release: '2'
+          terms:
+          - designation: فرضية
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: مجموعة من العمليات الحسابية تطبق على امثلة بيانية والتي تقيم إلى صح
+    او خطأ
+  examples: []
+  id: 807
+  language_code: ara
+  notes: []
+  release: '2'
+  terms:
+  - designation: فرضية
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 6e3378f8-4e74-52be-978c-31aae5edb8ea
+status: valid

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: ef8708
+    tree:
+      ef8708:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: عنصر هندسي بسيط أحادي البعد يمثل امتدادا زمنيا
+          entry_status: valid
+          examples: []
+          id: 330
+          language_code: ara
+          notes:
+          - المدة محددة بموضعين زمنيين مختلفين .
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: فترة
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: عنصر هندسي بسيط أحادي البعد يمثل امتدادا زمنيا
+  examples: []
+  id: 330
+  language_code: ara
+  notes:
+  - المدة محددة بموضعين زمنيين مختلفين .
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: فترة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 4946053b-14a4-5730-8bbf-8f4fbfb9261c
+status: valid

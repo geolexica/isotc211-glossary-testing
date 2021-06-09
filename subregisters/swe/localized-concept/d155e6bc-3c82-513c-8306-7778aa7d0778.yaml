@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: cc13c6
+    tree:
+      cc13c6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          country_code: swe
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: testmetod som är oberoende oavsett typ av implementering
+          entry_status: valid
+          examples: []
+          id: 4
+          language_code: swe
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: implementeringsoberoende testmetod
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  country_code: swe
+  definition: testmetod som är oberoende oavsett typ av implementering
+  examples: []
+  id: 4
+  language_code: swe
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: implementeringsoberoende testmetod
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: d155e6bc-3c82-513c-8306-7778aa7d0778
+status: valid

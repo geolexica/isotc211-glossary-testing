@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 156b54
+    tree:
+      156b54:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            clause: (1994)
+            ref: 'Jensen et al. '
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: Zeit, zu der eine Gegebenheit in der abstrakten Realität vorliegt
+          entry_status: valid
+          examples: []
+          id: 487
+          language_code: deu
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: gültige Zeit
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (1994)
+    ref: 'Jensen et al. '
+  definition: Zeit, zu der eine Gegebenheit in der abstrakten Realität vorliegt
+  examples: []
+  id: 487
+  language_code: deu
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: gültige Zeit
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 1f54f062-0d5f-5dae-8822-ef607e8dfd1b
+status: valid

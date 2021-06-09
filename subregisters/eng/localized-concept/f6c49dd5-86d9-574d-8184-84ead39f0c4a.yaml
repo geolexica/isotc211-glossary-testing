@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: b29fc8
+    tree:
+      b29fc8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: MSL
+          authoritative_source:
+            clause: Fifth Edition
+            ref: IHO Hydrographic Dictionary S-32
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: average height of the surface of the sea at a tide station for
+            all stages of the tide over a 19-year period, usually determined from
+            hourly height readings measured from a fixed predetermined reference level
+          entry_status: valid
+          examples: []
+          id: 1562
+          language_code: eng
+          lineage_source: ISO/TS 19130-2:2014, 4.43
+          lineage_source_similarity: '1'
+          notes: []
+          release: '3'
+          terms:
+          - designation: mean sea level
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  abbrev: MSL
+  authoritativeSource:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  definition: average height of the surface of the sea at a tide station for all stages
+    of the tide over a 19-year period, usually determined from hourly height readings
+    measured from a fixed predetermined reference level
+  examples: []
+  id: 1562
+  language_code: eng
+  lineage_source: ISO/TS 19130-2:2014, 4.43
+  lineage_source_similarity: '1'
+  notes: []
+  release: '3'
+  terms:
+  - designation: mean sea level
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: f6c49dd5-86d9-574d-8184-84ead39f0c4a
+status: valid

@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 000190
+    tree:
+      000190:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: توصيف بيانات ، مشفرة بلغة XML ، التي تصف الفرضية المحددة في
+            تنفيذ نظام هذا المقياس العالمي.
+          entry_status: valid
+          examples: []
+          id: 1019
+          language_code: ara
+          notes: []
+          release: '2'
+          terms:
+          - designation: قدرات فلترة ، لغة XML
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: توصيف بيانات ، مشفرة بلغة XML ، التي تصف الفرضية المحددة في تنفيذ نظام
+    هذا المقياس العالمي.
+  examples: []
+  id: 1019
+  language_code: ara
+  notes: []
+  release: '2'
+  terms:
+  - designation: قدرات فلترة ، لغة XML
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: fc114f48-4e05-5055-b46f-3d2fbec17463
+status: valid

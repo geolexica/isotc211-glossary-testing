@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: ff5617
+    tree:
+      ff5617:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (Adapted from)
+            link: https://www.iso.org/standard/32620.html
+            ref: 'ISO/IEC 19501:2005 '
+          date_accepted: 2005-07-15 00:00:00+00:00
+          definition: определение диапазона допустимых кардинальных значений (размера)
+            множества
+          entry_status: valid
+          examples: []
+          id: 304
+          language_code: rus
+          lineage_source: Internet
+          notes:
+          - 'Спецификации множественности могут указываться для ролей в пределах ассоциаций,
+            частей внутри композиций, повторов сообщений и в других целях. По сути,
+            множественность является подмножеством (возможно, бесконечным) неотрицательных
+            целых чисел.
+
+            См. для сравнения термин «кардинальное число»'
+          terms:
+          - designation: множественность <UML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/32620.html
+    ref: 'ISO/IEC 19501:2005 '
+  definition: определение диапазона допустимых кардинальных значений (размера) множества
+  examples: []
+  id: 304
+  language_code: rus
+  lineage_source: Internet
+  notes:
+  - 'Спецификации множественности могут указываться для ролей в пределах ассоциаций,
+    частей внутри композиций, повторов сообщений и в других целях. По сути, множественность
+    является подмножеством (возможно, бесконечным) неотрицательных целых чисел.
+
+    См. для сравнения термин «кардинальное число»'
+  terms:
+  - designation: множественность <UML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: e792f33d-06c1-5c78-b009-589e7dae1ca5
+status: valid

@@ -1,0 +1,17 @@
+data:
+  identifier: '443'
+  localizedConcepts:
+    ara: a98f0f3c-d8b7-5698-b007-a57af95fe405
+    deu: f17598db-6c05-5eec-8ce7-898a99cf953c
+    eng: df297e2d-a7c0-5c92-8ff3-5b76fcd4ddcd
+    fin: 1c6fe393-140a-5c72-ba5a-cdf688ad937f
+    fra: 8ba5b649-3f00-57d6-90ad-1d8378d58c13
+    kor: 2e911977-0a92-558a-877f-c1a17384ea96
+    pol: 55563fea-4d5d-5e55-9ea1-69ffb0a4bfa9
+    rus: 5dcf46bd-0389-5443-99e7-af7b40271983
+    spa: 275b2d27-4514-5206-a1c8-8ab6527d428b
+    swe: 7824f1d8-8855-56ca-b3a8-5c0ca0ec1bd5
+    zho: 5518327c-c40f-5da9-90b9-619293afbe9c
+dateAccepted: 2018-11-17
+id: 23ec0579-fc3b-5cb8-ae46-d386d8dc7217
+status: valid

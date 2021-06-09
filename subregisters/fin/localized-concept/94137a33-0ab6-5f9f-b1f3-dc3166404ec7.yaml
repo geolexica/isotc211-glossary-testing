@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: e8e87f
+    tree:
+      e8e87f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: äärellinen, järjestetty kokoelma yhteenliittyviä tietokohteita
+            (objekteja tai arvoja), jotka voivat toistua
+          entry_status: valid
+          examples: []
+          id: 403
+          language_code: fin
+          notes:
+          - Sekvenssi on joukko <tietokohde, offset?>-pareja. Tässä kansainvälisessä
+            standardissa käytetään LISP-syntaksia, jossa sekvenssit rajataan suluilla
+            ja sekvenssin elementit erotetaan toisistaan pilkuilla.
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: sekvenssi
+            normative_status: preferred
+            type: expression
+          - designation: jono
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  definition: äärellinen, järjestetty kokoelma yhteenliittyviä tietokohteita (objekteja
+    tai arvoja), jotka voivat toistua
+  examples: []
+  id: 403
+  language_code: fin
+  notes:
+  - Sekvenssi on joukko <tietokohde, offset?>-pareja. Tässä kansainvälisessä standardissa
+    käytetään LISP-syntaksia, jossa sekvenssit rajataan suluilla ja sekvenssin elementit
+    erotetaan toisistaan pilkuilla.
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: sekvenssi
+    normative_status: preferred
+    type: expression
+  - designation: jono
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 94137a33-0ab6-5f9f-b1f3-dc3166404ec7
+status: valid

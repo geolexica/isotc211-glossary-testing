@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 59e21b
+    tree:
+      59e21b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: paikkatietojakauman alkioihin funktion välityksellä liittyvien
+            ominaisuuden arvojen joukko
+          entry_status: valid
+          examples: []
+          id: 363
+          language_code: fin
+          lineage_source: Maanmittauslaitos
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: arvoväli <paikkatietojakauma>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: paikkatietojakauman alkioihin funktion välityksellä liittyvien ominaisuuden
+    arvojen joukko
+  examples: []
+  id: 363
+  language_code: fin
+  lineage_source: Maanmittauslaitos
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: arvoväli <paikkatietojakauma>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: c7aa6210-fba9-58e6-bea4-79666fffe09d
+status: valid

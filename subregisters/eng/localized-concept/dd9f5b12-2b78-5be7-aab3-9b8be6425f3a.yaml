@@ -1,0 +1,79 @@
+data:
+  _revisions:
+    current: 7840da
+    tree:
+      7840da:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.19
+            link: https://www.iso.org/standard/70882.html
+            ref: ISO 19116:2019
+          date_accepted: 2004-07-01 00:00:00+00:00
+          definition: parameters influencing the determination of coordinate values
+            by a positioning system
+          entry_status: valid
+          examples: []
+          id: 317
+          language_code: eng
+          lineage_source: ISO 19116:2004(E)
+          lineage_source_similarity: 1
+          notes:
+          - Measurements acquired in the field are affected by many instrumental and
+            environmental factors, including meteorological conditions, computational
+            methods and constraints, imperfect instrument construction, incomplete
+            instrument adjustment or calibration, and, in the case of optical measuring
+            systems, the personal bias of the observer.  Solutions for positions may
+            be affected by the geometric relationships of the observed data and/or
+            mathematical model employed in the processing software.
+          release: '1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of ISO 19116:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19116:2004
+            to ISO 19116:2019(E), 3.19. Lineage source added as ISO 19116:2004(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: operating conditions
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.19
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  definition: parameters influencing the determination of coordinate values by a positioning
+    system
+  examples: []
+  id: 317
+  language_code: eng
+  lineage_source: ISO 19116:2004(E)
+  lineage_source_similarity: 1
+  notes:
+  - Measurements acquired in the field are affected by many instrumental and environmental
+    factors, including meteorological conditions, computational methods and constraints,
+    imperfect instrument construction, incomplete instrument adjustment or calibration,
+    and, in the case of optical measuring systems, the personal bias of the observer.  Solutions
+    for positions may be affected by the geometric relationships of the observed data
+    and/or mathematical model employed in the processing software.
+  release: '1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of ISO 19116:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19116:2004 to ISO
+    19116:2019(E), 3.19. Lineage source added as ISO 19116:2004(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: operating conditions
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: dd9f5b12-2b78-5be7-aab3-9b8be6425f3a
+status: valid

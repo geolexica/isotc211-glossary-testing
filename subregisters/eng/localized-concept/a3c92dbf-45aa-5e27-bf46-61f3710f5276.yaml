@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 3f280c
+    tree:
+      3f280c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: modified
+            ref: Web Service Glossary
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: set of actions joined into the same unit of work, such that
+            the actions either succeed or fail as a unit
+          entry_status: valid
+          examples: []
+          id: 1257
+          language_code: eng
+          lineage_source: ISO 19153:2014, 4.49
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: transaction
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: modified
+    ref: Web Service Glossary
+  definition: set of actions joined into the same unit of work, such that the actions
+    either succeed or fail as a unit
+  examples: []
+  id: 1257
+  language_code: eng
+  lineage_source: ISO 19153:2014, 4.49
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: transaction
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: a3c92dbf-45aa-5e27-bf46-61f3710f5276
+status: valid

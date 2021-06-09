@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: a7cbb8
+    tree:
+      a7cbb8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: LDS - сервис
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: сервис, наличие которого зависит от местоположения клиента
+          entry_status: valid
+          examples: []
+          id: 279
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: сервис, зависящий от местоположения
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  abbrev: LDS - сервис
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: сервис, наличие которого зависит от местоположения клиента
+  examples: []
+  id: 279
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: сервис, зависящий от местоположения
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f4e7600b-ef6e-5cf0-b8bf-cf9536a690f1
+status: valid

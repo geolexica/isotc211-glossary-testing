@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: a75ccd
+    tree:
+      a75ccd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.16'
+            link: https://www.iso.org/standard/32566.html
+            ref: ISO 19148:2012
+          country_code: swe
+          date_accepted: 2012-02-15 00:00:00+00:00
+          definition: läge vars position specificeras med linjerelativ lägesbestämning
+          entry_status: valid
+          examples: []
+          id: 1175
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '3'
+          terms:
+          - designation: linjerelativt läge
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.16'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  country_code: swe
+  definition: läge vars position specificeras med linjerelativ lägesbestämning
+  examples: []
+  id: 1175
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '3'
+  terms:
+  - designation: linjerelativt läge
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: ca1d3a2a-c9a0-5cde-9a2c-c5ee6183a57b
+status: valid

@@ -1,0 +1,56 @@
+data:
+  _revisions:
+    current: e49a28
+    tree:
+      e49a28:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/44875.html
+            ref: ISO 19126:2009
+          country_code: swe
+          date_accepted: 2009-11-01 00:00:00+00:00
+          definition: begrepp som kan specificeras i detalj som en eller flera typer
+            av objektoperationer
+          entry_status: valid
+          examples:
+          - A "traffic flow" operation might return the number of persons or vehicles
+            expected to move on or through some kind of transportation feature during
+            a period of time specified as input to the operation.
+          id: 857
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '2'
+          terms:
+          - designation: objektoperationsbeskrivande begrepp
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-11-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  country_code: swe
+  definition: begrepp som kan specificeras i detalj som en eller flera typer av objektoperationer
+  examples:
+  - A "traffic flow" operation might return the number of persons or vehicles expected
+    to move on or through some kind of transportation feature during a period of time
+    specified as input to the operation.
+  id: 857
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes:
+  - A "traffic flow" operation might return the number of persons or vehicles expected
+    to move on or through some kind of transportation feature during a period of time
+    specified as input to the operation.
+  release: '2'
+  terms:
+  - designation: objektoperationsbeskrivande begrepp
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: af0a1394-bb4e-597a-a58b-1544f5b59119
+status: valid

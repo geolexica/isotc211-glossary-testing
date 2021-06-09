@@ -1,0 +1,70 @@
+data:
+  _revisions:
+    current: 5c52a1
+    tree:
+      5c52a1:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.14'
+            link: https://www.iso.org/standard/56734.html
+            ref: ISO 19103:2015
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: مواصفات نطاق قيمة محدد مع العمليات المسموح بإجرائها على القيم
+            في حدود هذا النطاق
+          entry_status: valid
+          examples:
+          - عدد صحيح , عدد حقيقي , عدد جبري , سلسلة , تاريخ , ونقطة SG (تحويل البيانات
+            إلى سلسلة من الرموز).
+          id: 123
+          language_code: ara
+          lineage_source: ISO/TS 19103:2005, 4.1.5
+          notes:
+          - أنواع البيانات تشمل الأنواع الأولية المحددة مسبقاً والأنواع التي يحددها
+            المستخدمون.
+          release: '1'
+          review_date: 2009-01-14 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-12-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19103:2015
+          review_decision_notes: Authoritative reference changed from ISO/TS 19103:2005
+            to ISO 19103:2015, 4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+          review_status: final
+          terms:
+          - designation: نوع البيانات
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  definition: مواصفات نطاق قيمة محدد مع العمليات المسموح بإجرائها على القيم في حدود
+    هذا النطاق
+  examples:
+  - عدد صحيح , عدد حقيقي , عدد جبري , سلسلة , تاريخ , ونقطة SG (تحويل البيانات إلى
+    سلسلة من الرموز).
+  id: 123
+  language_code: ara
+  lineage_source: ISO/TS 19103:2005, 4.1.5
+  notes:
+  - عدد صحيح , عدد حقيقي , عدد جبري , سلسلة , تاريخ , ونقطة SG (تحويل البيانات إلى
+    سلسلة من الرموز).
+  release: '1'
+  review_date: 2009-01-14 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-12-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19103:2015
+  review_decision_notes: Authoritative reference changed from ISO/TS 19103:2005 to
+    ISO 19103:2015, 4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+  review_status: final
+  terms:
+  - designation: نوع البيانات
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5c2ddc63-6399-56d0-80ea-c9581dcc0039
+status: valid

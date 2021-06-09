@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: 6f1198
+    tree:
+      6f1198:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40601.html
+            ref: ISO 19132:2007
+          date_accepted: 2007-10-15 00:00:00+00:00
+          definition: sen ajan arvo, jona objektin tila mitataan ja tiedot tallennetaan
+            muistiin
+          entry_status: valid
+          examples: []
+          id: 689
+          language_code: fin
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: aikaleima
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  definition: sen ajan arvo, jona objektin tila mitataan ja tiedot tallennetaan muistiin
+  examples: []
+  id: 689
+  language_code: fin
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: aikaleima
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 6803e32d-a8b8-50d0-90de-601fa757f51d
+status: valid

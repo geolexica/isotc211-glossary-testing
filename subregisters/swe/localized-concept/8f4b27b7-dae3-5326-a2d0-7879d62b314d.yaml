@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 424f5e
+    tree:
+      424f5e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          country_code: swe
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: formell syntax för att ange ett testuttryck
+          entry_status: valid
+          examples: []
+          id: 808
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '2'
+          terms:
+          - designation: formellt testuttryck
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  country_code: swe
+  definition: formell syntax för att ange ett testuttryck
+  examples: []
+  id: 808
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '2'
+  terms:
+  - designation: formellt testuttryck
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 8f4b27b7-dae3-5326-a2d0-7879d62b314d
+status: valid

@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: 38cc31
+    tree:
+      38cc31:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: punkt beliggende i skæringspunktet mellem to eller flere kurver
+            i et grid
+          examples: []
+          id: 223
+          language_code: dan
+          notes: []
+          release: '1'
+          terms:
+          - designation: grid-punkt
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: punkt beliggende i skæringspunktet mellem to eller flere kurver i et
+    grid
+  examples: []
+  id: 223
+  language_code: dan
+  notes: []
+  release: '1'
+  terms:
+  - designation: grid-punkt
+    normative_status: null
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: df9aa2fe-b31e-5f80-bf5c-f997d74a99cb
+status: valid

@@ -1,0 +1,57 @@
+data:
+  _revisions:
+    current: 6bf78d
+    tree:
+      6bf78d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.19
+            link: https://www.iso.org/standard/51206.html
+            ref: ISO 19152:2012
+          country_code: swe
+          date_accepted: 2012-12-01 00:00:00+00:00
+          definition: formell eller informell förpliktelse att avstå viss handling
+          entry_status: valid
+          examples:
+          - It is not allowed to build within 200 metres of a fuel station; or, a
+            servitude or mortgage as a restriction to the ownership right.
+          - Sequestration can be registered for baunit as a restriction.
+          id: 1573
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '3'
+          terms:
+          - designation: restriktion
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.19
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  country_code: swe
+  definition: formell eller informell förpliktelse att avstå viss handling
+  examples:
+  - It is not allowed to build within 200 metres of a fuel station; or, a servitude
+    or mortgage as a restriction to the ownership right.
+  - Sequestration can be registered for baunit as a restriction.
+  id: 1573
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes:
+  - It is not allowed to build within 200 metres of a fuel station; or, a servitude
+    or mortgage as a restriction to the ownership right.
+  - Sequestration can be registered for baunit as a restriction.
+  release: '3'
+  terms:
+  - designation: restriktion
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 5c90ab30-aa89-51ce-95da-88b08507b2ee
+status: valid

@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: d563cf
+    tree:
+      d563cf:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.1.5
+            link: https://www.iso.org/standard/75676.html
+            ref: ISO 19136-1:2020
+          country_code: swe
+          date_accepted: 2007-09-01 00:00:00+00:00
+          definition: det närmast underordnade begreppet av ett elemnet
+          entry_status: valid
+          examples: []
+          id: 692
+          language_code: swe
+          lineage_source: ISO 19136:2007(E)
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2020-01-09 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2020-01-09 00:00:00+00:00
+          review_decision_event: Publication of ISO 19136-1:2020(E)
+          review_decision_notes: Authoritative reference changed from ISO 19136:2007
+            to ISO 19136-1:2020(E), 3.1.5. Lineage source added as ISO 19136:2007(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: child element <XML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.5
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  country_code: swe
+  definition: det närmast underordnade begreppet av ett elemnet
+  examples: []
+  id: 692
+  language_code: swe
+  lineage_source: ISO 19136:2007(E)
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2020-01-09 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2020-01-09 00:00:00+00:00
+  review_decision_event: Publication of ISO 19136-1:2020(E)
+  review_decision_notes: Authoritative reference changed from ISO 19136:2007 to ISO
+    19136-1:2020(E), 3.1.5. Lineage source added as ISO 19136:2007(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: child element <XML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 6df80117-feec-5d64-b2f7-a24a1b0a5e3e
+status: valid

@@ -1,0 +1,62 @@
+data:
+  _revisions:
+    current: 68112f
+    tree:
+      68112f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '3.21'
+            link: https://www.iso.org/standard/44874.html
+            ref: ISO 19147:2015
+          date_accepted: 2015-06-15 00:00:00+00:00
+          definition: recorrido preestablecido definido por dos o más nodos de transbordo
+            y los enlaces y puntos de paso entre ellos
+          entry_status: valid
+          examples: []
+          id: 2107
+          language_code: spa
+          notes:
+          - Define un camino que debe ser seguido por un servicio de transporte; también
+            llamado ruta.
+          release: '4'
+          review_date: 2009-06-20 00:00:00+00:00
+          review_decision: ''
+          review_decision_date: 2015-06-15 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19147:2015(E)
+          review_status: final
+          terms:
+          - designation: ruta de viaje
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2015-06-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '3.21'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  definition: recorrido preestablecido definido por dos o más nodos de transbordo
+    y los enlaces y puntos de paso entre ellos
+  examples: []
+  id: 2107
+  language_code: spa
+  notes:
+  - Define un camino que debe ser seguido por un servicio de transporte; también llamado
+    ruta.
+  release: '4'
+  review_date: 2009-06-20 00:00:00+00:00
+  review_decision: ''
+  review_decision_date: 2015-06-15 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19147:2015(E)
+  review_status: final
+  terms:
+  - designation: ruta de viaje
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: 4eca7f62-2772-5404-9e62-2b61190e8361
+status: valid

@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 7a39ad
+    tree:
+      7a39ad:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: ت م ت
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: تقرير بالخيارات التي تم تنفيذها من المواصفات
+          entry_status: valid
+          examples: []
+          id: 236
+          language_code: ara
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: تقرير مطابقة التنفيذ
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  abbrev: ت م ت
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: تقرير بالخيارات التي تم تنفيذها من المواصفات
+  examples: []
+  id: 236
+  language_code: ara
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: تقرير مطابقة التنفيذ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 90f2a61b-542d-5df5-8367-2a767bef8259
+status: valid

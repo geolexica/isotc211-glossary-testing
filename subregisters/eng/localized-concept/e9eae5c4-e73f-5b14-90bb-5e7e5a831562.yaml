@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: c0aa42
+    tree:
+      c0aa42:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: set of computational operations applied to a data instance which
+            evaluate to true or false
+          entry_status: valid
+          examples: []
+          id: 807
+          language_code: eng
+          notes: []
+          release: '2'
+          terms:
+          - designation: predicate
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: set of computational operations applied to a data instance which evaluate
+    to true or false
+  examples: []
+  id: 807
+  language_code: eng
+  notes: []
+  release: '2'
+  terms:
+  - designation: predicate
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: e9eae5c4-e73f-5b14-90bb-5e7e5a831562
+status: valid

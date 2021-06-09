@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: a91495
+    tree:
+      a91495:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105
+          date_accepted: 2000-11-16 00:00:00+00:00
+          definition: implémentation satisfaisant les exigences
+          entry_status: valid
+          examples: []
+          id: 77
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: implémentation conforme
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-11-16 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105
+  definition: implémentation satisfaisant les exigences
+  examples: []
+  id: 77
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: implémentation conforme
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-11-16 00:00:00+00:00
+id: 8bc2054c-163c-5163-b626-feb73956a122
+status: valid

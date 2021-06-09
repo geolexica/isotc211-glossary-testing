@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 6a8547
+    tree:
+      6a8547:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.71'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: sistema que procesa las señales sonar para determinar la posición
+            geográfica de los objetos detectados por los sensores sonar
+          entry_status: valid
+          examples: []
+          id: 1419
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: sistema de procesamiento sonar
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.71'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: sistema que procesa las señales sonar para determinar la posición geográfica
+    de los objetos detectados por los sensores sonar
+  examples: []
+  id: 1419
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: sistema de procesamiento sonar
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: b9cbc4cd-3613-5312-a427-00864c507e8f
+status: valid

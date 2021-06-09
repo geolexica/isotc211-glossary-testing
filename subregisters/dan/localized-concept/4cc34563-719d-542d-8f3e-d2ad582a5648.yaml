@@ -1,0 +1,68 @@
+data:
+  _revisions:
+    current: addfbf
+    tree:
+      addfbf:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.5'
+            link: https://www.iso.org/standard/26019.html
+            ref: ISO 19114:2003
+          date_accepted: 2003-08-15 00:00:00+00:00
+          date_amended: 2013-12-15 00:00:00+00:00
+          definition: undersøgelse af alle elementer i et datasæt
+          entry_status: retired
+          examples: []
+          id: 189
+          language_code: dan
+          lineage_source: ''
+          notes:
+          - Fuldstændig undersøgelse kaldes også 100 %-undersøgelse.
+          release: '-1'
+          review_date: 2013-12-15 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2013-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19157:2013
+          review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+            19157:2013).
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: fuldstændig undersøgelse
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-08-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/26019.html
+    ref: ISO 19114:2003
+  date_amended: 2013-12-15 00:00:00+00:00
+  definition: undersøgelse af alle elementer i et datasæt
+  examples: []
+  id: 189
+  language_code: dan
+  lineage_source: ''
+  notes:
+  - Fuldstændig undersøgelse kaldes også 100 %-undersøgelse.
+  release: '-1'
+  review_date: 2013-12-15 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2013-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19157:2013
+  review_decision_notes: The entry has been omitted from the superseding standard  (ISO
+    19157:2013).
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: fuldstændig undersøgelse
+    normative_status: null
+    type: expression
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 4cc34563-719d-542d-8f3e-d2ad582a5648
+status: retired

@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: 4b63da
+    tree:
+      4b63da:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: specifik test af en implementering for at opfylde bestemte krav
+          examples: []
+          id: 161
+          language_code: dan
+          notes:
+          - Instantiering af et abstrakt testforløb med værdier.
+          release: '1'
+          terms:
+          - designation: eksekverbar testcase
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: specifik test af en implementering for at opfylde bestemte krav
+  examples: []
+  id: 161
+  language_code: dan
+  notes:
+  - Instantiering af et abstrakt testforløb med værdier.
+  release: '1'
+  terms:
+  - designation: eksekverbar testcase
+    normative_status: null
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 5df740f5-957a-54e8-b8ec-89b090a44aae
+status: valid

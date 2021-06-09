@@ -1,0 +1,16 @@
+data:
+  identifier: '360'
+  localizedConcepts:
+    ara: 273f1e3f-71ee-527a-b851-9049586d2f71
+    deu: c7cc87bc-d615-592b-ba16-fc97d13b48e4
+    eng: 02093b3b-6edd-583d-a210-ab70bc192fa4
+    fin: 597ce7e1-f896-5508-977d-420b12e561a8
+    fra: 23cc8c24-9f21-5f45-8e9e-74cd717dfb4e
+    kor: 734ad699-fb01-5c4b-b203-7e3a5897fdc0
+    rus: 3444bce1-c6d0-59d1-b01a-5bfca0969f55
+    spa: df50603d-fc9d-5073-9d84-474c4ecdbf9c
+    swe: a1f5333d-6d68-5ae4-98cf-a539bff8748c
+    zho: 11ce18e7-9543-5dae-bb25-6c3dbf0717b9
+dateAccepted: 2018-11-17
+id: 3dbcb740-bf2e-5d76-82da-eec685014d63
+status: valid

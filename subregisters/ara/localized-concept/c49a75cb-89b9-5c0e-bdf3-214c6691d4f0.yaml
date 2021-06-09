@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 0c24c4
+    tree:
+      0c24c4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32551.html
+            ref: ISO 19133:2005
+          date_accepted: 2005-10-15 00:00:00+00:00
+          definition: شخص معرض لان يكون هدفا للملاحة أو المتابعة والرصد
+          entry_status: valid
+          examples: []
+          id: 744
+          language_code: ara
+          notes:
+          - يشمل المشاة. أنظر المقياس آيزو 14825. في هذا المقياس الدولي , يمكن استبدال
+            مصطلح "متنقل" بمصطلح "مركبة" دون أن يؤدي ذلك إلى تغيير المعنى.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: مسافر
+            normative_status: preferred
+            type: expression
+          - designation: vehicle
+            type: expression
+        parents: []
+        timeCreated: 2005-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  definition: شخص معرض لان يكون هدفا للملاحة أو المتابعة والرصد
+  examples: []
+  id: 744
+  language_code: ara
+  notes:
+  - يشمل المشاة. أنظر المقياس آيزو 14825. في هذا المقياس الدولي , يمكن استبدال مصطلح
+    "متنقل" بمصطلح "مركبة" دون أن يؤدي ذلك إلى تغيير المعنى.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: مسافر
+    normative_status: preferred
+    type: expression
+  - designation: vehicle
+    type: expression
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: c49a75cb-89b9-5c0e-bdf3-214c6691d4f0
+status: valid

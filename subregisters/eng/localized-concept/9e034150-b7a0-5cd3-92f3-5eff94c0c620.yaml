@@ -1,0 +1,65 @@
+data:
+  _revisions:
+    current: 9effd3
+    tree:
+      9effd3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.1.15
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111:2019
+          date_accepted: 2019-01-31 00:00:00+00:00
+          definition: parameter or set of parameters that realize the position of
+            the origin, the scale, and the orientation of a coordinate system
+          entry_status: valid
+          examples: []
+          id: 2376
+          language_code: eng
+          notes: []
+          release: '5'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19111:2019(E)
+          review_decision_notes: This entry supersedes the entry for datum in ISO
+            19111:2007(E)
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: datum
+            normative_status: preferred
+            type: expression
+          - designation: reference frame
+            type: expression
+        parents: []
+        timeCreated: 2019-01-31 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.1.15
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  definition: parameter or set of parameters that realize the position of the origin,
+    the scale, and the orientation of a coordinate system
+  examples: []
+  id: 2376
+  language_code: eng
+  notes: []
+  release: '5'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19111:2019(E)
+  review_decision_notes: This entry supersedes the entry for datum in ISO 19111:2007(E)
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: datum
+    normative_status: preferred
+    type: expression
+  - designation: reference frame
+    type: expression
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 9e034150-b7a0-5cd3-92f3-5eff94c0c620
+status: valid

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 0249a3
+    tree:
+      0249a3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: liczba dni, które według kalendarza juliańskiego  upłynęły od
+            południa mierzonego według czasu Greenwich w dniu 1 stycznia 4713 roku
+            przed Chrystusem
+          examples: []
+          id: 264
+          language_code: pol
+          lineage_source: PN-EN ISO 19108
+          notes: []
+          release: '1'
+          terms:
+          - designation: juliański numer dnia
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: liczba dni, które według kalendarza juliańskiego  upłynęły od południa
+    mierzonego według czasu Greenwich w dniu 1 stycznia 4713 roku przed Chrystusem
+  examples: []
+  id: 264
+  language_code: pol
+  lineage_source: PN-EN ISO 19108
+  notes: []
+  release: '1'
+  terms:
+  - designation: juliański numer dnia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: a5b4a1c6-5790-5ef1-b416-075c34e62cf0
+status: valid

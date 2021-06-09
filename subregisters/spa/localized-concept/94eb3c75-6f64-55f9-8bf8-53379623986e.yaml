@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: ec2bda
+    tree:
+      ec2bda:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: prueba de un producto para determinar hasta qué punto el producto
+            es una implementación conforme
+          entry_status: valid
+          examples: []
+          id: 76
+          language_code: spa
+          notes: []
+          release: '1'
+          terms:
+          - designation: prueba de conformidad
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: prueba de un producto para determinar hasta qué punto el producto es
+    una implementación conforme
+  examples: []
+  id: 76
+  language_code: spa
+  notes: []
+  release: '1'
+  terms:
+  - designation: prueba de conformidad
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 94eb3c75-6f64-55f9-8bf8-53379623986e
+status: valid

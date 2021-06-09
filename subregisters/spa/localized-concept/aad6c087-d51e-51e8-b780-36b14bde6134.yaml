@@ -1,0 +1,72 @@
+data:
+  _revisions:
+    current: b3fae5
+    tree:
+      b3fae5:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.38
+            link: https://www.iso.org/standard/66175.html
+            ref: ISO 19107:2019
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: primitiva topológica bidimensional
+          entry_status: valid
+          examples: []
+          id: 165
+          language_code: spa
+          lineage_source: ISO 19107:2003(E)
+          lineage_source_similarity: 1
+          notes:
+          - La representación geométrica de una cara es una superficie. El límite
+            de una cara es el conjunto de arcos orientados del mismo complejo topológico
+            que están asociados con la cara a través de las relaciones de frontera.
+            Éstos pueden organizarse en anillos.
+          release: '1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of ISO 19107:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19107:2003
+            to ISO 19107:2019(E), 3.38. Lineage source added as ISO 19107:2003(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: cara
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.38
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  definition: primitiva topológica bidimensional
+  examples: []
+  id: 165
+  language_code: spa
+  lineage_source: ISO 19107:2003(E)
+  lineage_source_similarity: 1
+  notes:
+  - La representación geométrica de una cara es una superficie. El límite de una cara
+    es el conjunto de arcos orientados del mismo complejo topológico que están asociados
+    con la cara a través de las relaciones de frontera. Éstos pueden organizarse en
+    anillos.
+  release: '1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of ISO 19107:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19107:2003 to ISO
+    19107:2019(E), 3.38. Lineage source added as ISO 19107:2003(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: cara
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: aad6c087-d51e-51e8-b780-36b14bde6134
+status: valid

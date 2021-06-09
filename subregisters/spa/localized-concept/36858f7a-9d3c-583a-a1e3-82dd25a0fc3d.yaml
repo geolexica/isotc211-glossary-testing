@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: abcfb9
+    tree:
+      abcfb9:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: FindLaw
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: titular al que se ha concedido una licencia
+          entry_status: valid
+          examples: []
+          id: 1235
+          language_code: spa
+          lineage_source: ISO 19153:2014, 4.29
+          lineage_source_similarity: '1'
+          notes: []
+          release: '3'
+          terms:
+          - designation: titular de la licencia
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: FindLaw
+  definition: titular al que se ha concedido una licencia
+  examples: []
+  id: 1235
+  language_code: spa
+  lineage_source: ISO 19153:2014, 4.29
+  lineage_source_similarity: '1'
+  notes: []
+  release: '3'
+  terms:
+  - designation: titular de la licencia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 36858f7a-9d3c-583a-a1e3-82dd25a0fc3d
+status: valid

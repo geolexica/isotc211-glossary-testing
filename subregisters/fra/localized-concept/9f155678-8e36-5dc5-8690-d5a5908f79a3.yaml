@@ -1,0 +1,49 @@
+data:
+  _revisions:
+    current: a251f8
+    tree:
+      a251f8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/74039.html
+            ref: ISO 19111
+          date_accepted: 2003-02-15 00:00:00+00:00
+          definition: méridien à partir duquel les longitudes des autres méridiens
+            sont mesurées
+          entry_status: valid
+          examples: []
+          id: 505
+          language_code: fra
+          lineage_source: ISO 19111:2003
+          lineage_source_similarity: 1
+          notes: []
+          terms:
+          - designation: méridien origine
+            normative_status: admitted
+            type: expression
+          - designation: prime meridian
+            type: expression
+        parents: []
+        timeCreated: 2003-02-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111
+  definition: méridien à partir duquel les longitudes des autres méridiens sont mesurées
+  examples: []
+  id: 505
+  language_code: fra
+  lineage_source: ISO 19111:2003
+  lineage_source_similarity: 1
+  notes: []
+  terms:
+  - designation: méridien origine
+    normative_status: admitted
+    type: expression
+  - designation: prime meridian
+    type: expression
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 9f155678-8e36-5dc5-8690-d5a5908f79a3
+status: valid

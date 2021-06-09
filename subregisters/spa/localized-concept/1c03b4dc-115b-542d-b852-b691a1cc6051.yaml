@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: cb062d
+    tree:
+      cb062d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.28'
+            link: https://www.iso.org/standard/46226.html
+            ref: ISO 19117:2012
+          date_accepted: 2012-12-15 00:00:00+00:00
+          definition: símbolo que no está ni compuesto ni parametrizado
+          entry_status: valid
+          examples: []
+          id: 1272
+          language_code: spa
+          notes: []
+          release: '3'
+          terms:
+          - designation: símbolo simple
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.28'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  definition: símbolo que no está ni compuesto ni parametrizado
+  examples: []
+  id: 1272
+  language_code: spa
+  notes: []
+  release: '3'
+  terms:
+  - designation: símbolo simple
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 1c03b4dc-115b-542d-b852-b691a1cc6051
+status: valid

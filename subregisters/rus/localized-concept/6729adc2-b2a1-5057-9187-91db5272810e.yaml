@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: baeac6
+    tree:
+      baeac6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: условное выражение, закодированное с использованием XML
+          entry_status: valid
+          examples: []
+          id: 1020
+          language_code: rus
+          lineage_source: ISO 19143:2010
+          notes: []
+          release: '2'
+          terms:
+          - designation: выражение фильтра
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: условное выражение, закодированное с использованием XML
+  examples: []
+  id: 1020
+  language_code: rus
+  lineage_source: ISO 19143:2010
+  notes: []
+  release: '2'
+  terms:
+  - designation: выражение фильтра
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 6729adc2-b2a1-5057-9187-91db5272810e
+status: valid

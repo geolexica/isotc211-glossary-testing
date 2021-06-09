@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: e886da
+    tree:
+      e886da:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.12
+            link: https://www.iso.org/standard/51206.html
+            ref: ISO 19152:2012
+          date_accepted: 2012-12-01 00:00:00+00:00
+          definition: пространственная единица на пороге между 2D и 3D представлениями
+          entry_status: valid
+          examples: []
+          id: 1302
+          language_code: rus
+          lineage_source: ISO 19152:2012
+          notes: []
+          release: '3'
+          terms:
+          - designation: пороговая пространственная единица
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  definition: пространственная единица на пороге между 2D и 3D представлениями
+  examples: []
+  id: 1302
+  language_code: rus
+  lineage_source: ISO 19152:2012
+  notes: []
+  release: '3'
+  terms:
+  - designation: пороговая пространственная единица
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: e80fbaf3-7688-5ead-8da9-2ac13f9f8f43
+status: valid

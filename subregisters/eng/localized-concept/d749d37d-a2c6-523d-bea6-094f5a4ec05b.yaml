@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 553f89
+    tree:
+      553f89:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.16'
+            link: https://www.iso.org/standard/32566.html
+            ref: ISO 19148:2012
+          date_accepted: 2012-02-15 00:00:00+00:00
+          definition: location whose position is specified using linear referencing
+          entry_status: valid
+          examples: []
+          id: 1175
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: linearly referenced location
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.16'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  definition: location whose position is specified using linear referencing
+  examples: []
+  id: 1175
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: linearly referenced location
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: d749d37d-a2c6-523d-bea6-094f5a4ec05b
+status: valid

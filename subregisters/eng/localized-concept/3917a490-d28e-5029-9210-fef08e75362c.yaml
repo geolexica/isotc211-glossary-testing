@@ -1,0 +1,59 @@
+data:
+  _revisions:
+    current: bd99f8
+    tree:
+      bd99f8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: UML 2
+          date_accepted: 2015-12-01 00:00:00+00:00
+          definition: model that defines the language for expressing other models
+          entry_status: valid
+          examples: []
+          id: 1153
+          language_code: eng
+          lineage_source: ISO 19103:2015, 4.22
+          notes:
+          - A model is an instance of a metamodel, and a metamodel is an instance
+            of a meta-metamodel.
+          release: '4'
+          review_date: 2009-01-14 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-12-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19103:2015
+          review_decision_notes: This entry supersedes the entry for "metamodel <UML>"
+            in ISO/TS 19103:2005
+          review_status: final
+          terms:
+          - designation: metamodel
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2015-12-01 00:00:00+00:00
+  authoritativeSource:
+  - ref: UML 2
+  definition: model that defines the language for expressing other models
+  examples: []
+  id: 1153
+  language_code: eng
+  lineage_source: ISO 19103:2015, 4.22
+  notes:
+  - A model is an instance of a metamodel, and a metamodel is an instance of a meta-metamodel.
+  release: '4'
+  review_date: 2009-01-14 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-12-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19103:2015
+  review_decision_notes: This entry supersedes the entry for "metamodel <UML>" in
+    ISO/TS 19103:2005
+  review_status: final
+  terms:
+  - designation: metamodel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-12-01 00:00:00+00:00
+id: 3917a490-d28e-5029-9210-fef08e75362c
+status: valid

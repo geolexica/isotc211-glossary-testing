@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: 9a2bcc
+    tree:
+      9a2bcc:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: المفاهيم والهياكل والجبر الطوبولوجي التي تساعد أو تعزز أو تعرِّف
+            العمليات الحسابية التي تجرى على الكيانات الطوبولوجية والتي يتم إجراؤها
+            عادة في إطار الهندسة الفراغية الحسابية
+          entry_status: retired
+          examples: []
+          id: 62
+          language_code: ara
+          notes: []
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of documentISO 19107:2019(E)
+          review_decision_notes: This entry has been omitted from the superseding
+            standard ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: الطوبولوجيا الحسابيه
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: المفاهيم والهياكل والجبر الطوبولوجي التي تساعد أو تعزز أو تعرِّف العمليات
+    الحسابية التي تجرى على الكيانات الطوبولوجية والتي يتم إجراؤها عادة في إطار الهندسة
+    الفراغية الحسابية
+  examples: []
+  id: 62
+  language_code: ara
+  notes: []
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of documentISO 19107:2019(E)
+  review_decision_notes: This entry has been omitted from the superseding standard
+    ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: الطوبولوجيا الحسابيه
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: f9b712e7-e8b8-5c44-a5c6-bf3ee9525eaa
+status: retired

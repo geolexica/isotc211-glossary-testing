@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: d3f6fc
+    tree:
+      d3f6fc:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: entité agissant comme une fonction retournant des valeurs de
+            sa gamme de valeurs pour toute position directe dans son domaine spatial,
+            temporel ou spatiotemporel
+          entry_status: valid
+          examples: []
+          id: 99
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: couverture
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  definition: entité agissant comme une fonction retournant des valeurs de sa gamme
+    de valeurs pour toute position directe dans son domaine spatial, temporel ou spatiotemporel
+  examples: []
+  id: 99
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: couverture
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: c1b43d1a-6fd5-5e28-9bce-b81d1395f22d
+status: valid

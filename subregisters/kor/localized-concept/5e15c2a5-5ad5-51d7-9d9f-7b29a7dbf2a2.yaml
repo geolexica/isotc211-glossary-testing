@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: '389857'
+    tree:
+      '389857':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.32'
+            link: https://www.iso.org/standard/46226.html
+            ref: ISO 19117:2012
+          date_accepted: 2012-12-15 00:00:00+00:00
+          definition: 복합적 기호의 조각으로 사용된 기호
+          entry_status: valid
+          examples: []
+          id: 1274
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 기호 구성요소
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.32'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  definition: 복합적 기호의 조각으로 사용된 기호
+  examples: []
+  id: 1274
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 기호 구성요소
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 5e15c2a5-5ad5-51d7-9d9f-7b29a7dbf2a2
+status: valid

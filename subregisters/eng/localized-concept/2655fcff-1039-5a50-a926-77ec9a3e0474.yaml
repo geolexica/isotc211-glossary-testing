@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 8ac56d
+    tree:
+      8ac56d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.23'
+            link: https://www.iso.org/standard/32575.html
+            ref: ISO 19157:2013
+          date_accepted: 2013-12-15 00:00:00+00:00
+          definition: free text document providing fully detailed information about
+            data quality evaluations, results and measures used
+          entry_status: valid
+          examples: []
+          id: 1367
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: standalone quality report
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2013-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.23'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  definition: free text document providing fully detailed information about data quality
+    evaluations, results and measures used
+  examples: []
+  id: 1367
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: standalone quality report
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: 2655fcff-1039-5a50-a926-77ec9a3e0474
+status: valid

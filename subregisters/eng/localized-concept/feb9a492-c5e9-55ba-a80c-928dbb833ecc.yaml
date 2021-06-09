@@ -1,0 +1,60 @@
+data:
+  _revisions:
+    current: fa8e85
+    tree:
+      fa8e85:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: W3C XML
+          date_accepted: 2007-04-15 00:00:00+00:00
+          definition: collection of names, identified by a URI reference, that are
+            used in XML documents as element names and attribute names
+          entry_status: valid
+          examples: []
+          id: 838
+          language_code: eng
+          lineage_source: ISO/TS 19139:2007(E)
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2019-03-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-03-01 00:00:00+00:00
+          review_decision_event: Publication of ISO/TS 19139-1:2019(E)
+          review_decision_notes: Authoritative reference changed from W3C XML to W3C
+            XML. Lineage source added as ISO/TS 19139:2007(E)
+          review_status: final
+          terms:
+          - designation: namespace
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-04-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: W3C XML
+  definition: collection of names, identified by a URI reference, that are used in
+    XML documents as element names and attribute names
+  examples: []
+  id: 838
+  language_code: eng
+  lineage_source: ISO/TS 19139:2007(E)
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2019-03-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-03-01 00:00:00+00:00
+  review_decision_event: Publication of ISO/TS 19139-1:2019(E)
+  review_decision_notes: Authoritative reference changed from W3C XML to W3C XML.
+    Lineage source added as ISO/TS 19139:2007(E)
+  review_status: final
+  terms:
+  - designation: namespace
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: feb9a492-c5e9-55ba-a80c-928dbb833ecc
+status: valid

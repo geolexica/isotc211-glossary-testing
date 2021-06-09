@@ -1,0 +1,19 @@
+data:
+  identifier: '403'
+  localizedConcepts:
+    ara: 85f10a2a-9972-53c6-a568-50618d0d3325
+    deu: e522daeb-5013-5c6b-860f-c37be6eb1f8c
+    eng: b7a6277f-b24e-5645-9470-44e20f16886b
+    fin: 94137a33-0ab6-5f9f-b1f3-dc3166404ec7
+    fra: be114cf7-8af7-58dd-bb0c-765c7e1a63ff
+    jpn: 54e1d3d3-8008-5194-860b-39399efb91c1
+    kor: 77f0ef64-08fd-5053-88eb-b59ae6acddd6
+    msa: 5e57b835-e692-5854-ad15-673207851039
+    pol: 0df846c4-5846-5a58-92dc-55379a82c4e8
+    rus: 0aae7f0e-ee38-5f47-8a5e-0b883a68c8f2
+    spa: e629f959-50f7-5680-8922-0c5791a912f2
+    swe: aad5bff2-9a57-55ec-841f-e2eb336c17fc
+    zho: 75e00c61-82a3-5384-bcd9-b635fdc12676
+dateAccepted: 2018-11-17
+id: 3bac65b8-a515-5229-91ab-f1ad0474193c
+status: valid

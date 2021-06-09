@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: a61bff
+    tree:
+      a61bff:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26011.html
+            ref: ISO 19106:2004
+          date_accepted: 2004-07-01 00:00:00+00:00
+          definition: 能够用于构建专用标准的ISO地理信息标准或其他信息技术标准。
+          entry_status: valid
+          examples: []
+          id: 26
+          language_code: zho
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: 基础标准
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26011.html
+    ref: ISO 19106:2004
+  definition: 能够用于构建专用标准的ISO地理信息标准或其他信息技术标准。
+  examples: []
+  id: 26
+  language_code: zho
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: 基础标准
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 350f7801-49eb-5320-90b3-0be5eb20b6f5
+status: valid

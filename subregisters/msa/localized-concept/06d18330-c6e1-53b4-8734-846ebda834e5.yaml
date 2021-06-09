@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: c356f4
+    tree:
+      c356f4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.3
+            link: https://www.iso.org/standard/32563.html
+            ref: ISO 19145:2013
+          date_accepted: 2013-02-15 00:00:00+00:00
+          definition: perihal menukarkan (mengubahkan, memindahkan, menggantikan,
+            dll), pemindahan, penggantian, pengubahan
+          entry_status: valid
+          examples: []
+          id: 1161
+          language_code: msa
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          notes: []
+          release: '3'
+          terms:
+          - designation: penukaran
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2013-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.3
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  definition: perihal menukarkan (mengubahkan, memindahkan, menggantikan, dll), pemindahan,
+    penggantian, pengubahan
+  examples: []
+  id: 1161
+  language_code: msa
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  notes: []
+  release: '3'
+  terms:
+  - designation: penukaran
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 06d18330-c6e1-53b4-8734-846ebda834e5
+status: valid

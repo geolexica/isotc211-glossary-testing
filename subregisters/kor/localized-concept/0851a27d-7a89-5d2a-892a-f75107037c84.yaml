@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 35c98f
+    tree:
+      35c98f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.47'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: 외부로부터 음파를 수신하지만 전송하지는 않는 수동적 센서의 유형
+          entry_status: valid
+          examples: []
+          id: 1405
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 수동형 소나
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.47'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: 외부로부터 음파를 수신하지만 전송하지는 않는 수동적 센서의 유형
+  examples: []
+  id: 1405
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 수동형 소나
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 0851a27d-7a89-5d2a-892a-f75107037c84
+status: valid

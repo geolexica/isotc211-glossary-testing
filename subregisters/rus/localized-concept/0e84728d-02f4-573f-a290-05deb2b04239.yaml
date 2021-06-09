@@ -1,0 +1,67 @@
+data:
+  _revisions:
+    current: 1b9299
+    tree:
+      1b9299:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32620.html
+            ref: ISO/IEC 19501
+          date_accepted: 2005-07-15 00:00:00+00:00
+          definition: услуга, которая может быть запрошена у некоторого объекта с
+            целью воздействия на его поведение
+          entry_status: valid
+          examples: []
+          id: 319
+          language_code: rus
+          lineage_source: ISO/TS 19103:2005 ,4.2.21
+          lineage_source_similarity: 1
+          notes:
+          - Операция имеет  сигнатуру, которая может ограничивать возможные реальные
+            параметры
+          - 'Определение из UML Reference Manual: "Спецификация преобразования или
+            запроса, исполнение которого может быть затребовано от объекта"'
+          - Операция имеет имя и перечень параметров. Метод является реализацией операции.
+            Описывает алгоритм или процедуру, которая формирует результаты операции
+          release: '1'
+          review_date: 2009-08-31 00:00:00+00:00
+          review_indicator: ''
+          review_status: ''
+          review_type: ''
+          terms:
+          - designation: операция <UML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  definition: услуга, которая может быть запрошена у некоторого объекта с целью воздействия
+    на его поведение
+  examples: []
+  id: 319
+  language_code: rus
+  lineage_source: ISO/TS 19103:2005 ,4.2.21
+  lineage_source_similarity: 1
+  notes:
+  - Операция имеет  сигнатуру, которая может ограничивать возможные реальные параметры
+  - 'Определение из UML Reference Manual: "Спецификация преобразования или запроса,
+    исполнение которого может быть затребовано от объекта"'
+  - Операция имеет имя и перечень параметров. Метод является реализацией операции.
+    Описывает алгоритм или процедуру, которая формирует результаты операции
+  release: '1'
+  review_date: 2009-08-31 00:00:00+00:00
+  review_indicator: ''
+  review_status: ''
+  review_type: ''
+  terms:
+  - designation: операция <UML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 0e84728d-02f4-573f-a290-05deb2b04239
+status: valid

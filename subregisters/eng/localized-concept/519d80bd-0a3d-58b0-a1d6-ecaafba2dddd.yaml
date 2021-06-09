@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 5fba10
+    tree:
+      5fba10:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: engineering datum which defines the relationship of a coordinate
+            system to an image
+          entry_status: valid
+          examples: []
+          id: 710
+          language_code: eng
+          notes: []
+          release: '1'
+          review_date: 2017-06-28 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: supersession
+          terms:
+          - designation: image datum
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  definition: engineering datum which defines the relationship of a coordinate system
+    to an image
+  examples: []
+  id: 710
+  language_code: eng
+  notes: []
+  release: '1'
+  review_date: 2017-06-28 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: supersession
+  terms:
+  - designation: image datum
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 519d80bd-0a3d-58b0-a1d6-ecaafba2dddd
+status: valid

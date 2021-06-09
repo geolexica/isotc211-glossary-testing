@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: 78e18a
+    tree:
+      78e18a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.20'
+            link: https://www.iso.org/standard/46226.html
+            ref: ISO 19117:2012
+          date_accepted: 2005-06-01 00:00:00+00:00
+          definition: presentation of information to humans
+          entry_status: valid
+          examples: []
+          id: 342
+          language_code: eng
+          lineage_source: ISO 19117:2005
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2009-11-25 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2012-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19117:2012
+          review_decision_notes: Authoritative reference changed from ISO 19117:2005
+            to ISO 19117:2012. Lineage source added as ISO 19117:2005.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: portrayal
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-06-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.20'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  definition: presentation of information to humans
+  examples: []
+  id: 342
+  language_code: eng
+  lineage_source: ISO 19117:2005
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2009-11-25 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2012-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19117:2012
+  review_decision_notes: Authoritative reference changed from ISO 19117:2005 to ISO
+    19117:2012. Lineage source added as ISO 19117:2005.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: portrayal
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: b27753a6-757b-5dc1-852c-5bf90735bfdb
+status: valid

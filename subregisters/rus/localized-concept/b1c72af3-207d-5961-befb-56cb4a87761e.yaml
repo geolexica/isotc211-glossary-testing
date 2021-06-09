@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: cd60bd
+    tree:
+      cd60bd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: покрытие, область  определения которого составлена из точек
+          entry_status: valid
+          examples: []
+          id: 337
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: точечное покрытие
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: покрытие, область  определения которого составлена из точек
+  examples: []
+  id: 337
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: точечное покрытие
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: b1c72af3-207d-5961-befb-56cb4a87761e
+status: valid

@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: de4cee
+    tree:
+      de4cee:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32552.html
+            ref: ISO 19134:2007
+          date_accepted: 2007-02-01 00:00:00+00:00
+          definition: means that travellers can choose for transportation
+          entry_status: valid
+          examples: []
+          id: 630
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: transportation mode
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-02-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32552.html
+    ref: ISO 19134:2007
+  definition: means that travellers can choose for transportation
+  examples: []
+  id: 630
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: transportation mode
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-02-01 00:00:00+00:00
+id: 21723e37-898b-5da5-9393-2b88146f13b4
+status: valid

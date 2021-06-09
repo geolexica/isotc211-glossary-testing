@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 0991d7
+    tree:
+      0991d7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41445.html
+            ref: ISO 19141:2008
+          date_accepted: 2008-06-01 00:00:00+00:00
+          entry_status: valid
+          examples:
+          - A curve C with constructive parameter t is a one parameter set of points
+            c(t).
+          id: 644
+          language_code: kor
+          notes: []
+          release: '2'
+          terms:
+          - designation: 기하학의 매개변수 집합
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-06-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  examples:
+  - A curve C with constructive parameter t is a one parameter set of points c(t).
+  id: 644
+  language_code: kor
+  notes:
+  - A curve C with constructive parameter t is a one parameter set of points c(t).
+  release: '2'
+  terms:
+  - designation: 기하학의 매개변수 집합
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: e720564a-2b9e-5bcc-9096-051b93ab4033
+status: valid

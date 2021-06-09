@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 89fb76
+    tree:
+      89fb76:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40115.html
+            ref: ISO 19125-2:2004
+          date_accepted: 2004-08-01 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 182
+          language_code: deu
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: Feature-Tabelle
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2004-08-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  examples: []
+  id: 182
+  language_code: deu
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: Feature-Tabelle
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: 9a783cfe-2f5f-572a-8ff7-53b0892f0040
+status: valid

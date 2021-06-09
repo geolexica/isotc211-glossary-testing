@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 570a6b
+    tree:
+      570a6b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: polygon that encloses one of a set of points on a plane so as
+            to include all direct positions that are closer to that point than to
+            any other point in the set
+          entry_status: valid
+          examples: []
+          id: 460
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: Thiessen polygon
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: polygon that encloses one of a set of points on a plane so as to include
+    all direct positions that are closer to that point than to any other point in
+    the set
+  examples: []
+  id: 460
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: Thiessen polygon
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 5620c73f-8975-5ff8-9506-304eeb9c1913
+status: valid

@@ -1,0 +1,53 @@
+data:
+  _revisions:
+    current: 82628e
+    tree:
+      82628e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: тест, призванный установить, обладает ли объект проверки конкретным
+            свойством, которое предусмотрено международным стандартом и объявлено
+            целью тестирования
+          entry_status: valid
+          examples: []
+          id: 35
+          language_code: rus
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: тест на функциональное соответствие
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: тест, призванный установить, обладает ли объект проверки конкретным
+    свойством, которое предусмотрено международным стандартом и объявлено целью тестирования
+  examples: []
+  id: 35
+  language_code: rus
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: тест на функциональное соответствие
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 839735c7-e203-58fc-89cf-5c11ad5d2f2e
+status: valid

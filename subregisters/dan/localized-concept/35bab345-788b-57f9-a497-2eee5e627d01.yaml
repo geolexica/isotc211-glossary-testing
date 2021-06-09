@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: af6ab7
+    tree:
+      af6ab7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40115.html
+            ref: ISO 19125-2:2004
+          date_accepted: 2004-08-01 00:00:00+00:00
+          definition: repræsentation af fænomener fra den virkelige verden associeret
+            med en lokalitet relateret til jorden
+          examples: []
+          id: 203
+          language_code: dan
+          notes: []
+          release: '1'
+          terms:
+          - designation: geografisk feature
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2004-08-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  definition: repræsentation af fænomener fra den virkelige verden associeret med
+    en lokalitet relateret til jorden
+  examples: []
+  id: 203
+  language_code: dan
+  notes: []
+  release: '1'
+  terms:
+  - designation: geografisk feature
+    normative_status: null
+    type: expression
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: 35bab345-788b-57f9-a497-2eee5e627d01
+status: valid

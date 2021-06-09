@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: d650c2
+    tree:
+      d650c2:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 491
+          language_code: deu
+          notes:
+          - A directed line segment represents a vector if the length and direction
+            of the line segment are equal to the magnitude and direction of the vector.  The
+            term vector data refers to data that represents the spatial configuration
+            of features as a set of directed line segments.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: Vektor
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  examples: []
+  id: 491
+  language_code: deu
+  notes:
+  - A directed line segment represents a vector if the length and direction of the
+    line segment are equal to the magnitude and direction of the vector.  The term
+    vector data refers to data that represents the spatial configuration of features
+    as a set of directed line segments.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: Vektor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 681edbc6-ef4e-5645-a9e7-eb6e2b520e26
+status: valid

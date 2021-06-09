@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 9a0dda
+    tree:
+      9a0dda:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (1994)
+            ref: 'Jensen et al. '
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: الوقت الذي تكون فيه حقيقة ما صحيحة في الواقع المجرد
+          entry_status: valid
+          examples: []
+          id: 487
+          language_code: ara
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: وقت الصلاحية
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (1994)
+    ref: 'Jensen et al. '
+  definition: الوقت الذي تكون فيه حقيقة ما صحيحة في الواقع المجرد
+  examples: []
+  id: 487
+  language_code: ara
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: وقت الصلاحية
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 58005d96-e5ff-553b-9475-fe0aee8c86b8
+status: valid

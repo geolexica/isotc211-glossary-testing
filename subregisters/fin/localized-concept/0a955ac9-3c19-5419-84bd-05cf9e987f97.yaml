@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 4d6973
+    tree:
+      4d6973:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: juliaaninen päivännumero lisättynä edellisestä keskipäivästä
+            kuluneen päivän desimaaliosalla
+          entry_status: valid
+          examples: []
+          id: 263
+          language_code: fin
+          lineage_source: Ei lähdettä, käännetty
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: juliaaninen päivä
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: juliaaninen päivännumero lisättynä edellisestä keskipäivästä kuluneen
+    päivän desimaaliosalla
+  examples: []
+  id: 263
+  language_code: fin
+  lineage_source: Ei lähdettä, käännetty
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: juliaaninen päivä
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 0a955ac9-3c19-5419-84bd-05cf9e987f97
+status: valid

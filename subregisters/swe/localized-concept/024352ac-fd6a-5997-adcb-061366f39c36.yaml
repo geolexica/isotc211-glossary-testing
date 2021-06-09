@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: 9a2b15
+    tree:
+      9a2b15:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.20'
+            link: https://www.iso.org/standard/46226.html
+            ref: ISO 19117:2012
+          country_code: swe
+          date_accepted: 2005-06-01 00:00:00+00:00
+          definition: åskådliggörande av data
+          entry_status: valid
+          examples: []
+          id: 342
+          language_code: swe
+          lineage_source: ISO 19117:2005
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2009-11-25 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2012-12-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19117:2012
+          review_decision_notes: Authoritative reference changed from ISO 19117:2005
+            to ISO 19117:2012. Lineage source added as ISO 19117:2005.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: visualiering
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-06-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.20'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  country_code: swe
+  definition: åskådliggörande av data
+  examples: []
+  id: 342
+  language_code: swe
+  lineage_source: ISO 19117:2005
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2009-11-25 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2012-12-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19117:2012
+  review_decision_notes: Authoritative reference changed from ISO 19117:2005 to ISO
+    19117:2012. Lineage source added as ISO 19117:2005.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: visualiering
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 024352ac-fd6a-5997-adcb-061366f39c36
+status: valid

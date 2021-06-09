@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: f509af
+    tree:
+      f509af:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42136.html
+            ref: ISO 19142:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: Identificador que designa de forma unívoca a una instancia de
+            objeto geográfico
+          entry_status: valid
+          examples: []
+          id: 1018
+          language_code: spa
+          notes: []
+          release: '2'
+          terms:
+          - designation: identificador de objeto geográfico
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  definition: Identificador que designa de forma unívoca a una instancia de objeto
+    geográfico
+  examples: []
+  id: 1018
+  language_code: spa
+  notes: []
+  release: '2'
+  terms:
+  - designation: identificador de objeto geográfico
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 3d9cabf2-3c8c-5eaa-a05b-fe516e333834
+status: valid

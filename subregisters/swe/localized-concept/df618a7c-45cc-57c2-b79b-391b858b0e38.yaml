@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: 74aac4
+    tree:
+      74aac4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42136.html
+            ref: ISO 19142:2010
+          country_code: swe
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: inhämtande av refererade data och insättande av dessa i ett
+            servergenererat svar
+          entry_status: valid
+          examples: []
+          id: 1342
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes:
+          - The insertion may be accomplished by either replacing the reference inline
+            with a copy of the resource or by relocating the reference to point to
+            a copy of the resource that has been placed in the response document.
+          release: '2'
+          terms:
+          - designation: referensinlösen
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  country_code: swe
+  definition: inhämtande av refererade data och insättande av dessa i ett servergenererat
+    svar
+  examples: []
+  id: 1342
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes:
+  - The insertion may be accomplished by either replacing the reference inline with
+    a copy of the resource or by relocating the reference to point to a copy of the
+    resource that has been placed in the response document.
+  release: '2'
+  terms:
+  - designation: referensinlösen
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: df618a7c-45cc-57c2-b79b-391b858b0e38
+status: valid

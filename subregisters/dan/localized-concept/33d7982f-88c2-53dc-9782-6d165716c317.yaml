@@ -1,0 +1,43 @@
+data:
+  _revisions:
+    current: 1d0a5d
+    tree:
+      1d0a5d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: test af et produkt for at afgøre, i hvor høj grad produktet
+            opfylder kravene til implementeringen
+          examples: []
+          id: 76
+          language_code: dan
+          notes: []
+          release: '1'
+          terms:
+          - designation: overensstemmelse, test af
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: test af et produkt for at afgøre, i hvor høj grad produktet opfylder
+    kravene til implementeringen
+  examples: []
+  id: 76
+  language_code: dan
+  notes: []
+  release: '1'
+  terms:
+  - designation: overensstemmelse, test af
+    normative_status: null
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 33d7982f-88c2-53dc-9782-6d165716c317
+status: valid

@@ -1,0 +1,15 @@
+data:
+  identifier: '407'
+  localizedConcepts:
+    ara: a64b3c59-5dc8-569c-8507-e2eae6b53470
+    deu: 30270484-41b3-5f37-ad70-58ab429ff6d7
+    eng: c93dda05-e1ee-57d0-ad03-522ec9ff2b7c
+    fin: 1b4d3441-ec64-5d96-8295-c7765b98cd6e
+    fra: 8245b1ce-b075-5620-b16d-faf539732324
+    kor: 150ef9ad-3d8b-5732-b39e-fb76419fb308
+    rus: 909c8252-1981-5431-8eea-abea41a8ca11
+    spa: b2bbf6c4-f564-5a33-ac69-9611f6d0009c
+    zho: afd7a00b-f8a0-57a0-b979-54313dbc261d
+dateAccepted: 2018-11-17
+id: ec69c8cc-9b35-5125-9c38-3ff579e12280
+status: valid

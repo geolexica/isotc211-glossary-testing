@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 9d6354
+    tree:
+      9d6354:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: implementación que satisface los requisitos de conformidad
+          entry_status: valid
+          examples: []
+          id: 77
+          language_code: spa
+          notes: []
+          release: '1'
+          terms:
+          - designation: implementación conforme
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: implementación que satisface los requisitos de conformidad
+  examples: []
+  id: 77
+  language_code: spa
+  notes: []
+  release: '1'
+  terms:
+  - designation: implementación conforme
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 707dbe8a-5035-50a9-a51d-ee3e379e37c7
+status: valid

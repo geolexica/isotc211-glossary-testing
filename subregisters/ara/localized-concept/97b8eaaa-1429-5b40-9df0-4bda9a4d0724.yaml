@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: ee9371
+    tree:
+      ee9371:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: الوفاء بمتطلبات محددة
+          entry_status: valid
+          examples: []
+          id: 71
+          language_code: ara
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: مطابقة
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: الوفاء بمتطلبات محددة
+  examples: []
+  id: 71
+  language_code: ara
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: مطابقة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 97b8eaaa-1429-5b40-9df0-4bda9a4d0724
+status: valid

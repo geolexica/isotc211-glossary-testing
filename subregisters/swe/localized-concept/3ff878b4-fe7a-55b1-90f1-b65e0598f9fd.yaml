@@ -1,0 +1,66 @@
+data:
+  _revisions:
+    current: 039af3
+    tree:
+      039af3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: (E), 3.55
+            link: https://www.iso.org/standard/66175.html
+            ref: ISO 19107:2019
+          country_code: swe
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: nod som inte är relaterad till någon länk
+          entry_status: valid
+          examples: []
+          id: 258
+          language_code: swe
+          lineage_source: ISO 19107:2003(E)
+          lineage_source_similarity: 1
+          notes: []
+          release: '1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of ISO 19107:2019(E)
+          review_decision_notes: Authoritative reference changed from ISO 19107:2003
+            to ISO 19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: isolerad nod
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: (E), 3.55
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  country_code: swe
+  definition: nod som inte är relaterad till någon länk
+  examples: []
+  id: 258
+  language_code: swe
+  lineage_source: ISO 19107:2003(E)
+  lineage_source_similarity: 1
+  notes: []
+  release: '1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of ISO 19107:2019(E)
+  review_decision_notes: Authoritative reference changed from ISO 19107:2003 to ISO
+    19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: isolerad nod
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3ff878b4-fe7a-55b1-90f1-b65e0598f9fd
+status: valid

@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: '809509'
+    tree:
+      '809509':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.35
+            link: https://www.iso.org/standard/59164.html
+            ref: ISO 19101-1:2014
+          date_accepted: 2012-11-15 00:00:00+00:00
+          definition: 의미가 부여된 데이터웹
+          entry_status: valid
+          examples: []
+          id: 1351
+          language_code: kor
+          lineage_source: ISO/TS 19150-1:2012
+          lineage_source_similarity: 1
+          notes:
+          - The association of meaning allows data and information to be understood
+            and processed by automated tools as well as by people.
+          release: '3'
+          terms:
+          - designation: 시맨틱 웹
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-11-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.35
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  definition: 의미가 부여된 데이터웹
+  examples: []
+  id: 1351
+  language_code: kor
+  lineage_source: ISO/TS 19150-1:2012
+  lineage_source_similarity: 1
+  notes:
+  - The association of meaning allows data and information to be understood and processed
+    by automated tools as well as by people.
+  release: '3'
+  terms:
+  - designation: 시맨틱 웹
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-11-15 00:00:00+00:00
+id: 92d2fc80-af4f-5841-acf4-8135742fcfac
+status: valid

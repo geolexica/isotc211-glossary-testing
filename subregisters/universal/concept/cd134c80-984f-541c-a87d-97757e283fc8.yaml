@@ -1,0 +1,16 @@
+data:
+  identifier: '301'
+  localizedConcepts:
+    ara: d676b980-16ff-5d7c-a6f6-a5870c2045f3
+    deu: 6b908b25-076b-5600-9374-51c2f9aa5ddd
+    eng: 59127796-98a4-51d5-8f82-891391d19698
+    fin: 2adae07d-c141-5a71-ab15-096c4483eb7c
+    fra: e2716594-a096-54c1-9183-143624abaed8
+    kor: f4a67463-3142-5eb9-a0f3-09e39c45b010
+    rus: a5f96f73-419a-5796-b793-5ea21f18c6c7
+    spa: e7c81831-6425-5cfb-a954-07fdbd6e45aa
+    swe: 707cec70-81cc-5534-bcb7-373c1c929ed5
+    zho: 70888be2-5769-5703-8695-62a124e2e093
+dateAccepted: 2018-11-17
+id: cd134c80-984f-541c-a87d-97757e283fc8
+status: valid

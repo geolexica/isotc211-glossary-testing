@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: a5c8ef
+    tree:
+      a5c8ef:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: 按照空间和时间表达一组直接位置的对象。
+          entry_status: valid
+          examples: []
+          id: 424
+          language_code: zho
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: 时空对象
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: 按照空间和时间表达一组直接位置的对象。
+  examples: []
+  id: 424
+  language_code: zho
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: 时空对象
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 4b264438-5378-5480-b36b-88741a511af8
+status: valid

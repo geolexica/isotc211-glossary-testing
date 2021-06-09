@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: fd61dd
+    tree:
+      fd61dd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: W3C XML
+          date_accepted: 2012-12-15 00:00:00+00:00
+          definition: 정형 자료 객체
+          entry_status: valid
+          examples: []
+          id: 1377
+          language_code: kor
+          lineage_source: ISO/TS 19139-2:2012, 4.1
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: 문서 <XML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: W3C XML
+  definition: 정형 자료 객체
+  examples: []
+  id: 1377
+  language_code: kor
+  lineage_source: ISO/TS 19139-2:2012, 4.1
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: 문서 <XML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 8521efd7-b2f0-538a-9a8d-44510d91738c
+status: valid

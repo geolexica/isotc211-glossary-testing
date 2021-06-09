@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 316e44
+    tree:
+      316e44:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.38'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: aspect of the system that lowers the capability of a party to
+            commit infringement
+          entry_status: valid
+          examples: []
+          id: 1246
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: protection
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.38'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: aspect of the system that lowers the capability of a party to commit
+    infringement
+  examples: []
+  id: 1246
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: protection
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 10c4534c-a4f3-5b2c-b89d-16c67b296dc5
+status: valid

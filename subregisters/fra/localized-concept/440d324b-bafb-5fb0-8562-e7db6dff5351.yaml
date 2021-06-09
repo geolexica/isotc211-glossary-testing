@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: 68495e
+    tree:
+      68495e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: collection sans ordre d'éléments liés (objets ou valeurs), sans
+            répétition
+          entry_status: valid
+          examples: []
+          id: 409
+          language_code: fra
+          notes: []
+          release: '1'
+          review_date: 2016-02-15 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: ensemble
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  definition: collection sans ordre d'éléments liés (objets ou valeurs), sans répétition
+  examples: []
+  id: 409
+  language_code: fra
+  notes: []
+  release: '1'
+  review_date: 2016-02-15 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: ensemble
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 440d324b-bafb-5fb0-8562-e7db6dff5351
+status: valid

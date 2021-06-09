@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 85c6cf
+    tree:
+      85c6cf:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: جانب أو صفة لكيان يشار إليه باسم يعرف به.
+          entry_status: valid
+          examples: []
+          id: 809
+          language_code: ara
+          notes: []
+          release: '2'
+          terms:
+          - designation: خاصية
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: جانب أو صفة لكيان يشار إليه باسم يعرف به.
+  examples: []
+  id: 809
+  language_code: ara
+  notes: []
+  release: '2'
+  terms:
+  - designation: خاصية
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: fce409b8-8d71-536c-96ee-f65da16a2dd8
+status: valid

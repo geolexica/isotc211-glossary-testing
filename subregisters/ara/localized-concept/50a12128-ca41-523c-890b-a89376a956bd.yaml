@@ -1,0 +1,65 @@
+data:
+  _revisions:
+    current: 386a0c
+    tree:
+      386a0c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: تسلسل ليس له بداية منطقية ولهذا يعتبر مماثلا لأي تحول دائري
+            يتم تلقائيا ؛ لذا فإن الجزء الأخير في التسلسل يعتبر متقدماً على الجزء
+            الأول فيه
+          entry_status: retired
+          examples: []
+          id: 41
+          language_code: ara
+          notes: []
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of documentISO 19107:2019(E)
+          review_decision_notes: This entry has been omitted from the superseding
+            standard ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: retirement
+          terms:
+          - designation: تسلسل دائري
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: تسلسل ليس له بداية منطقية ولهذا يعتبر مماثلا لأي تحول دائري يتم تلقائيا
+    ؛ لذا فإن الجزء الأخير في التسلسل يعتبر متقدماً على الجزء الأول فيه
+  examples: []
+  id: 41
+  language_code: ara
+  notes: []
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of documentISO 19107:2019(E)
+  review_decision_notes: This entry has been omitted from the superseding standard
+    ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: retirement
+  terms:
+  - designation: تسلسل دائري
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 50a12128-ca41-523c-890b-a89376a956bd
+status: retired

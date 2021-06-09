@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: b6058e
+    tree:
+      b6058e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2003-05-01 00:00:00+00:00
+          definition: شبكة مؤلفة من مجموعتين أو أكثر من المنحنيات بحيث أن أعضاء كل
+            مجموعة فيها تتقاطع مع أعضاء المجموعات الأخرى بطريقة خوارزمية
+          entry_status: valid
+          examples: []
+          id: 221
+          language_code: ara
+          notes:
+          - المنحنيات تقسِّم الفراغ إلى خلايا شبكية.
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: شبكة
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: شبكة مؤلفة من مجموعتين أو أكثر من المنحنيات بحيث أن أعضاء كل مجموعة
+    فيها تتقاطع مع أعضاء المجموعات الأخرى بطريقة خوارزمية
+  examples: []
+  id: 221
+  language_code: ara
+  notes:
+  - المنحنيات تقسِّم الفراغ إلى خلايا شبكية.
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: شبكة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 1b6f72a3-f352-50a2-96e2-d21b838c2bd5
+status: valid

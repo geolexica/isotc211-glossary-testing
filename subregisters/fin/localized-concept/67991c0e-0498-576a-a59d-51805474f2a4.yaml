@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: 3f156f
+    tree:
+      3f156f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: testattavana olevan toteutuksen (Implementation Under Test,
+            IUT) suoritusominaisuuksien, kuten suoritustehon, vasteherkkyyden tai
+            muun sellaisen, mittaaminen eri olosuhteissa
+          entry_status: valid
+          examples: []
+          id: 329
+          language_code: fin
+          lineage_source: 'Internet (International Software Testing Qualification
+            Board: testaussanastostandardin suomennos)'
+          notes:
+          - Suorituskykytestaus ei kuulu vaatimuksenmukaisuuden testaukseen.
+          review_indicator: ''
+          terms:
+          - designation: suorituskykytestaus
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: testattavana olevan toteutuksen (Implementation Under Test, IUT) suoritusominaisuuksien,
+    kuten suoritustehon, vasteherkkyyden tai muun sellaisen, mittaaminen eri olosuhteissa
+  examples: []
+  id: 329
+  language_code: fin
+  lineage_source: 'Internet (International Software Testing Qualification Board: testaussanastostandardin
+    suomennos)'
+  notes:
+  - Suorituskykytestaus ei kuulu vaatimuksenmukaisuuden testaukseen.
+  review_indicator: ''
+  terms:
+  - designation: suorituskykytestaus
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 67991c0e-0498-576a-a59d-51805474f2a4
+status: valid

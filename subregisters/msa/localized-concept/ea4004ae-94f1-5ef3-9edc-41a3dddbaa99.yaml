@@ -1,0 +1,47 @@
+data:
+  _revisions:
+    current: 97511d
+    tree:
+      97511d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/39242.html
+            ref: ISO 6709:2008
+          date_accepted: 2008-07-15 00:00:00+00:00
+          entry_status: valid
+          examples:
+          - 079 572 5 degrees is represented as 50º04'46.461" sexagesimal degrees.
+          id: 905
+          language_code: msa
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          notes:
+          - In the case of latitude or longitude, it may also include a character
+            indicating hemisphere
+          release: '2'
+          terms:
+          - designation: darjah perenam puluhan
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/39242.html
+    ref: ISO 6709:2008
+  examples:
+  - 079 572 5 degrees is represented as 50º04'46.461" sexagesimal degrees.
+  id: 905
+  language_code: msa
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  notes:
+  - 079 572 5 degrees is represented as 50º04'46.461" sexagesimal degrees.
+  release: '2'
+  terms:
+  - designation: darjah perenam puluhan
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: ea4004ae-94f1-5ef3-9edc-41a3dddbaa99
+status: valid

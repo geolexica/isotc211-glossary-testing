@@ -1,0 +1,68 @@
+data:
+  _revisions:
+    current: f9ca34
+    tree:
+      f9ca34:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.17
+            link: https://www.iso.org/standard/59164.html
+            ref: ISO 19101-1:2014
+          date_accepted: 2002-07-01 00:00:00+00:00
+          definition: eksisterende geografisk informationsstandard, der bruges aktivt
+            af en international gruppe af dataproducenter og databrugere
+          entry_status: valid
+          examples: []
+          id: 192
+          language_code: dan
+          lineage_source: ISO 19101:2002
+          lineage_source_similarity: '1'
+          notes:
+          - GDF, S-57 og DIGEST er eksempler på funktionelle standarder.
+          release: '1'
+          review_date: 2010-10-12 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2014-11-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19101-1:2014
+          review_decision_notes: Authoritative reference changed from ISO 19101:2002
+            to ISO 19101-1:2014. Lineage source added as ISO 19101:2002.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: funktionel standard
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  definition: eksisterende geografisk informationsstandard, der bruges aktivt af en
+    international gruppe af dataproducenter og databrugere
+  examples: []
+  id: 192
+  language_code: dan
+  lineage_source: ISO 19101:2002
+  lineage_source_similarity: '1'
+  notes:
+  - GDF, S-57 og DIGEST er eksempler på funktionelle standarder.
+  release: '1'
+  review_date: 2010-10-12 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2014-11-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19101-1:2014
+  review_decision_notes: Authoritative reference changed from ISO 19101:2002 to ISO
+    19101-1:2014. Lineage source added as ISO 19101:2002.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: funktionel standard
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 801508f0-0b6c-52f9-a194-667cb281e829
+status: valid

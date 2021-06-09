@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: 81565c
+    tree:
+      81565c:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: UML 1
+          date_accepted: 2005-07-15 00:00:00+00:00
+          definition: joukon elementtien lukumäärä
+          entry_status: valid
+          examples: []
+          id: 36
+          language_code: fin
+          lineage_source: ISO/TS 19103:2005
+          lineage_source_similarity: 1
+          notes:
+          - Huomaa ero käsitteeseen kerrannaisuus (multiplicity).
+          release: '1'
+          review_date: 2009-01-14 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2015-12-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19103:2015
+          review_decision_notes: Authoritative reference changed from ISO/IEC 19501:2005
+            (Adapted from) to UML 1. Lineage source added as ISO/TS 19103:2005
+          review_status: final
+          terms:
+          - designation: mahtavuus <UML>
+            normative_status: preferred
+            type: expression
+          - designation: kardinaliteetti <UML>
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: UML 1
+  definition: joukon elementtien lukumäärä
+  examples: []
+  id: 36
+  language_code: fin
+  lineage_source: ISO/TS 19103:2005
+  lineage_source_similarity: 1
+  notes:
+  - Huomaa ero käsitteeseen kerrannaisuus (multiplicity).
+  release: '1'
+  review_date: 2009-01-14 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2015-12-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19103:2015
+  review_decision_notes: Authoritative reference changed from ISO/IEC 19501:2005 (Adapted
+    from) to UML 1. Lineage source added as ISO/TS 19103:2005
+  review_status: final
+  terms:
+  - designation: mahtavuus <UML>
+    normative_status: preferred
+    type: expression
+  - designation: kardinaliteetti <UML>
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 6d9b2183-0336-53b2-b6a1-31e0505b0288
+status: valid

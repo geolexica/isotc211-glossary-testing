@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: cf2c46
+    tree:
+      cf2c46:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: sucesión de objetos geográficos en la que un objeto geográfico
+            preexistente se sustituye por dos o más de dos instancias del mismo tipo
+            de objeto geográfico
+          entry_status: valid
+          examples:
+          - Una instancia del tipo de objeto geográfico "parcela de terreno" se sustituye
+            por dos instancias del mismo tipo, cuando la parcela se subdivide legalmente.
+          id: 174
+          language_code: spa
+          notes: []
+          release: '1'
+          terms:
+          - designation: división de objeto geográfico
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: sucesión de objetos geográficos en la que un objeto geográfico preexistente
+    se sustituye por dos o más de dos instancias del mismo tipo de objeto geográfico
+  examples:
+  - Una instancia del tipo de objeto geográfico "parcela de terreno" se sustituye
+    por dos instancias del mismo tipo, cuando la parcela se subdivide legalmente.
+  id: 174
+  language_code: spa
+  notes:
+  - Una instancia del tipo de objeto geográfico "parcela de terreno" se sustituye
+    por dos instancias del mismo tipo, cuando la parcela se subdivide legalmente.
+  release: '1'
+  terms:
+  - designation: división de objeto geográfico
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: ccc7c62b-8cf0-536d-a295-b59ff1a216bf
+status: valid

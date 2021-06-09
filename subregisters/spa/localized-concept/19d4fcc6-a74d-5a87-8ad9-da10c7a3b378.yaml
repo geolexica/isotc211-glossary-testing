@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 27392e
+    tree:
+      27392e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: configuración del dominio de una cobertura en términos de coordenadas
+          entry_status: valid
+          examples: []
+          id: 100
+          language_code: spa
+          notes: []
+          release: '1'
+          terms:
+          - designation: geometría de la cobertura
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: configuración del dominio de una cobertura en términos de coordenadas
+  examples: []
+  id: 100
+  language_code: spa
+  notes: []
+  release: '1'
+  terms:
+  - designation: geometría de la cobertura
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 19d4fcc6-a74d-5a87-8ad9-da10c7a3b378
+status: valid

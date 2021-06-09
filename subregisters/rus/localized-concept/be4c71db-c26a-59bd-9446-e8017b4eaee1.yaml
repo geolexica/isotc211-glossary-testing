@@ -1,0 +1,53 @@
+data:
+  _revisions:
+    current: 25b215
+    tree:
+      25b215:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.17'
+            link: https://www.iso.org/standard/32574.html
+            ref: ISO 19156:2011
+          date_accepted: 2011-12-15 00:00:00+00:00
+          definition: образец, который участвует в проведении наблюдений , связанных
+            с  объектом домена
+          entry_status: valid
+          examples:
+          - станция, разрез, секция или образец.
+          id: 1443
+          language_code: rus
+          lineage_source: ISO 19156:2011
+          notes:
+          - 'записи: функция выборки является артефактом стратегии наблюдений и не
+            имеет значения независимо от кампании наблюдений.'
+          release: '3'
+          terms:
+          - designation: образец выборки
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2011-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  definition: образец, который участвует в проведении наблюдений , связанных с  объектом
+    домена
+  examples:
+  - станция, разрез, секция или образец.
+  id: 1443
+  language_code: rus
+  lineage_source: ISO 19156:2011
+  notes:
+  - станция, разрез, секция или образец.
+  release: '3'
+  terms:
+  - designation: образец выборки
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: be4c71db-c26a-59bd-9446-e8017b4eaee1
+status: valid

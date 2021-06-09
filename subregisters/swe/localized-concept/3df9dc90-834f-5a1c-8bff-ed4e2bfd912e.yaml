@@ -1,0 +1,73 @@
+data:
+  _revisions:
+    current: b4a23f
+    tree:
+      b4a23f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 11.1.1
+            link: https://www.iso.org/standard/55723.html
+            ref: ISO/IEC 10746-2:2009
+          country_code: swe
+          date_accepted: 2005-02-15 00:00:00+00:00
+          definition: 'det att ett distribuerat system uppför sig och ser
+
+            ut som ett centraliserat system för användaren'
+          entry_status: valid
+          examples: []
+          id: 143
+          language_code: swe
+          lineage_source: ISO 19119:2005
+          notes:
+          - Distribution transparencies enable complexities associated with system
+            distribution to be hidden from applications where they are irrelevant
+            to their purpose.
+          release: '1'
+          review_date: 2012-08-11 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2016-01-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 119:2016
+          review_decision_notes: Authoritative reference changed from ISO/IEC 10746-2
+            to ISO/IEC 10746-2:2009, 11.1.1. Lineage source added as ISO 19119:2005
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: distributionstranparens
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: 11.1.1
+    link: https://www.iso.org/standard/55723.html
+    ref: ISO/IEC 10746-2:2009
+  country_code: swe
+  definition: 'det att ett distribuerat system uppför sig och ser
+
+    ut som ett centraliserat system för användaren'
+  examples: []
+  id: 143
+  language_code: swe
+  lineage_source: ISO 19119:2005
+  notes:
+  - Distribution transparencies enable complexities associated with system distribution
+    to be hidden from applications where they are irrelevant to their purpose.
+  release: '1'
+  review_date: 2012-08-11 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2016-01-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 119:2016
+  review_decision_notes: Authoritative reference changed from ISO/IEC 10746-2 to ISO/IEC
+    10746-2:2009, 11.1.1. Lineage source added as ISO 19119:2005
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: distributionstranparens
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 3df9dc90-834f-5a1c-8bff-ed4e2bfd912e
+status: valid

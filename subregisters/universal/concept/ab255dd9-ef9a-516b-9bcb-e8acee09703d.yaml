@@ -1,0 +1,13 @@
+data:
+  identifier: '789'
+  localizedConcepts:
+    ara: b75026ff-d58c-5ade-a185-c299b585cd99
+    deu: 97a05f73-2f26-58d7-91a9-9165ec3e4f15
+    eng: cc2e198f-4614-5199-9be0-a9815502836e
+    kor: dfd1f584-1c4f-52b1-9afe-d1426c08fed1
+    rus: 421160c2-6e92-56db-9eca-c3f3c745de71
+    spa: a07b10a5-0dfb-57c1-8fd5-d211da8265c6
+    swe: c577efca-fa80-5858-a804-330f60738c3b
+dateAccepted: 2018-11-17
+id: ab255dd9-ef9a-516b-9bcb-e8acee09703d
+status: valid

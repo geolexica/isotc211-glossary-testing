@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 3502e9
+    tree:
+      3502e9:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.20'
+            link: https://www.iso.org/standard/32575.html
+            ref: ISO 19157:2013
+          date_accepted: 2013-12-15 00:00:00+00:00
+          definition: information describing the quality of data quality
+          entry_status: valid
+          examples: []
+          id: 1303
+          language_code: eng
+          notes: []
+          release: '3'
+          terms:
+          - designation: metaquality
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2013-12-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.20'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  definition: information describing the quality of data quality
+  examples: []
+  id: 1303
+  language_code: eng
+  notes: []
+  release: '3'
+  terms:
+  - designation: metaquality
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: 0d0341a2-d3b8-589d-980b-01850db43ab4
+status: valid

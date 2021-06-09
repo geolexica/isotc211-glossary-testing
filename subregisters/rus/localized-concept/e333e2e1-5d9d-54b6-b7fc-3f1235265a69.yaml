@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: bc74d6
+    tree:
+      bc74d6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: modified
+            ref: FindLaw
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: Действие или случай несанкционированного доступа или использования
+            защищенного, защищенного авторским правом или запатентованного материала
+            или товарного знака, фирменного наименования или торговой одежды
+          entry_status: valid
+          examples: []
+          id: 1226
+          language_code: rus
+          lineage_source: ISO 19153:2014, 4.20
+          lineage_source_similarity: '1'
+          notes: []
+          release: '3'
+          terms:
+          - designation: нарушение геолицензии
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: modified
+    ref: FindLaw
+  definition: Действие или случай несанкционированного доступа или использования защищенного,
+    защищенного авторским правом или запатентованного материала или товарного знака,
+    фирменного наименования или торговой одежды
+  examples: []
+  id: 1226
+  language_code: rus
+  lineage_source: ISO 19153:2014, 4.20
+  lineage_source_similarity: '1'
+  notes: []
+  release: '3'
+  terms:
+  - designation: нарушение геолицензии
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: e333e2e1-5d9d-54b6-b7fc-3f1235265a69
+status: valid

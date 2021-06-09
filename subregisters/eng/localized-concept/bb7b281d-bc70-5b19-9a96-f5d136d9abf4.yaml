@@ -1,0 +1,59 @@
+data:
+  _revisions:
+    current: 44da22
+    tree:
+      44da22:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 1.7.2, modified
+            link: https://www.iso.org/standard/57284.html
+            ref: ISO 14721:2012
+          date_accepted: 2018-05-01 00:00:00+00:00
+          definition: act of maintaining information, independently understandable
+            by a designated community, and with evidence supporting its authenticity,
+            over the long term
+          entry_status: valid
+          examples: []
+          id: 2219
+          language_code: eng
+          notes: []
+          release: '5'
+          review_date: 2018-05-01 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2018-05-01 00:00:00+00:00
+          review_decision_event: Normal ISO processing
+          review_decision_notes: Publication of document ISO 19165-1:2018(E)
+          review_status: final
+          terms:
+          - designation: long term preservation
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2018-05-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 1.7.2, modified
+    link: https://www.iso.org/standard/57284.html
+    ref: ISO 14721:2012
+  definition: act of maintaining information, independently understandable by a designated
+    community, and with evidence supporting its authenticity, over the long term
+  examples: []
+  id: 2219
+  language_code: eng
+  notes: []
+  release: '5'
+  review_date: 2018-05-01 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2018-05-01 00:00:00+00:00
+  review_decision_event: Normal ISO processing
+  review_decision_notes: Publication of document ISO 19165-1:2018(E)
+  review_status: final
+  terms:
+  - designation: long term preservation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: bb7b281d-bc70-5b19-9a96-f5d136d9abf4
+status: valid

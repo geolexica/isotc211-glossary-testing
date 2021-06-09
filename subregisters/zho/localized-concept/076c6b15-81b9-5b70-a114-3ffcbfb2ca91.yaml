@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 46740b
+    tree:
+      46740b:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: 由三角形组成的镶嵌式分割。
+          entry_status: valid
+          examples: []
+          id: 476
+          language_code: zho
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: 不规则三角网
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: 由三角形组成的镶嵌式分割。
+  examples: []
+  id: 476
+  language_code: zho
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: 不规则三角网
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 076c6b15-81b9-5b70-a114-3ffcbfb2ca91
+status: valid

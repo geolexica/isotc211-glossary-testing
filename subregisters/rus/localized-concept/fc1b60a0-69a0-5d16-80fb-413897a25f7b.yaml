@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 89a68a
+    tree:
+      89a68a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42136.html
+            ref: ISO 19142:2010
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: набор из двух или более экземпляров объектов, которые удовлетворяют
+            фильтру, который включает в себя предикаты соединения
+          entry_status: valid
+          examples: []
+          id: 1333
+          language_code: rus
+          lineage_source: ISO 19142:2010
+          notes:
+          - в этом международном стандарте экземплярами объектов будут экземпляры
+            пространственных объектов.
+          release: '2'
+          terms:
+          - designation: кортеж соединения
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  definition: набор из двух или более экземпляров объектов, которые удовлетворяют
+    фильтру, который включает в себя предикаты соединения
+  examples: []
+  id: 1333
+  language_code: rus
+  lineage_source: ISO 19142:2010
+  notes:
+  - в этом международном стандарте экземплярами объектов будут экземпляры пространственных
+    объектов.
+  release: '2'
+  terms:
+  - designation: кортеж соединения
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: fc1b60a0-69a0-5d16-80fb-413897a25f7b
+status: valid

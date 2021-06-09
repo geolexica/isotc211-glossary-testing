@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: ea0e57
+    tree:
+      ea0e57:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/44875.html
+            ref: ISO 19126:2009
+          date_accepted: 2009-11-01 00:00:00+00:00
+          definition: registry containing multiple registers that share the same item
+            classes and coordinated management of a common characteristic
+          entry_status: valid
+          examples: []
+          id: 851
+          language_code: eng
+          notes:
+          - The common characteristic may be a shared namespace for the assignment
+            of names and/or codes.
+          release: '2'
+          terms:
+          - designation: compound registry
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-11-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  definition: registry containing multiple registers that share the same item classes
+    and coordinated management of a common characteristic
+  examples: []
+  id: 851
+  language_code: eng
+  notes:
+  - The common characteristic may be a shared namespace for the assignment of names
+    and/or codes.
+  release: '2'
+  terms:
+  - designation: compound registry
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: 819b8744-c20c-51e0-9631-eced90b5c782
+status: valid

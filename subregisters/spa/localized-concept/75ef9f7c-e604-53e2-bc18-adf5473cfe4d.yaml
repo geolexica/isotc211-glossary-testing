@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 6b4ccc
+    tree:
+      6b4ccc:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: distancia desde el origen de la escala de intervalo, utilizada
+            como base del sistema de coordenadas temporales
+          entry_status: valid
+          examples: []
+          id: 445
+          language_code: spa
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: coordenada temporal
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: distancia desde el origen de la escala de intervalo, utilizada como
+    base del sistema de coordenadas temporales
+  examples: []
+  id: 445
+  language_code: spa
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: coordenada temporal
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 75ef9f7c-e604-53e2-bc18-adf5473cfe4d
+status: valid

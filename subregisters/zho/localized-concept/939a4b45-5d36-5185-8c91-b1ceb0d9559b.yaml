@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: c8052e
+    tree:
+      c8052e:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: 由空间对象、时间对象或时空对象和要素属性值记录组成的有序数值对。
+          entry_status: valid
+          examples: []
+          id: 758
+          language_code: zho
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: 几何数值对
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: 由空间对象、时间对象或时空对象和要素属性值记录组成的有序数值对。
+  examples: []
+  id: 758
+  language_code: zho
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: 几何数值对
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 939a4b45-5d36-5185-8c91-b1ceb0d9559b
+status: valid

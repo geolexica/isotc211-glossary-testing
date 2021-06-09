@@ -1,0 +1,52 @@
+data:
+  _revisions:
+    current: 30521a
+    tree:
+      30521a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: Fifth Edition
+            ref: IHO Hydrographic Dictionary S-32
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: 선박 이동 방향의 해수면에서 일어나는 부분적 패임/저기압 현상으로 인해 선박의 높이가 정지된 선박보다 해수면에서
+            낮아지는  현상
+          entry_status: valid
+          examples: []
+          id: 1568
+          language_code: kor
+          lineage_source: ISO/TS 19130-2:2014, 4.67
+          lineage_source_similarity: '1'
+          notes:
+          - Settlement is not an increase in displacement.
+          - Settlement is measured as an angular tilt about the centre of gravity
+            of the vessel.
+          release: '3'
+          terms:
+          - designation: 조정
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  definition: 선박 이동 방향의 해수면에서 일어나는 부분적 패임/저기압 현상으로 인해 선박의 높이가 정지된 선박보다 해수면에서 낮아지는  현상
+  examples: []
+  id: 1568
+  language_code: kor
+  lineage_source: ISO/TS 19130-2:2014, 4.67
+  lineage_source_similarity: '1'
+  notes:
+  - Settlement is not an increase in displacement.
+  - Settlement is measured as an angular tilt about the centre of gravity of the vessel.
+  release: '3'
+  terms:
+  - designation: 조정
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 0d1f8991-7edb-5112-96ff-c10a198fd3ff
+status: valid

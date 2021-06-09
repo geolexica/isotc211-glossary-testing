@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: f5b0e8
+    tree:
+      f5b0e8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: implementation which satisfies the requirements
+          entry_status: valid
+          examples: []
+          id: 77
+          language_code: eng
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: conforming implementation
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: implementation which satisfies the requirements
+  examples: []
+  id: 77
+  language_code: eng
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: conforming implementation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 16163896-d1fa-5cbc-8b06-14d60254c69a
+status: valid

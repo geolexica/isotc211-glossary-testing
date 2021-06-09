@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: da5e2d
+    tree:
+      da5e2d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.21
+            link: https://www.iso.org/standard/51206.html
+            ref: ISO 19152:2012
+          date_accepted: 2012-12-01 00:00:00+00:00
+          definition: documento que proporciona hechos jurídicos o administrativos
+            en los que se basa el objeto de administración del territorio (Land Administration
+            - LA) (derecho, restricción, responsabilidad, unidad básica administrativa,
+            parte  o unidad espacial )
+          entry_status: valid
+          examples: []
+          id: 1574
+          language_code: spa
+          notes:
+          - Se puede añadir cualquier tipo de documento como fuente, de acuerdo con
+            la Norma ISO 19115:2003, apartado B.3.2
+          release: '3'
+          terms:
+          - designation: fuente
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.21
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  definition: documento que proporciona hechos jurídicos o administrativos en los
+    que se basa el objeto de administración del territorio (Land Administration -
+    LA) (derecho, restricción, responsabilidad, unidad básica administrativa, parte  o
+    unidad espacial )
+  examples: []
+  id: 1574
+  language_code: spa
+  notes:
+  - Se puede añadir cualquier tipo de documento como fuente, de acuerdo con la Norma
+    ISO 19115:2003, apartado B.3.2
+  release: '3'
+  terms:
+  - designation: fuente
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: efd95592-696c-5b84-8724-7e4962310c5f
+status: valid

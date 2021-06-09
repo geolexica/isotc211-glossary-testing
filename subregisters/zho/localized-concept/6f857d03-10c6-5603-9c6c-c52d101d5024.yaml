@@ -1,0 +1,64 @@
+data:
+  _revisions:
+    current: 246cdf
+    tree:
+      246cdf:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            clause: '4.3'
+            link: https://www.iso.org/standard/44212.html
+            ref: ISO 19118:2011
+          date_accepted: 2005-07-15 00:00:00+00:00
+          definition: 基于所定义模式的符号表示。
+          entry_status: valid
+          examples: []
+          id: 49
+          language_code: zho
+          lineage_source: ISO 19118:2005
+          lineage_source_similarity: '1'
+          notes: []
+          release: '1'
+          review_date: 2007-01-23 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2011-10-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19118:2011
+          review_decision_notes: Authoritative reference changed from ISO 19118:2005
+            to ISO 19118:2011. Lineage source added as ISO 19118:2005.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: 代码
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  definition: 基于所定义模式的符号表示。
+  examples: []
+  id: 49
+  language_code: zho
+  lineage_source: ISO 19118:2005
+  lineage_source_similarity: '1'
+  notes: []
+  release: '1'
+  review_date: 2007-01-23 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2011-10-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19118:2011
+  review_decision_notes: Authoritative reference changed from ISO 19118:2005 to ISO
+    19118:2011. Lineage source added as ISO 19118:2005.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: 代码
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 6f857d03-10c6-5603-9c6c-c52d101d5024
+status: valid

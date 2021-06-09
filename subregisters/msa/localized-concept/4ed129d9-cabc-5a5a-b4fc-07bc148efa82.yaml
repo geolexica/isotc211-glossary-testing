@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: b20ff0
+    tree:
+      b20ff0:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41445.html
+            ref: ISO 19141:2008
+          date_accepted: 2008-06-01 00:00:00+00:00
+          definition: laluan pergerakan sesuatu titik berdasarkan satu set paramater
+            bagi titik tersebut
+          entry_status: valid
+          examples: []
+          id: 646
+          language_code: msa
+          notes: []
+          release: '2'
+          terms:
+          - designation: trajektori
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-06-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  definition: laluan pergerakan sesuatu titik berdasarkan satu set paramater bagi
+    titik tersebut
+  examples: []
+  id: 646
+  language_code: msa
+  notes: []
+  release: '2'
+  terms:
+  - designation: trajektori
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 4ed129d9-cabc-5a5a-b4fc-07bc148efa82
+status: valid

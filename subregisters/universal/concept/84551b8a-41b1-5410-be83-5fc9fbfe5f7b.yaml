@@ -1,0 +1,14 @@
+data:
+  identifier: '1122'
+  localizedConcepts:
+    ara: 4bdbe652-4575-5e63-9d1f-882b260bc35c
+    deu: 70dd9d6e-b58e-5bc5-ad03-54b3871cb632
+    eng: 77fddeff-1605-526e-a68f-1a6ef9b4e337
+    kor: ff9da414-5831-5bc6-9c3d-692d451aae75
+    msa: b5ec6705-aada-52c5-b76e-06a34dbb1ab9
+    rus: 93008b66-960a-591c-98a0-35666e68e80b
+    spa: f2eaca02-52b8-5574-9ade-e5775732a4c9
+    swe: ecdae02a-cbe6-5823-823d-a37b62511ae7
+dateAccepted: 2018-11-17
+id: 84551b8a-41b1-5410-be83-5fc9fbfe5f7b
+status: valid

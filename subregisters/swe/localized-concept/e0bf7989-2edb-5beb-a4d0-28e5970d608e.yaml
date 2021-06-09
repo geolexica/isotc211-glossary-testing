@@ -1,0 +1,80 @@
+data:
+  _revisions:
+    current: 9cb283
+    tree:
+      9cb283:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.11
+            link: https://www.iso.org/standard/59164.html
+            ref: ISO 19101-1:2014
+          country_code: swe
+          date_accepted: 2002-07-01 00:00:00+00:00
+          definition: abstraktion av företeelser med likartade egenskaper
+          entry_status: valid
+          examples: []
+          id: 168
+          language_code: swe
+          lineage_source: ISO 19101:2002
+          lineage_source_similarity: '1'
+          notes:
+          - 'Termen feature kan även avse enskild förekomst av en objekttyp.
+
+            till termpost: För att kunna representera en företeelse kan specifikationen
+            av vilka uppgifter som kan anges om företeelsen och beskrivningar av sätt
+            för att utnyttja och/eller påverka dessa uppgifter knytas till företeelsens
+            objekttyp. De samlade uppgifterna om en företeelse kan då betraktas som
+            ett objekt som utgör en instans av objekttypen.'
+          release: '1'
+          review_date: 2010-10-12 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2014-11-01 00:00:00+00:00
+          review_decision_event: Publication of ISO 19101-1:2014
+          review_decision_notes: Authoritative reference changed from ISO 19101:2002
+            to ISO 19101-1:2014. Lineage source added as ISO 19101:2002.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: objekttyp
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-07-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.11
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  country_code: swe
+  definition: abstraktion av företeelser med likartade egenskaper
+  examples: []
+  id: 168
+  language_code: swe
+  lineage_source: ISO 19101:2002
+  lineage_source_similarity: '1'
+  notes:
+  - 'Termen feature kan även avse enskild förekomst av en objekttyp.
+
+    till termpost: För att kunna representera en företeelse kan specifikationen av
+    vilka uppgifter som kan anges om företeelsen och beskrivningar av sätt för att
+    utnyttja och/eller påverka dessa uppgifter knytas till företeelsens objekttyp.
+    De samlade uppgifterna om en företeelse kan då betraktas som ett objekt som utgör
+    en instans av objekttypen.'
+  release: '1'
+  review_date: 2010-10-12 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2014-11-01 00:00:00+00:00
+  review_decision_event: Publication of ISO 19101-1:2014
+  review_decision_notes: Authoritative reference changed from ISO 19101:2002 to ISO
+    19101-1:2014. Lineage source added as ISO 19101:2002.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: objekttyp
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: e0bf7989-2edb-5beb-a4d0-28e5970d608e
+status: valid

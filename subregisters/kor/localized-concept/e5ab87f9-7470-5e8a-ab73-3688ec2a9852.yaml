@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: '639880'
+    tree:
+      '639880':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: 필터 표현을 처리하는 시스템의 요소
+          entry_status: valid
+          examples: []
+          id: 1021
+          language_code: kor
+          notes: []
+          release: '2'
+          terms:
+          - designation: 필터 표현 프로세서
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: 필터 표현을 처리하는 시스템의 요소
+  examples: []
+  id: 1021
+  language_code: kor
+  notes: []
+  release: '2'
+  terms:
+  - designation: 필터 표현 프로세서
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: e5ab87f9-7470-5e8a-ab73-3688ec2a9852
+status: valid

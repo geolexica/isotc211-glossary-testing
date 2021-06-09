@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: cd60b7
+    tree:
+      cd60b7:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2007-07-01 00:00:00+00:00
+          definition: datum, der beskriver relationen mellem et koordinatsystem og
+            jorden
+          examples: []
+          id: 708
+          language_code: dan
+          notes:
+          - I de fleste tilfælde indeholder det geodætiske datum en ellipsoidedefinition.
+          release: '1'
+          terms:
+          - designation: geodætisk datum
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2007-07-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  definition: datum, der beskriver relationen mellem et koordinatsystem og jorden
+  examples: []
+  id: 708
+  language_code: dan
+  notes:
+  - I de fleste tilfælde indeholder det geodætiske datum en ellipsoidedefinition.
+  release: '1'
+  terms:
+  - designation: geodætisk datum
+    normative_status: null
+    type: expression
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: a7378c87-a100-5472-81b5-3bdca1ab18b2
+status: valid

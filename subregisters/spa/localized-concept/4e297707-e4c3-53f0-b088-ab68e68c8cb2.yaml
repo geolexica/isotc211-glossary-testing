@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 95c9e8
+    tree:
+      95c9e8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: Fifth Edition
+            ref: IHO Hydrographic Dictionary S-32
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: ascenso y descenso oscilatorio de un barco al ser levantado
+            su casco  por la fuerza del mar
+          entry_status: valid
+          examples: []
+          id: 1393
+          language_code: spa
+          lineage_source: ISO/TS 19130-2:2014, 4.31
+          lineage_source_similarity: '1'
+          notes: []
+          release: '3'
+          terms:
+          - designation: cabeceo
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  definition: ascenso y descenso oscilatorio de un barco al ser levantado su casco  por
+    la fuerza del mar
+  examples: []
+  id: 1393
+  language_code: spa
+  lineage_source: ISO/TS 19130-2:2014, 4.31
+  lineage_source_similarity: '1'
+  notes: []
+  release: '3'
+  terms:
+  - designation: cabeceo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 4e297707-e4c3-53f0-b088-ab68e68c8cb2
+status: valid

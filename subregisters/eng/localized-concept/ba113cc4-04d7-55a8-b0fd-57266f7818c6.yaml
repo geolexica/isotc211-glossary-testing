@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 5a0ea6
+    tree:
+      5a0ea6:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: W3C XLink:2001
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: using or following an XLink link for any purpose
+          entry_status: valid
+          examples: []
+          id: 785
+          language_code: eng
+          lineage_source: ISO 19142:2010
+          notes: []
+          release: '2'
+          terms:
+          - designation: traversal <XML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: W3C XLink:2001
+  definition: using or following an XLink link for any purpose
+  examples: []
+  id: 785
+  language_code: eng
+  lineage_source: ISO 19142:2010
+  notes: []
+  release: '2'
+  terms:
+  - designation: traversal <XML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: ba113cc4-04d7-55a8-b0fd-57266f7818c6
+status: valid

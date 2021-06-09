@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: c04b2d
+    tree:
+      c04b2d:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/43041.html
+            ref: ISO/TS 19129:2009
+          date_accepted: 2009-04-01 00:00:00+00:00
+          definition: 부호화 및 묘사 메커니즘과 내용 모형의 요소간 관계
+          entry_status: valid
+          examples: []
+          id: 188
+          language_code: kor
+          notes: []
+          release: '2'
+          terms:
+          - designation: 프레임워크, 체계, 골격
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-04-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  definition: 부호화 및 묘사 메커니즘과 내용 모형의 요소간 관계
+  examples: []
+  id: 188
+  language_code: kor
+  notes: []
+  release: '2'
+  terms:
+  - designation: 프레임워크, 체계, 골격
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 6bf4d44d-122c-5bc7-b472-c878e93a9abb
+status: valid

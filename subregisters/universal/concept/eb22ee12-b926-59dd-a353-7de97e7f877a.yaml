@@ -1,0 +1,16 @@
+data:
+  identifier: '333'
+  localizedConcepts:
+    ara: f1fc585b-cb3c-551d-83be-bbadf9603c73
+    deu: 70647b16-a58e-5bf9-9c6f-8ec3e2eb7b89
+    eng: a04e7637-8501-56b7-b7a2-5385530286f8
+    fin: 00b01552-d584-59e0-895c-1813b6185081
+    fra: c05efdf6-ac3c-57f3-bcca-0a27eab44314
+    kor: e0a5e0ce-a430-5cc5-8c7c-3f418d379f51
+    msa: 10a3abe4-6eab-52da-a63e-51cafec1899c
+    rus: 175084a2-3db4-5295-9b72-0ec786d1ce14
+    spa: 32171ed8-e0eb-58fb-92af-f6d5207dcd18
+    zho: 8fa0e1d2-82c8-52f3-a68c-2114838be7e5
+dateAccepted: 2018-11-17
+id: eb22ee12-b926-59dd-a353-7de97e7f877a
+status: valid

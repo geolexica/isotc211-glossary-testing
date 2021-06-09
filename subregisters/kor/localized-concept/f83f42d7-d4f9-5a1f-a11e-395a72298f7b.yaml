@@ -1,0 +1,40 @@
+data:
+  _revisions:
+    current: 78cd5a
+    tree:
+      78cd5a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: W3C XLink:2001
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: 특정 목적으로 Xlink 링크를 따르거나 사용하는 것
+          entry_status: valid
+          examples: []
+          id: 785
+          language_code: kor
+          notes: []
+          release: '2'
+          terms:
+          - designation: 횡단/순회/운행 확장 가능 마크 업 언어
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: W3C XLink:2001
+  definition: 특정 목적으로 Xlink 링크를 따르거나 사용하는 것
+  examples: []
+  id: 785
+  language_code: kor
+  notes: []
+  release: '2'
+  terms:
+  - designation: 횡단/순회/운행 확장 가능 마크 업 언어
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: f83f42d7-d4f9-5a1f-a11e-395a72298f7b
+status: valid

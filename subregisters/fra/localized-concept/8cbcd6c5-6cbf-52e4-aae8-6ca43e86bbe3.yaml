@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 151e97
+    tree:
+      151e97:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: domaine composé d'objets spatio-temporels
+          entry_status: valid
+          examples: []
+          id: 423
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: domaine spatio-temporel <couverture>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  definition: domaine composé d'objets spatio-temporels
+  examples: []
+  id: 423
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: domaine spatio-temporel <couverture>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 8cbcd6c5-6cbf-52e4-aae8-6ca43e86bbe3
+status: valid

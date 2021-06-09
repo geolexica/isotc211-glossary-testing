@@ -1,0 +1,68 @@
+data:
+  _revisions:
+    current: c869af
+    tree:
+      c869af:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26012.html
+            ref: ISO 19107:2003
+          date_accepted: 2003-05-01 00:00:00+00:00
+          date_amended: 2019-12-02 00:00:00+00:00
+          definition: حد تمثله مجموعة من العناصر الطوبولوجية البدائية الموجهة ذات
+            الأبعاد الطوبولوجية الأصغر التي تحد امتداد الكائن الطوبولوجي
+          entry_status: superseded
+          examples: []
+          id: 461
+          language_code: ara
+          notes:
+          - الحد الخارجي لأي مركَّب طوبولوجي يكون مطابقاً للحد الخارجي للتمثيل الهندسي
+            لذلك المركَّب الطوبولوجي.
+          release: '-1'
+          review_date: 2019-12-02 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-12-02 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19107:2019(E)
+          review_decision_notes: This entry is superseded by the entry for topological
+            boundary <geometry, topology>  in ISO 19107:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: حد طوبولوجي
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-05-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  date_amended: 2019-12-02 00:00:00+00:00
+  definition: حد تمثله مجموعة من العناصر الطوبولوجية البدائية الموجهة ذات الأبعاد
+    الطوبولوجية الأصغر التي تحد امتداد الكائن الطوبولوجي
+  examples: []
+  id: 461
+  language_code: ara
+  notes:
+  - الحد الخارجي لأي مركَّب طوبولوجي يكون مطابقاً للحد الخارجي للتمثيل الهندسي لذلك
+    المركَّب الطوبولوجي.
+  release: '-1'
+  review_date: 2019-12-02 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-12-02 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19107:2019(E)
+  review_decision_notes: This entry is superseded by the entry for topological boundary
+    <geometry, topology>  in ISO 19107:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: حد طوبولوجي
+    normative_status: null
+    type: expression
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3a749190-be58-5b99-a50a-3bf8c650c0d3
+status: superseded

@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: e60d84
+    tree:
+      e60d84:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: W3C XML
+          country_code: swe
+          date_accepted: 2012-12-15 00:00:00+00:00
+          definition: datamängd som följer regler för XML
+          entry_status: valid
+          examples: []
+          id: 1377
+          language_code: swe
+          lineage_source: ISO/TS 19139-2:2012, 4.1
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: XML-dokument
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-15 00:00:00+00:00
+  authoritativeSource:
+  - ref: W3C XML
+  country_code: swe
+  definition: datamängd som följer regler för XML
+  examples: []
+  id: 1377
+  language_code: swe
+  lineage_source: ISO/TS 19139-2:2012, 4.1
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: XML-dokument
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: adb08591-1899-57c4-80d9-159f3fcc56d9
+status: valid

@@ -1,0 +1,45 @@
+data:
+  _revisions:
+    current: 15362b
+    tree:
+      15362b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32562.html
+            ref: ISO 19144-1:2009
+          date_accepted: 2009-08-15 00:00:00+00:00
+          definition: абстрактное представление явлений реального мира с использованием
+            классификаторов
+          entry_status: valid
+          examples: []
+          id: 848
+          language_code: rus
+          lineage_source: ISO 19144-1:2009
+          notes: []
+          release: '2'
+          terms:
+          - designation: классификация
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  definition: абстрактное представление явлений реального мира с использованием классификаторов
+  examples: []
+  id: 848
+  language_code: rus
+  lineage_source: ISO 19144-1:2009
+  notes: []
+  release: '2'
+  terms:
+  - designation: классификация
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 53aa96f8-75e9-5ee5-8c8b-a91605b70264
+status: valid

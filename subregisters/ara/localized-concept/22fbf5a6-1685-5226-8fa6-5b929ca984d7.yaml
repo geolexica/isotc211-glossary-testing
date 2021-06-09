@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: eea12a
+    tree:
+      eea12a:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: م ا ت
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: نموذج اختبار تجريدي يحدد جميع المتطلبات اللازم تحقيقها للتطابق
+          entry_status: valid
+          examples: []
+          id: 6
+          language_code: ara
+          notes:
+          - توصف مجموعات الاختبار التجريدي في فقرة للمطابقة
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: مجموعة اختبار تجريدي
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  abbrev: م ا ت
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: نموذج اختبار تجريدي يحدد جميع المتطلبات اللازم تحقيقها للتطابق
+  examples: []
+  id: 6
+  language_code: ara
+  notes:
+  - توصف مجموعات الاختبار التجريدي في فقرة للمطابقة
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: مجموعة اختبار تجريدي
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 22fbf5a6-1685-5226-8fa6-5b929ca984d7
+status: valid

@@ -1,0 +1,71 @@
+data:
+  _revisions:
+    current: d26c38
+    tree:
+      d26c38:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2003-02-15 00:00:00+00:00
+          date_amended: 2019-01-31 00:00:00+00:00
+          definition: eine aus der Folge von n Zahlen, die die Position eines Punktes
+            im n-dimensionalen Raum beschreiben
+          entry_status: superseded
+          examples: []
+          id: 88
+          language_code: deu
+          lineage_source: ISO 19111:2003
+          lineage_source_similarity: 1
+          notes:
+          - In a coordinate reference system, the coordinate numbers are qualified
+            by units.
+          release: '-1'
+          review_date: 2019-01-31 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2019-01-31 00:00:00+00:00
+          review_decision_event: Publication of document ISO 19111:2019(E)
+          review_decision_notes: This entry is superseded by the entry for coordinate
+            in ISO 19111:2019(E)
+          review_indicator: ''
+          review_status: final
+          review_type: supersession
+          terms:
+          - designation: Koordinate
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2003-02-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  date_amended: 2019-01-31 00:00:00+00:00
+  definition: eine aus der Folge von n Zahlen, die die Position eines Punktes im n-dimensionalen
+    Raum beschreiben
+  examples: []
+  id: 88
+  language_code: deu
+  lineage_source: ISO 19111:2003
+  lineage_source_similarity: 1
+  notes:
+  - In a coordinate reference system, the coordinate numbers are qualified by units.
+  release: '-1'
+  review_date: 2019-01-31 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2019-01-31 00:00:00+00:00
+  review_decision_event: Publication of document ISO 19111:2019(E)
+  review_decision_notes: This entry is superseded by the entry for coordinate in ISO
+    19111:2019(E)
+  review_indicator: ''
+  review_status: final
+  review_type: supersession
+  terms:
+  - designation: Koordinate
+    normative_status: null
+    type: expression
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 90a58511-16fa-5a82-9a67-cca7959d55dd
+status: superseded

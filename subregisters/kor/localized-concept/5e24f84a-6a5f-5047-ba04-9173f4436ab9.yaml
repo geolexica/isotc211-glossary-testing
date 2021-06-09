@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 67dadd
+    tree:
+      67dadd:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.16'
+            link: https://www.iso.org/standard/32566.html
+            ref: ISO 19148:2012
+          date_accepted: 2012-02-15 00:00:00+00:00
+          definition: 선형 참조를 사용하여 명시된 위치
+          entry_status: valid
+          examples: []
+          id: 1175
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 선형적 참조 위치
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.16'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  definition: 선형 참조를 사용하여 명시된 위치
+  examples: []
+  id: 1175
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 선형적 참조 위치
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 5e24f84a-6a5f-5047-ba04-9173f4436ab9
+status: valid

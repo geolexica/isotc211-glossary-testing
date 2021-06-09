@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: bc34bb
+    tree:
+      bc34bb:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128:2005
+          country_code: swe
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: metadata som beskriver de operationer och den geodata som är
+            tillgänglig via en server
+          entry_status: valid
+          examples: []
+          id: 408
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: metadata för tjänster
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  country_code: swe
+  definition: metadata som beskriver de operationer och den geodata som är tillgänglig
+    via en server
+  examples: []
+  id: 408
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: metadata för tjänster
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 169f90d9-d6ad-5b6e-a4df-799abd5ac125
+status: valid

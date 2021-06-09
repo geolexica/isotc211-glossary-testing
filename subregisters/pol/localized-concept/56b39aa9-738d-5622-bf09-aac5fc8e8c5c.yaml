@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 921abb
+    tree:
+      921abb:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41126.html
+            ref: ISO 19111:2007
+          date_accepted: 2003-02-15 00:00:00+00:00
+          definition: południk, względem którego oblicza się długości geodezyjne innych
+            południków
+          examples: []
+          id: 505
+          language_code: pol
+          lineage_source: PN-EN ISO 19111
+          notes: []
+          release: '1'
+          terms:
+          - designation: południk poczatkowy,             południk zerowy
+            normative_status: admitted
+            type: expression
+          - designation: pierwszy (początkowy) południk
+            type: expression
+        parents: []
+        timeCreated: 2003-02-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  definition: południk, względem którego oblicza się długości geodezyjne innych południków
+  examples: []
+  id: 505
+  language_code: pol
+  lineage_source: PN-EN ISO 19111
+  notes: []
+  release: '1'
+  terms:
+  - designation: południk poczatkowy,             południk zerowy
+    normative_status: admitted
+    type: expression
+  - designation: pierwszy (początkowy) południk
+    type: expression
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 56b39aa9-738d-5622-bf09-aac5fc8e8c5c
+status: valid

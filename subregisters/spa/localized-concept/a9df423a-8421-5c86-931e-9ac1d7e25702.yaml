@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 332bcc
+    tree:
+      332bcc:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: modified
+            ref: New Concepts in BASIS Licensing
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: aplicación que monitoriza las licencias disponibles en una organización
+            y coordina la asignación de esas licencias a los usuarios que las solicitan
+          entry_status: valid
+          examples: []
+          id: 1234
+          language_code: spa
+          lineage_source: ISO 19153:2014, 4.28
+          lineage_source_similarity: '1'
+          notes: []
+          release: '3'
+          terms:
+          - designation: gestor de licencias
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: modified
+    ref: New Concepts in BASIS Licensing
+  definition: aplicación que monitoriza las licencias disponibles en una organización
+    y coordina la asignación de esas licencias a los usuarios que las solicitan
+  examples: []
+  id: 1234
+  language_code: spa
+  lineage_source: ISO 19153:2014, 4.28
+  lineage_source_similarity: '1'
+  notes: []
+  release: '3'
+  terms:
+  - designation: gestor de licencias
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: a9df423a-8421-5c86-931e-9ac1d7e25702
+status: valid

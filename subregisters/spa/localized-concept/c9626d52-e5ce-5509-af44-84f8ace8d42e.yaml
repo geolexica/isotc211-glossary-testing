@@ -1,0 +1,58 @@
+data:
+  _revisions:
+    current: fd200b
+    tree:
+      fd200b:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: UML 2
+          date_accepted: 2015-12-01 00:00:00+00:00
+          definition: representación de una parte modular de un sistema que encapsula
+            su contenido y cuya manifestación es reemplazable dentro de su entorno
+          entry_status: valid
+          examples: []
+          id: 1145
+          language_code: spa
+          lineage_source: ISO 19103:2015, 4.9
+          notes: []
+          release: '4'
+          review_date: 2009-01-14 00:00:00+00:00
+          review_decision: ''
+          review_decision_date: 2015-12-01 00:00:00+00:00
+          review_decision_event: Publicación de ISO 19103:2016
+          review_decision_notes: Esta entrada terminológica sustituye a "classifier
+            <UML>" en la Especificación Técnica ISO/TS 19103:2006
+          review_status: final
+          terms:
+          - designation: componente <UML>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2015-12-01 00:00:00+00:00
+  authoritativeSource:
+  - ref: UML 2
+  definition: representación de una parte modular de un sistema que encapsula su contenido
+    y cuya manifestación es reemplazable dentro de su entorno
+  examples: []
+  id: 1145
+  language_code: spa
+  lineage_source: ISO 19103:2015, 4.9
+  notes: []
+  release: '4'
+  review_date: 2009-01-14 00:00:00+00:00
+  review_decision: ''
+  review_decision_date: 2015-12-01 00:00:00+00:00
+  review_decision_event: Publicación de ISO 19103:2016
+  review_decision_notes: Esta entrada terminológica sustituye a "classifier <UML>"
+    en la Especificación Técnica ISO/TS 19103:2006
+  review_status: final
+  terms:
+  - designation: componente <UML>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-12-01 00:00:00+00:00
+id: c9626d52-e5ce-5509-af44-84f8ace8d42e
+status: valid

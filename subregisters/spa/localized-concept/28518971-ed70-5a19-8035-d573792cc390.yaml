@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 24a3be
+    tree:
+      24a3be:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: veredicto de prueba de conformidad
+          entry_status: valid
+          examples: []
+          id: 326
+          language_code: spa
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: veredicto de aprobado
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: veredicto de prueba de conformidad
+  examples: []
+  id: 326
+  language_code: spa
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: veredicto de aprobado
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 28518971-ed70-5a19-8035-d573792cc390
+status: valid

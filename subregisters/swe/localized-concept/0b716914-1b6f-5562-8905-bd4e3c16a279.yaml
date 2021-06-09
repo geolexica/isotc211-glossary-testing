@@ -1,0 +1,65 @@
+data:
+  _revisions:
+    current: e3cef2
+    tree:
+      e3cef2:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: 4.1.13
+            link: https://www.iso.org/standard/51206.html
+            ref: ISO 19152:2012
+          country_code: swe
+          date_accepted: 2012-12-01 00:00:00+00:00
+          definition: 'person or organisation that plays a role in a rights transaction
+
+            person eller organisation som spelar en roll i överlåtelse av rättighet'
+          entry_status: valid
+          examples:
+          - 'An organization may be: a company, a municipality, the state, a tribe,
+            a farmer cooperation, or a church community (with each organization represented
+            by a delegate: a director, chief, CEO, etc.).'
+          id: 1242
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes:
+          - In order to be registered as a party, not all members need to be identified
+            and registered individually.
+          - A basic administrative unit may be a party because it may hold a right
+            of e.g. easement.
+          release: '3'
+          terms:
+          - designation: part
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-12-01 00:00:00+00:00
+  authoritativeSource:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  country_code: swe
+  definition: 'person or organisation that plays a role in a rights transaction
+
+    person eller organisation som spelar en roll i överlåtelse av rättighet'
+  examples:
+  - 'An organization may be: a company, a municipality, the state, a tribe, a farmer
+    cooperation, or a church community (with each organization represented by a delegate:
+    a director, chief, CEO, etc.).'
+  id: 1242
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes:
+  - 'An organization may be: a company, a municipality, the state, a tribe, a farmer
+    cooperation, or a church community (with each organization represented by a delegate:
+    a director, chief, CEO, etc.).'
+  release: '3'
+  terms:
+  - designation: part
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 0b716914-1b6f-5562-8905-bd4e3c16a279
+status: valid

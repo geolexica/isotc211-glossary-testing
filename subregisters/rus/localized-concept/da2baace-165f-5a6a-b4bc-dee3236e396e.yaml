@@ -1,0 +1,47 @@
+data:
+  _revisions:
+    current: 54dcc8
+    tree:
+      54dcc8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: заключение о результатах тестирования, которое дается тогда,
+            когда не могут быть даны ни заключение о прохождении теста, ни заключение
+            о несоответствии
+          entry_status: valid
+          examples: []
+          id: 238
+          language_code: rus
+          lineage_source: Internet
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: недоказательное заключение
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: заключение о результатах тестирования, которое дается тогда, когда не
+    могут быть даны ни заключение о прохождении теста, ни заключение о несоответствии
+  examples: []
+  id: 238
+  language_code: rus
+  lineage_source: Internet
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: недоказательное заключение
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: da2baace-165f-5a6a-b4bc-dee3236e396e
+status: valid

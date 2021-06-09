@@ -1,0 +1,40 @@
+data:
+  _revisions:
+    current: f1c798
+    tree:
+      f1c798:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          date_accepted: 2010-12-15 00:00:00+00:00
+          definition: Medientyp und Untertyp von Daten im Hauptteil einer Nachricht,
+            der die ursprüngliche Darstellung (kanonische Form) dieser Daten darstellt
+          entry_status: valid
+          examples: []
+          id: 1336
+          language_code: deu
+          notes: []
+          release: '2'
+          terms:
+          - designation: Multipurpose Internet Mail Extensions type (MIME Type)
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-12-15 00:00:00+00:00
+  authoritativeSource:
+  - {}
+  definition: Medientyp und Untertyp von Daten im Hauptteil einer Nachricht, der die
+    ursprüngliche Darstellung (kanonische Form) dieser Daten darstellt
+  examples: []
+  id: 1336
+  language_code: deu
+  notes: []
+  release: '2'
+  terms:
+  - designation: Multipurpose Internet Mail Extensions type (MIME Type)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 687beb70-35ba-57af-9661-e5330cafdc15
+status: valid

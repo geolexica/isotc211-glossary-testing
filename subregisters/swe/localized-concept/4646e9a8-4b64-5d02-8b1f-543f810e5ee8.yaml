@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 1a5598
+    tree:
+      1a5598:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42180.html
+            ref: ISO 9000:2005
+          country_code: swe
+          date_accepted: 2012-10-15 00:00:00+00:00
+          definition: del av kvalitetsledning inriktad mot att ge tilltro till att
+            kvalitetskrav kommer att uppfyllas
+          entry_status: valid
+          examples: []
+          id: 1371
+          language_code: swe
+          lineage_source: ISO/TS 19158:2012, 4.7
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: kvalitetssäkring
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  country_code: swe
+  definition: del av kvalitetsledning inriktad mot att ge tilltro till att kvalitetskrav
+    kommer att uppfyllas
+  examples: []
+  id: 1371
+  language_code: swe
+  lineage_source: ISO/TS 19158:2012, 4.7
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: kvalitetssäkring
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 4646e9a8-4b64-5d02-8b1f-543f810e5ee8
+status: valid

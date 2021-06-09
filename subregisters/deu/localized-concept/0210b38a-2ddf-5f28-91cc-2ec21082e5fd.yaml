@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: 5ee344
+    tree:
+      5ee344:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: Filterausdruck, der eine oder mehrere Regeln umfasst, die Eigenschaften
+            von zwei unterschiedlichen Entitätstypen einschränken
+          entry_status: valid
+          examples: []
+          id: 1299
+          language_code: deu
+          notes:
+          - In this International Standard, the entity types are resource types.
+          release: '2'
+          terms:
+          - designation: Verknüpfungsprädikat
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: Filterausdruck, der eine oder mehrere Regeln umfasst, die Eigenschaften
+    von zwei unterschiedlichen Entitätstypen einschränken
+  examples: []
+  id: 1299
+  language_code: deu
+  notes:
+  - In this International Standard, the entity types are resource types.
+  release: '2'
+  terms:
+  - designation: Verknüpfungsprädikat
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 0210b38a-2ddf-5f28-91cc-2ec21082e5fd
+status: valid

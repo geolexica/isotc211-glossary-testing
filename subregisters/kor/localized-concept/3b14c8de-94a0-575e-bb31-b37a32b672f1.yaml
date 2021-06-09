@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: '719917'
+    tree:
+      '719917':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.81'
+            link: https://www.iso.org/standard/56113.html
+            ref: ISO/TS 19130-2:2014
+          date_accepted: 2014-01-15 00:00:00+00:00
+          definition: 안테나 위치 벡터의 1차 도함수
+          entry_status: valid
+          examples: []
+          id: 1428
+          language_code: kor
+          notes: []
+          release: '3'
+          terms:
+          - designation: 속도 벡터
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-01-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.81'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  definition: 안테나 위치 벡터의 1차 도함수
+  examples: []
+  id: 1428
+  language_code: kor
+  notes: []
+  release: '3'
+  terms:
+  - designation: 속도 벡터
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 3b14c8de-94a0-575e-bb31-b37a32b672f1
+status: valid

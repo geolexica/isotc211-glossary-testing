@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: e03e08
+    tree:
+      e03e08:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42180.html
+            ref: ISO 9000:2005
+          date_accepted: 2012-10-15 00:00:00+00:00
+          definition: результат процесса
+          entry_status: valid
+          examples: []
+          id: 1097
+          language_code: rus
+          lineage_source: ISO/TS 19158:2012, 4.3
+          lineage_source_similarity: 1
+          notes: []
+          release: '3'
+          terms:
+          - designation: продукт
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2012-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  definition: результат процесса
+  examples: []
+  id: 1097
+  language_code: rus
+  lineage_source: ISO/TS 19158:2012, 4.3
+  lineage_source_similarity: 1
+  notes: []
+  release: '3'
+  terms:
+  - designation: продукт
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 7a941ae8-727e-57f3-9e6d-2afb54de88be
+status: valid

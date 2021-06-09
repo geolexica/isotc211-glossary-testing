@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 3df43f
+    tree:
+      3df43f:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: 특정 시험 절차와 상관 없이 독립적인 시험 구현을 위한 방법
+          entry_status: valid
+          examples: []
+          id: 4
+          language_code: kor
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: 추상 시험 방법
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: 특정 시험 절차와 상관 없이 독립적인 시험 구현을 위한 방법
+  examples: []
+  id: 4
+  language_code: kor
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: 추상 시험 방법
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: bf02b0a8-aa34-5dbd-a17e-273c771ca745
+status: valid

@@ -1,0 +1,70 @@
+data:
+  _revisions:
+    current: '981161'
+    tree:
+      '981161':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          abbrev: h or H
+          authoritative_source:
+            link: https://www.iso.org/standard/37805.html
+            ref: ISO 19116:2004
+          country_code: swe
+          date_accepted: 2004-07-01 00:00:00+00:00
+          date_amended: '2008-07-15'
+          definition: höjd där den valda referensytan är världshavens medelvattenyta
+          entry_status: superseded
+          examples: []
+          id: 12
+          language_code: swe
+          notes:
+          - See ellipsoidal height and gravity-related height.
+          - Height of a point outside the surface treated as positive; negative height
+            is designated as depth.
+          release: '-1'
+          review_date: 2007-12-07 00:00:00+00:00
+          review_decision: ''
+          review_decision_date: '2008-05-22'
+          review_decision_event: Result of FDIS Ballot for ISO 6709:2008
+          review_status: ''
+          review_type: ''
+          terms:
+          - designation: altitud
+            normative_status: null
+            type: expression
+          - designation: height
+            type: expression
+        parents: []
+        timeCreated: 2004-07-01 00:00:00+00:00
+  abbrev: h or H
+  authoritativeSource:
+  - link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  country_code: swe
+  date_amended: '2008-07-15'
+  definition: höjd där den valda referensytan är världshavens medelvattenyta
+  examples: []
+  id: 12
+  language_code: swe
+  notes:
+  - See ellipsoidal height and gravity-related height.
+  - Height of a point outside the surface treated as positive; negative height is
+    designated as depth.
+  release: '-1'
+  review_date: 2007-12-07 00:00:00+00:00
+  review_decision: ''
+  review_decision_date: '2008-05-22'
+  review_decision_event: Result of FDIS Ballot for ISO 6709:2008
+  review_status: ''
+  review_type: ''
+  terms:
+  - designation: altitud
+    normative_status: null
+    type: expression
+  - designation: height
+    type: expression
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 9d1a9bb4-cec3-57e7-a3bd-ff1ae0da861a
+status: superseded

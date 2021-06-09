@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: 6a19fa
+    tree:
+      6a19fa:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32546.html
+            ref: ISO 19128
+          date_accepted: 2005-12-01 00:00:00+00:00
+          definition: métadonnées décrivant les opérations et les informations géographiques
+            disponibles sur un serveur
+          entry_status: valid
+          examples: []
+          id: 408
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: métadonnées de service
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-12-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128
+  definition: métadonnées décrivant les opérations et les informations géographiques
+    disponibles sur un serveur
+  examples: []
+  id: 408
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: métadonnées de service
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 937470f8-e9a1-5438-a175-a0a88d473d65
+status: valid

@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: c02502
+    tree:
+      c02502:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40601.html
+            ref: ISO 19132
+          date_accepted: 2007-10-15 00:00:00+00:00
+          definition: service fournissant une fonction de base à d'autres services
+            ou applications de façon fonctionnelle
+          entry_status: valid
+          examples: []
+          id: 658
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: service de base
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2007-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  definition: service fournissant une fonction de base à d'autres services ou applications
+    de façon fonctionnelle
+  examples: []
+  id: 658
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: service de base
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: b406fa24-429b-5c5b-a48c-d7655e9c6397
+status: valid

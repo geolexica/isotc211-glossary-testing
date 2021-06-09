@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: e08d26
+    tree:
+      e08d26:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: senarai atau daftar hari bulan; takwim
+          entry_status: valid
+          examples: []
+          id: 31
+          language_code: msa
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          notes: []
+          release: '1'
+          review_indicator: ''
+          terms:
+          - designation: kalendar
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: senarai atau daftar hari bulan; takwim
+  examples: []
+  id: 31
+  language_code: msa
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  notes: []
+  release: '1'
+  review_indicator: ''
+  terms:
+  - designation: kalendar
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: f4abad4f-6bc2-5905-8867-92ac91b3d187
+status: valid

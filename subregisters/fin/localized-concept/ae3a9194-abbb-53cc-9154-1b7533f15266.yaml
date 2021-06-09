@@ -1,0 +1,44 @@
+data:
+  _revisions:
+    current: '215255'
+    tree:
+      '215255':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123:2005
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: kolmioista koostuva tesselaatio
+          entry_status: valid
+          examples: []
+          id: 476
+          language_code: fin
+          lineage_source: Maanmittauslaitos
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: epäsäännöllinen kolmioverkko
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  definition: kolmioista koostuva tesselaatio
+  examples: []
+  id: 476
+  language_code: fin
+  lineage_source: Maanmittauslaitos
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: epäsäännöllinen kolmioverkko
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: ae3a9194-abbb-53cc-9154-1b7533f15266
+status: valid

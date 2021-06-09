@@ -1,0 +1,61 @@
+data:
+  _revisions:
+    current: b03a14
+    tree:
+      b03a14:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/7229.html
+            ref: ISO/IEC 2382-1:1993
+          date_accepted: 2005-07-15 00:00:00+00:00
+          definition: 作为一个单元存储或处理已命名的记录集合。
+          entry_status: valid
+          examples: []
+          id: 186
+          language_code: zho
+          lineage_source: ISO 19118:2011 ,4.17
+          lineage_source_similarity: '1'
+          notes: []
+          release: '1'
+          review_date: 2007-01-23 00:00:00+00:00
+          review_decision: accepted
+          review_decision_date: 2011-10-15 00:00:00+00:00
+          review_decision_event: Publication of ISO 19118:2011
+          review_decision_notes: Lineage source changed from  ISO 19118:2005 to ISO
+            19118:2011.
+          review_indicator: ''
+          review_status: final
+          terms:
+          - designation: 文件
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  definition: 作为一个单元存储或处理已命名的记录集合。
+  examples: []
+  id: 186
+  language_code: zho
+  lineage_source: ISO 19118:2011 ,4.17
+  lineage_source_similarity: '1'
+  notes: []
+  release: '1'
+  review_date: 2007-01-23 00:00:00+00:00
+  review_decision: accepted
+  review_decision_date: 2011-10-15 00:00:00+00:00
+  review_decision_event: Publication of ISO 19118:2011
+  review_decision_notes: Lineage source changed from  ISO 19118:2005 to ISO 19118:2011.
+  review_indicator: ''
+  review_status: final
+  terms:
+  - designation: 文件
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 07814ce7-ef69-56da-8982-ccc8a9db01ac
+status: valid

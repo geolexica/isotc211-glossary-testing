@@ -1,0 +1,53 @@
+data:
+  _revisions:
+    current: 72259e
+    tree:
+      72259e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: summary of the conformance to the International Standard as
+            well as all the details of the testing that supports the given overall
+            summary
+          entry_status: valid
+          examples: []
+          id: 75
+          language_code: eng
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: conformance test report
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: summary of the conformance to the International Standard as well as
+    all the details of the testing that supports the given overall summary
+  examples: []
+  id: 75
+  language_code: eng
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: conformance test report
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: d244b6ae-15b7-562e-b074-0d9f7d39629a
+status: valid

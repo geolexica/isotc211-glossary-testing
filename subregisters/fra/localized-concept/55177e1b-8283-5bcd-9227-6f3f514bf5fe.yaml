@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 26d744
+    tree:
+      26d744:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/40121.html
+            ref: ISO 19123
+          date_accepted: 2005-08-15 00:00:00+00:00
+          definition: partition composée de triangles
+          entry_status: valid
+          examples: []
+          id: 476
+          language_code: fra
+          lineage_source: ''
+          notes: []
+          terms:
+          - designation: réseau irrégulier triangulé
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  definition: partition composée de triangles
+  examples: []
+  id: 476
+  language_code: fra
+  lineage_source: ''
+  notes: []
+  terms:
+  - designation: réseau irrégulier triangulé
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 55177e1b-8283-5bcd-9227-6f3f514bf5fe
+status: valid

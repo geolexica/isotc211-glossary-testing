@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: a88ca3
+    tree:
+      a88ca3:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/41445.html
+            ref: ISO 19141:2008
+          date_accepted: 2008-06-01 00:00:00+00:00
+          definition: geometry at a particular value of the parameter
+          entry_status: valid
+          examples: []
+          id: 643
+          language_code: eng
+          notes: []
+          release: '2'
+          terms:
+          - designation: leaf <one parameter set of geometries>
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2008-06-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  definition: geometry at a particular value of the parameter
+  examples: []
+  id: 643
+  language_code: eng
+  notes: []
+  release: '2'
+  terms:
+  - designation: leaf <one parameter set of geometries>
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: c1b0afe7-4344-5955-9277-db314c66fbb5
+status: valid

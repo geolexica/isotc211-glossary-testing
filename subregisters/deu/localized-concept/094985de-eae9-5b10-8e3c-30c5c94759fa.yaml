@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: 56ed5a
+    tree:
+      56ed5a:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/42137.html
+            ref: ISO 19143:2010
+          date_accepted: 2010-10-15 00:00:00+00:00
+          definition: formale Syntax zum Beschreiben eines Prädikats
+          entry_status: valid
+          examples: []
+          id: 808
+          language_code: deu
+          notes: []
+          release: '2'
+          terms:
+          - designation: Prädikatausdruck
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2010-10-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  definition: formale Syntax zum Beschreiben eines Prädikats
+  examples: []
+  id: 808
+  language_code: deu
+  notes: []
+  release: '2'
+  terms:
+  - designation: Prädikatausdruck
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 094985de-eae9-5b10-8e3c-30c5c94759fa
+status: valid

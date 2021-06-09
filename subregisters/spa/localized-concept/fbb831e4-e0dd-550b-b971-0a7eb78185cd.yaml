@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: '906000'
+    tree:
+      '906000':
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.41'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: acción o proceso de corregir un fallo o deficiencia
+          entry_status: valid
+          examples: []
+          id: 1249
+          language_code: spa
+          notes:
+          - La corrección permite una mayor confianza porque disminuye el riesgo esperado.
+            La primera acción en una corrección es la detección del fallo.
+          release: '3'
+          terms:
+          - designation: corrección
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.41'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: acción o proceso de corregir un fallo o deficiencia
+  examples: []
+  id: 1249
+  language_code: spa
+  notes:
+  - La corrección permite una mayor confianza porque disminuye el riesgo esperado.
+    La primera acción en una corrección es la detección del fallo.
+  release: '3'
+  terms:
+  - designation: corrección
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: fbb831e4-e0dd-550b-b971-0a7eb78185cd
+status: valid

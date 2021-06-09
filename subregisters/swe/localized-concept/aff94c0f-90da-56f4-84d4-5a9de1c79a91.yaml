@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: f827a4
+    tree:
+      f827a4:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32562.html
+            ref: ISO 19144-1:2009
+          country_code: swe
+          date_accepted: 2009-08-15 00:00:00+00:00
+          definition: definition som används för att tilldela objekt till en indelningsklas
+          entry_status: valid
+          examples: []
+          id: 850
+          language_code: swe
+          lineage_source: (Type reference to national language document)
+          notes:
+          - Classifiers can be defined algorithmically or according to a set of classification
+            system specific rules.
+          release: '2'
+          terms:
+          - designation: klassificeringsdefinition
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  country_code: swe
+  definition: definition som används för att tilldela objekt till en indelningsklas
+  examples: []
+  id: 850
+  language_code: swe
+  lineage_source: (Type reference to national language document)
+  notes:
+  - Classifiers can be defined algorithmically or according to a set of classification
+    system specific rules.
+  release: '2'
+  terms:
+  - designation: klassificeringsdefinition
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: aff94c0f-90da-56f4-84d4-5a9de1c79a91
+status: valid

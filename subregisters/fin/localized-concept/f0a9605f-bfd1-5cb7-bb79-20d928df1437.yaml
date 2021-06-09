@@ -1,0 +1,46 @@
+data:
+  _revisions:
+    current: cb6554
+    tree:
+      cb6554:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26013.html
+            ref: ISO 19108:2002
+          date_accepted: 2002-09-01 00:00:00+00:00
+          definition: ajanjakso, joka teoreettisesti kestää ajan, joka kuluu Maan
+            pyörähtämiseen akselinsa ympäri
+          entry_status: valid
+          examples: []
+          id: 127
+          language_code: fin
+          lineage_source: MOT Englanti 4.6
+          notes: []
+          review_indicator: ''
+          terms:
+          - designation: päivä
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2002-09-01 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  definition: ajanjakso, joka teoreettisesti kestää ajan, joka kuluu Maan pyörähtämiseen
+    akselinsa ympäri
+  examples: []
+  id: 127
+  language_code: fin
+  lineage_source: MOT Englanti 4.6
+  notes: []
+  review_indicator: ''
+  terms:
+  - designation: päivä
+    normative_status: preferred
+    type: expression
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: f0a9605f-bfd1-5cb7-bb79-20d928df1437
+status: valid

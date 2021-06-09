@@ -1,0 +1,51 @@
+data:
+  _revisions:
+    current: fa8412
+    tree:
+      fa8412:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            clause: '4.41'
+            link: https://www.iso.org/standard/32571.html
+            ref: ISO 19153:2014
+          date_accepted: 2014-02-15 00:00:00+00:00
+          definition: действие или процесс устранения ошибки или недостатка
+          entry_status: valid
+          examples: []
+          id: 1249
+          language_code: rus
+          lineage_source: ISO 19153:2014
+          notes:
+          - исправление позволяет повысить доверие, поскольку снижает ожидаемый риск.
+            Первым действием в последовательности исправления является обнаружение
+            неисправности.
+          release: '3'
+          terms:
+          - designation: Исправление
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2014-02-15 00:00:00+00:00
+  authoritativeSource:
+  - clause: '4.41'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  definition: действие или процесс устранения ошибки или недостатка
+  examples: []
+  id: 1249
+  language_code: rus
+  lineage_source: ISO 19153:2014
+  notes:
+  - исправление позволяет повысить доверие, поскольку снижает ожидаемый риск. Первым
+    действием в последовательности исправления является обнаружение неисправности.
+  release: '3'
+  terms:
+  - designation: Исправление
+    normative_status: preferred
+    type: expression
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 2d740276-d094-5275-86ec-2e5156416a97
+status: valid

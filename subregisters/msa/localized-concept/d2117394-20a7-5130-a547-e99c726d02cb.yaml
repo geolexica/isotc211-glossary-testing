@@ -1,0 +1,54 @@
+data:
+  _revisions:
+    current: d4ffd2
+    tree:
+      d4ffd2:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32620.html
+            ref: ISO/IEC 19501
+          date_accepted: 2005-07-15 00:00:00+00:00
+          entry_status: valid
+          examples: []
+          id: 726
+          language_code: msa
+          lineage_source: Kamus-istilah ukur dan pemetaan
+          notes:
+          - 'An instance of the more specific element may be used where the more general
+            element is allowed. See: inheritance.'
+          release: '1'
+          review_date: 2009-08-31 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: supersession
+          terms:
+          - designation: pengitlakan
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2005-07-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  examples: []
+  id: 726
+  language_code: msa
+  lineage_source: Kamus-istilah ukur dan pemetaan
+  notes:
+  - 'An instance of the more specific element may be used where the more general element
+    is allowed. See: inheritance.'
+  release: '1'
+  review_date: 2009-08-31 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: supersession
+  terms:
+  - designation: pengitlakan
+    normative_status: preferred
+    type: expression
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: d2117394-20a7-5130-a547-e99c726d02cb
+status: valid

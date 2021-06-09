@@ -1,0 +1,60 @@
+data:
+  _revisions:
+    current: 9b505e
+    tree:
+      9b505e:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            ref: UML 2
+          date_accepted: 2015-12-01 00:00:00+00:00
+          definition: modelo que define el lenguaje para expresar otros modelos
+          entry_status: valid
+          examples: []
+          id: 1153
+          language_code: spa
+          lineage_source: ISO 19103:2015, 4.22
+          notes:
+          - Un modelo es una instancia de un metamodelo, y un metamodelo es una instancia
+            de un meta-metamodelo.
+          release: '4'
+          review_date: 2009-01-14 00:00:00+00:00
+          review_decision: ''
+          review_decision_date: 2015-12-01 00:00:00+00:00
+          review_decision_event: Publicación de ISO 19103:2015
+          review_decision_notes: Esta entrada terminológica sustituye a "metamodel
+            <UML>" en la Especificación Técnica ISO/TS 19103:2005
+          review_status: final
+          terms:
+          - designation: metamodelo
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2015-12-01 00:00:00+00:00
+  authoritativeSource:
+  - ref: UML 2
+  definition: modelo que define el lenguaje para expresar otros modelos
+  examples: []
+  id: 1153
+  language_code: spa
+  lineage_source: ISO 19103:2015, 4.22
+  notes:
+  - Un modelo es una instancia de un metamodelo, y un metamodelo es una instancia
+    de un meta-metamodelo.
+  release: '4'
+  review_date: 2009-01-14 00:00:00+00:00
+  review_decision: ''
+  review_decision_date: 2015-12-01 00:00:00+00:00
+  review_decision_event: Publicación de ISO 19103:2015
+  review_decision_notes: Esta entrada terminológica sustituye a "metamodel <UML>"
+    en la Especificación Técnica ISO/TS 19103:2005
+  review_status: final
+  terms:
+  - designation: metamodelo
+    normative_status: preferred
+    type: expression
+dateAccepted: 2015-12-01 00:00:00+00:00
+id: aa93105a-631e-59db-a644-eb2ec0bcd2ba
+status: valid

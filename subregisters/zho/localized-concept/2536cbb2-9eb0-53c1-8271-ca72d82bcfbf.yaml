@@ -1,0 +1,50 @@
+data:
+  _revisions:
+    current: 2451de
+    tree:
+      2451de:
+        author:
+          email: glossarist@ribose.com
+          name: Data migration procedure
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/26010.html
+            ref: ISO 19105:2000
+          date_accepted: 2000-12-15 00:00:00+00:00
+          definition: 初始能力测试，目的是确定那些明显的不一致内容。
+          entry_status: valid
+          examples: []
+          id: 27
+          language_code: zho
+          notes: []
+          release: '1'
+          review_date: 2019-07-05 00:00:00+00:00
+          review_indicator: ''
+          review_status: pending
+          review_type: retirement
+          terms:
+          - designation: 基本测试
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2000-12-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  definition: 初始能力测试，目的是确定那些明显的不一致内容。
+  examples: []
+  id: 27
+  language_code: zho
+  notes: []
+  release: '1'
+  review_date: 2019-07-05 00:00:00+00:00
+  review_indicator: ''
+  review_status: pending
+  review_type: retirement
+  terms:
+  - designation: 基本测试
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 2536cbb2-9eb0-53c1-8271-ca72d82bcfbf
+status: valid

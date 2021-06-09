@@ -1,0 +1,48 @@
+data:
+  _revisions:
+    current: 9733ee
+    tree:
+      9733ee:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/32562.html
+            ref: ISO 19144-1:2009
+          date_accepted: 2009-08-15 00:00:00+00:00
+          definition: определение, используемое для назначения объектов классам легенды
+          entry_status: valid
+          examples: []
+          id: 850
+          language_code: rus
+          lineage_source: ISO 19144-1:2009
+          notes:
+          - Классификаторы могут быть определены алгоритмически или в соответствии
+            с набором правил системы классификации.
+          release: '2'
+          terms:
+          - designation: классификатор
+            normative_status: preferred
+            type: expression
+        parents: []
+        timeCreated: 2009-08-15 00:00:00+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  definition: определение, используемое для назначения объектов классам легенды
+  examples: []
+  id: 850
+  language_code: rus
+  lineage_source: ISO 19144-1:2009
+  notes:
+  - Классификаторы могут быть определены алгоритмически или в соответствии с набором
+    правил системы классификации.
+  release: '2'
+  terms:
+  - designation: классификатор
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: f0b1c366-eed6-5e23-be5b-4dfda623bd14
+status: valid

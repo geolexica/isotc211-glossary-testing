@@ -1,0 +1,42 @@
+data:
+  _revisions:
+    current: b040d8
+    tree:
+      b040d8:
+        author:
+          email: glossarist@ribose.com
+          name: Glossarist bot
+        object:
+          authoritative_source:
+            link: https://www.iso.org/standard/5240.html
+            ref: ISO 860:1996
+          definition: det at reducere eller eliminere mindre forskelle mellem to eller
+            flere begreber, der allerede er tæt forbundet med hinanden
+          examples: []
+          id: 907
+          language_code: dan
+          notes: []
+          release: '1'
+          terms:
+          - designation: begreber, harmonisering af
+            normative_status: null
+            type: expression
+        parents: []
+        timeCreated: 2020-07-01 10:08:49.627000+00:00
+  authoritativeSource:
+  - link: https://www.iso.org/standard/5240.html
+    ref: ISO 860:1996
+  definition: det at reducere eller eliminere mindre forskelle mellem to eller flere
+    begreber, der allerede er tæt forbundet med hinanden
+  examples: []
+  id: 907
+  language_code: dan
+  notes: []
+  release: '1'
+  terms:
+  - designation: begreber, harmonisering af
+    normative_status: null
+    type: expression
+dateAccepted: 2018-11-17
+id: da5e64d7-6fb7-514f-936b-c5ccb507e80c
+status: valid
